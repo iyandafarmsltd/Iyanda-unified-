@@ -712,7 +712,45 @@ main.iyanda-page-mode > section#admin[id] { display: none !important; }
 </form>
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:18px 0"><label for="farmOpsFilter">Show records</label><select id="farmOpsFilter"><option value="all">All records</option><option value="crop">Crop</option><option value="livestock">Livestock</option><option value="production">Production</option><option value="supplier">Suppliers</option><option value="expense">Expenses</option><option value="income">Income</option><option value="task">Tasks</option></select><button class="btn light small" id="farmOpsRefresh" type="button">Refresh records</button></div>
 <div id="farmOpsList" class="admin-list" aria-live="polite"><p class="muted">Farm and business records will appear here.</p></div>
-</div></div></section>
+</div></div>
+<div class="contact-panel" style="margin-top:18px" id="deliveryAdmin">
+ <div class="eyebrow">Global fulfilment</div><h3>Delivery zone manager</h3>
+ <p class="muted">Configure only destinations, fees and delivery estimates confirmed by the business. Inactive zones are hidden from customers.</p>
+ <form id="deliveryZoneForm" class="admin-grid">
+  <input type="hidden" name="id">
+  <div class="field"><label>Zone name</label><input name="zone_name" required maxlength="120" placeholder="e.g. Lagos Mainland"></div>
+  <div class="field"><label>Country name</label><input name="country_name" required maxlength="100" placeholder="Nigeria"></div>
+  <div class="field"><label>Country code</label><input name="country_code" required maxlength="2" pattern="[A-Za-z]{2}" placeholder="NG"></div>
+  <div class="field"><label>Region / state (optional)</label><input name="region" maxlength="100"></div>
+  <div class="field"><label>City (optional)</label><input name="city" maxlength="100"></div>
+  <div class="field"><label>Postal code prefix (optional)</label><input name="postal_code_prefix" maxlength="20"></div>
+  <div class="field"><label>Currency</label><input name="currency" required maxlength="3" pattern="[A-Za-z]{3}" value="NGN"></div>
+  <div class="field"><label>Delivery fee</label><input name="delivery_fee" type="number" min="0" step="0.01" required value="0"></div>
+  <div class="field"><label>Minimum delivery days</label><input name="estimated_min_days" type="number" min="0" step="1"></div>
+  <div class="field"><label>Maximum delivery days</label><input name="estimated_max_days" type="number" min="0" step="1"></div>
+  <div class="field"><label>Service status</label><select name="service_status"><option value="available">Available</option><option value="quote_required">Quote required</option><option value="temporarily_unavailable">Temporarily unavailable</option></select></div>
+  <div class="field"><label><input name="is_active" type="checkbox" checked> Active zone</label></div>
+  <div class="field wide" style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn" type="submit" id="deliveryZoneSave">Save delivery zone</button><button class="btn light" type="button" id="deliveryZoneCancel">Clear form</button></div>
+ </form>
+ <div id="deliveryZonesAdmin" class="admin-list" style="margin-top:16px">Loading delivery zones…</div>
+</div>
+<div class="contact-panel" style="margin-top:18px" id="dispatchAdmin">
+ <div class="eyebrow">Order operations</div><h3>Dispatch &amp; tracking console</h3>
+ <p class="muted">Update delivery progress and publish customer-visible tracking events.</p>
+ <div id="dispatchOrders" class="admin-list">Loading orders…</div>
+ <form id="dispatchForm" class="admin-grid" style="margin-top:16px">
+  <div class="field wide"><label>Order</label><select name="order_id" required id="dispatchOrderSelect"><option value="">Choose an order</option></select></div>
+  <div class="field"><label>Delivery status</label><select name="delivery_status" required>
+   <option value="pending_confirmation">Pending confirmation</option><option value="address_review">Address review</option><option value="zone_unavailable">Zone unavailable</option><option value="ready_for_dispatch">Ready for dispatch</option><option value="dispatched">Dispatched</option><option value="in_transit">In transit</option><option value="delivered">Delivered</option><option value="delivery_failed">Delivery failed</option><option value="collected">Collected</option><option value="cancelled">Cancelled</option>
+  </select></div>
+  <div class="field"><label>Tracking reference (optional)</label><input name="tracking_reference" maxlength="120"></div>
+  <div class="field"><label>Estimated delivery date (optional)</label><input name="estimated_delivery_date" type="date"></div>
+  <div class="field"><label>Current location (optional)</label><input name="location" maxlength="180" placeholder="City, depot or facility"></div>
+  <div class="field wide"><label>Update for customer</label><textarea name="description" required maxlength="1000" rows="3" placeholder="Describe the latest order or delivery update"></textarea></div>
+  <div class="field wide"><button class="btn" type="submit" id="dispatchSave">Publish tracking update</button></div>
+ </form>
+</div>
+</section>
 <section class="section" id="dailyLifeSection" aria-hidden="true"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Personal productivity centre</div><h2>Iyanda Daily Life</h2><p>Plan your day, organise tasks, track deadlines and keep meeting notes in one private workspace.</p></div><button class="btn light" id="enableTaskAlerts" type="button">Enable reminders</button></div><div id="dailySignIn" class="daily-shell"><b>Sign in to use your private Daily Life workspace.</b><p class="muted">Your tasks and meeting notes are saved to your account and visible only to you.</p><button class="btn" type="button" id="dailySignInBtn">Sign in</button></div><div id="dailyWorkspace" class="hidden"><div class="daily-stats"><div class="daily-stat"><b id="dailyOpenCount">0</b><span>Open tasks</span></div><div class="daily-stat"><b id="dailyTodayCount">0</b><span>Due today</span></div><div class="daily-stat"><b id="dailyDoneCount">0</b><span>Completed</span></div></div><div class="daily-tabs" id="dailyTabs"><button class="chip active" data-daily-tab="tasks">My tasks</button><button class="chip" data-daily-tab="today">Today's plan</button><button class="chip" data-daily-tab="calendar">Calendar</button><button class="chip" data-daily-tab="meetings">Meeting notes</button></div><div class="daily-grid"><div class="daily-shell"><h3 id="dailyFormHeading" style="color:var(--g);margin-top:0">Add a task</h3><form id="dailyTaskForm" class="daily-form"><input class="wide" name="title" required="" maxlength="160" placeholder="What needs to get done?"><textarea class="wide" name="description" rows="3" placeholder="Details, checklist or meeting notes"></textarea><select name="category"><option value="task">Task</option><option value="meeting">Meeting note</option></select><select name="priority"><option value="normal">Normal priority</option><option value="low">Low priority</option><option value="high">High priority</option><option value="urgent">Urgent</option></select><label class="muted">Due date/time<input name="due_at" type="datetime-local"></label><label class="muted">Reminder time<input name="reminder_at" type="datetime-local"></label><button class="btn wide" type="submit" id="dailySaveBtn">Save task</button></form><p class="muted" style="font-size:11px;margin-bottom:0">Reminders appear while the app is open. Browser notifications require permission and may not run when the app is closed.</p></div><div class="daily-shell"><div style="display:flex;justify-content:space-between;gap:10px;align-items:center"><h3 style="color:var(--g);margin:0">Your schedule</h3><button class="btn light small" id="dailyRefresh" type="button">Refresh</button></div><div id="dailyList" class="daily-list" style="margin-top:14px"><div class="daily-empty">Your tasks will appear here.</div></div></div></div></div></div></section>
 <section class="section alt" id="workspaceSection" aria-hidden="true"><div class="wrap">
  <div class="section-head"><div><div class="eyebrow">Documents · files · reports</div><h2>My Workspace</h2><p>Upload documents, ask Iyanda AI to analyse them, and create files for your work.</p></div><span class="pill">Private to your account</span></div>
@@ -858,7 +896,7 @@ async function syncUser(u,s){
  $('#aiStatus').textContent=user?'Signed in · private chat':'Sign in to start a private conversation';
  if(user){
   const fallbackName=user.user_metadata?.full_name||user.email?.split('@')[0]||'';const {data:profile}=await supabase.from('profiles').upsert({user_id:user.id,display_name:fallbackName,phone:user.user_metadata?.phone||null},{onConflict:'user_id'}).select('display_name,phone,country_code,country_name,region,city,postal_code,preferred_currency,timezone,locale').single();$('#profileName').value=profile?.display_name||fallbackName;$('#profilePhone').value=profile?.phone||user.user_metadata?.phone||'';$('#profileCountry').value=profile?.country_code||'NG';$('#profileRegion').value=profile?.region||'';$('#profileCity').value=profile?.city||'';$('#profilePostal').value=profile?.postal_code||'';$('#profileCurrency').value=profile?.preferred_currency||'NGN';$('#profileTimezone').value=profile?.timezone||'Africa/Lagos';$('#accountVerification').textContent=user.email_confirmed_at?'Email verified':'Email verification pending — check your inbox for the verification link.';$('#accountBtn').textContent=user.email?.split('@')[0]||'Account';await loadCustomerAddresses();await loadCustomerOrders();await loadCustomerSupportHistory();
-  if(isAdmin()){$('#admin').classList.add('show');renderAdmin();loadFarmOperations()}
+  if(isAdmin()){$('#admin').classList.add('show');renderAdmin();loadFarmOperations();loadDeliveryZonesAdmin();loadDispatchAdmin()}
   const {data:rewards}=await supabase.from('reward_transactions').select('points').eq('user_id',user.id);
   const points=(rewards||[]).reduce((s,r)=>s+r.points,0);$('#pointsSummary').textContent='Your recorded reward balance: '+points+' points.';
  }else{$('#admin').classList.remove('show');$('#pointsSummary').textContent='Sign in to save your scores and view your reward balance.';conversationId=null}
@@ -955,6 +993,47 @@ $('#adminProducts').addEventListener('change',async e=>{
 });
 $('#adminOrders').addEventListener('change',async e=>{const orderId=e.target.dataset.order,paymentId=e.target.dataset.payment;if(!orderId&&!paymentId)return;e.target.disabled=true;const field=orderId?'status':'payment_status',value=e.target.value,id=orderId||paymentId;const {error}=await supabase.from('orders').update({[field]:value}).eq('id',id);if(error){toast((field==='status'?'Fulfilment':'Payment')+' status was not updated: '+error.message);await renderAdmin()}else{toast((field==='status'?'Fulfilment':'Payment')+' status updated.');await renderAdmin()}});
 
+
+const deliveryStatuses=['pending_confirmation','address_review','zone_unavailable','ready_for_dispatch','dispatched','in_transit','delivered','delivery_failed','collected','cancelled'];
+function clearDeliveryZoneForm(){const form=$('#deliveryZoneForm');form.reset();form.elements.id.value='';form.elements.country_code.value='NG';form.elements.currency.value='NGN';form.elements.delivery_fee.value='0';form.elements.is_active.checked=true;$('#deliveryZoneSave').textContent='Save delivery zone'}
+async function loadDeliveryZonesAdmin(){
+ if(!isAdmin())return;
+ const box=$('#deliveryZonesAdmin');box.textContent='Loading delivery zones…';
+ const {data,error}=await supabase.from('delivery_zones').select('id,zone_name,country_code,country_name,region,city,postal_code_prefix,currency,delivery_fee,estimated_min_days,estimated_max_days,is_active,service_status').order('country_name').order('zone_name');
+ if(error){box.textContent='Could not load zones: '+error.message;return}
+ box.innerHTML=(data||[]).map(z=>'<article class="admin-row"><b>'+esc(z.zone_name)+'</b> · '+esc(z.country_name)+' ('+esc(z.country_code)+')<br><span class="muted">'+esc([z.region,z.city,z.postal_code_prefix?'Postal '+z.postal_code_prefix:''].filter(Boolean).join(' · ')||'Country-wide')+'</span><br>'+esc(z.currency)+' '+esc(z.delivery_fee)+' · '+esc(z.service_status)+' · '+(z.is_active?'Active':'Inactive')+'<br><span class="muted">Estimated: '+(z.estimated_min_days??'—')+'–'+(z.estimated_max_days??'—')+' days</span><br><button class="btn light small" type="button" data-zone-edit="'+z.id+'">Edit</button> <button class="btn light small" type="button" data-zone-toggle="'+z.id+'" data-active="'+(!z.is_active)+'">'+(z.is_active?'Deactivate':'Activate')+'</button></article>').join('')||'<p class="muted">No delivery zones configured. Add a verified zone above.</p>';
+}
+async function loadDispatchAdmin(){
+ if(!isAdmin())return;
+ const box=$('#dispatchOrders'),select=$('#dispatchOrderSelect');box.textContent='Loading orders…';
+ const {data,error}=await supabase.from('orders').select('id,order_number,customer_name,phone,delivery_address,delivery_city,delivery_region,delivery_country_code,fulfilment_method,delivery_status,tracking_reference,estimated_delivery_date,created_at').order('created_at',{ascending:false}).limit(100);
+ if(error){box.textContent='Could not load orders: '+error.message;return}
+ const rows=data||[];
+ select.innerHTML='<option value="">Choose an order</option>'+rows.map(o=>'<option value="'+o.id+'">'+esc(o.order_number)+' — '+esc(o.customer_name||'Customer')+'</option>').join('');
+ box.innerHTML=rows.map(o=>'<article class="admin-row"><b>'+esc(o.order_number)+'</b> · '+esc(o.customer_name||'Customer')+'<br><span class="muted">'+esc(o.phone||'')+' · '+esc([o.delivery_city,o.delivery_region,o.delivery_country_code].filter(Boolean).join(', ')||o.delivery_address||'Destination pending')+'</span><br><span class="pill">'+esc(o.delivery_status||'pending_confirmation')+'</span> · '+esc(o.tracking_reference||'No tracking reference')+'<br><span class="muted">Method: '+esc(o.fulfilment_method||'delivery')+' · ETA: '+esc(o.estimated_delivery_date||'Not set')+'</span></article>').join('')||'<p class="muted">No orders available.</p>';
+}
+$('#deliveryZoneForm').addEventListener('submit',async e=>{
+ e.preventDefault();if(!isAdmin())return;const f=new FormData(e.currentTarget),id=String(f.get('id')||'').trim();
+ const payload={zone_name:String(f.get('zone_name')||'').trim(),country_name:String(f.get('country_name')||'').trim(),country_code:String(f.get('country_code')||'').trim().toUpperCase(),region:String(f.get('region')||'').trim()||null,city:String(f.get('city')||'').trim()||null,postal_code_prefix:String(f.get('postal_code_prefix')||'').trim()||null,currency:String(f.get('currency')||'').trim().toUpperCase(),delivery_fee:Number(f.get('delivery_fee')),estimated_min_days:f.get('estimated_min_days')===''?null:Number(f.get('estimated_min_days')),estimated_max_days:f.get('estimated_max_days')===''?null:Number(f.get('estimated_max_days')),service_status:String(f.get('service_status')),is_active:f.get('is_active')==='on'};
+ if(!/^[A-Z]{2}$/.test(payload.country_code)||!/^[A-Z]{3}$/.test(payload.currency)||!Number.isFinite(payload.delivery_fee)||payload.delivery_fee<0||[payload.estimated_min_days,payload.estimated_max_days].some(n=>n!==null&&(!Number.isInteger(n)||n<0))||(payload.estimated_min_days!==null&&payload.estimated_max_days!==null&&payload.estimated_max_days<payload.estimated_min_days)){toast('Check country, currency, fee and delivery day values.');return}
+ const btn=$('#deliveryZoneSave');btn.disabled=true;try{const query=id?supabase.from('delivery_zones').update(payload).eq('id',id):supabase.from('delivery_zones').insert(payload);const {error}=await query;if(error)throw error;toast('Delivery zone saved.');clearDeliveryZoneForm();await loadDeliveryZonesAdmin()}catch(err){toast('Delivery zone was not saved: '+err.message)}finally{btn.disabled=false}
+});
+$('#deliveryZoneCancel').addEventListener('click',clearDeliveryZoneForm);
+$('#deliveryZonesAdmin').addEventListener('click',async e=>{
+ if(!isAdmin())return;const edit=e.target.closest('[data-zone-edit]'),toggle=e.target.closest('[data-zone-toggle]');if(!edit&&!toggle)return;
+ if(edit){const {data,error}=await supabase.from('delivery_zones').select('*').eq('id',edit.dataset.zoneEdit).single();if(error){toast(error.message);return}const form=$('#deliveryZoneForm');Object.entries(data).forEach(([k,v])=>{if(form.elements[k]){if(form.elements[k].type==='checkbox')form.elements[k].checked=!!v;else form.elements[k].value=v??''}});$('#deliveryZoneSave').textContent='Update delivery zone';form.scrollIntoView({behavior:'smooth',block:'start'});return}
+ const {error}=await supabase.from('delivery_zones').update({is_active:toggle.dataset.active==='true'}).eq('id',toggle.dataset.zoneToggle);if(error)toast('Zone status was not changed: '+error.message);else{toast('Delivery zone status updated.');await loadDeliveryZonesAdmin()}
+});
+$('#dispatchForm').addEventListener('submit',async e=>{
+ e.preventDefault();if(!isAdmin())return;const f=new FormData(e.currentTarget),orderId=String(f.get('order_id')||''),status=String(f.get('delivery_status')||''),description=String(f.get('description')||'').trim();if(!orderId||!deliveryStatuses.includes(status)||!description){toast('Choose an order, status and update description.');return}
+ const tracking_reference=String(f.get('tracking_reference')||'').trim()||null,estimated_delivery_date=String(f.get('estimated_delivery_date')||'').trim()||null,location=String(f.get('location')||'').trim()||null;
+ const btn=$('#dispatchSave');btn.disabled=true;try{
+  const update={delivery_status:status,tracking_reference,estimated_delivery_date};if(['dispatched','in_transit','delivered'].includes(status))update.shipped_at=new Date().toISOString();if(status==='delivered')update.delivered_at=new Date().toISOString();
+  const {error:updateError}=await supabase.from('orders').update(update).eq('id',orderId);if(updateError)throw updateError;
+  const {error:eventError}=await supabase.from('order_fulfilment_events').insert({order_id:orderId,status,description,location,tracking_reference,created_by:user.id});if(eventError)throw eventError;
+  toast('Tracking update published.');e.currentTarget.reset();await loadDispatchAdmin();await loadCustomerOrders()
+ }catch(err){toast('Dispatch update encountered an error: '+err.message+'. Check the order status before retrying.')}finally{btn.disabled=false}
+});
 let dailyTab='tasks',dailyRows=[],dailyReminderSeen=new Set();
 function dailyDate(v){return v?new Date(v).toLocaleString('en-NG',{dateStyle:'medium',timeStyle:'short'}):'No date set'}
 function dailyTabSet(tab){dailyTab=tab;document.querySelectorAll('[data-daily-tab]').forEach(b=>b.classList.toggle('active',b.dataset.dailyTab===tab));$('#dailyFormHeading').textContent=tab==='meetings'?'Add meeting notes':'Add a task';$('#dailyTaskForm [name=category]').value=tab==='meetings'?'meeting':'task';renderDailyList()}
