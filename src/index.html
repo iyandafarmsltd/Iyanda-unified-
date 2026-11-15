@@ -976,15 +976,14 @@ $('#checkoutForm').addEventListener('submit',async e=>{e.preventDefault();if(!us
 $('#orderIssueForm').addEventListener('submit',async e=>{e.preventDefault();if(!user){openAuth();return}const form=e.currentTarget,f=new FormData(form),order_id=String(f.get('order_id')||''),issue_type=String(f.get('issue_type')||''),description=String(f.get('description')||'').trim(),btn=$('#orderIssueSubmit');if(!order_id||description.length<5){toast('Choose an order and describe the issue.');return}btn.disabled=true;try{const {error}=await supabase.from('order_issues').insert({order_id,user_id:user.id,issue_type,description});if(error)throw error;form.reset();toast('Your order issue has been submitted.');await loadCustomerOrderIssues()}catch(err){toast('Issue was not submitted: '+(err.message||'Please try again.'))}finally{btn.disabled=false}});
 $('#supportForm').addEventListener('submit',async e=>{e.preventDefault();if(!user){openAuth();toast('Sign in to submit and track a support request.');return}const f=new FormData(e.currentTarget),btn=$('#supportSubmit'),customer_name=String(f.get('name')||'').trim(),phone=String(f.get('phone')||'').trim(),email=String(f.get('email')||'').trim(),subject=String(f.get('subject')||'').trim(),message=String(f.get('message')||'').trim();if(!message||!subject){toast('Please choose a category and enter your message.');return}btn.disabled=true;btn.textContent='Sending…';$('#supportFeedback').textContent='Submitting your request…';try{const {data,error}=await supabase.from('support_messages').insert({user_id:user.id,customer_name,phone,email:email||null,subject,message}).select('id').single();if(error)throw error;e.currentTarget.reset();$('#supportFeedback').textContent='Request submitted. Reference: '+String(data.id).slice(0,8).toUpperCase()+'. You can track its status in My Account.';toast('Support request submitted.');await loadCustomerSupportHistory()}catch(err){$('#supportFeedback').textContent='Your request could not be submitted. Please try again or contact us on WhatsApp.';toast(err.message||'Support request failed.')}finally{btn.disabled=false;btn.textContent='Send support request'}});
 function cleanAiDisplay(value){
- let text=String(value??'').replace(/\\r\\n?/g,'\\n');
- text=text.replace(/^﻿/,'');
- text=text.replace(/^```[\\w-]*[ \\t]*$/gm,'');
- text=text.replace(/^[ \\t]{0,3}#{1,6}[ \\t]*/gm,'');
- text=text.replace(/^[ \\t]*(?:\\*{3,}|_{3,}|-{3,})[ \\t]*$/gm,'');
- text=text.replace(/^([ \\t]*)\\*[ \\t]+/gm,'$1• ');
- text=text.replace(/\\*{1,}|~~/g,'');
- text=text.replace(/^[ \\t]*#{1,6}[ \\t]*/gm,'');
- text=text.replace(/[ \\t]+\\n/g,'\\n').replace(/\\n{3,}/g,'\\n\\n');
+ let text=String(value??'').replace(/\r/g,'');
+ text=text.replace(/^\uFEFF/,'');
+ text=text.replace(/^\x60{3}[\w-]*[ \t]*$/gm,'');
+ text=text.replace(/^\s{0,3}#{1,6}[ \t]*/gm,'');
+ text=text.replace(/^\s*(?:\*{3,}|_{3,}|-{3,})\s*$/gm,'');
+ text=text.replace(/^(\s*)\*[ \t]+/gm,'$1• ');
+ text=text.replace(/\*{1,3}|_{1,3}|~~|\x60{1,3}/g,'');
+ text=text.replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
  return text.trim();
 }
 function addBubble(text,who){const d=document.createElement('div');d.className='bubble '+(who==='me'?'me':'bot');d.textContent=who==='me'?String(text??''):cleanAiDisplay(text);$('#chatLog').appendChild(d);$('#chatLog').scrollTop=$('#chatLog').scrollHeight}
