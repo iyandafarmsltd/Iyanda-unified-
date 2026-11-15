@@ -765,7 +765,7 @@ const WA='2347043071733';
 let user=null,session=null,products=[],cart=JSON.parse(localStorage.getItem('iyanda_cart')||'{}'),activeCategory='All',authMode='signin',conversationId=null,gameDone=false;
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const money=(n,currency='NGN')=>n==null?'Price on request':new Intl.NumberFormat(undefined,{style:'currency',currency:/^[A-Z]{3}$/.test(currency||'')?currency:'NGN',maximumFractionDigits:2}).format(Number(n));
+const money=(n,currency='NGN')=>{if(n==null)return 'Price on request';const code=/^[A-Z]{3}$/.test(currency||'')?currency:'NGN';try{return new Intl.NumberFormat(undefined,{style:'currency',currency:code,maximumFractionDigits:2}).format(Number(n))}catch{return code+' '+Number(n).toFixed(2)}};
 function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3000)}
 function modal(id,show=true){$('#'+id).classList.toggle('show',show)}
 function wa(text){window.open('https://wa.me/'+WA+'?text='+encodeURIComponent(text),'_blank','noopener')}
