@@ -20,7 +20,9 @@ create unique index if not exists reward_transactions_order_type_uidx
   on public.reward_transactions(order_id, transaction_type)
   where order_id is not null;
 
-create or replace function public.award_iyanda_loyalty_points()
+create schema if not exists private;
+
+create or replace function private.award_iyanda_loyalty_points()
 returns trigger
 language plpgsql
 security definer
@@ -84,13 +86,13 @@ begin
 end;
 $function$;
 
-revoke all on function public.award_iyanda_loyalty_points() from public;
-revoke all on function public.award_iyanda_loyalty_points() from anon;
-revoke all on function public.award_iyanda_loyalty_points() from authenticated;
+revoke all on function private.award_iyanda_loyalty_points() from public;
+revoke all on function private.award_iyanda_loyalty_points() from anon;
+revoke all on function private.award_iyanda_loyalty_points() from authenticated;
 
 drop trigger if exists trg_award_iyanda_loyalty_points on public.orders;
 create trigger trg_award_iyanda_loyalty_points
 after insert or update of status, payment_status, delivery_status, subtotal, currency, user_id
 on public.orders
 for each row
-execute function public.award_iyanda_loyalty_points();
+execute function private.award_iyanda_loyalty_points();
