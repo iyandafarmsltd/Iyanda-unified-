@@ -1078,16 +1078,25 @@ async function loadSellerInsights(){
  ]);
  if(error){summary.textContent="Sales insights temporarily unavailable.";details.textContent="Please refresh later.";return}
  const valid=(items||[]).filter(x=>x.orders?.payment_status==="paid"&&!["cancelled","refunded"].includes(x.orders?.status));
- const gross=valid.reduce((n,x)=>n+(Number(x.line_total)||0),0),units=valid.reduce((n,x)=>n+(Number(x.quantity)||0),0);
- const currency=valid[0]?.currency||"NGN",commission=gross*.10,sellerShare=gross-commission;
- const last30=valid.filter(x=>new Date(x.orders.created_at)>=new Date(Date.now()-30*86400000));
- const prior30=valid.filter(x=>{const d=new Date(x.orders.created_at);return d<new Date(Date.now()-30*86400000)&&d>=new Date(Date.now()-60*86400000)});
- const recent=last30.reduce((n,x)=>n+(Number(x.line_total)||0),0),prior=prior30.reduce((n,x)=>n+(Number(x.line_total)||0),0);
- const trend=prior===0?(recent>0?"New sales in the last 30 days":"Not enough history"):((recent-prior)/prior*100).toFixed(1)+"% vs previous 30 days";
- const top=new Map();valid.forEach(x=>top.set(x.product_name,(top.get(x.product_name)||0)+(Number(x.quantity)||0)));
+ const byCurrency=new Map(),top=new Map();
+ for(const x of valid){
+  const c=x.currency||"NGN",line=Number(x.line_total)||0,qty=Number(x.quantity)||0,d=new Date(x.orders.created_at);
+  if(!byCurrency.has(c))byCurrency.set(c,{gross:0,units:0,recent:0,prior:0});
+  const t=byCurrency.get(c);t.gross+=line;t.units+=qty;
+  if(d>=new Date(Date.now()-30*86400000))t.recent+=line;
+  else if(d>=new Date(Date.now()-60*86400000))t.prior+=line;
+  top.set(x.product_name,(top.get(x.product_name)||0)+qty);
+ }
+ const cards=[];
+ for(const [c,t] of byCurrency){
+  const trend=t.prior===0?(t.recent>0?"New sales":"Not enough history"):((t.recent-t.prior)/t.prior*100).toFixed(1)+"% vs previous 30 days";
+  cards.push(["Paid product sales · "+c,money(t.gross,c)],["Estimated 10% commission · "+c,money(t.gross*.10,c)],["Seller share before other adjustments · "+c,money(t.gross*.90,c)],["Last 30 days · "+c,money(t.recent,c)],["Sales trend · "+c,trend]);
+ }
+ const totalUnits=valid.reduce((n,x)=>n+(Number(x.quantity)||0),0);
+ cards.unshift(["Paid units sold",totalUnits]);
+ summary.innerHTML=cards.map(([k,v])=>'<div class="admin-row"><span class="muted">'+esc(k)+'</span><h3 style="margin:7px 0 0;color:var(--g)">'+esc(v)+'</h3></div>').join("")||'<p class="muted">No paid sales recorded yet.</p>';
  const low=(listings||[]).filter(p=>Number(p.stock_quantity)<=5);
- summary.innerHTML=[["Paid product sales",money(gross,currency)],["Estimated 10% commission",money(commission,currency)],["Seller share before other adjustments",money(sellerShare,currency)],["Units sold",units],["Last 30 days",money(recent,currency)],["Sales trend",trend]].map(([k,v])=>'<div class="admin-row"><span class="muted">'+esc(k)+'</span><h3 style="margin:7px 0 0;color:var(--g)">'+esc(v)+'</h3></div>').join("");
- details.innerHTML='<div class="admin-row"><b>Top products by units sold</b><br>'+([...top.entries()].sort((a,b)=>b[1]-a[1]).slice(0,5).map(([n,q])=>esc(n)+' · '+q+' units').join("<br>")||'<span class="muted">No paid sales yet.</span>')+'</div><div class="admin-row"><b>Inventory needing attention</b><br>'+(low.map(p=>esc(p.name)+' · '+p.stock_quantity+' left').join("<br>")||'<span class="muted">No active listings at or below five units.</span>')+'</div><p class="muted">Insights use paid, non-cancelled and non-refunded order items. The estimated seller share is before payout adjustments, refunds, taxes or separately disclosed payment-processing fees.</p>';
+ details.innerHTML='<div class="admin-row"><b>Top products by units sold</b><br>'+([...top.entries()].sort((a,b)=>b[1]-a[1]).slice(0,5).map(([n,q])=>esc(n)+' · '+q+' units').join("<br>")||'<span class="muted">No paid sales yet.</span>')+'</div><div class="admin-row"><b>Inventory needing attention</b><br>'+(low.map(p=>esc(p.name)+' · '+p.stock_quantity+' left').join("<br>")||'<span class="muted">No active listings at or below five units.</span>')+'</div><p class="muted">Insights use paid, non-cancelled and non-refunded order items. Sales are separated by currency. Estimated seller share is before payout adjustments, refunds, taxes or separately disclosed payment-processing fees.</p>';
 }
 document.addEventListener("click",async e=>{
  const read=e.target.closest("[data-alert-read]"),risk=e.target.closest("[data-risk-status]");
