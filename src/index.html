@@ -662,6 +662,27 @@ body{background:#fff;color:var(--ink);font-family:Inter,system-ui,-apple-system,
 @media(max-width:900px){.home-discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-inner{gap:28px}.hero-art{min-height:300px}.hero-photo{min-height:270px}}
 @media(max-width:600px){.hero-inner{padding:48px 0 32px;grid-template-columns:1fr}.hero h1{font-size:clamp(37px,11vw,52px)}.hero-art{min-height:250px;border-width:4px;border-radius:26px}.hero-photo{min-height:220px}.hero .tag2{bottom:80px}.home-discovery{padding-bottom:32px}.home-discovery-head{display:block}.home-discovery-grid{gap:11px}.home-discovery-card,.home-discovery-card img{min-height:160px;height:160px}.home-discovery-card span{font-size:15px;left:12px;bottom:12px}.home-discovery-card small{font-size:11px}.brand-logo{width:42px;height:42px}}
 
+/* Iyanda One main menu: clear departments, generous touch targets and mobile layout */
+.main-menu-panel{width:min(1120px,100%);max-height:calc(100dvh - 32px);overflow:auto;padding:clamp(18px,3vw,30px)}
+.main-menu-top{position:sticky;top:-1px;z-index:2;background:var(--cream);padding:2px 0 16px;margin-bottom:16px;border-bottom:1px solid var(--line)}
+.menu-departments{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.menu-department{min-width:0;background:#fff;border:1px solid var(--line);border-radius:17px;padding:16px}
+.menu-department-heading{display:flex;align-items:center;gap:11px;margin-bottom:12px}
+.menu-department-heading>span{width:40px;height:40px;flex:0 0 40px;display:grid;place-items:center;background:#edf3ed;border-radius:12px;font-size:21px}
+.menu-department-heading h3{margin:0;color:var(--g);font-size:15px;line-height:1.25}
+.menu-department-heading p{margin:3px 0 0;color:var(--muted);font-size:11px}
+.menu-department-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.menu-department .main-menu-card{min-width:0;min-height:90px;padding:11px 12px;gap:4px;border-radius:12px;font-size:13px;line-height:1.3}
+.menu-department .main-menu-card .menu-emoji{font-size:19px}
+.menu-department .main-menu-card small{font-size:10px;line-height:1.35}
+.menu-help-department .menu-department-links{grid-template-columns:repeat(2,minmax(0,1fr))}
+.menu-admin-area{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.menu-admin-area>span{font-size:11px;color:var(--muted)}
+.menu-admin-area .admin-menu-link{min-height:0;display:flex;flex-direction:row;align-items:center;gap:9px;padding:9px 12px;border-style:dashed;font-size:12px}
+.menu-admin-area .admin-menu-link small{margin-left:3px}
+@media(max-width:900px){.menu-departments{grid-template-columns:1fr}}
+@media(max-width:560px){.menu-department{padding:13px}.menu-department-links,.menu-help-department .menu-department-links{grid-template-columns:repeat(2,minmax(0,1fr))}.menu-admin-area{align-items:flex-start;flex-direction:column}.menu-admin-area .admin-menu-link{width:100%}.main-menu-panel{max-height:calc(100dvh - 18px);padding:15px;border-radius:18px}}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
@@ -707,31 +728,60 @@ body{background:#fff;color:var(--ink);font-family:Inter,system-ui,-apple-system,
 <div class="main-menu-overlay" id="mainMenuOverlay" aria-hidden="true">
  <div class="main-menu-panel" role="dialog" aria-modal="true" aria-labelledby="mainMenuTitle">
   <div class="main-menu-top">
-   <div><div class="eyebrow">Iyanda One</div><h2 id="mainMenuTitle">Main Menu</h2><div class="muted">Everything you need, in one place.</div></div>
+   <div><div class="eyebrow">Iyanda One</div><h2 id="mainMenuTitle">Explore Iyanda One</h2><div class="muted">Choose a department to get where you need to go.</div></div>
    <button class="iconbtn" id="closeMainMenu" type="button" aria-label="Close menu">✕ Close</button>
   </div>
-  <div class="main-menu-grid">
-   <a class="main-menu-card" href="#/home"><span class="menu-emoji">🏠</span>Home<small>Return to the welcome page</small></a>
-   <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span>Shop &amp; Products<small>Browse products and place orders</small></a>
-   <a class="main-menu-card" href="#/ai"><span class="menu-emoji">✦</span>Iyanda AI<small>Ask questions and get assistance</small></a>
-   <a class="main-menu-card" href="#/dailyLifeSection"><span class="menu-emoji">📅</span>Daily Life<small>Organise tasks and plans</small></a>
-   <a class="main-menu-card" href="#/workspaceSection"><span class="menu-emoji">📁</span>My Workspace<small>Manage files and AI reports</small></a>
-   <a class="main-menu-card" href="#/creativeStudioSection"><span class="menu-emoji">🎨</span>Creative Studio<small>Create music, writing and media</small></a>
-   <a class="main-menu-card" href="#/languageCentre"><span class="menu-emoji">🌍</span>Language Centre<small>Translate and learn languages</small></a>
-   <a class="main-menu-card" href="#/games"><span class="menu-emoji">🎮</span>Games<small>Play and learn</small></a>
-   <a class="main-menu-card" href="#/features"><span class="menu-emoji">🧰</span>Services<small>Explore platform features</small></a>
-   <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span>Marketplace &amp; Products<small>Browse products, stores and place orders</small></a>
-   <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🌱</span>Farm Centre<small>Farming knowledge, guidance and resources</small></a>
-   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🤝</span>Customer &amp; Seller Hub<small>Seller applications, storefront access and customer help</small></a>
-   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🚚</span>Order History &amp; Delivery Tracking<small>View purchases, shipment partners and delivery updates</small></a>
-   <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🚜</span>Farm Business &amp; Supply Services<small>Explore agricultural resources and business support</small></a>
-   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🏪</span>Seller Centre<small>Manage your seller journey and customer orders</small></a>
-   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🌐</span>Global Trade Desk<small>International buyers, suppliers and export partnerships</small></a>
-   <a class="main-menu-card" href="#/contact"><span class="menu-emoji">☎️</span>Contact &amp; Support<small>Get help from Iyanda</small></a>
-   <a class="main-menu-card hidden" id="adminMenuLink" href="#/admin"><span class="menu-emoji">🔐</span>Iyanda Admin<small>Private business dashboard and platform controls</small></a>
-   <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span>My Account<small>Sign in or manage your account</small></button>
-   <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span>Shopping Cart<small>Review items and checkout</small></button>
+  <div class="menu-departments">
+   <section class="menu-department">
+    <div class="menu-department-heading"><span>🏠</span><div><h3>Start &amp; Explore</h3><p>Your main destinations</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/home"><span class="menu-emoji">🏠</span><span>Home</span><small>Your Iyanda One starting point</small></a>
+     <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span><span>Marketplace</span><small>Browse products and shop</small></a>
+     <a class="main-menu-card" href="#/features"><span class="menu-emoji">🧭</span><span>All Services</span><small>Explore platform services</small></a>
+    </div>
+   </section>
+   <section class="menu-department">
+    <div class="menu-department-heading"><span>🌱</span><div><h3>Farm &amp; Global Trade</h3><p>Agriculture, supply and trade</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🌾</span><span>Farm Centre</span><small>Farming knowledge and guidance</small></a>
+     <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🚜</span><span>Farm Operations &amp; Resources</span><small>Farm operations, resources and sourcing</small></a>
+     <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🌐</span><span>Global Trade Desk</span><small>International buyers and suppliers</small></a>
+    </div>
+   </section>
+   <section class="menu-department">
+    <div class="menu-department-heading"><span>📦</span><div><h3>Orders &amp; Selling</h3><p>Manage your marketplace activity</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🤝</span><span>Customer &amp; Seller Hub</span><small>Customer help and seller access</small></a>
+     <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🚚</span><span>Orders &amp; Delivery Tracking</span><small>Purchases, dispatch and delivery</small></a>
+     <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🏪</span><span>Seller Centre</span><small>Seller tools and customer orders</small></a>
+    </div>
+   </section>
+   <section class="menu-department">
+    <div class="menu-department-heading"><span>✦</span><div><h3>AI &amp; Productivity</h3><p>Get help and organise your work</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/ai"><span class="menu-emoji">✦</span><span>Iyanda AI</span><small>Your intelligent assistant</small></a>
+     <a class="main-menu-card" href="#/dailyLifeSection"><span class="menu-emoji">📅</span><span>Daily Life</span><small>Tasks, routines and planning</small></a>
+     <a class="main-menu-card" href="#/workspaceSection"><span class="menu-emoji">📁</span><span>My Workspace</span><small>Files, documents and saved work</small></a>
+    </div>
+   </section>
+   <section class="menu-department">
+    <div class="menu-department-heading"><span>🎨</span><div><h3>Create &amp; Learn</h3><p>Build skills and express ideas</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/creativeStudioSection"><span class="menu-emoji">🎨</span><span>Creative Studio</span><small>Writing, music and media tools</small></a>
+     <a class="main-menu-card" href="#/languageCentre"><span class="menu-emoji">🌍</span><span>Language Centre</span><small>Translation and language learning</small></a>
+     <a class="main-menu-card" href="#/games"><span class="menu-emoji">🎮</span><span>Games &amp; Challenges</span><small>Play and learn</small></a>
+    </div>
+   </section>
+   <section class="menu-department menu-help-department">
+    <div class="menu-department-heading"><span>💬</span><div><h3>Help &amp; Account</h3><p>Support and quick actions</p></div></div>
+    <div class="menu-department-links">
+     <a class="main-menu-card" href="#/contact"><span class="menu-emoji">☎️</span><span>Contact &amp; Support</span><small>Get help from the Iyanda team</small></a>
+     <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span><span>My Account</span><small>Sign in or manage your account</small></button>
+     <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span><span>Shopping Cart</span><small>Review items and checkout</small></button>
+    </div>
+   </section>
   </div>
+  <div class="menu-admin-area"><a class="main-menu-card admin-menu-link" id="adminMenuLink" href="#/admin"><span class="menu-emoji">🔐</span><span>Iyanda Admin</span><small>Private business dashboard and platform controls</small></a><span>Administrator access only</span></div>
  </div>
 </div>
 <button class="floating-iyanda-ai" id="floatingIyandaAI" type="button" aria-label="Open Iyanda AI"><span>✦</span> Ask Iyanda AI</button>
