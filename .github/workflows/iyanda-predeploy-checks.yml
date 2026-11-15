@@ -1,0 +1,54 @@
+name: Iyanda pre-deploy checks
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  syntax-and-feature-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Extract and syntax-check inline application JavaScript
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          source = Path("src/index.html").read_text(encoding="utf-8")
+          scripts = re.findall(r"<script\\b[^>]*>([\\s\\S]*?)</script>", source, re.I)
+          if not scripts:
+              raise SystemExit("No inline application script found")
+          for index, script in enumerate(scripts):
+              path = Path(f"/tmp/iyanda-inline-{index}.mjs")
+              path.write_text(script, encoding="utf-8")
+              print(f"Extracted inline script {index + 1}: {len(script)} characters")
+          PY
+          for file in /tmp/iyanda-inline-*.mjs; do
+            echo "Checking $file"
+            node --check "$file"
+          done
+      - name: Check Stage 9 critical UI and handlers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          source = Path("src/index.html").read_text(encoding="utf-8")
+          required = [
+              'id="workspaceSection"', 'id="creativeStudioSection"',
+              'id="languageCentre"', 'id="savedWorkList"',
+              'id="workspaceSaveDraft"', 'id="creativeSaveWork"',
+              'id="languageSaveWork"', 'iyanda_saved_work',
+              'function savedWorkLoad', 'function savedWorkSave'
+          ]
+          missing = [item for item in required if item not in source]
+          if missing:
+              raise SystemExit("Missing Stage 9 elements: " + ", ".join(missing))
+          print("Stage 9 critical UI and persistence hooks are present.")
+          PY
