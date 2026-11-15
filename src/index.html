@@ -1061,7 +1061,7 @@ async function syncUser(u,s){
  user=u;session=s;
  const adminLink=document.getElementById('adminMenuLink');if(adminLink)adminLink.classList.toggle('hidden',!isAdmin());
  setTimeout(()=>{loadDailyTasks();workspaceLoad();creativeLoad()},0);
- if(user){await loadMarketplaceReferral();await loadDeliveryPartnerPortal();}
+ if(user){await loadMarketplaceReferral();await loadDeliveryPartnerPortal();await loadGlobalTradeMine();await loadGlobalTradeQuotes();}
  $('#accountBtn').textContent=user?'My account':'Sign in';
  $('#signedInAccount').classList.toggle('hidden',!user);
  $('#authForm').classList.toggle('hidden',!!user);
@@ -1071,7 +1071,7 @@ async function syncUser(u,s){
  $('#aiStatus').textContent=user?'Signed in · private chat':'Sign in to start a private conversation';
  if(user){
   const fallbackName=user.user_metadata?.full_name||user.email?.split('@')[0]||'';const {data:profile}=await supabase.from('profiles').upsert({user_id:user.id,display_name:fallbackName,phone:user.user_metadata?.phone||null},{onConflict:'user_id'}).select('display_name,phone,country_code,country_name,region,city,postal_code,preferred_currency,timezone,locale').single();$('#profileName').value=profile?.display_name||fallbackName;$('#profilePhone').value=profile?.phone||user.user_metadata?.phone||'';$('#profileCountry').value=profile?.country_code||'NG';$('#profileRegion').value=profile?.region||'';$('#profileCity').value=profile?.city||'';$('#profilePostal').value=profile?.postal_code||'';$('#profileCurrency').value=profile?.preferred_currency||'NGN';$('#profileTimezone').value=profile?.timezone||'Africa/Lagos';$('#accountVerification').textContent=user.email_confirmed_at?'Email verified':'Email verification pending — check your inbox for the verification link.';$('#accountBtn').textContent=user.email?.split('@')[0]||'Account';await loadCustomerAddresses();await loadCustomerOrders();await loadCustomerSupportHistory();await loadMarketplaceAlerts();await loadSellerApplication();
-  if(isAdmin()){$('#admin').classList.add('show');renderAdmin();loadFarmOperations();loadDeliveryZonesAdmin();loadDispatchAdmin();loadStage4Logistics();loadDeliveryPartnerApplicationsAdmin();loadDeliveryPartnersAdmin()}
+  if(isAdmin()){$('#admin').classList.add('show');renderAdmin();loadFarmOperations();loadDeliveryZonesAdmin();loadDispatchAdmin();loadStage4Logistics();loadDeliveryPartnerApplicationsAdmin();loadDeliveryPartnersAdmin();loadGlobalTradeAdmin();loadGlobalTradeQuoteAdmin();loadGlobalTradeShippingAdmin()}
   const {data:rewards}=await supabase.from('reward_transactions').select('points').eq('user_id',user.id);
   const points=(rewards||[]).reduce((s,r)=>s+r.points,0);availableRewardPoints=points;$('#redeemRewardHint').textContent='Available: '+points.toLocaleString('en-NG')+' points (₦'+points.toLocaleString('en-NG')+'). Minimum redemption: 500 points.';$('#pointsSummary').textContent='Your Iyanda Rewards balance: '+points.toLocaleString('en-NG')+' points (₦'+points.toLocaleString('en-NG')+' value). Minimum redemption: 500 points (₦500).';
  }else{availableRewardPoints=0;$('#redeemRewardPoints').value='0';$('#redeemRewardHint').textContent='Sign in to check your available points. Minimum redemption is 500 points (₦500).';$('#admin').classList.remove('show');$('#pointsSummary').textContent='Sign in to save your scores and view your reward balance.';conversationId=null}
