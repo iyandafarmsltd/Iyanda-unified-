@@ -654,6 +654,9 @@ main.iyanda-page-mode > section#admin[id] { display: none !important; }
    <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span>Marketplace &amp; Products<small>Browse products, stores and place orders</small></a>
    <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🌱</span>Farm Centre<small>Farming knowledge, guidance and resources</small></a>
    <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🤝</span>Customer &amp; Seller Hub<small>Seller applications, storefront access and customer help</small></a>
+   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🚚</span>Order History &amp; Delivery Tracking<small>View purchases, shipment partners and delivery updates</small></a>
+   <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🚜</span>Farm Business &amp; Supply Services<small>Explore agricultural resources and business support</small></a>
+   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🏪</span>Seller Centre<small>Manage your seller journey and customer orders</small></a>
    <a class="main-menu-card" href="#/contact"><span class="menu-emoji">☎️</span>Contact &amp; Support<small>Get help from Iyanda</small></a>
    <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span>My Account<small>Sign in or manage your account</small></button>
    <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span>Shopping Cart<small>Review items and checkout</small></button>
@@ -1232,24 +1235,29 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
  document.getElementById('menuCartAction').addEventListener('click',()=>{closeMenu();document.getElementById('cartBtn').click()});
  const search=document.getElementById('globalSearch'),results=document.getElementById('globalSearchResults');
  const destinations=[
-  {name:'Home',detail:'Welcome to Iyanda One',icon:'🏠',href:'#home'},
-  {name:'Shop & Products',detail:'Catalogue, products and orders',icon:'🛍️',href:'#shop'},
-  {name:'Iyanda AI',detail:'Your intelligent assistant',icon:'✦',href:'#ai'},
-  {name:'Daily Life',detail:'Tasks and daily planning',icon:'📅',href:'#dailyLifeSection'},
-  {name:'My Workspace',detail:'Files and AI document tools',icon:'📁',href:'#workspaceSection'},
-  {name:'Creative Studio',detail:'Music, writing and creative tools',icon:'🎨',href:'#creativeStudioSection'},
-  {name:'Language Centre',detail:'Translation and language learning',icon:'🌍',href:'#languageCentre'},
-  {name:'Games',detail:'Play and learn',icon:'🎮',href:'#games'},
-  {name:'Services',detail:'Platform features and services',icon:'🧰',href:'#features'},
-  {name:'Contact & Support',detail:'Contact the Iyanda team',icon:'☎️',href:'#contact'}
+  {name:'Home',detail:'Welcome to Iyanda One',icon:'🏠',page:'home',keywords:'homepage main menu'},
+  {name:'Shop & Products',detail:'Catalogue, products and orders',icon:'🛍️',page:'shop',keywords:'market marketplace store shopping buy products'},
+  {name:'Iyanda AI',detail:'Your intelligent assistant',icon:'✦',page:'ai',keywords:'assistant chatbot ask ai'},
+  {name:'Daily Life',detail:'Tasks and daily planning',icon:'📅',page:'dailyLifeSection',keywords:'tasks planner routine everyday'},
+  {name:'My Workspace',detail:'Files and AI document tools',icon:'📁',page:'workspaceSection',keywords:'documents files reports workspace'},
+  {name:'Creative Studio',detail:'Music, writing and creative tools',icon:'🎨',page:'creativeStudioSection',keywords:'music video images writing design creativity'},
+  {name:'Language Centre',detail:'Translation and language learning',icon:'🌍',page:'languageCentre',keywords:'translation languages lessons learning'},
+  {name:'Games',detail:'Play and learn',icon:'🎮',page:'games',keywords:'game quiz play'},
+  {name:'Services',detail:'Platform features and services',icon:'🧰',page:'features',keywords:'services tools platform features'},
+  {name:'Farm Centre',detail:'Farming knowledge, guidance and resources',icon:'🌱',page:'farmCentre',keywords:'agriculture farming crops livestock farm advice'},
+  {name:'Customer & Seller Hub',detail:'Seller applications, storefront access and customer help',icon:'🤝',page:'customerHub',keywords:'seller vendor customer account help'},
+  {name:'Order History & Delivery Tracking',detail:'View purchases, shipment partners and delivery updates',icon:'🚚',page:'customerHub',keywords:'orders order history shipment tracking delivery dispatch parcel status logistics'},
+  {name:'Farm Business & Supply Services',detail:'Agricultural resources and business support',icon:'🚜',page:'farmCentre',keywords:'farm business supply chain produce wholesale feed input sourcing'},
+  {name:'Seller Centre',detail:'Manage your seller journey and customer orders',icon:'🏪',page:'customerHub',keywords:'seller centre store management vendor orders'},
+  {name:'Contact & Support',detail:'Contact the Iyanda team',icon:'☎️',page:'contact',keywords:'contact support customer service help'}
  ];
  const showResults=()=>{
   const q=search.value.trim().toLowerCase();
   if(!q){results.classList.remove('show');results.innerHTML='';return}
-  const matches=destinations.filter(x=>(x.name+' '+x.detail).toLowerCase().includes(q)).slice(0,7);
+  const matches=destinations.filter(x=>(x.name+' '+x.detail+' '+(x.keywords||'')).toLowerCase().includes(q)).slice(0,10);
   const productMatches=(typeof products!=='undefined'?products:[]).filter(p=>[p.name,p.category,p.description||''].join(' ').toLowerCase().includes(q)).slice(0,5);
   results.innerHTML='';
-  matches.forEach(x=>{const b=document.createElement('button');b.type='button';b.className='global-search-result';b.innerHTML='<span class="result-icon">'+x.icon+'</span><span><b>'+x.name+'</b><small>'+x.detail+'</small></span>';b.addEventListener('click',()=>{results.classList.remove('show');search.value='';document.querySelector(x.href)?.scrollIntoView({behavior:'smooth',block:'start'})});results.appendChild(b)});
+  matches.forEach(x=>{const b=document.createElement('button');b.type='button';b.className='global-search-result';b.innerHTML='<span class="result-icon">'+x.icon+'</span><span><b>'+x.name+'</b><small>'+x.detail+'</small></span>';b.addEventListener('click',()=>{results.classList.remove('show');search.value='';if(typeof window.iyandaNavigate==='function')window.iyandaNavigate(x.page);else location.hash='#/'+x.page});results.appendChild(b)});
   productMatches.forEach(p=>{const b=document.createElement('button');b.type='button';b.className='global-search-result';const icon=document.createElement('span');icon.className='result-icon';icon.textContent='📦';const wrap=document.createElement('span');const strong=document.createElement('b');strong.textContent=p.name;const small=document.createElement('small');small.textContent='Product · '+(p.category||'Iyanda Market');wrap.append(strong,small);b.append(icon,wrap);b.addEventListener('click',()=>{results.classList.remove('show');document.getElementById('productSearch').value=p.name;renderProducts();document.getElementById('shop').scrollIntoView({behavior:'smooth'})});results.appendChild(b)});
   if(!results.children.length){const empty=document.createElement('div');empty.className='global-search-result';empty.textContent='No matching pages or products found. Try another search.';results.appendChild(empty)}
   results.classList.add('show');
