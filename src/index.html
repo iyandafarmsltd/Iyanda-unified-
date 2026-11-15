@@ -545,7 +545,7 @@ main.iyanda-page-mode > section[id] { display: none !important; }
 
 main.iyanda-page-mode > section[id].iyanda-active-page { display: block !important; min-height: calc(-210px + 100vh); }
 
-main.iyanda-page-mode > section#admin[id] { display: none !important; }
+
 
 .iyanda-page-heading { padding: 13px 0px 0px; }
 
@@ -658,6 +658,7 @@ main.iyanda-page-mode > section#admin[id] { display: none !important; }
    <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🚜</span>Farm Business &amp; Supply Services<small>Explore agricultural resources and business support</small></a>
    <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🏪</span>Seller Centre<small>Manage your seller journey and customer orders</small></a>
    <a class="main-menu-card" href="#/contact"><span class="menu-emoji">☎️</span>Contact &amp; Support<small>Get help from Iyanda</small></a>
+   <a class="main-menu-card hidden" id="adminMenuLink" href="#/admin"><span class="menu-emoji">🔐</span>Iyanda Admin<small>Private business dashboard and platform controls</small></a>
    <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span>My Account<small>Sign in or manage your account</small></button>
    <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span>Shopping Cart<small>Review items and checkout</small></button>
   </div>
@@ -926,6 +927,7 @@ async function copyText(value){try{await navigator.clipboard.writeText(value);to
 async function loadMarketplaceReferral(){if(!user)return;const {data:code,error}=await supabase.rpc('get_my_marketplace_referral_code');if(error){$('#myReferralLink').value='Invitation link temporarily unavailable';return}const link='https://iyanda-unified.vercel.app/?ref='+encodeURIComponent(code)+'&src=direct_invite';$('#myReferralLink').value=link;const pending=localStorage.getItem('iyanda_pending_ref');if(pending){const source=localStorage.getItem('iyanda_pending_ref_source')||'share_link';const {data:claim,error:claimError}=await supabase.rpc('claim_marketplace_referral',{p_code:pending,p_source:source});if(!claimError&&claim?.status!=='invalid'){localStorage.removeItem('iyanda_pending_ref');localStorage.removeItem('iyanda_pending_ref_source')}}const {data:stats,error:statsError}=await supabase.rpc('get_my_marketplace_referral_stats');if(statsError){$('#referralSummary').textContent='Invitation link ready. Referral statistics are temporarily unavailable.';return}$('#referralSummary').textContent=(stats.signups||0)+' sign-ups · '+(stats.direct_invites||0)+' direct invitations · '+(stats.storefront_shares||0)+' storefront shares · '+(stats.product_shares||0)+' product shares · '+(stats.qualified_purchases||0)+' verified completed purchases. Rewards are not yet enabled.'}
 async function syncUser(u,s){
  user=u;session=s;
+ const adminLink=document.getElementById('adminMenuLink');if(adminLink)adminLink.classList.toggle('hidden',!isAdmin());
  setTimeout(()=>{loadDailyTasks();workspaceLoad();creativeLoad()},0);
  if(user){await loadMarketplaceReferral();}
  $('#accountBtn').textContent=user?'My account':'Sign in';
@@ -1172,9 +1174,9 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
 /* Iyanda One multi-page router with 1.5-second windmill transition */
 (()=>{
  const main=document.querySelector('main');
- const pageIds=['home','shop','ai','features','games','contact','dailyLifeSection','workspaceSection','creativeStudioSection','languageCentre','farmCentre','customerHub'];
- const pageNames={home:'Home',shop:'Shop & Products',ai:'Iyanda AI',features:'Services',games:'Games',contact:'Contact & Support',dailyLifeSection:'Daily Life',workspaceSection:'My Workspace',creativeStudioSection:'Creative Studio',languageCentre:'Language Centre',farmCentre:'Farm Centre',customerHub:'Customer & Seller Hub'};
- const byAlias=id=>pageIds.includes(id)?id:({daily:'dailyLifeSection','daily-life':'dailyLifeSection','workspace':'workspaceSection','creative':'creativeStudioSection','creative-studio':'creativeStudioSection','languages':'languageCentre','language':'languageCentre','services':'features','products':'shop','market':'shop','assistant':'ai','farm':'farmCentre','farm-centre':'farmCentre','seller':'customerHub','sellers':'customerHub','customer-hub':'customerHub'}[id]||'home');
+ const pageIds=['home','shop','ai','features','games','contact','dailyLifeSection','workspaceSection','creativeStudioSection','languageCentre','farmCentre','customerHub','admin'];
+ const pageNames={home:'Home',shop:'Shop & Products',ai:'Iyanda AI',features:'Services',games:'Games',contact:'Contact & Support',dailyLifeSection:'Daily Life',workspaceSection:'My Workspace',creativeStudioSection:'Creative Studio',languageCentre:'Language Centre',farmCentre:'Farm Centre',customerHub:'Customer & Seller Hub',admin:'Iyanda Admin'};
+ const byAlias=id=>pageIds.includes(id)?id:({daily:'dailyLifeSection','daily-life':'dailyLifeSection','workspace':'workspaceSection','creative':'creativeStudioSection','creative-studio':'creativeStudioSection','languages':'languageCentre','language':'languageCentre','services':'features','products':'shop','market':'shop','assistant':'ai','farm':'farmCentre','farm-centre':'farmCentre','seller':'customerHub','sellers':'customerHub','customer-hub':'customerHub','iyanda-admin':'admin','admin-dashboard':'admin'}[id]||'home');
  const current=()=>byAlias((location.hash||'#/home').replace(/^#\/?/,'').split(/[?&]/)[0]);
  const loader=document.getElementById('iyandaPageLoader');
  let transitionTimer=null,transitionToken=0,currentPage=null;
@@ -1188,6 +1190,7 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
  };
  const render=(forced,animate=false)=>{
   const page=forced||current();
+  if(page==='admin'&&!isAdmin()){location.hash='#/home';return}
   if(page===currentPage&&!animate)return;
   main.classList.add('iyanda-page-mode');
   if(!animate||!currentPage){if(loader)loader.classList.remove('is-visible');showPage(page);return}
@@ -1250,12 +1253,13 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
   {name:'Order History & Delivery Tracking',detail:'View purchases, shipment partners and delivery updates',icon:'🚚',page:'customerHub',keywords:'orders order history shipment tracking delivery dispatch parcel status logistics'},
   {name:'Farm Business & Supply Services',detail:'Agricultural resources and business support',icon:'🚜',page:'farmCentre',keywords:'farm business supply chain produce wholesale feed input sourcing'},
   {name:'Seller Centre',detail:'Manage your seller journey and customer orders',icon:'🏪',page:'customerHub',keywords:'seller centre store management vendor orders'},
-  {name:'Contact & Support',detail:'Contact the Iyanda team',icon:'☎️',page:'contact',keywords:'contact support customer service help'}
+  {name:'Contact & Support',detail:'Contact the Iyanda team',icon:'☎️',page:'contact',keywords:'contact support customer service help'},
+  {name:'Iyanda Admin',detail:'Private business dashboard and platform controls',icon:'🔐',page:'admin',keywords:'admin dashboard administrator operations control centre',adminOnly:true}
  ];
  const showResults=()=>{
   const q=search.value.trim().toLowerCase();
   if(!q){results.classList.remove('show');results.innerHTML='';return}
-  const matches=destinations.filter(x=>(x.name+' '+x.detail+' '+(x.keywords||'')).toLowerCase().includes(q)).slice(0,10);
+  const matches=destinations.filter(x=>(!x.adminOnly||isAdmin())&&(x.name+' '+x.detail+' '+(x.keywords||'')).toLowerCase().includes(q)).slice(0,10);
   const productMatches=(typeof products!=='undefined'?products:[]).filter(p=>[p.name,p.category,p.description||''].join(' ').toLowerCase().includes(q)).slice(0,5);
   results.innerHTML='';
   matches.forEach(x=>{const b=document.createElement('button');b.type='button';b.className='global-search-result';b.innerHTML='<span class="result-icon">'+x.icon+'</span><span><b>'+x.name+'</b><small>'+x.detail+'</small></span>';b.addEventListener('click',()=>{results.classList.remove('show');search.value='';if(typeof window.iyandaNavigate==='function')window.iyandaNavigate(x.page);else location.hash='#/'+x.page});results.appendChild(b)});
