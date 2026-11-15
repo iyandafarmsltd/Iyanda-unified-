@@ -1061,13 +1061,13 @@ $('#deliveryZonesAdmin').addEventListener('click',async e=>{
  const {error}=await supabase.from('delivery_zones').update({is_active:toggle.dataset.active==='true'}).eq('id',toggle.dataset.zoneToggle);if(error)toast('Zone status was not changed: '+error.message);else{toast('Delivery zone status updated.');await loadDeliveryZonesAdmin()}
 });
 $('#dispatchForm').addEventListener('submit',async e=>{
- e.preventDefault();if(!isAdmin())return;const f=new FormData(e.currentTarget),orderId=String(f.get('order_id')||''),status=String(f.get('delivery_status')||''),description=String(f.get('description')||'').trim();if(!orderId||!deliveryStatuses.includes(status)||!description){toast('Choose an order, status and update description.');return}
+ e.preventDefault();if(!isAdmin())return;const form=e.currentTarget,f=new FormData(form),orderId=String(f.get('order_id')||''),status=String(f.get('delivery_status')||''),description=String(f.get('description')||'').trim();if(!orderId||!deliveryStatuses.includes(status)||!description){toast('Choose an order, status and update description.');return}
  const tracking_reference=String(f.get('tracking_reference')||'').trim()||null,estimated_delivery_date=String(f.get('estimated_delivery_date')||'').trim()||null,location=String(f.get('location')||'').trim()||null;
  const btn=$('#dispatchSave');btn.disabled=true;try{
   const update={delivery_status:status,tracking_reference,estimated_delivery_date};if(['dispatched','in_transit','delivered'].includes(status))update.shipped_at=new Date().toISOString();if(status==='delivered')update.delivered_at=new Date().toISOString();
   const {error:updateError}=await supabase.from('orders').update(update).eq('id',orderId);if(updateError)throw updateError;
   const {error:eventError}=await supabase.from('order_fulfilment_events').insert({order_id:orderId,status,description,location,tracking_reference,created_by:user.id});if(eventError)throw eventError;
-  toast('Tracking update published.');e.currentTarget.reset();await loadDispatchAdmin();await loadCustomerOrders()
+  toast('Tracking update published.');form.reset();await loadDispatchAdmin();await loadCustomerOrders()
  }catch(err){toast('Dispatch update encountered an error: '+err.message+'. Check the order status before retrying.')}finally{btn.disabled=false}
 });
 let dailyTab='tasks',dailyRows=[],dailyReminderSeen=new Set();
