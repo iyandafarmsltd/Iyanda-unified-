@@ -652,8 +652,8 @@ main.iyanda-page-mode > section#admin[id] { display: none !important; }
    <a class="main-menu-card" href="#/games"><span class="menu-emoji">🎮</span>Games<small>Play and learn</small></a>
    <a class="main-menu-card" href="#/features"><span class="menu-emoji">🧰</span>Services<small>Explore platform features</small></a>
    <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span>Marketplace &amp; Products<small>Browse products, stores and place orders</small></a>
-   <a class="main-menu-card" href="#/home" data-menu-target="farmCentre"><span class="menu-emoji">🌱</span>Farm Centre<small>Farming knowledge, guidance and resources</small></a>
-   <a class="main-menu-card" href="#/home" data-menu-target="customerHub"><span class="menu-emoji">🤝</span>Customer &amp; Seller Hub<small>Seller applications, storefront access and customer help</small></a>
+   <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🌱</span>Farm Centre<small>Farming knowledge, guidance and resources</small></a>
+   <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🤝</span>Customer &amp; Seller Hub<small>Seller applications, storefront access and customer help</small></a>
    <a class="main-menu-card" href="#/contact"><span class="menu-emoji">☎️</span>Contact &amp; Support<small>Get help from Iyanda</small></a>
    <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span>My Account<small>Sign in or manage your account</small></button>
    <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span>Shopping Cart<small>Review items and checkout</small></button>
@@ -1162,9 +1162,9 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
 /* Iyanda One multi-page router with 1.5-second windmill transition */
 (()=>{
  const main=document.querySelector('main');
- const pageIds=['home','shop','ai','features','games','contact','dailyLifeSection','workspaceSection','creativeStudioSection','languageCentre'];
- const pageNames={home:'Home',shop:'Shop & Products',ai:'Iyanda AI',features:'Services',games:'Games',contact:'Contact & Support',dailyLifeSection:'Daily Life',workspaceSection:'My Workspace',creativeStudioSection:'Creative Studio',languageCentre:'Language Centre'};
- const byAlias=id=>pageIds.includes(id)?id:({daily:'dailyLifeSection','daily-life':'dailyLifeSection','workspace':'workspaceSection','creative':'creativeStudioSection','creative-studio':'creativeStudioSection','languages':'languageCentre','language':'languageCentre','services':'features','products':'shop','market':'shop','assistant':'ai'}[id]||'home');
+ const pageIds=['home','shop','ai','features','games','contact','dailyLifeSection','workspaceSection','creativeStudioSection','languageCentre','farmCentre','customerHub'];
+ const pageNames={home:'Home',shop:'Shop & Products',ai:'Iyanda AI',features:'Services',games:'Games',contact:'Contact & Support',dailyLifeSection:'Daily Life',workspaceSection:'My Workspace',creativeStudioSection:'Creative Studio',languageCentre:'Language Centre',farmCentre:'Farm Centre',customerHub:'Customer & Seller Hub'};
+ const byAlias=id=>pageIds.includes(id)?id:({daily:'dailyLifeSection','daily-life':'dailyLifeSection','workspace':'workspaceSection','creative':'creativeStudioSection','creative-studio':'creativeStudioSection','languages':'languageCentre','language':'languageCentre','services':'features','products':'shop','market':'shop','assistant':'ai','farm':'farmCentre','farm-centre':'farmCentre','seller':'customerHub','sellers':'customerHub','customer-hub':'customerHub'}[id]||'home');
  const current=()=>byAlias((location.hash||'#/home').replace(/^#\/?/,'').split(/[?&]/)[0]);
  const loader=document.getElementById('iyandaPageLoader');
  let transitionTimer=null,transitionToken=0,currentPage=null;
@@ -1220,7 +1220,7 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
  document.getElementById('menuToggle').addEventListener('click',openMenu);
  document.getElementById('closeMainMenu').addEventListener('click',closeMenu);
  menu.addEventListener('click',e=>{if(e.target===menu)closeMenu()});
- menu.querySelectorAll('a').forEach(a=>a.addEventListener('click',e=>{const target=a.dataset.menuTarget;if(!target){closeMenu();return}e.preventDefault();closeMenu();window.iyandaNavigate('home');setTimeout(()=>{const section=document.getElementById(target);if(section)section.scrollIntoView({behavior:'smooth',block:'start'})},1650)}));
+ menu.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
  document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();document.getElementById('globalSearchResults').classList.remove('show')}});
  document.getElementById('menuAccountAction').addEventListener('click',()=>{closeMenu();if(user){document.getElementById('accountBtn').click()}else openAuth()});
  document.getElementById('menuCartAction').addEventListener('click',()=>{closeMenu();document.getElementById('cartBtn').click()});
