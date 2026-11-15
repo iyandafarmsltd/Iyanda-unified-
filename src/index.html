@@ -1105,7 +1105,8 @@ async function loadGlobalTradeShippingAdmin(){
  $('#globalTradeContractsAdmin').innerHTML=cx.error?cx.error.message:(cx.data||[]).map(x=>'<article class="admin-row"><b>'+esc(x.reference)+' · '+esc(x.contract_title)+'</b><p>'+esc(x.global_trade_shipping_partners?.legal_name||'Partner')+' · '+esc(x.status)+' · '+esc(x.origin_country)+' → '+esc(x.destination_countries.join(', '))+'</p><p>'+esc(x.service_scope)+'</p><p>Signatures: Iyanda '+(x.signed_by_iyanda?'✓':'pending')+' · Partner '+(x.signed_by_partner?'✓':'pending')+'</p></article>').join('')||'No contracts registered.';
  $('#globalTradeShipmentsAdmin').innerHTML=sx.error?sx.error.message:(sx.data||[]).map(x=>'<article class="admin-row"><b>'+esc(x.carrier_reference||x.id)+'</b><p>'+esc(x.shipment_status)+' · B/L '+esc(x.bill_of_lading_reference||'pending')+' · Customs '+esc(x.customs_reference||'pending')+'</p></article>').join('')||'No international shipments registered.';
 }
-\nasync function loadGlobalTradeMine(){
+
+async function loadGlobalTradeMine(){
  const box=$('#globalTradeMine'); if(!box)return;
  if(!user){box.textContent='Sign in to view your enquiries.';return}
  const {data,error}=await supabase.from('global_trade_inquiries').select('*').eq('user_id',user.id).order('created_at',{ascending:false});
