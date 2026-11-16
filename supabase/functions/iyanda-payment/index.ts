@@ -42,10 +42,15 @@ Deno.serve(async (req: Request) => {
       if (payment.provider !== "paystack") return json({ error: "Payment provider mismatch" }, 400);
       if (event.data.status !== "success") return json({ error: "Payment is not successful" }, 400);
       if (Math.round(Number(payment.amount) * 100) !== Number(event.data.amount) || payment.currency !== event.data.currency) return json({ error: "Payment amount or currency mismatch" }, 400);
+      const orderCheck = await fetch(`${url}/rest/v1/orders?id=eq.${payment.order_id}&select=id,total,currency`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
+      if (!orderCheck.ok) return json({ error: "Could not validate the order before payment reconciliation" }, 502);
+      const orderRows = await orderCheck.json();
+      const linkedOrder = orderRows?.[0];
+      if (!linkedOrder || Math.round(Number(linkedOrder.total) * 100) !== Number(event.data.amount) || linkedOrder.currency !== event.data.currency) return json({ error: "Payment does not match the linked order total or currency" }, 400);
       // Always reconcile the order, even on a duplicate webhook delivery.
       // This safely repairs a previous partial update where the payment row succeeded but the order update failed.
       if (payment.status !== "success") {
-        const paymentUpdate = await fetch(`${url}/rest/v1/marketplace_payments?id=eq.${payment.id}&status=eq.pending`, { method: "PATCH", headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}`, "Content-Type": "application/json", Prefer: "return=minimal" }, body: JSON.stringify({ status: "success", paid_at: new Date().toISOString(), provider_response: event.data }) });
+        const paymentUpdate = await fetch(`${url}/rest/v1/marketplace_payments?id=eq.${payment.id}&status=in.(pending,initiated)`, { method: "PATCH", headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}`, "Content-Type": "application/json", Prefer: "return=minimal" }, body: JSON.stringify({ status: "success", paid_at: new Date().toISOString(), provider_response: event.data }) });
         if (!paymentUpdate.ok) return json({ error: "Payment record update failed; webhook will retry" }, 500);
       }
       const orderUpdate = await fetch(`${url}/rest/v1/orders?id=eq.${payment.order_id}&payment_status=neq.paid`, { method: "PATCH", headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}`, "Content-Type": "application/json", Prefer: "return=minimal" }, body: JSON.stringify({ payment_status: "paid", updated_at: new Date().toISOString() }) });
