@@ -70,7 +70,7 @@ Deno.serve(async (req: Request) => {
     if (action === "initialize") {
       const orderId = String(body.order_id ?? "");
       if (!/^[0-9a-f-]{36}$/i.test(orderId)) return json({ error: "A valid order is required" }, 400);
-      const orderResponse = await fetch(`${url}/rest/v1/orders?id=eq.${orderId}&user_id=eq.${user.id}&select=id,order_number,total,currency,payment_status,email,customer_name,fulfilment_method,delivery_fee,delivery_zone_id`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
+      const orderResponse = await fetch(`${url}/rest/v1/orders?id=eq.${orderId}&user_id=eq.${user.id}&select=id,order_number,total,currency,payment_status,email,customer_name,fulfilment_method,delivery_fee,delivery_zone_id,delivery_quote_confirmed_at`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
       if (!orderResponse.ok) return json({ error: "Could not retrieve the order" }, 502);
       const orders = await orderResponse.json();
       const order = orders?.[0];
@@ -82,7 +82,7 @@ Deno.serve(async (req: Request) => {
       if (!itemResponse.ok) return json({ error: "Could not validate order items before payment" }, 502);
       const orderItems = await itemResponse.json();
       if (!Array.isArray(orderItems) || orderItems.length === 0) return json({ error: "This order has no valid items" }, 400);
-      if (orderItems.some((item: any) => !item.product_id || /test\s*only/i.test(String(item.product_name ?? "")))) return json({ error: "Demo/test or unlinked products cannot be paid online." }, 400);
+      if (orderItems.some((item: any) => !item.product_id)) return json({ error: "All order items must be linked to catalogue products before payment." }, 400);
       const productIds = [...new Set(orderItems.map((item: any) => String(item.product_id)))];
       const productFilter = productIds.map((id: string) => `"${id}"`).join(",");
       const productResponse = await fetch(`${url}/rest/v1/products?id=in.(${encodeURIComponent(productFilter)})&select=id,sku,is_active`, {
@@ -90,18 +90,11 @@ Deno.serve(async (req: Request) => {
       });
       if (!productResponse.ok) return json({ error: "Could not validate catalogue products before payment" }, 502);
       const catalogueProducts = await productResponse.json();
-      if (!Array.isArray(catalogueProducts) || catalogueProducts.length !== productIds.length || catalogueProducts.some((product: any) => !product.is_active || /^IY-TEST-/i.test(String(product.sku ?? "")))) return json({ error: "Demo, inactive, or test products cannot be paid online." }, 400);
+      if (!Array.isArray(catalogueProducts) || catalogueProducts.length !== productIds.length || catalogueProducts.some((product: any) => !product.is_active)) return json({ error: "Inactive or unavailable products cannot be paid online." }, 400);
       if (order.payment_status === "paid") return json({ error: "This order has already been paid" }, 409);
-      // Delivery charges are payable only after an active zone and final fee are confirmed.
-      if (order.fulfilment_method === "delivery") {
-        if (!order.delivery_zone_id || order.delivery_fee == null) return json({ error: "Delivery availability and the final delivery fee must be confirmed before online payment." }, 409);
-        const zoneResponse = await fetch(`${url}/rest/v1/delivery_zones?id=eq.${order.delivery_zone_id}&is_active=eq.true&select=service_status,currency,delivery_fee`, {
-          headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` },
-        });
-        if (!zoneResponse.ok) return json({ error: "Could not validate delivery confirmation" }, 502);
-        const zones = await zoneResponse.json();
-        const zone = zones?.[0];
-        if (!zone || zone.service_status !== "available" || zone.currency !== order.currency || Number(zone.delivery_fee) !== Number(order.delivery_fee)) return json({ error: "Delivery availability and fee must be confirmed before online payment." }, 409);
+      // Delivery checkout requires an explicit administrator-approved per-order quote.
+      if (order.fulfilment_method === "delivery" && !order.delivery_quote_confirmed_at) {
+        return json({ error: "Delivery availability and the final delivery fee must be confirmed before online payment." }, 409);
       }
       // Reuse an existing pending checkout rather than creating duplicate charge attempts.
       const existingResponse = await fetch(`${url}/rest/v1/marketplace_payments?order_id=eq.${order.id}&user_id=eq.${user.id}&select=provider_reference,status,authorization_url&order=created_at.desc&limit=1`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
