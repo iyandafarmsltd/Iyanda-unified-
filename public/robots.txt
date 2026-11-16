@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iyanda-unified.vercel.app/sitemap.xml
