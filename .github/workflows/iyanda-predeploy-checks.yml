@@ -118,7 +118,9 @@ jobs:
               raise SystemExit("Public page router list was not found")
           routes = re.findall(r"'([^']+)'", route_block.group(1))
           ids = re.findall(r'\bid="([^"]+)"', source)
-          counts = Counter(ids)
+          # Ignore IDs assembled inside JavaScript template strings; those are per-record runtime IDs.
+          literal_ids = [value for value in ids if not any(token in value for token in ("+", "${", "}", "$"))]
+          counts = Counter(literal_ids)
           duplicates = sorted(key for key, count in counts.items() if count > 1)
           if duplicates:
               raise SystemExit("Duplicate HTML IDs detected: " + ", ".join(duplicates))
