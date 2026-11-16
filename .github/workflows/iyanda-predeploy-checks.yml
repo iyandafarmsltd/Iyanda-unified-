@@ -35,6 +35,22 @@ jobs:
             echo "Checking $file"
             node --check "$file"
           done
+
+      - name: Syntax-check optional delivery map module
+        run: |
+          node --check src/delivery-map.js
+          python3 - <<'PY'
+          from pathlib import Path
+          html = Path("src/index.html").read_text(encoding="utf-8")
+          module = Path("src/delivery-map.js").read_text(encoding="utf-8")
+          if '/delivery-map.js' not in html:
+              raise SystemExit("Delivery map module is not loaded by the application.")
+          for required in ("checkoutAddress", "iyandaMapPicker", "openstreetmap.org", "Map pin:"):
+              if required not in module:
+                  raise SystemExit(f"Delivery map module is missing expected feature: {required}")
+          print("Delivery map module, checkout attachment, and OpenStreetMap attribution checks passed.")
+          PY
+
       - name: Check Stage 9 critical UI and handlers
         run: |
           python3 - <<'PY'
