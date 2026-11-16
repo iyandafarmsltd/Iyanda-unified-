@@ -103,3 +103,53 @@ jobs:
               raise SystemExit("Missing required Vercel security headers: " + ", ".join(missing))
           print("Required Vercel security headers are configured.")
           PY
+
+      - name: Smoke-test public page routing and farm quiz banks
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import json
+          import re
+          from collections import Counter
+
+          source = Path("src/index.html").read_text(encoding="utf-8")
+          route_block = re.search(r"const pageIds=\[(.*?)\];", source, re.S)
+          if not route_block:
+              raise SystemExit("Public page router list was not found")
+          routes = re.findall(r"'([^']+)'", route_block.group(1))
+          ids = re.findall(r'\bid="([^"]+)"', source)
+          counts = Counter(ids)
+          duplicates = sorted(key for key, count in counts.items() if count > 1)
+          if duplicates:
+              raise SystemExit("Duplicate HTML IDs detected: " + ", ".join(duplicates))
+          missing = [route for route in routes if f'id="{route}"' not in source]
+          if missing:
+              raise SystemExit("Router pages without matching page sections: " + ", ".join(missing))
+          for route in ["home", "shop", "features", "games", "farmCentre",
+                        "customerHub", "deliveryInfo", "orderTracking", "loyalty",
+                        "afterSales", "faq", "farmGames", "farmQuiz",
+                        "farmAdventure", "harvestChallenge", "contact"]:
+              if route not in routes:
+                  raise SystemExit("Missing public customer journey route: " + route)
+          if not re.search(r"customerAssistant\s*:\s*'customerHub'", source):
+              raise SystemExit("Legacy customer-help route no longer points to Customer Hub")
+          print(f"Public router smoke check passed: {len(routes)} routes, unique IDs, required destinations present.")
+
+          public_dir = Path("public/farm-quiz-data")
+          files = sorted(public_dir.glob("*.json"))
+          if len(files) != 10:
+              raise SystemExit(f"Expected 10 public farm quiz banks, found {len(files)}")
+          for public_file in files:
+              data = json.loads(public_file.read_text(encoding="utf-8"))
+              questions = data.get("questions", [])
+              if len(questions) != 150:
+                  raise SystemExit(f"{public_file}: expected 150 questions, found {len(questions)}")
+              for number, question in enumerate(questions, 1):
+                  options = question.get("options", [])
+                  if len(options) != 4 or sum(bool(option.get("correct")) for option in options) != 1:
+                      raise SystemExit(f"{public_file}: question {number} must have four options and exactly one correct answer")
+              source_file = Path("src/farm-quiz-data") / public_file.name
+              if not source_file.is_file() or json.loads(source_file.read_text(encoding="utf-8")) != data:
+                  raise SystemExit(f"Source/public quiz bank mismatch: {public_file.name}")
+          print("Farm quiz data smoke check passed: 10 banks, 1,500 questions, answer integrity and source/public parity.")
+          PY
