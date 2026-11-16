@@ -40,6 +40,7 @@ Deno.serve(async (req: Request) => {
       const payment = rows?.[0];
       if (!payment) return json({ error: "Payment reference not found" }, 404);
       if (payment.provider !== "paystack") return json({ error: "Payment provider mismatch" }, 400);
+      if (!["pending", "initiated", "success"].includes(payment.status)) return json({ error: "Payment is not in a verifiable state" }, 409);
       if (event.data.status !== "success") return json({ error: "Payment is not successful" }, 400);
       if (Math.round(Number(payment.amount) * 100) !== Number(event.data.amount) || payment.currency !== event.data.currency) return json({ error: "Payment amount or currency mismatch" }, 400);
       const orderCheck = await fetch(`${url}/rest/v1/orders?id=eq.${payment.order_id}&select=id,total,currency`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
@@ -129,6 +130,7 @@ Deno.serve(async (req: Request) => {
       const records = await lookup.json(); const payment = records?.[0];
       if (!payment) return json({ error: "Payment record not found" }, 404);
       if (payment.provider !== "paystack") return json({ error: "Payment provider mismatch" }, 400);
+      if (!["pending", "initiated", "success"].includes(payment.status)) return json({ error: "Payment is not in a verifiable state" }, 409);
       const orderLookup = await fetch(`${url}/rest/v1/orders?id=eq.${payment.order_id}&user_id=eq.${user.id}&select=id,total,currency,payment_status`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
       if (!orderLookup.ok) return json({ error: "Could not retrieve the order for payment verification" }, 502);
       const ownedOrders = await orderLookup.json();
