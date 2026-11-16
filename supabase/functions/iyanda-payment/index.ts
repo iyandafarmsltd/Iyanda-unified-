@@ -119,10 +119,17 @@ Deno.serve(async (req: Request) => {
     if (action === "verify") {
       const reference = String(body.reference ?? "");
       if (!/^IY-[A-Za-z0-9-]{10,64}$/.test(reference)) return json({ error: "Invalid payment reference" }, 400);
-      const lookup = await fetch(`${url}/rest/v1/marketplace_payments?provider_reference=eq.${encodeURIComponent(reference)}&user_id=eq.${user.id}&select=id,order_id,amount,currency,status`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
+      const lookup = await fetch(`${url}/rest/v1/marketplace_payments?provider_reference=eq.${encodeURIComponent(reference)}&user_id=eq.${user.id}&select=id,order_id,amount,currency,status,provider`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
       if (!lookup.ok) return json({ error: "Could not retrieve the payment record" }, 502);
       const records = await lookup.json(); const payment = records?.[0];
       if (!payment) return json({ error: "Payment record not found" }, 404);
+      if (payment.provider !== "paystack") return json({ error: "Payment provider mismatch" }, 400);
+      const orderLookup = await fetch(`${url}/rest/v1/orders?id=eq.${payment.order_id}&user_id=eq.${user.id}&select=id,total,currency,payment_status`, { headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}` } });
+      if (!orderLookup.ok) return json({ error: "Could not retrieve the order for payment verification" }, 502);
+      const ownedOrders = await orderLookup.json();
+      const ownedOrder = ownedOrders?.[0];
+      if (!ownedOrder) return json({ error: "Order not found for this payment" }, 404);
+      if (Math.round(Number(ownedOrder.total) * 100) !== Math.round(Number(payment.amount) * 100) || ownedOrder.currency !== payment.currency) return json({ error: "Payment record does not match the current order total or currency" }, 400);
       const verify = await fetch(`https://api.paystack.co/transaction/verify/${encodeURIComponent(reference)}`, { headers: { Authorization: `Bearer ${paystackKey}` } });
       const result = await verify.json();
       if (!verify.ok || !result.status || result.data?.status !== "success") return json({ success: false, status: result.data?.status || "pending" }, 200);
