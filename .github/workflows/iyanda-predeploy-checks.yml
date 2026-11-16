@@ -52,3 +52,54 @@ jobs:
               raise SystemExit("Missing Stage 9 elements: " + ", ".join(missing))
           print("Stage 9 critical UI and persistence hooks are present.")
           PY
+
+      - name: Scan tracked application files for exposed credentials and required security headers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import json
+          import re
+          import subprocess
+
+          patterns = {
+              "Paystack secret key": re.compile(r"sk_(?:live|test)_[A-Za-z0-9]{16,}"),
+              "Supabase secret key": re.compile(r"sb_secret_[A-Za-z0-9_-]{20,}"),
+              "private key block": re.compile(r"-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----"),
+              "embedded JWT": re.compile(r"eyJhbGciOi[A-Za-z0-9_-]{30,}"),
+              "literal Paystack secret assignment": re.compile(r"PAYSTACK_SECRET_KEY\s*[:=]\s*[\"'][^\"']{8,}"),
+              "literal Supabase service key assignment": re.compile(r"SUPABASE_SERVICE_ROLE_KEY\s*[:=]\s*[\"'][^\"']{8,}"),
+          }
+          paths = subprocess.check_output(["git", "ls-files", "-z"]).decode().split("\0")
+          findings = []
+          for name in filter(None, paths):
+              path = Path(name)
+              if not path.is_file():
+                  continue
+              try:
+                  source = path.read_text(encoding="utf-8")
+              except (UnicodeDecodeError, OSError):
+                  continue
+              for label, pattern in patterns.items():
+                  if pattern.search(source):
+                      findings.append(f"{name}: possible {label}")
+          if findings:
+              raise SystemExit("Potential exposed credentials detected:\n" + "\n".join(findings))
+          print("No private credentials detected in tracked source files.")
+
+          config = json.loads(Path("vercel.json").read_text(encoding="utf-8"))
+          headers = {
+              item["key"].lower(): item["value"]
+              for rule in config.get("headers", [])
+              for item in rule.get("headers", [])
+          }
+          required = [
+              "x-content-type-options",
+              "x-frame-options",
+              "referrer-policy",
+              "strict-transport-security",
+          ]
+          missing = [name for name in required if name not in headers]
+          if missing:
+              raise SystemExit("Missing required Vercel security headers: " + ", ".join(missing))
+          print("Required Vercel security headers are configured.")
+          PY
