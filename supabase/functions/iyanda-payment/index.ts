@@ -118,7 +118,7 @@ Deno.serve(async (req: Request) => {
       });
       const data = await init.json();
       if (!init.ok || !data.status || !data.data?.authorization_url) return json({ error: data.message || "Could not start payment" }, 502);
-      const save = await fetch(`${url}/rest/v1/marketplace_payments`, { method: "POST", headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}`, "Content-Type": "application/json", Prefer: "return=minimal" }, body: JSON.stringify({ order_id: order.id, user_id: user.id, provider_reference: reference, amount: Number(order.total), currency: "NGN", status: "pending", authorization_url: data.data.authorization_url, provider_response: { status: data.status, message: data.message } }) });
+      const save = await fetch(`${url}/rest/v1/marketplace_payments`, { method: "POST", headers: { apikey: serviceKey, Authorization: `Bearer ${serviceKey}`, "Content-Type": "application/json", Prefer: "return=minimal" }, body: JSON.stringify({ order_id: order.id, user_id: user.id, provider: "paystack", provider_reference: reference, amount: Number(order.total), currency: "NGN", status: "pending", authorization_url: data.data.authorization_url, provider_response: { status: data.status, message: data.message } }) });
       if (!save.ok) return json({ error: "Payment started but the payment record could not be saved. Contact support before retrying." }, 500);
       return json({ success: true, reference, authorization_url: data.data.authorization_url });
     }
