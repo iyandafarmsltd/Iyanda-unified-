@@ -23,7 +23,7 @@ jobs:
           from pathlib import Path
           import re
           source = Path("src/index.html").read_text(encoding="utf-8")
-          match = re.search(r'<script\\s+type="module"\\s+src="/([^"]+)"\\s*>\\s*</script>', source)
+          match = re.search(r'<script\s+type="module"\s+src="/([^"]+)"\s*>\s*</script>', source)
           if not match:
               raise SystemExit("External application module reference is missing")
           path = Path("src") / match.group(1)
