@@ -17,30 +17,30 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Extract and syntax-check inline application JavaScript
+      - name: Locate and syntax-check external application JavaScript
         run: |
           python3 - <<'PY'
           from pathlib import Path
           import re
           source = Path("src/index.html").read_text(encoding="utf-8")
-          scripts = re.findall(r'<script\b([^>]*)>([\s\S]*?)</script>', source, re.I)
-          scripts = [body for attrs, body in scripts if 'application/ld+json' not in attrs.lower()]
-          if not scripts:
-              raise SystemExit("No executable inline application script found")
-          for index, script in enumerate(scripts):
-              path = Path(f"/tmp/iyanda-inline-{index}.mjs")
-              path.write_text(script, encoding="utf-8")
-              print(f"Extracted executable script {index + 1}: {len(script)} characters")
+          match = re.search(r'<script\\s+type="module"\\s+src="/([^"]+)"\\s*>\\s*</script>', source)
+          if not match:
+              raise SystemExit("External application module reference is missing")
+          path = Path("src") / match.group(1)
+          if not path.is_file():
+              raise SystemExit(f"Referenced application module does not exist: {path}")
+          app = path.read_text(encoding="utf-8")
+          if len(app) < 150000:
+              raise SystemExit("Unexpectedly small application module; check extraction")
+          Path("/tmp/iyanda-app.mjs").write_text(app, encoding="utf-8")
+          print(f"External application module found: {len(app)} characters")
           PY
-          for file in /tmp/iyanda-inline-*.mjs; do
-            echo "Checking $file"
-            node --check "$file"
-          done
+          node --check /tmp/iyanda-app.mjs
       - name: Check Stage 9 critical UI and handlers
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          source = Path("src/index.html").read_text(encoding="utf-8")
+          source = Path("src/index.html").read_text(encoding="utf-8") + "\\n" + Path("src/iyanda-app-26b4305.js").read_text(encoding="utf-8")
           required = [
               'id="workspaceSection"', 'id="creativeStudioSection"',
               'id="languageCentre"', 'id="savedWorkList"',
@@ -113,7 +113,7 @@ jobs:
           import re
           from collections import Counter
 
-          source = Path("src/index.html").read_text(encoding="utf-8")
+          source = Path("src/index.html").read_text(encoding="utf-8") + "\\n" + Path("src/iyanda-app-26b4305.js").read_text(encoding="utf-8")
           route_block = re.search(r"const pageIds=\[(.*?)\];", source, re.S)
           if not route_block:
               raise SystemExit("Public page router list was not found")
