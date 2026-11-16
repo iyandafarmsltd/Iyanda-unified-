@@ -23,13 +23,14 @@ jobs:
           from pathlib import Path
           import re
           source = Path("src/index.html").read_text(encoding="utf-8")
-          scripts = re.findall(r"<script\b[^>]*>([\s\S]*?)</script>", source, re.I)
+          scripts = re.findall(r'<script\\b([^>]*)>([\\s\\S]*?)</script>', source, re.I)
+          scripts = [body for attrs, body in scripts if 'application/ld+json' not in attrs.lower()]
           if not scripts:
-              raise SystemExit("No inline application script found")
+              raise SystemExit("No executable inline application script found")
           for index, script in enumerate(scripts):
               path = Path(f"/tmp/iyanda-inline-{index}.mjs")
               path.write_text(script, encoding="utf-8")
-              print(f"Extracted inline script {index + 1}: {len(script)} characters")
+              print(f"Extracted executable script {index + 1}: {len(script)} characters")
           PY
           for file in /tmp/iyanda-inline-*.mjs; do
             echo "Checking $file"
