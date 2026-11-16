@@ -936,6 +936,9 @@ body{background:#fff;color:var(--ink);font-family:Inter,system-ui,-apple-system,
   <div class="field wide" style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn" type="submit" id="deliveryZoneSave">Save delivery zone</button><button class="btn light" type="button" id="deliveryZoneCancel">Clear form</button></div>
  </form>
  <div id="deliveryZonesAdmin" class="admin-list" style="margin-top:16px">Loading delivery zones…</div>
+ <h3 style="margin-top:24px">Orders awaiting delivery quote</h3>
+ <p class="muted">Review each destination, enter the confirmed fee for that order, then approve it. No default fee is assumed.</p>
+ <div id="deliveryQuoteQueue" class="admin-list">Loading orders awaiting quotes…</div>
 </div>
 <div class="contact-panel" style="margin-top:18px" <div class="contact-panel" style="margin:18px 0"><div class="eyebrow">Stage 4 · Logistics network</div><h3>Delivery partner directory</h3><form id="stage4PartnerForm" class="admin-grid"><div class="field"><label>Partner / driver name</label><input name="name" required maxlength="140"></div><div class="field"><label>Service type</label><select name="service_type"><option value="in_house">Iyanda in-house</option><option value="third_party">Third-party partner</option><option value="courier">Courier</option><option value="haulage">Haulage</option></select></div><div class="field"><label>Contact person</label><input name="contact_name" maxlength="120"></div><div class="field"><label>Phone</label><input name="phone" maxlength="40"></div><div class="field"><label>Email</label><input name="email" type="email" maxlength="160"></div><div class="field"><label>Coverage city</label><input name="city" maxlength="100"></div><div class="field"><label>Coverage region/state</label><input name="region" maxlength="100"></div><div class="field"><label>Tracking URL template (optional)</label><input name="tracking_url_template" type="url"></div><div class="field wide"><button class="btn" id="stage4PartnerSave">Add delivery partner</button></div></form><div id="stage4PartnerList" class="admin-list">Loading partners…</div>
 <div class="contact-panel" style="margin-top:14px"><h4>Partner payment terms</h4><p class="muted">Only enter terms agreed with the partner. No rates are pre-filled.</p><div id="stage6PartnerTerms" class="admin-list">Loading…</div></div>
@@ -1550,8 +1553,34 @@ async function loadDeliveryZonesAdmin(){
  if(error){box.textContent='Could not load zones: '+error.message;return}
  box.innerHTML=(data||[]).map(z=>'<article class="admin-row"><b>'+esc(z.zone_name)+'</b> · '+esc(z.country_name)+' ('+esc(z.country_code)+')<br><span class="muted">'+esc([z.region,z.city,z.postal_code_prefix?'Postal '+z.postal_code_prefix:''].filter(Boolean).join(' · ')||'Country-wide')+'</span><br>'+esc(z.currency)+' '+esc(z.delivery_fee)+' · '+esc(z.service_status)+' · '+(z.is_active?'Active':'Inactive')+'<br><span class="muted">Estimated: '+(z.estimated_min_days??'—')+'–'+(z.estimated_max_days??'—')+' days</span><br><button class="btn light small" type="button" data-zone-edit="'+z.id+'">Edit</button> <button class="btn light small" type="button" data-zone-toggle="'+z.id+'" data-active="'+(!z.is_active)+'">'+(z.is_active?'Deactivate':'Activate')+'</button></article>').join('')||'<p class="muted">No delivery zones configured. Add a verified zone above.</p>';
 }
+async function loadDeliveryQuoteAdmin(){
+ if(!isAdmin())return;
+ const box=$('#deliveryQuoteQueue');if(!box)return;box.textContent='Loading orders awaiting quotes…';
+ const {data,error}=await supabase.from('orders').select('id,order_number,customer_name,phone,delivery_address,delivery_city,delivery_region,delivery_country_code,subtotal,delivery_fee,total,currency,payment_status,created_at').eq('fulfilment_method','delivery').neq('payment_status','paid').is('delivery_quote_confirmed_at',null).order('created_at',{ascending:false}).limit(50);
+ if(error){box.textContent='Could not load delivery quote queue: '+error.message;return}
+ const rows=data||[];
+ box.innerHTML=rows.map(o=>'<article class="admin-row"><b>'+esc(o.order_number)+'</b> · '+esc(o.customer_name||'Customer')+'<br><span class="muted">'+esc(o.phone||'')+' · '+esc([o.delivery_city,o.delivery_region,o.delivery_country_code].filter(Boolean).join(', ')||o.delivery_address||'Destination pending')+'</span><br><span class="muted">Items: '+esc(o.currency)+' '+esc(o.subtotal)+' · Current total: '+esc(o.currency)+' '+esc(o.total)+'</span><form class="delivery-quote-form" data-quote-order="'+o.id+'" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px"><label style="flex:1;min-width:150px">Confirmed delivery fee <input name="delivery_fee" type="number" min="0" step="0.01" required style="width:100%;padding:10px;border:1px solid var(--line);border-radius:8px"></label><button class="btn" type="submit">Confirm fee &amp; enable payment</button><button class="btn light" type="button" data-quote-unavailable="'+o.id+'">Mark unavailable</button></form></article>').join('')||'<p class="muted">No unpaid delivery orders are waiting for a quote.</p>';
+}
+async function submitDeliveryQuote(orderId,action,fee){
+ const {data:{session}}=await supabase.auth.getSession();if(!session?.access_token){toast('Please sign in again.');return}
+ const response=await fetch(SUPABASE_URL+'/functions/v1/confirm-delivery-quote',{method:'POST',headers:{'Content-Type':'application/json',apikey:SUPABASE_KEY,Authorization:'Bearer '+session.access_token},body:JSON.stringify({order_id:orderId,action,delivery_fee:fee})});
+ const result=await response.json();if(!response.ok)throw new Error(result.error||'Delivery quote update failed');
+ toast(action==='unavailable'?'Order marked as unavailable for delivery.':'Delivery fee confirmed. Customer can now pay the updated total.');
+ await loadDeliveryQuoteAdmin();await loadDispatchAdmin();await renderAdmin();
+}
+$('#deliveryQuoteQueue').addEventListener('submit',async e=>{
+ const form=e.target.closest('.delivery-quote-form');if(!form)return;e.preventDefault();if(!isAdmin())return;
+ const fee=Number(new FormData(form).get('delivery_fee'));if(!Number.isFinite(fee)||fee<0){toast('Enter a valid delivery fee.');return}
+ const btn=form.querySelector('button[type="submit"]');btn.disabled=true;try{await submitDeliveryQuote(form.dataset.quoteOrder,'confirm',fee)}catch(err){toast(err.message)}finally{btn.disabled=false}
+});
+$('#deliveryQuoteQueue').addEventListener('click',async e=>{
+ const btn=e.target.closest('[data-quote-unavailable]');if(!btn||!isAdmin())return;
+ if(!confirm('Mark this order as unavailable for delivery?'))return;btn.disabled=true;
+ try{await submitDeliveryQuote(btn.dataset.quoteUnavailable,'unavailable')}catch(err){toast(err.message)}finally{btn.disabled=false}
+});
 async function loadDispatchAdmin(){
  if(!isAdmin())return;
+ await loadDeliveryQuoteAdmin();
  const box=$('#dispatchOrders'),select=$('#dispatchOrderSelect');box.textContent='Loading orders…';
  const {data,error}=await supabase.from('orders').select('id,order_number,customer_name,phone,delivery_address,delivery_city,delivery_region,delivery_country_code,fulfilment_method,delivery_status,tracking_reference,estimated_delivery_date,created_at').order('created_at',{ascending:false}).limit(100);
  if(error){box.textContent='Could not load orders: '+error.message;return}
