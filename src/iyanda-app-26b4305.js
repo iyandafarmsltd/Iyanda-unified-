@@ -459,8 +459,36 @@ $('#farmOpsForm').addEventListener('submit',async e=>{
 $('#farmOpsFilter').addEventListener('change',renderFarmOperations);
 $('#farmOpsRefresh').addEventListener('click',loadFarmOperations);
 $('#farmOpsList').addEventListener('click',async e=>{const b=e.target.closest('[data-farm-delete]');if(!b||!isAdmin())return;if(!confirm('Delete this farm / business record?'))return;b.disabled=true;const {error}=await supabase.from('iyanda_farm_operations').delete().eq('id',b.dataset.farmDelete);if(error){toast('Record not deleted: '+error.message);b.disabled=false}else{toast('Record deleted.');await loadFarmOperations()}});
+function setupDashboardAccordions(){
+ document.querySelectorAll('.contact-panel').forEach(panel=>{
+  if(panel.dataset.iyandaAccordion==='ready')return;
+  if(!panel.querySelector('.admin-list, .admin-grid, form'))return;
+  const heading=panel.querySelector(':scope > h3, :scope > h4');
+  if(!heading)return;
+  panel.dataset.iyandaAccordion='ready';
+  const details=document.createElement('details');
+  details.className=panel.className;
+  details.style.cssText=panel.style.cssText;
+  details.dataset.iyandaAccordion='ready';
+  const summary=document.createElement('summary');
+  summary.style.cssText='cursor:pointer;display:flex;align-items:center;gap:8px;list-style-position:inside;font-weight:700;min-height:42px;';
+  const eyebrow=heading.previousElementSibling?.classList.contains('eyebrow')?heading.previousElementSibling:null;
+  if(eyebrow){summary.appendChild(eyebrow);eyebrow.style.margin='0 4px 0 0';}
+  const title=document.createElement('span');
+  title.textContent=heading.textContent.trim();
+  summary.appendChild(title);
+  const content=document.createElement('div');
+  content.className='dashboard-accordion-content';
+  let node=heading.nextSibling;
+  while(node){const next=node.nextSibling;content.appendChild(node);node=next;}
+  heading.remove();
+  details.append(summary,content);
+  panel.replaceWith(details);
+ });
+}
 async function renderAdmin(){
  if(!isAdmin())return;
+ setupDashboardAccordions();
  const [orders,support,pending,openTickets,allOrders]=await Promise.all([
   supabase.from('orders').select('id,order_number,customer_name,phone,delivery_address,notes,total,currency,status,review_status,payment_status,created_at').order('created_at',{ascending:false}).limit(12),
   supabase.from('support_messages').select('id,reference_code,customer_name,phone,email,subject,message,status,admin_response,replied_at,created_at,updated_at').order('created_at',{ascending:false}).limit(10),
