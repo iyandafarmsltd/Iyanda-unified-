@@ -493,7 +493,7 @@ function setupLongListAccordions(){
    const existing=container.querySelector(':scope > details[data-iyanda-more]');
    if(existing){
     const preceding=[...container.children].filter(el=>el!==existing);
-    if(preceding.length<=3&&container.lastElementChild===existing)return;
+    if(container.lastElementChild===existing&&preceding.length===Number(existing.dataset.itemCount))return;
     const extra=existing.querySelector('.iyanda-more-content');
     if(extra){while(extra.firstChild)container.insertBefore(extra.firstChild,existing)}
     existing.remove();
@@ -504,6 +504,7 @@ function setupLongListAccordions(){
    const details=document.createElement('details');
    details.className='iyanda-more-items';
    details.dataset.iyandaMore='true';
+   details.dataset.itemCount=String(items.length);
    const summary=document.createElement('summary');
    summary.textContent='Show '+hiddenItems.length+' more '+(hiddenItems.length===1?'item':'items');
    const content=document.createElement('div');
