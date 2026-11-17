@@ -488,12 +488,26 @@ function setupDashboardAccordions(){
 }
 function setupLongListAccordions(){
  const selectors='.feature-grid, .products, .menu-department-links, .home-discovery-grid, .admin-list, .creative-library';
- const scan=()=>{
-  document.querySelectorAll(selectors).forEach(container=>{
+ // Scan only the newly added subtree or the list that was directly changed.
+ // This avoids a full-page query for every small DOM update on the site.
+ const scan=(root=document)=>{
+  const containers=[];
+  if(root.nodeType===1&&root.matches?.(selectors))containers.push(root);
+  root.querySelectorAll?.(selectors).forEach(container=>containers.push(container));
+  containers.forEach(container=>{
    const existing=container.querySelector(':scope > details[data-iyanda-more]');
-   // Once a list is wrapped, leave its DOM intact. Rebuilding it on every
-   // observed mutation causes an observer feedback loop and can freeze the UI.
-   if(existing)return;
+   if(existing){
+    const content=existing.querySelector(':scope > .iyanda-more-content');
+    // Keep newly appended list entries inside the collapsed area.
+    if(content){
+     [...container.children].filter(item=>item!==existing).slice(3).forEach(item=>content.appendChild(item));
+     const count=content.children.length;
+     const summary=existing.querySelector(':scope > summary');
+     if(summary&&count)summary.textContent='Show '+count+' more '+(count===1?'item':'items');
+     existing.dataset.itemCount=String(count+3);
+    }
+    return;
+   }
    const items=[...container.children];
    if(items.length<=3)return;
    const hiddenItems=items.slice(3);
@@ -513,7 +527,15 @@ function setupLongListAccordions(){
  scan();
  if(!document.documentElement.dataset.iyandaLongListObserver){
   document.documentElement.dataset.iyandaLongListObserver='ready';
-  new MutationObserver(()=>scan()).observe(document.body,{childList:true,subtree:true});
+  new MutationObserver(records=>{
+   const changedRoots=new Set();
+   records.forEach(record=>{
+    const target=record.target;
+    if(target.nodeType===1&&target.matches?.(selectors))changedRoots.add(target);
+    record.addedNodes.forEach(node=>{if(node.nodeType===1)changedRoots.add(node);});
+   });
+   changedRoots.forEach(root=>scan(root));
+  }).observe(document.body,{childList:true,subtree:true});
  }
 }
 setupLongListAccordions();
