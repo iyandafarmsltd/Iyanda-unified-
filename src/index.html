@@ -1070,8 +1070,23 @@ a.btn, button.btn {
   font-weight: 800;
 }
 a[href]:not(.btn):not([aria-disabled="true"]) {
-  text-decoration-thickness: 1.5px;
+  display: inline-block;
+  padding: 4px 9px;
+  border: 1px solid rgba(18, 61, 43, .14);
+  border-radius: 8px;
+  background: #edf4ed;
+  color: var(--g);
+  font-weight: 800;
+  text-decoration: none;
   text-underline-offset: 3px;
+  transition: background .18s ease, border-color .18s ease, box-shadow .18s ease;
+}
+a[href]:not(.btn):not([aria-disabled="true"]):hover,
+a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
+  background: #dcebdd;
+  border-color: var(--g2);
+  box-shadow: 0 0 0 2px rgba(18, 61, 43, .10);
+  outline: none;
 }
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
