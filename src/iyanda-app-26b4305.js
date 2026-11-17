@@ -538,12 +538,12 @@ async function loadSellerInsights(){
  if(!summary||!details||!user)return;
  const {data:store,error:storeError}=await supabase.from("seller_profiles").select("id").eq("user_id",user.id).eq("status","approved").maybeSingle();
  if(storeError||!store){summary.textContent="Seller insights are available after your store is approved.";return}
- const [{data:items,error},{data:listings}]=await Promise.all([
-  supabase.from("order_items").select("product_name,quantity,line_total,currency,orders!inner(status,payment_status,created_at)").eq("seller_id",store.id).order("created_at",{ascending:false}).limit(1000),
+ const [{data:items,error},{data:listings,error:listingsError}]=await Promise.all([
+  supabase.rpc("get_seller_sales_insights"),
   supabase.from("products").select("name,stock_quantity,is_active").eq("seller_id",store.id).eq("is_active",true).order("stock_quantity",{ascending:true}).limit(100)
  ]);
- if(error){summary.textContent="Sales insights temporarily unavailable.";details.textContent="Please refresh later.";return}
- const valid=(items||[]).filter(x=>x.orders?.payment_status==="paid"&&!["cancelled","refunded"].includes(x.orders?.status));
+ if(error||listingsError){summary.textContent="Sales insights temporarily unavailable.";details.textContent="Please refresh later.";return}
+ const valid=Array.isArray(items)?items:[];
  const byCurrency=new Map(),top=new Map();
  for(const x of valid){
   const c=x.currency||"NGN",line=Number(x.line_total)||0,qty=Number(x.quantity)||0,d=new Date(x.orders.created_at);
