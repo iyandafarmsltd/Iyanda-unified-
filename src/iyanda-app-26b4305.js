@@ -361,10 +361,10 @@ $('#reorderReminderOptIn')?.addEventListener('change',async e=>{
 });
 $('#promoAdminForm')?.addEventListener('submit',async e=>{
  e.preventDefault();if(!isAdmin())return;const form=e.currentTarget,fd=new FormData(form),feedback=$('#promoAdminFeedback'),btn=form.querySelector('button[type="submit"]');
- const value=Number(fd.get('discount_value')),type=String(fd.get('discount_type'));if(!Number.isFinite(value)||value<=0||(type==='percentage'&&value>100)){feedback.textContent='Enter a valid discount (percentage must be 1–100).';return}
+ const value=Number(fd.get('discount_value')),type=String(fd.get('discount_type')),currency=String(fd.get('currency')||'');if(!Number.isFinite(value)||value<=0||(type==='percentage'&&value>100)){feedback.textContent='Enter a valid discount (percentage must be 1–100).';return}if((type==='fixed'||Number(fd.get('max_discount')||0)>0||Number(fd.get('min_subtotal')||0)>0)&&!currency){feedback.textContent='Choose a currency for fixed discounts, maximum discounts or minimum order values.';return}
  btn.disabled=true;feedback.textContent='Creating code…';
  const ends=fd.get('ends_at')?new Date(String(fd.get('ends_at'))+'T23:59:59').toISOString():null;
- const {error}=await supabase.from('promo_codes').insert({code:String(fd.get('code')).trim().toUpperCase(),discount_type:type,discount_value:value,max_discount:fd.get('max_discount')?Number(fd.get('max_discount')):null,min_subtotal:Number(fd.get('min_subtotal')||0),usage_limit:fd.get('usage_limit')?Number(fd.get('usage_limit')):null,ends_at:ends,created_by:user.id});
+ const {error}=await supabase.from('promo_codes').insert({code:String(fd.get('code')).trim().toUpperCase(),discount_type:type,discount_value:value,currency:currency||null,max_discount:fd.get('max_discount')?Number(fd.get('max_discount')):null,min_subtotal:Number(fd.get('min_subtotal')||0),usage_limit:fd.get('usage_limit')?Number(fd.get('usage_limit')):null,ends_at:ends,created_by:user.id});
  feedback.textContent=error?'Could not create code: '+error.message:'Promo code created.';
  if(!error){form.reset();await loadPromoAdmin()}btn.disabled=false;
 });
