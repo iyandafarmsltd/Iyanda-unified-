@@ -1055,6 +1055,24 @@ details.contact-panel[data-iyanda-accordion="ready"][open]>summary::after{conten
 .menu-department-accordion .menu-department-heading{margin:0;min-width:0}
 .menu-department-accordion>.menu-department-links{padding:0 16px 16px}
 @media(max-width:560px){.menu-department-accordion>.menu-department-summary{padding:13px}.menu-department-accordion>.menu-department-links{padding:0 13px 13px}}
+
+/* Make interactive text clearly distinguishable from supporting copy */
+a[href]:not([aria-disabled="true"]),
+button:not(:disabled):not([aria-disabled="true"]),
+input[type="button"]:not(:disabled),
+input[type="submit"]:not(:disabled),
+input[type="reset"]:not(:disabled),
+[role="button"]:not([aria-disabled="true"]),
+summary {
+  font-weight: 750;
+}
+a.btn, button.btn {
+  font-weight: 800;
+}
+a[href]:not(.btn):not([aria-disabled="true"]) {
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
