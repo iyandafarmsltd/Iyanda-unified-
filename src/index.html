@@ -980,6 +980,36 @@ table{max-width:100%;border-collapse:collapse}
 #sellerStorePortal>h3{letter-spacing:-.02em}
 @media(max-width:600px){.iyanda-dashboard-stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.iyanda-dashboard-stat{padding:12px}.iyanda-dashboard-intro{align-items:flex-start;padding:14px}}
 @media(max-width:350px){.iyanda-dashboard-stats{grid-template-columns:1fr 1fr}.iyanda-dashboard-stat b{font-size:18px}}
+
+/* Number 6 — smooth, accessible interaction polish */
+html{scroll-behavior:smooth;scroll-padding-top:88px}
+button,a,[role="button"],select,input,textarea{ -webkit-tap-highlight-color:transparent }
+button,a,[role="button"],.product,.feature,.admin-row,.main-menu-card,.home-discovery-card,.modal-card{
+ transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease,background-color .18s ease,opacity .18s ease;
+}
+button:not(:disabled):active,[role="button"]:active{transform:scale(.985)}
+button:focus-visible,a:focus-visible,[role="button"]:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible{
+ outline:3px solid rgba(215,173,72,.8);outline-offset:3px
+}
+.btn:not(:disabled):hover,.iconbtn:not(:disabled):hover{box-shadow:0 7px 18px rgba(18,61,43,.13)}
+.product:hover,.feature:hover,.admin-row:hover{border-color:#cbd8ce;box-shadow:0 9px 24px rgba(18,61,43,.08)}
+.modal{display:flex;visibility:hidden;opacity:0;pointer-events:none;transition:opacity .22s ease,visibility .22s ease}
+.modal.show{display:flex;visibility:visible;opacity:1;pointer-events:auto}
+.modal-card{transform:translateY(10px) scale(.99)}
+.modal.show .modal-card{transform:translateY(0) scale(1)}
+.toast{z-index:120;max-width:min(92vw,520px);line-height:1.45;box-shadow:0 12px 32px rgba(0,0,0,.2)}
+.toast.show{animation:iyanda-toast-in .22s ease-out both}
+@keyframes iyanda-toast-in{from{opacity:0;transform:translate(-50%,12px)}to{opacity:1;transform:translate(-50%,0)}}
+.loading-state{display:flex;align-items:center;justify-content:center;gap:10px;min-height:64px;color:var(--muted)}
+.loading-state::before{content:"";width:17px;height:17px;border:2px solid var(--line);border-top-color:var(--g2);border-radius:50%;animation:iyanda-spin .75s linear infinite}
+@keyframes iyanda-spin{to{transform:rotate(360deg)}}
+button[aria-busy="true"]{cursor:progress}
+button[aria-busy="true"]::after{content:"";width:13px;height:13px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:iyanda-spin .7s linear infinite}
+@media(prefers-reduced-motion:reduce){
+ html{scroll-behavior:auto}
+ *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
@@ -1337,6 +1367,6 @@ id="dispatchAdmin">
 <div class="modal" id="cartModal"><div class="modal-card"><div class="modal-head"><h3>Your shopping cart</h3><button class="close" data-close="cartModal">✕</button></div><div id="cartItems" class="cart-list"></div><div style="display:flex;justify-content:space-between;font-weight:850;color:var(--g)"><span>Subtotal</span><span id="cartTotal">₦0</span></div><p id="cartNote" class="muted" style="font-size:12px"></p><form id="checkoutForm"><div class="field"><label for="checkoutPromoCode">Promo code (optional)</label><div style="display:flex;gap:8px;flex-wrap:wrap"><input id="checkoutPromoCode" name="promo_code" maxlength="32" autocomplete="off" placeholder="Enter promo code" style="flex:1;min-width:150px"><button class="btn light" id="applyPromoCode" type="button">Apply code</button></div><p id="promoCodeFeedback" class="muted" role="status" aria-live="polite">Sign in to validate an available promotion.</p></div><div class="field"><label for="redeemRewardPoints">Use Iyanda Rewards points (optional)</label><input id="redeemRewardPoints" name="redeem_points" type="number" min="0" step="1" value="0" inputmode="numeric"><p class="muted" id="redeemRewardHint" style="font-size:12px">Sign in to check your available points. Minimum redemption is 500 points (₦500).</p></div><div class="field"><label for="checkoutName">Customer name</label><input id="checkoutName" name="name" autocomplete="name" required></div><div class="field"><label for="checkoutPhone">Phone number</label><input id="checkoutPhone" name="phone" type="tel" autocomplete="tel" required></div><div class="field"><label for="fulfilmentMethod">Fulfilment method</label><select id="fulfilmentMethod" name="fulfilment_method" required><option value="delivery">Delivery</option><option value="collection">Collection / pickup</option></select></div><div class="field" id="deliveryTypeField"><label for="checkoutDeliveryType">Delivery option</label><select id="checkoutDeliveryType" name="delivery_type"><option value="terminal_pickup">Terminal pickup</option><option value="doorstep">Doorstep delivery (+₦2,500)</option></select></div><div class="field" id="parcelWeightField"><label for="checkoutParcelWeight">Parcel weight</label><select id="checkoutParcelWeight" name="parcel_weight_band"><option value="0_2kg">Small parcel — 0–2kg</option><option value="over_2kg">Large parcel — standard delivery fee</option></select></div><div class="field"><label for="checkoutCountryCode">Delivery country code</label><input id="checkoutCountryCode" name="delivery_country_code" value="NG" maxlength="2" pattern="[A-Za-z]{2}" placeholder="NG" required></div><div class="field"><label for="checkoutRegion">State / region</label><input id="checkoutRegion" name="delivery_region" placeholder="Lagos"></div><div class="field"><label for="checkoutCity">City</label><input id="checkoutCity" name="delivery_city" placeholder="Ikeja" required></div><div class="field"><label for="checkoutPostalCode">Postal code (optional)</label><input id="checkoutPostalCode" name="delivery_postal_code" maxlength="20"></div><div class="field"><label for="savedCheckoutAddress">Use a saved address</label><select id="savedCheckoutAddress"><option value="">Enter address manually</option></select></div>
 <div id="deliveryZoneStatus" class="muted" role="status" style="font-size:12px;margin:8px 0">Delivery availability and any fee will be confirmed for your destination.</div>
 <div class="field"><label for="checkoutAddress">Delivery address / collection details</label><textarea id="checkoutAddress" name="address" autocomplete="street-address" required placeholder="Enter your delivery address or preferred collection details"></textarea></div><div class="field"><label for="paymentPreference">Payment preference</label><select id="paymentPreference" name="payment_preference" required><option value="paystack">Pay securely online with Paystack (cards, bank and supported methods)</option></select></div><p class="muted" style="font-size:12px">Pay securely online with Paystack. Delivery fees are handled separately by Iyanda via WhatsApp after your order; no delivery quote or fee confirmation is needed to pay.</p><div class="field"><label for="checkoutNotes">Order notes (optional)</label><textarea id="checkoutNotes" name="notes"></textarea></div><button class="btn" type="submit" style="width:100%">Place order & pay securely</button></form></div></div>
-<div class="toast" id="toast"></div>
+<div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
 <script type="module" src="/iyanda-app-26b4305.js"></script>
 </body></html>
