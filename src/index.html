@@ -1028,6 +1028,15 @@ button[aria-busy="true"]::after{content:"";width:13px;height:13px;border:2px sol
  *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
 
+
+/* Compact, accessible expandable dashboard panels */
+details.contact-panel[data-iyanda-accordion="ready"]{display:block}
+details.contact-panel[data-iyanda-accordion="ready"]>summary{list-style:none;gap:10px;outline-offset:4px}
+details.contact-panel[data-iyanda-accordion="ready"]>summary::-webkit-details-marker{display:none}
+details.contact-panel[data-iyanda-accordion="ready"]>summary::after{content:"⌄";margin-left:auto;font-size:1.35rem;line-height:1;color:var(--g);font-weight:700}
+details.contact-panel[data-iyanda-accordion="ready"][open]>summary::after{content:"⌃"}
+.dashboard-accordion-content{padding-top:12px}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
