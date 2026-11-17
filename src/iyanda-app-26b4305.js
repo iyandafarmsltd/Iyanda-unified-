@@ -378,11 +378,6 @@ document.addEventListener('click',async e=>{
  b.disabled=true;const {error}=await supabase.from('marketplace_alerts').update({read_at:new Date().toISOString()}).eq('id',b.dataset.alertRead).eq('recipient_user_id',user.id);
  if(error){b.disabled=false;toast('Could not update alert.')}else{b.textContent='Read';b.disabled=true;b.closest('.admin-row')?.classList.add('muted')}
 });
-document.addEventListener('click',async e=>{
- const b=e.target.closest('[data-promo-deactivate]');if(!b||!isAdmin())return;b.disabled=true;
- const {error}=await supabase.from('promo_codes').update({is_active:false}).eq('id',b.dataset.promoDeactivate);
- if(error){toast('Could not deactivate promo code.');b.disabled=false}else{toast('Promo code deactivated.');await loadPromoAdmin()}
-});
 
 $('#copyReferralLink').addEventListener('click',()=>copyText($('#myReferralLink').value));$('#shareReferralLink').addEventListener('click',()=>{const url=$('#myReferralLink').value;if(!url||url.startsWith('Preparing'))return;if(navigator.share)navigator.share({title:'Join me on Iyanda One',text:'Discover businesses, products and services on Iyanda One.',url}).catch(()=>{});else copyText(url)});
 document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',()=>modal(b.dataset.close,false)));
