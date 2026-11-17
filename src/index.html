@@ -782,6 +782,85 @@ button:disabled:hover, [aria-disabled="true"]:hover {
 
 /* Status labels distinguish unavailable and not-yet-active services from clickable actions. */
 .availability-status{display:inline-flex;align-items:center;width:fit-content;max-width:100%;padding:5px 9px;border:1px solid var(--line);border-radius:999px;background:var(--soft,#f4f6f4);color:var(--ink);font-size:11px;font-weight:750;line-height:1.35}
+
+
+/* Iyanda One premium visual system — CSS-only refinement; preserves all existing markup and behaviour. */
+:root{
+  --g:#123d2b;
+  --g2:#1d6042;
+  --gold:#d7ad48;
+  --cream:#fbfaf5;
+  --ink:#17251d;
+  --muted:#68756d;
+  --line:#e5e9e2;
+  --white:#fff;
+  --shadow:0 14px 40px rgba(18,61,43,.10);
+  --soft:#f1f5ef;
+  --surface-shadow:0 8px 26px rgba(18,61,43,.07);
+}
+body{
+  letter-spacing:.002em;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+::selection{background:rgba(215,173,72,.32);color:var(--g)}
+.wrap{width:min(100% - 32px,1180px)}
+.header{box-shadow:0 3px 18px rgba(18,61,43,.045)}
+.brand,.logo,.btn,.iconbtn,.chip,.main-menu-card,.home-discovery-card,.product,.feature{
+  -webkit-tap-highlight-color:transparent;
+}
+.btn,.iconbtn,.chip,.main-menu-card,.home-discovery-card,.product,.feature,.contact-panel,.modal-card{
+  transition:background-color .18s ease,border-color .18s ease,box-shadow .18s ease,transform .18s ease;
+}
+.btn{min-height:44px;box-shadow:0 3px 9px rgba(18,61,43,.10)}
+.btn.gold{box-shadow:0 3px 10px rgba(143,105,20,.13)}
+.btn:focus-visible,.iconbtn:focus-visible,.chip:focus-visible{outline:3px solid rgba(215,173,72,.75);outline-offset:3px}
+input,select,textarea{
+  border:1px solid #dce4dc;
+  border-radius:11px;
+  background:#fff;
+  color:var(--ink);
+  transition:border-color .18s ease,box-shadow .18s ease;
+}
+input:focus,select:focus,textarea:focus{
+  outline:0;
+  border-color:var(--g2);
+  box-shadow:0 0 0 3px rgba(29,96,66,.12);
+}
+input::placeholder,textarea::placeholder{color:#8a958d}
+.product,.feature,.contact-panel{
+  border-color:var(--line);
+  box-shadow:var(--surface-shadow);
+}
+.product:hover,.feature:hover{
+  box-shadow:0 15px 34px rgba(18,61,43,.12);
+}
+.section-head{align-items:flex-end}
+.section h2{letter-spacing:-.04em}
+.section.alt{background:linear-gradient(180deg,#f3f6f1 0%,#eef3ec 100%)}
+.trust-item{line-height:1.4}
+.modal-card{
+  border:1px solid rgba(229,233,226,.95);
+  box-shadow:0 24px 80px rgba(10,35,23,.24);
+}
+.toast{box-shadow:0 10px 30px rgba(10,35,23,.18)}
+a:not([class]):hover{color:var(--g2)}
+@media(hover:hover){
+  .btn:not(:disabled):hover,.iconbtn:not(:disabled):hover{transform:translateY(-1px)}
+  .product:hover,.feature:hover{transform:translateY(-2px)}
+}
+@media(max-width:600px){
+  .wrap{width:min(100% - 24px,1180px);padding-left:0;padding-right:0}
+  .section{padding:46px 0}
+  .section-head{align-items:flex-start;flex-direction:column}
+  .section-head .search{width:100%}
+  .btn{min-height:44px}
+  .modal-card{max-height:calc(100dvh - 20px);overflow:auto}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
