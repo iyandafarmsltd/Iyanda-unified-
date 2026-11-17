@@ -491,13 +491,9 @@ function setupLongListAccordions(){
  const scan=()=>{
   document.querySelectorAll(selectors).forEach(container=>{
    const existing=container.querySelector(':scope > details[data-iyanda-more]');
-   if(existing){
-    const preceding=[...container.children].filter(el=>el!==existing);
-    if(container.lastElementChild===existing&&preceding.length===Number(existing.dataset.itemCount))return;
-    const extra=existing.querySelector('.iyanda-more-content');
-    if(extra){while(extra.firstChild)container.insertBefore(extra.firstChild,existing)}
-    existing.remove();
-   }
+   // Once a list is wrapped, leave its DOM intact. Rebuilding it on every
+   // observed mutation causes an observer feedback loop and can freeze the UI.
+   if(existing)return;
    const items=[...container.children];
    if(items.length<=3)return;
    const hiddenItems=items.slice(3);
