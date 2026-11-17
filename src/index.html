@@ -192,11 +192,29 @@ a { color: inherit; text-decoration: none; }
 
 .field textarea { min-height: 88px; resize: vertical; }
 
-.footer { background: rgb(13, 45, 32); color: rgb(232, 240, 233); padding: 36px 0px; }
+.footer { background: rgb(13, 45, 32); color: rgb(232, 240, 233); padding: 48px 0 20px; }
 
-.footer-row { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1.2fr; gap: 30px; }
+.footer-brand-name { display: inline-block; color: #fff; font-size: 22px; font-weight: 850; text-decoration: none; margin-bottom: 9px; }
+.footer-brand p { max-width: 300px; color: rgb(210, 224, 213); line-height: 1.65; margin: 0 0 16px; }
+.footer-contact-link { display: inline-block; color: #f2d78a; font-weight: 750; text-underline-offset: 4px; }
+.footer-column { display: grid; align-content: start; justify-items: start; gap: 10px; }
+.footer-column h2 { color: #fff; font-size: 14px; margin: 2px 0 5px; }
+.footer-column a, .footer-bottom a { color: rgb(220, 233, 222); text-decoration: none; font-size: 13px; }
+.footer-column a:hover, .footer-bottom a:hover, .footer-contact-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+.footer-help small, .footer small { color: rgb(185, 203, 189); line-height: 1.6; }
+.footer-bottom { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; border-top: 1px solid rgba(220, 239, 224, .2); margin-top: 32px; padding-top: 17px; }
 
-.footer small { color: rgb(185, 203, 189); }
+@media (max-width: 700px) {
+ .footer { padding-top: 34px; }
+ .footer-grid { grid-template-columns: 1fr 1fr; gap: 26px 18px; }
+ .footer-brand { grid-column: 1 / -1; }
+ .footer-bottom { align-items: flex-start; }
+}
+@media (max-width: 380px) {
+ .footer-grid { grid-template-columns: 1fr; }
+ .footer-brand { grid-column: auto; }
+}
 
 .modal { display: none; position: fixed; inset: 0px; z-index: 60; background: rgba(8, 24, 16, 0.58); padding: 18px; align-items: center; justify-content: center; }
 
@@ -1353,7 +1371,30 @@ id="dispatchAdmin">
 </div>
 </div></section><section class="section alt" id="languageCentre" aria-hidden="true"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Communicate across borders</div><h2>Iyanda Global Language Centre</h2><p>Translate, identify languages, understand expressions and learn a new language with AI.</p></div><span class="pill">🌍 Multilingual AI</span></div><div class="language-grid"><div class="language-panel"><h3 style="color:var(--g);margin-top:0">Your language assistant</h3><label for="languageAction">What would you like to do?</label><select id="languageAction"><option value="translate">Translate text</option><option value="detect">Detect a language</option><option value="explain">Explain a phrase</option><option value="lesson">Create a language lesson</option></select><div class="language-controls"><div><label for="languageSource">From</label><select id="languageSource"><option>auto-detect</option><option>English</option><option>Yoruba</option><option>Hausa</option><option>Igbo</option><option>Nigerian Pidgin</option><option>French</option><option>Spanish</option><option>Portuguese</option><option>Arabic</option><option>Swahili</option><option>Chinese (Mandarin)</option><option>Hindi</option><option>German</option><option>Italian</option><option>Japanese</option><option>Korean</option><option>Russian</option><option>Turkish</option></select></div><div><label for="languageTarget">Into / explain in</label><select id="languageTarget"><option>English</option><option>Yoruba</option><option>Hausa</option><option>Igbo</option><option>Nigerian Pidgin</option><option>French</option><option>Spanish</option><option>Portuguese</option><option>Arabic</option><option>Swahili</option><option>Chinese (Mandarin)</option><option>Hindi</option><option>German</option><option>Italian</option><option>Japanese</option><option>Korean</option><option>Russian</option><option>Turkish</option></select></div></div><label for="languageLevel">Lesson level (for lessons)</label><select id="languageLevel"><option value="beginner">Beginner</option><option value="intermediate">Intermediate</option><option value="advanced">Advanced</option></select><label for="languageInput">Enter text or lesson topic</label><textarea id="languageInput" rows="6" maxlength="10000" placeholder="Type a sentence, phrase, or the topic you want to learn..."></textarea><div class="language-actions"><button class="btn" id="languageRun" type="button">Translate</button><button class="btn light small" id="languageClear" type="button">Clear</button></div><p class="language-note" id="languageStatus">Sign in to use the private Language Centre. Language support and pronunciation may vary by dialect.</p></div><div class="language-panel"><h3 style="color:var(--g);margin-top:0">Your result</h3><div class="language-result" id="languageResult" aria-live="polite">Your translation, explanation, detected language or lesson will appear here.</div><div class="language-actions"><button class="btn light small" id="languageCopy" type="button">Copy result</button><button class="btn light small" id="languageSaveWork" type="button">Save to My Saved Work</button></div><p class="language-note">AI translations can miss cultural context, idioms or regional dialects. Check important legal, medical or official translations with a qualified human translator.</p></div></div></div></section>
 </main>
-<footer class="footer"><div class="wrap footer-row"><div><div style="font-size:18px;font-weight:850">Iyanda One</div><small>One connected global platform for life, business and opportunity.</small></div><div><a href="#/shop">Marketplace</a> · <a href="#/ai">Iyanda AI</a> · <a href="#/dailyLifeSection">Daily Life</a> · <a href="#/workspaceSection">Workspace</a> · <a href="#/contact">Contact</a><br><small>© <span id="year">2026</span> Iyanda One · An Iyanda Farms Ecosystem initiative</small></div></div></footer>
+<footer class="footer" aria-label="Website footer">
+ <div class="wrap">
+  <div class="footer-grid">
+   <div class="footer-brand">
+    <a class="footer-brand-name" href="#/home" aria-label="Iyanda One home">Iyanda One</a>
+    <p>One connected global platform for life, business and opportunity.</p>
+    <a class="footer-contact-link" href="https://wa.me/2347043071733" target="_blank" rel="noopener noreferrer">Contact our team on WhatsApp</a>
+   </div>
+   <nav class="footer-column" aria-label="Explore Iyanda One">
+    <h2>Explore</h2>
+    <a href="#/shop">Marketplace</a><a href="#/dailyLifeSection">Daily Life</a><a href="#/workspaceSection">My Workspace</a><a href="#/creativeStudioSection">Creative Studio</a><a href="#/ai">Iyanda AI</a>
+   </nav>
+   <nav class="footer-column" aria-label="More services">
+    <h2>More services</h2>
+    <a href="#/features">Services</a><a href="#/games">Games</a><a href="#/farmCentre">Farm Centre</a><a href="#/customerHub">Customer Hub</a><a href="#/languageCentre">Languages</a>
+   </nav>
+   <div class="footer-column footer-help">
+    <h2>Need help?</h2><a href="#/contact">Contact Iyanda</a>
+    <small>We're building a connected ecosystem for customers, sellers and communities worldwide.</small>
+   </div>
+  </div>
+  <div class="footer-bottom"><small>© <span id="year">2026</span> Iyanda One · An Iyanda Farms Ecosystem initiative</small><a href="#/home" aria-label="Back to Iyanda One home">Back to home ↑</a></div>
+ </div>
+</footer>
 <div class="modal" id="authModal"><div class="modal-card"><div class="modal-head"><h3 id="authTitle">Sign in</h3><button class="close" data-close="authModal">✕</button></div><div id="authNotice" class="muted" style="font-size:13px;margin:10px 0"></div><div id="signedInAccount" class="hidden"><p>You are signed in as <b id="signedInEmail"></b>.</p><p id="accountVerification" class="muted" role="status" style="font-size:12px"></p><form id="profileForm"><div class="field"><label for="profileName">Full name</label><input id="profileName" name="display_name" autocomplete="name" maxlength="120" required></div><div class="field"><label for="profilePhone">Phone number</label><input id="profilePhone" name="phone" type="tel" autocomplete="tel" maxlength="30" placeholder="+234…"></div>
 <div class="field"><label for="profileCountry">Country</label><select id="profileCountry" name="country_code"><option value="NG" data-currency="NGN" data-timezone="Africa/Lagos">Nigeria</option><option value="GH" data-currency="GHS" data-timezone="Africa/Accra">Ghana</option><option value="KE" data-currency="KES" data-timezone="Africa/Nairobi">Kenya</option><option value="ZA" data-currency="ZAR" data-timezone="Africa/Johannesburg">South Africa</option><option value="US" data-currency="USD" data-timezone="America/New_York">United States</option><option value="GB" data-currency="GBP" data-timezone="Europe/London">United Kingdom</option><option value="CA" data-currency="CAD" data-timezone="America/Toronto">Canada</option><option value="AU" data-currency="AUD" data-timezone="Australia/Sydney">Australia</option><option value="IN" data-currency="INR" data-timezone="Asia/Kolkata">India</option><option value="AE" data-currency="AED" data-timezone="Asia/Dubai">United Arab Emirates</option><option value="DE" data-currency="EUR" data-timezone="Europe/Berlin">Germany</option><option value="FR" data-currency="EUR" data-timezone="Europe/Paris">France</option><option value="OTHER" data-currency="USD" data-timezone="UTC">Other country</option></select></div>
 <div class="field"><label for="profileRegion">State / Province / Region</label><input id="profileRegion" name="region" maxlength="120" autocomplete="address-level1"></div>
