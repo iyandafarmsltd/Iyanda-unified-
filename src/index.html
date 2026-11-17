@@ -729,6 +729,56 @@ html{scroll-behavior:smooth;scroll-padding-top:92px}
   .btn,.feature,.product,.main-menu-card,.home-discovery-card,.links a{transition:none!important}
 }
 
+
+/* Clear, consistent cues for customers: actions look interactive; information cards stay neutral. */
+a[href]:not(.btn):not(.main-menu-card):not(.home-discovery-card):not(.brand) {
+  cursor: pointer;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .2em;
+}
+a[href]:not(.btn):not(.main-menu-card):not(.home-discovery-card):not(.brand):hover {
+  text-decoration-thickness: 2px;
+}
+button:not(:disabled), [role="button"]:not([aria-disabled="true"]),
+.main-menu-card, .home-discovery-card {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.main-menu-card::after {
+  content: "Open →";
+  display: inline-block;
+  margin-top: auto;
+  color: var(--g2);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .01em;
+}
+.home-discovery-card span::after {
+  content: "Explore →";
+  display: block;
+  margin-top: 9px;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .02em;
+}
+button:disabled, [aria-disabled="true"] {
+  cursor: not-allowed !important;
+  opacity: .55;
+  filter: saturate(.65);
+  box-shadow: none !important;
+  transform: none !important;
+}
+button:disabled:hover, [aria-disabled="true"]:hover {
+  transform: none !important;
+}
+.btn:not(:disabled):active, .iconbtn:not(:disabled):active,
+.chip:not(:disabled):active, .game-option:not(:disabled):active,
+.main-menu-card:active, .home-discovery-card:active {
+  transform: translateY(1px);
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
