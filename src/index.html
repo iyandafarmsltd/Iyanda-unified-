@@ -1045,6 +1045,16 @@ details.contact-panel[data-iyanda-accordion="ready"]>summary::after{content:"⌄
 details.contact-panel[data-iyanda-accordion="ready"][open]>summary::after{content:"⌃"}
 .dashboard-accordion-content{padding-top:12px}
 
+
+/* Collapsible main-menu departments */
+.menu-department-accordion{padding:0;overflow:hidden}
+.menu-department-accordion>.menu-department-summary{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px;cursor:pointer;list-style:none;outline-offset:-4px}
+.menu-department-accordion>.menu-department-summary::-webkit-details-marker{display:none}
+.menu-department-accordion>.menu-department-summary::after{content:"⌄";flex:0 0 auto;color:var(--g);font-size:24px;font-weight:800;line-height:1}
+.menu-department-accordion[open]>.menu-department-summary::after{content:"⌃"}
+.menu-department-accordion .menu-department-heading{margin:0;min-width:0}
+.menu-department-accordion>.menu-department-links{padding:0 16px 16px}
+@media(max-width:560px){.menu-department-accordion>.menu-department-summary{padding:13px}.menu-department-accordion>.menu-department-links{padding:0 13px 13px}}
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
@@ -1118,48 +1128,48 @@ details.contact-panel[data-iyanda-accordion="ready"][open]>summary::after{conten
    <button class="iconbtn" id="closeMainMenu" type="button" aria-label="Close menu">✕ Close</button>
   </div>
   <div class="menu-departments">
-   <section class="menu-department">
-    <div class="menu-department-heading"><span>🏠</span><div><h3>Start &amp; Explore</h3><p>Your main destinations</p></div></div>
+   <details class="menu-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>🏠</span><div><h3>Start &amp; Explore</h3><p>Your main destinations</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/home"><span class="menu-emoji">🏠</span><span>Home</span><small>Your Iyanda One starting point</small></a>
      <a class="main-menu-card" href="#/shop"><span class="menu-emoji">🛍️</span><span>Marketplace</span><small>Browse products and shop</small></a>
      <a class="main-menu-card" href="#/features"><span class="menu-emoji">🧭</span><span>All Services</span><small>Explore platform services</small></a>
     </div>
-   </section>
-   <section class="menu-department">
-    <div class="menu-department-heading"><span>🌱</span><div><h3>Farm &amp; Global Trade</h3><p>Agriculture, supply and trade</p></div></div>
+   </details>
+   <details class="menu-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>🌱</span><div><h3>Farm &amp; Global Trade</h3><p>Agriculture, supply and trade</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🌾</span><span>Farm Centre</span><small>Farming knowledge and guidance</small></a>
      <a class="main-menu-card" href="#/farm-centre"><span class="menu-emoji">🚜</span><span>Farm Operations &amp; Resources</span><small>Farm operations, resources and sourcing</small></a>
      <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🌐</span><span>Global Trade Desk</span><small>International buyers and suppliers</small></a>
     </div>
-   </section>
-   <section class="menu-department">
-    <div class="menu-department-heading"><span>📦</span><div><h3>Orders &amp; Selling</h3><p>Manage your marketplace activity</p></div></div>
+   </details>
+   <details class="menu-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>📦</span><div><h3>Orders &amp; Selling</h3><p>Manage your marketplace activity</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🤝</span><span>Customer &amp; Seller Hub</span><small>Customer help and seller access</small></a>
      <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🚚</span><span>Orders &amp; Delivery Tracking</span><small>Purchases, dispatch and delivery</small></a>
      <a class="main-menu-card" href="#/customer-hub"><span class="menu-emoji">🏪</span><span>Seller Centre</span><small>Seller tools and customer orders</small></a>
     </div>
-   </section>
-   <section class="menu-department">
-    <div class="menu-department-heading"><span>✦</span><div><h3>AI &amp; Productivity</h3><p>Get help and organise your work</p></div></div>
+   </details>
+   <details class="menu-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>✦</span><div><h3>AI &amp; Productivity</h3><p>Get help and organise your work</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/ai"><span class="menu-emoji">✦</span><span>Iyanda AI</span><small>Your intelligent assistant</small></a>
      <a class="main-menu-card" href="#/dailyLifeSection"><span class="menu-emoji">📅</span><span>Daily Life</span><small>Tasks, routines and planning</small></a>
      <a class="main-menu-card" href="#/workspaceSection"><span class="menu-emoji">📁</span><span>My Workspace</span><small>Files, documents and saved work</small></a>
     </div>
-   </section>
-   <section class="menu-department">
-    <div class="menu-department-heading"><span>🎨</span><div><h3>Create &amp; Learn</h3><p>Build skills and express ideas</p></div></div>
+   </details>
+   <details class="menu-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>🎨</span><div><h3>Create &amp; Learn</h3><p>Build skills and express ideas</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/creativeStudioSection"><span class="menu-emoji">🎨</span><span>Creative Studio</span><small>Writing, music and media tools</small></a>
      <a class="main-menu-card" href="#/languageCentre"><span class="menu-emoji">🌍</span><span>Language Centre</span><small>Translation and language learning</small></a>
      <a class="main-menu-card" href="#/games"><span class="menu-emoji">🎮</span><span>Games &amp; Challenges</span><small>Play and learn</small></a>
     </div>
-   </section>
-   <section class="menu-department menu-help-department">
-    <div class="menu-department-heading"><span>💬</span><div><h3>Help &amp; Account</h3><p>Support and quick actions</p></div></div>
+   </details>
+   <details class="menu-department menu-help-department menu-department-accordion">
+    <summary class="menu-department-summary"><div class="menu-department-heading"><span>💬</span><div><h3>Help &amp; Account</h3><p>Support and quick actions</p></div></summary>
     <div class="menu-department-links">
      <a class="main-menu-card" href="#/faq"><span class="menu-emoji">❔</span><span>FAQs</span><small>Answers about orders, payment and delivery</small></a>
      <a class="main-menu-card" href="#/customerHub"><span class="menu-emoji">🤝</span><span>Customer Hub</span><small>Orders, help and customer services</small></a>
@@ -1167,7 +1177,7 @@ details.contact-panel[data-iyanda-accordion="ready"][open]>summary::after{conten
      <button class="main-menu-card" id="menuAccountAction" type="button"><span class="menu-emoji">👤</span><span>My Account</span><small>Sign in or manage your account</small></button>
      <button class="main-menu-card" id="menuCartAction" type="button"><span class="menu-emoji">🛒</span><span>Shopping Cart</span><small>Review items and checkout</small></button>
     </div>
-   </section>
+   </details>
   </div>
   <div class="menu-admin-area"><a class="main-menu-card admin-menu-link" id="adminMenuLink" href="#/admin"><span class="menu-emoji">🔐</span><span>Iyanda Admin</span><small>Private business dashboard and platform controls</small></a><span>Administrator access only</span></div>
  </div>
