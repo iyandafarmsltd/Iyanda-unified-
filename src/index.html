@@ -1029,6 +1029,14 @@ button[aria-busy="true"]::after{content:"";width:13px;height:13px;border:2px sol
 }
 
 
+/* Compact, accessible expandable lists and card grids across all pages */
+details.iyanda-more-items{grid-column:1/-1;width:100%;margin-top:8px;padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+details.iyanda-more-items>summary{display:flex;align-items:center;gap:8px;min-height:38px;cursor:pointer;list-style:none;font-weight:700;color:var(--g);outline-offset:4px}
+details.iyanda-more-items>summary::-webkit-details-marker{display:none}
+details.iyanda-more-items>summary::after{content:"⌄";margin-left:auto;font-size:1.35rem;line-height:1;font-weight:700}
+details.iyanda-more-items[open]>summary::after{content:"⌃"}
+.iyanda-more-content{display:contents}
+details.iyanda-more-items[open]>.iyanda-more-content{display:contents}
 /* Compact, accessible expandable dashboard panels */
 details.contact-panel[data-iyanda-accordion="ready"]{display:block}
 details.contact-panel[data-iyanda-accordion="ready"]>summary{list-style:none;gap:10px;outline-offset:4px}
