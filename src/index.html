@@ -1035,8 +1035,8 @@ details.iyanda-more-items>summary{display:flex;align-items:center;gap:8px;min-he
 details.iyanda-more-items>summary::-webkit-details-marker{display:none}
 details.iyanda-more-items>summary::after{content:"⌄";margin-left:auto;font-size:1.35rem;line-height:1;font-weight:700}
 details.iyanda-more-items[open]>summary::after{content:"⌃"}
-.iyanda-more-content{display:contents}
-details.iyanda-more-items[open]>.iyanda-more-content{display:contents}
+.iyanda-more-content{display:none!important}
+details.iyanda-more-items[open]>.iyanda-more-content{display:contents!important}
 /* Compact, accessible expandable dashboard panels */
 details.contact-panel[data-iyanda-accordion="ready"]{display:block}
 details.contact-panel[data-iyanda-accordion="ready"]>summary{list-style:none;gap:10px;outline-offset:4px}
