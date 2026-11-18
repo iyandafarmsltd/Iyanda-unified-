@@ -1121,6 +1121,104 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
   box-shadow: 0 0 0 2px rgba(18, 61, 43, .10);
   outline: none;
 }
+
+
+/* Department visual refresh — presentation only; no application logic or data changes. */
+#shop,#farmCentre,#farmGames,#farmQuiz,#farmAdventure,#harvestChallenge{
+  --dept-accent:#287b3b;--dept-accent-strong:#145c2b;--dept-soft:#edf7e8;--dept-tint:#f7fbf2;
+}
+#customerHub,#deliveryInfo,#orderTracking,#loyalty,#afterSales,#faq{
+  --dept-accent:#147b78;--dept-accent-strong:#105b5a;--dept-soft:#e6f5f2;--dept-tint:#f4fbf9;
+}
+#dailyLifeSection{
+  --dept-accent:#b87516;--dept-accent-strong:#80500d;--dept-soft:#fff2d9;--dept-tint:#fffaf0;
+}
+#workspaceSection{
+  --dept-accent:#3975b9;--dept-accent-strong:#234f83;--dept-soft:#eaf1fa;--dept-tint:#f5f8fd;
+}
+#creativeStudioSection{
+  --dept-accent:#8055a6;--dept-accent-strong:#573477;--dept-soft:#f1eafb;--dept-tint:#faf7fd;
+}
+#languageCentre{
+  --dept-accent:#16839a;--dept-accent-strong:#105b70;--dept-soft:#e5f5f8;--dept-tint:#f3fbfc;
+}
+#shop .section-head h2,#farmCentre h2,#farmGames h2,#farmQuiz h2,#farmAdventure h2,#harvestChallenge h2,
+#customerHub h2,#deliveryInfo h2,#orderTracking h2,#loyalty h2,#afterSales h2,#faq h2,
+#dailyLifeSection h2,#workspaceSection h2,#creativeStudioSection h2,#languageCentre h2{
+  color:var(--dept-accent-strong,var(--g));
+}
+#shop .section-head .eyebrow,#farmCentre .eyebrow,#farmGames .eyebrow,#farmQuiz .eyebrow,#farmAdventure .eyebrow,#harvestChallenge .eyebrow,
+#customerHub .eyebrow,#deliveryInfo .eyebrow,#orderTracking .eyebrow,#loyalty .eyebrow,#afterSales .eyebrow,#faq .eyebrow,
+#dailyLifeSection .eyebrow,#workspaceSection .eyebrow,#creativeStudioSection .eyebrow,#languageCentre .eyebrow{
+  color:var(--dept-accent);
+}
+#shop .product,#shop .contact-panel,#farmCentre .feature,#farmCentre .contact-panel,
+#farmGames .feature,#farmQuiz .game-card,#farmAdventure .feature,#harvestChallenge .feature,
+#customerHub .feature,#customerHub .contact-panel,#deliveryInfo .feature,#deliveryInfo .contact-panel,
+#orderTracking .contact-panel,#loyalty .contact-panel,#afterSales .feature,#afterSales .contact-panel,
+#faq .contact-panel,#dailyLifeSection .daily-shell,#workspaceSection .workspace-shell,
+#creativeStudioSection .creative-panel,#languageCentre .language-panel{
+  border-color:color-mix(in srgb,var(--dept-accent) 20%,var(--line));
+  box-shadow:0 10px 28px color-mix(in srgb,var(--dept-accent) 8%,transparent);
+}
+#farmCentre .feature,#customerHub .feature,#deliveryInfo .feature,#afterSales .feature,
+#shop #sellerDirectory .feature{
+  background:linear-gradient(155deg,#fff 0%,var(--dept-tint,#fff) 100%);
+  border-top:3px solid var(--dept-accent);
+}
+#farmCentre .feature .emoji,#customerHub .feature .emoji,#deliveryInfo .feature .emoji,
+#afterSales .feature .emoji,#orderTracking .contact-panel .emoji,
+#shop #sellerDirectory .feature .emoji{
+  display:inline-grid;place-items:center;min-width:44px;min-height:44px;
+  padding:7px;border-radius:14px;background:var(--dept-soft);color:var(--dept-accent-strong);
+}
+#shop .product-category{color:var(--dept-accent-strong)}
+#shop .chip.active,#shop .product-foot .btn:not(.outline){
+  background:var(--dept-accent-strong);border-color:var(--dept-accent-strong);
+}
+#customerHub .btn:not(.light):not(.outline),#deliveryInfo .btn:not(.light):not(.outline),
+#orderTracking .btn:not(.light):not(.outline),#afterSales .btn:not(.light):not(.outline){
+  background:var(--dept-accent-strong);border-color:var(--dept-accent-strong);
+}
+#customerHub .btn.light,#deliveryInfo .btn.light,#orderTracking .btn.light,#afterSales .btn.light{
+  background:var(--dept-soft);color:var(--dept-accent-strong);border-color:color-mix(in srgb,var(--dept-accent) 24%,white);
+}
+#dailyLifeSection .daily-stat{background:var(--dept-soft);border:1px solid color-mix(in srgb,var(--dept-accent) 15%,white)}
+#dailyLifeSection .daily-shell,#workspaceSection .workspace-shell,
+#creativeStudioSection .creative-panel,#languageCentre .language-panel{
+  background:linear-gradient(155deg,#fff 0%,var(--dept-tint) 100%);
+}
+#dailyLifeSection .daily-stat b,#dailyLifeSection .daily-form label,
+#workspaceSection .workspace-tools button,#creativeStudioSection .creative-tabs button,
+#languageCentre .language-panel label{color:var(--dept-accent-strong)}
+#dailyLifeSection .chip.active,#workspaceSection .btn:not(.light):not(.outline),
+#creativeStudioSection .creative-tabs button.active,#creativeStudioSection .btn:not(.light):not(.outline),
+#languageCentre .btn:not(.light):not(.outline){
+  background:var(--dept-accent-strong);border-color:var(--dept-accent-strong);color:#fff;
+}
+#dailyLifeSection input:focus,#dailyLifeSection textarea:focus,#dailyLifeSection select:focus,
+#workspaceSection input:focus,#workspaceSection textarea:focus,#workspaceSection select:focus,
+#creativeStudioSection input:focus,#creativeStudioSection textarea:focus,#creativeStudioSection select:focus,
+#languageCentre input:focus,#languageCentre textarea:focus,#languageCentre select:focus{
+  border-color:var(--dept-accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--dept-accent) 15%,transparent);
+}
+#shop .product:hover,#farmCentre .feature:hover,#customerHub .feature:hover,
+#deliveryInfo .feature:hover,#afterSales .feature:hover,#shop #sellerDirectory .feature:hover{
+  border-color:color-mix(in srgb,var(--dept-accent) 42%,white);
+  box-shadow:0 16px 34px color-mix(in srgb,var(--dept-accent) 13%,transparent);
+}
+#shop .product:focus-within,#farmCentre .feature:focus-within,#customerHub .feature:focus-within,
+#deliveryInfo .feature:focus-within,#afterSales .feature:focus-within{
+  outline:2px solid color-mix(in srgb,var(--dept-accent) 42%,transparent);outline-offset:2px;
+}
+@media(max-width:600px){
+  #farmCentre .feature,#customerHub .feature,#deliveryInfo .feature,#afterSales .feature,
+  #shop #sellerDirectory .feature{border-radius:16px}
+}
+@media(prefers-reduced-motion:reduce){
+  #shop .product,#farmCentre .feature,#customerHub .feature,#deliveryInfo .feature,#afterSales .feature{transition:none}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
