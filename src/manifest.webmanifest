@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Iyanda One",
+  "short_name": "Iyanda One",
+  "description": "One connected global platform for commerce, AI, productivity, creativity, learning and opportunities.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaf5",
+  "theme_color": "#123d2b",
+  "icons": [
+    {
+      "src": "/iyanda-one-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
