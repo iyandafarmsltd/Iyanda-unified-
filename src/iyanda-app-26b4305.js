@@ -1001,10 +1001,10 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
 
 init();renderQuiz();
 
-// Network status guidance: never queue or replay private, order, or payment actions offline.
+// Network guidance and user-controlled recovery. Never queue or replay private, order, or payment actions.
 (function setupConnectionStatus(){
  const style=document.createElement('style');
- style.textContent='#iyandaConnectionStatus{position:fixed;top:0;left:0;right:0;z-index:10000;padding:11px 16px;text-align:center;font:600 13px/1.4 system-ui,sans-serif;box-shadow:0 3px 14px rgba(0,0,0,.16);display:none}#iyandaConnectionStatus[data-state="offline"]{display:block;background:#7a271a;color:#fff}#iyandaConnectionStatus[data-state="online"]{display:block;background:#17633b;color:#fff}body.iyanda-offline{padding-top:48px}';
+ style.textContent='#iyandaConnectionStatus{position:fixed;top:0;left:0;right:0;z-index:10000;padding:11px 16px;text-align:center;font:600 13px/1.4 system-ui,sans-serif;box-shadow:0 3px 14px rgba(0,0,0,.16);display:none}#iyandaConnectionStatus[data-state="offline"]{display:block;background:#7a271a;color:#fff}#iyandaConnectionStatus[data-state="online"]{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px;background:#17633b;color:#fff}#iyandaConnectionStatus button{border:1px solid rgba(255,255,255,.8);border-radius:7px;padding:7px 12px;background:#fff;color:#14532d;font:700 12px/1.2 system-ui,sans-serif;cursor:pointer}body.iyanda-offline{padding-top:48px}';
  document.head.appendChild(style);
  const bar=document.createElement('div');
  bar.id='iyandaConnectionStatus';
@@ -1022,11 +1022,23 @@ init();renderQuiz();
   clearTimeout(recoveryTimer);
   if(bar.dataset.state!=='offline')return;
   bar.dataset.state='online';
-  bar.textContent='Connection restored. You can continue using Iyanda One.';
+  bar.replaceChildren();
+  const message=document.createElement('span');
+  message.textContent='Connection restored. You can continue using Iyanda One.';
+  const refresh=document.createElement('button');
+  refresh.type='button';
+  refresh.textContent='Refresh app';
+  refresh.addEventListener('click',()=>{
+   if(!navigator.onLine){showOffline();return;}
+   const confirmed=window.confirm('Refreshing may discard information that has not been submitted. Orders and payments will not be repeated automatically. Do you want to refresh Iyanda One now?');
+   if(confirmed)window.location.reload();
+  });
+  bar.append(message,refresh);
+  document.body.classList.remove('iyanda-offline');
   recoveryTimer=setTimeout(()=>{
    bar.removeAttribute('data-state');
-   document.body.classList.remove('iyanda-offline');
-  },4500);
+   bar.replaceChildren();
+  },12000);
  }
  window.addEventListener('offline',showOffline);
  window.addEventListener('online',showOnline);
