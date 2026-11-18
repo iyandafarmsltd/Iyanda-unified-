@@ -1000,3 +1000,35 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
 })();
 
 init();renderQuiz();
+
+// Network status guidance: never queue or replay private, order, or payment actions offline.
+(function setupConnectionStatus(){
+ const style=document.createElement('style');
+ style.textContent='#iyandaConnectionStatus{position:fixed;top:0;left:0;right:0;z-index:10000;padding:11px 16px;text-align:center;font:600 13px/1.4 system-ui,sans-serif;box-shadow:0 3px 14px rgba(0,0,0,.16);display:none}#iyandaConnectionStatus[data-state="offline"]{display:block;background:#7a271a;color:#fff}#iyandaConnectionStatus[data-state="online"]{display:block;background:#17633b;color:#fff}body.iyanda-offline{padding-top:48px}';
+ document.head.appendChild(style);
+ const bar=document.createElement('div');
+ bar.id='iyandaConnectionStatus';
+ bar.setAttribute('role','status');
+ bar.setAttribute('aria-live','polite');
+ document.body.appendChild(bar);
+ let recoveryTimer;
+ function showOffline(){
+  clearTimeout(recoveryTimer);
+  bar.dataset.state='offline';
+  bar.textContent='You are offline. Reconnect to continue. Orders, payments and account changes are not saved while offline.';
+  document.body.classList.add('iyanda-offline');
+ }
+ function showOnline(){
+  clearTimeout(recoveryTimer);
+  if(bar.dataset.state!=='offline')return;
+  bar.dataset.state='online';
+  bar.textContent='Connection restored. You can continue using Iyanda One.';
+  recoveryTimer=setTimeout(()=>{
+   bar.removeAttribute('data-state');
+   document.body.classList.remove('iyanda-offline');
+  },4500);
+ }
+ window.addEventListener('offline',showOffline);
+ window.addEventListener('online',showOnline);
+ if(!navigator.onLine)showOffline();
+})();
