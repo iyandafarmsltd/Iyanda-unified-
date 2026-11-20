@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. They guarantee feed freshness",
           "correct": false,
           "feedback": "Review: Store feed securely and rotate stock."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should rabbits be checked for abnormal urine colour or blood?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected blood or persistent changes."
+        },
+        {
+          "text": "B. It may indicate urinary tract disease or another health problem",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary assessment for suspected blood or persistent changes."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected blood or persistent changes."
+        },
+        {
+          "text": "D. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected blood or persistent changes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of providing rabbits with adequate space to stretch and hop?",
+      "options": [
+        {
+          "text": "A. It supports normal movement and musculoskeletal health",
+          "correct": true,
+          "feedback": "Correct. Space and exercise are important welfare needs."
+        },
+        {
+          "text": "B. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Review: Space and exercise are important welfare needs."
+        },
+        {
+          "text": "C. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Space and exercise are important welfare needs."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Space and exercise are important welfare needs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should rabbit nest boxes be checked for damp bedding?",
+      "options": [
+        {
+          "text": "A. It guarantees more kits",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and clean."
+        },
+        {
+          "text": "B. Moisture improves warmth",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and clean."
+        },
+        {
+          "text": "C. It replaces doe milk",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and clean."
+        },
+        {
+          "text": "D. Wet nests can chill kits and increase infection risk",
+          "correct": true,
+          "feedback": "Correct. Keep nests dry and clean."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a rabbit that repeatedly shakes its head and scratches an ear indicate?",
+      "options": [
+        {
+          "text": "A. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Examine and seek veterinary advice."
+        },
+        {
+          "text": "B. A sign of good appetite",
+          "correct": false,
+          "feedback": "Review: Examine and seek veterinary advice."
+        },
+        {
+          "text": "C. Ear irritation, mites or infection",
+          "correct": true,
+          "feedback": "Correct. Examine and seek veterinary advice."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Examine and seek veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should rabbit growers be separated by size when competition becomes severe?",
+      "options": [
+        {
+          "text": "A. It guarantees equal adult weight",
+          "correct": false,
+          "feedback": "Review: Group management should support fair access and welfare."
+        },
+        {
+          "text": "B. It can help reduce bullying and unequal access to feed",
+          "correct": true,
+          "feedback": "Correct. Group management should support fair access and welfare."
+        },
+        {
+          "text": "C. It replaces housing hygiene",
+          "correct": false,
+          "feedback": "Review: Group management should support fair access and welfare."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Group management should support fair access and welfare."
         }
       ],
       "part": 4
