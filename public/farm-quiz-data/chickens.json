@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why is chick uniformity assessed during brooding?",
+      "options": [
+        {
+          "text": "A. It proves all chicks have the same parent",
+          "correct": false,
+          "feedback": "Review: Uniformity helps identify management differences within the brooder."
+        },
+        {
+          "text": "B. Large size variation can indicate uneven access to heat, feed or water",
+          "correct": true,
+          "feedback": "Correct. Uniformity helps identify management differences within the brooder."
+        },
+        {
+          "text": "C. It measures house humidity exactly",
+          "correct": false,
+          "feedback": "Review: Uniformity helps identify management differences within the brooder."
+        },
+        {
+          "text": "D. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Uniformity helps identify management differences within the brooder."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the role of ventilation in a poultry house during cold weather?",
+      "options": [
+        {
+          "text": "A. To remove moisture and harmful gases while avoiding chilling drafts",
+          "correct": true,
+          "feedback": "Correct. Ventilation must balance air quality, moisture removal and bird comfort."
+        },
+        {
+          "text": "B. To seal the house completely",
+          "correct": false,
+          "feedback": "Review: Ventilation must balance air quality, moisture removal and bird comfort."
+        },
+        {
+          "text": "C. To keep ammonia inside",
+          "correct": false,
+          "feedback": "Review: Ventilation must balance air quality, moisture removal and bird comfort."
+        },
+        {
+          "text": "D. To remove all heat regardless of conditions",
+          "correct": false,
+          "feedback": "Review: Ventilation must balance air quality, moisture removal and bird comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should hatching eggs be collected and stored carefully?",
+      "options": [
+        {
+          "text": "A. To store them beside fuel",
+          "correct": false,
+          "feedback": "Review: Careful handling and appropriate storage protect hatchability."
+        },
+        {
+          "text": "B. To expose eggs to direct sun",
+          "correct": false,
+          "feedback": "Review: Careful handling and appropriate storage protect hatchability."
+        },
+        {
+          "text": "C. To wash them with unapproved chemicals",
+          "correct": false,
+          "feedback": "Review: Careful handling and appropriate storage protect hatchability."
+        },
+        {
+          "text": "D. To protect shell cleanliness and embryo viability",
+          "correct": true,
+          "feedback": "Correct. Careful handling and appropriate storage protect hatchability."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What is a common consequence of overcrowding in broiler housing?",
+      "options": [
+        {
+          "text": "A. Lower competition at feeders",
+          "correct": false,
+          "feedback": "Review: Excessive stocking density can impair welfare, air quality and performance."
+        },
+        {
+          "text": "B. Guaranteed faster growth",
+          "correct": false,
+          "feedback": "Review: Excessive stocking density can impair welfare, air quality and performance."
+        },
+        {
+          "text": "C. Reduced access to resources and increased welfare and litter problems",
+          "correct": true,
+          "feedback": "Correct. Excessive stocking density can impair welfare, air quality and performance."
+        },
+        {
+          "text": "D. Improved air quality automatically",
+          "correct": false,
+          "feedback": "Review: Excessive stocking density can impair welfare, air quality and performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why should a poultry farmer keep a daily mortality record?",
+      "options": [
+        {
+          "text": "A. To calculate egg shell colour",
+          "correct": false,
+          "feedback": "Review: Daily records reveal trends that may need prompt investigation."
+        },
+        {
+          "text": "B. To detect unusual changes and investigate possible causes",
+          "correct": true,
+          "feedback": "Correct. Daily records reveal trends that may need prompt investigation."
+        },
+        {
+          "text": "C. To replace feed inventory",
+          "correct": false,
+          "feedback": "Review: Daily records reveal trends that may need prompt investigation."
+        },
+        {
+          "text": "D. To predict rainfall",
+          "correct": false,
+          "feedback": "Review: Daily records reveal trends that may need prompt investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the purpose of a footbath at a poultry house entrance when properly maintained?",
+      "options": [
+        {
+          "text": "A. To help reduce transfer of contamination on footwear",
+          "correct": true,
+          "feedback": "Correct. Footbaths only work as part of a wider biosecurity plan and must be kept clean and correctly prepared."
+        },
+        {
+          "text": "B. To replace cleaning and disinfection",
+          "correct": false,
+          "feedback": "Review: Footbaths only work as part of a wider biosecurity plan and must be kept clean and correctly prepared."
+        },
+        {
+          "text": "C. To disinfect birds while they eat",
+          "correct": false,
+          "feedback": "Review: Footbaths only work as part of a wider biosecurity plan and must be kept clean and correctly prepared."
+        },
+        {
+          "text": "D. To treat internal parasites",
+          "correct": false,
+          "feedback": "Review: Footbaths only work as part of a wider biosecurity plan and must be kept clean and correctly prepared."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why is feed particle size relevant for chickens?",
+      "options": [
+        {
+          "text": "A. It prevents all feed wastage",
+          "correct": false,
+          "feedback": "Review: Particle size should suit bird age and feed type."
+        },
+        {
+          "text": "B. It determines the sex of chicks",
+          "correct": false,
+          "feedback": "Review: Particle size should suit bird age and feed type."
+        },
+        {
+          "text": "C. It replaces nutrient formulation",
+          "correct": false,
+          "feedback": "Review: Particle size should suit bird age and feed type."
+        },
+        {
+          "text": "D. It can affect feed intake, digestion and feeding behaviour",
+          "correct": true,
+          "feedback": "Correct. Particle size should suit bird age and feed type."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What should be considered before changing a layer flock's lighting programme?",
+      "options": [
+        {
+          "text": "A. The price of eggs that morning",
+          "correct": false,
+          "feedback": "Review: Lighting changes affect reproductive activity and should be managed consistently."
+        },
+        {
+          "text": "B. Only the colour of the house walls",
+          "correct": false,
+          "feedback": "Review: Lighting changes affect reproductive activity and should be managed consistently."
+        },
+        {
+          "text": "C. Bird age, production stage and a planned lighting schedule",
+          "correct": true,
+          "feedback": "Correct. Lighting changes affect reproductive activity and should be managed consistently."
+        },
+        {
+          "text": "D. Whether feed is stored outdoors",
+          "correct": false,
+          "feedback": "Review: Lighting changes affect reproductive activity and should be managed consistently."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should broiler drinker lines be flushed as part of routine management?",
+      "options": [
+        {
+          "text": "A. To reduce oxygen in drinking water",
+          "correct": false,
+          "feedback": "Review: Line maintenance helps reduce biofilm and contamination."
+        },
+        {
+          "text": "B. To remove deposits and help maintain water hygiene",
+          "correct": true,
+          "feedback": "Correct. Line maintenance helps reduce biofilm and contamination."
+        },
+        {
+          "text": "C. To make drinkers leak intentionally",
+          "correct": false,
+          "feedback": "Review: Line maintenance helps reduce biofilm and contamination."
+        },
+        {
+          "text": "D. To replace water testing",
+          "correct": false,
+          "feedback": "Review: Line maintenance helps reduce biofilm and contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is the purpose of grading chicks by size when appropriate?",
+      "options": [
+        {
+          "text": "A. To reduce competition and improve access to feed and warmth",
+          "correct": true,
+          "feedback": "Correct. Careful grading can help manage uneven groups, alongside investigating the cause."
+        },
+        {
+          "text": "B. To eliminate the need for monitoring",
+          "correct": false,
+          "feedback": "Review: Careful grading can help manage uneven groups, alongside investigating the cause."
+        },
+        {
+          "text": "C. To ensure all chicks are genetically identical",
+          "correct": false,
+          "feedback": "Review: Careful grading can help manage uneven groups, alongside investigating the cause."
+        },
+        {
+          "text": "D. To prevent every disease",
+          "correct": false,
+          "feedback": "Review: Careful grading can help manage uneven groups, alongside investigating the cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should poultry carcasses be disposed of using approved biosecure methods?",
+      "options": [
+        {
+          "text": "A. To avoid reporting mortality",
+          "correct": false,
+          "feedback": "Review: Follow local regulations and veterinary advice for safe disposal."
+        },
+        {
+          "text": "B. To attract scavengers",
+          "correct": false,
+          "feedback": "Review: Follow local regulations and veterinary advice for safe disposal."
+        },
+        {
+          "text": "C. To feed rodents",
+          "correct": false,
+          "feedback": "Review: Follow local regulations and veterinary advice for safe disposal."
+        },
+        {
+          "text": "D. To limit disease spread and environmental contamination",
+          "correct": true,
+          "feedback": "Correct. Follow local regulations and veterinary advice for safe disposal."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What does egg candling allow a hatchery worker to assess?",
+      "options": [
+        {
+          "text": "A. The feed conversion ratio of the hen",
+          "correct": false,
+          "feedback": "Review: Candling helps identify infertile eggs and embryonic development stages."
+        },
+        {
+          "text": "B. The exact future weight of a chick",
+          "correct": false,
+          "feedback": "Review: Candling helps identify infertile eggs and embryonic development stages."
+        },
+        {
+          "text": "C. Internal egg development and some defects",
+          "correct": true,
+          "feedback": "Correct. Candling helps identify infertile eggs and embryonic development stages."
+        },
+        {
+          "text": "D. The colour of the adult bird's comb",
+          "correct": false,
+          "feedback": "Review: Candling helps identify infertile eggs and embryonic development stages."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should vaccination equipment and handling follow product instructions?",
+      "options": [
+        {
+          "text": "A. All vaccines tolerate any temperature",
+          "correct": false,
+          "feedback": "Review: Follow the vaccine label and veterinary programme for storage, dose and route."
+        },
+        {
+          "text": "B. Incorrect storage or administration can reduce vaccine effectiveness",
+          "correct": true,
+          "feedback": "Correct. Follow the vaccine label and veterinary programme for storage, dose and route."
+        },
+        {
+          "text": "C. Dose has no influence on response",
+          "correct": false,
+          "feedback": "Review: Follow the vaccine label and veterinary programme for storage, dose and route."
+        },
+        {
+          "text": "D. Vaccines can be mixed freely",
+          "correct": false,
+          "feedback": "Review: Follow the vaccine label and veterinary programme for storage, dose and route."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What can persistent pecking and feather damage indicate?",
+      "options": [
+        {
+          "text": "A. A welfare or management issue such as stress, crowding or nutrition",
+          "correct": true,
+          "feedback": "Correct. Investigate environmental, stocking, nutrition and health factors."
+        },
+        {
+          "text": "B. A normal sign that needs no attention",
+          "correct": false,
+          "feedback": "Review: Investigate environmental, stocking, nutrition and health factors."
+        },
+        {
+          "text": "C. Proof that birds need less space",
+          "correct": false,
+          "feedback": "Review: Investigate environmental, stocking, nutrition and health factors."
+        },
+        {
+          "text": "D. That the flock has finished growing",
+          "correct": false,
+          "feedback": "Review: Investigate environmental, stocking, nutrition and health factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should a poultry farm control wild-bird access to feed stores?",
+      "options": [
+        {
+          "text": "A. They sterilise storage areas",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest exclusion reduce contamination and biosecurity risks."
+        },
+        {
+          "text": "B. Wild birds improve feed quality",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest exclusion reduce contamination and biosecurity risks."
+        },
+        {
+          "text": "C. They prevent rodents from entering",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest exclusion reduce contamination and biosecurity risks."
+        },
+        {
+          "text": "D. Wild birds can contaminate feed and introduce pathogens",
+          "correct": true,
+          "feedback": "Correct. Secure storage and pest exclusion reduce contamination and biosecurity risks."
+        }
+      ],
+      "part": 4
     }
   ]
 }
