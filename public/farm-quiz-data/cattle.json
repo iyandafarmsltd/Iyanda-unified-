@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 185,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,411 @@
           "text": "D. Shade increases heat load",
           "correct": false,
           "feedback": "Review: Heat stress risk depends on temperature, humidity, airflow and animal factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should cattle be given access to shade during intense midday heat?",
+      "options": [
+        {
+          "text": "A. Shade replaces drinking water",
+          "correct": false,
+          "feedback": "Review: Shade is one part of heat-stress management alongside water and airflow."
+        },
+        {
+          "text": "B. Shade reduces radiant heat load and supports comfort",
+          "correct": true,
+          "feedback": "Correct. Shade is one part of heat-stress management alongside water and airflow."
+        },
+        {
+          "text": "C. Heat stress occurs only at night",
+          "correct": false,
+          "feedback": "Review: Shade is one part of heat-stress management alongside water and airflow."
+        },
+        {
+          "text": "D. Shade increases rumen acidity",
+          "correct": false,
+          "feedback": "Review: Shade is one part of heat-stress management alongside water and airflow."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What does a milk yield record help a dairy farmer identify?",
+      "options": [
+        {
+          "text": "A. Changes in production that may relate to health, feed or management",
+          "correct": true,
+          "feedback": "Correct. Production trends can flag issues but need investigation."
+        },
+        {
+          "text": "B. The exact cause of mastitis",
+          "correct": false,
+          "feedback": "Review: Production trends can flag issues but need investigation."
+        },
+        {
+          "text": "C. The cow's genetic code",
+          "correct": false,
+          "feedback": "Review: Production trends can flag issues but need investigation."
+        },
+        {
+          "text": "D. The mineral content of pasture",
+          "correct": false,
+          "feedback": "Review: Production trends can flag issues but need investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should calves receive colostrum promptly after birth?",
+      "options": [
+        {
+          "text": "A. It prevents every infection",
+          "correct": false,
+          "feedback": "Review: Timely, adequate colostrum is central to calf health."
+        },
+        {
+          "text": "B. It replaces all later vaccinations",
+          "correct": false,
+          "feedback": "Review: Timely, adequate colostrum is central to calf health."
+        },
+        {
+          "text": "C. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Timely, adequate colostrum is central to calf health."
+        },
+        {
+          "text": "D. Newborn calves need antibodies absorbed from colostrum for passive immunity",
+          "correct": true,
+          "feedback": "Correct. Timely, adequate colostrum is central to calf health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What is the purpose of a quarantine area for purchased cattle?",
+      "options": [
+        {
+          "text": "A. To avoid checking identification",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary checks reduce biosecurity risks."
+        },
+        {
+          "text": "B. To increase their weight automatically",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary checks reduce biosecurity risks."
+        },
+        {
+          "text": "C. To observe animals and reduce disease introduction to the herd",
+          "correct": true,
+          "feedback": "Correct. Quarantine and veterinary checks reduce biosecurity risks."
+        },
+        {
+          "text": "D. To mix them immediately with calves",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary checks reduce biosecurity risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should feed bunks be checked for spoiled leftovers?",
+      "options": [
+        {
+          "text": "A. Spoilage improves palatability",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct the cause."
+        },
+        {
+          "text": "B. Spoiled feed can reduce intake and expose cattle to harmful moulds",
+          "correct": true,
+          "feedback": "Correct. Remove spoiled feed and correct the cause."
+        },
+        {
+          "text": "C. It raises protein reliably",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct the cause."
+        },
+        {
+          "text": "D. It replaces forage analysis",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct the cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "What does a breeding record's calving interval measure?",
+      "options": [
+        {
+          "text": "A. The time between successive calvings for a cow",
+          "correct": true,
+          "feedback": "Correct. Calving interval is a reproductive performance measure."
+        },
+        {
+          "text": "B. The time needed to digest hay",
+          "correct": false,
+          "feedback": "Review: Calving interval is a reproductive performance measure."
+        },
+        {
+          "text": "C. The age at first vaccination",
+          "correct": false,
+          "feedback": "Review: Calving interval is a reproductive performance measure."
+        },
+        {
+          "text": "D. The duration of milking",
+          "correct": false,
+          "feedback": "Review: Calving interval is a reproductive performance measure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "Why should cattle be introduced to a new water source carefully if its taste or mineral content differs?",
+      "options": [
+        {
+          "text": "A. Water quality affects only calves",
+          "correct": false,
+          "feedback": "Review: Assess water suitability and monitor intake."
+        },
+        {
+          "text": "B. Cattle do not notice water differences",
+          "correct": false,
+          "feedback": "Review: Assess water suitability and monitor intake."
+        },
+        {
+          "text": "C. New water always increases intake",
+          "correct": false,
+          "feedback": "Review: Assess water suitability and monitor intake."
+        },
+        {
+          "text": "D. Sudden changes may reduce drinking or expose animals to unsuitable water",
+          "correct": true,
+          "feedback": "Correct. Assess water suitability and monitor intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "What is the role of fibre in a cattle ration?",
+      "options": [
+        {
+          "text": "A. It prevents the need for water",
+          "correct": false,
+          "feedback": "Review: Adequate effective fibre supports rumen health."
+        },
+        {
+          "text": "B. It replaces all protein",
+          "correct": false,
+          "feedback": "Review: Adequate effective fibre supports rumen health."
+        },
+        {
+          "text": "C. It supports rumination and normal rumen function",
+          "correct": true,
+          "feedback": "Correct. Adequate effective fibre supports rumen health."
+        },
+        {
+          "text": "D. It determines the animal's sex",
+          "correct": false,
+          "feedback": "Review: Adequate effective fibre supports rumen health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "Why should cows with retained placenta be monitored by a veterinarian?",
+      "options": [
+        {
+          "text": "A. It always resolves without risk",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "B. Retained membranes can be associated with infection and other complications",
+          "correct": true,
+          "feedback": "Correct. Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "C. It guarantees another pregnancy",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "D. It is only a cosmetic issue",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should cattle vaccination records include product batch and date?",
+      "options": [
+        {
+          "text": "A. They support traceability and review if a reaction or outbreak occurs",
+          "correct": true,
+          "feedback": "Correct. Complete records support herd health planning."
+        },
+        {
+          "text": "B. They predict weight gain",
+          "correct": false,
+          "feedback": "Review: Complete records support herd health planning."
+        },
+        {
+          "text": "C. They replace the product label",
+          "correct": false,
+          "feedback": "Review: Complete records support herd health planning."
+        },
+        {
+          "text": "D. They show pasture yield",
+          "correct": false,
+          "feedback": "Review: Complete records support herd health planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "What can repeated watery diarrhoea in calves lead to?",
+      "options": [
+        {
+          "text": "A. A reduced need for fluids",
+          "correct": false,
+          "feedback": "Review: Calf diarrhoea can become serious; assess and treat with veterinary guidance."
+        },
+        {
+          "text": "B. Improved nutrient absorption",
+          "correct": false,
+          "feedback": "Review: Calf diarrhoea can become serious; assess and treat with veterinary guidance."
+        },
+        {
+          "text": "C. Stronger bones immediately",
+          "correct": false,
+          "feedback": "Review: Calf diarrhoea can become serious; assess and treat with veterinary guidance."
+        },
+        {
+          "text": "D. Dehydration and electrolyte loss",
+          "correct": true,
+          "feedback": "Correct. Calf diarrhoea can become serious; assess and treat with veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "Why should cattle handling facilities avoid sharp corners and protrusions?",
+      "options": [
+        {
+          "text": "A. They improve milk fat",
+          "correct": false,
+          "feedback": "Review: Safe facility design supports low-stress handling."
+        },
+        {
+          "text": "B. They increase handling speed in every case",
+          "correct": false,
+          "feedback": "Review: Safe facility design supports low-stress handling."
+        },
+        {
+          "text": "C. They reduce bruising and injury during movement",
+          "correct": true,
+          "feedback": "Correct. Safe facility design supports low-stress handling."
+        },
+        {
+          "text": "D. They prevent all disease",
+          "correct": false,
+          "feedback": "Review: Safe facility design supports low-stress handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "What is a reason to monitor the body condition of dry cows?",
+      "options": [
+        {
+          "text": "A. It determines calf sex",
+          "correct": false,
+          "feedback": "Review: Appropriate condition supports health through the transition period."
+        },
+        {
+          "text": "B. To avoid cows entering calving either too thin or over-conditioned",
+          "correct": true,
+          "feedback": "Correct. Appropriate condition supports health through the transition period."
+        },
+        {
+          "text": "C. It replaces transition feeding",
+          "correct": false,
+          "feedback": "Review: Appropriate condition supports health through the transition period."
+        },
+        {
+          "text": "D. It guarantees easy calving",
+          "correct": false,
+          "feedback": "Review: Appropriate condition supports health through the transition period."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "Why is forage conservation timing important?",
+      "options": [
+        {
+          "text": "A. Harvest stage affects digestibility, nutrient content and yield",
+          "correct": true,
+          "feedback": "Correct. Harvest timing influences feed quality and storage success."
+        },
+        {
+          "text": "B. It changes forage species genetics",
+          "correct": false,
+          "feedback": "Review: Harvest timing influences feed quality and storage success."
+        },
+        {
+          "text": "C. It makes storage unnecessary",
+          "correct": false,
+          "feedback": "Review: Harvest timing influences feed quality and storage success."
+        },
+        {
+          "text": "D. It removes the need for ration balancing",
+          "correct": false,
+          "feedback": "Review: Harvest timing influences feed quality and storage success."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "What should be done if several cattle show salivation, mouth lesions or lameness?",
+      "options": [
+        {
+          "text": "A. Give unprescribed medicines",
+          "correct": false,
+          "feedback": "Review: Clustered signs may indicate a contagious disease and require urgent investigation."
+        },
+        {
+          "text": "B. Move them through the whole herd",
+          "correct": false,
+          "feedback": "Review: Clustered signs may indicate a contagious disease and require urgent investigation."
+        },
+        {
+          "text": "C. Wait for routine weighing",
+          "correct": false,
+          "feedback": "Review: Clustered signs may indicate a contagious disease and require urgent investigation."
+        },
+        {
+          "text": "D. Isolate affected animals as appropriate and contact a veterinarian promptly",
+          "correct": true,
+          "feedback": "Correct. Clustered signs may indicate a contagious disease and require urgent investigation."
         }
       ],
       "part": 4
