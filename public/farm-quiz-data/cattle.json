@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. They improve rumen microbes",
           "correct": false,
           "feedback": "Review: Keep hazardous materials securely stored and livestock areas clear."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should cows be observed for repeated kicking during milking?",
+      "options": [
+        {
+          "text": "A. It can indicate udder pain, teat injury or discomfort",
+          "correct": true,
+          "feedback": "Correct. Investigate pain, equipment settings and milking routine."
+        },
+        {
+          "text": "B. It proves high milk quality",
+          "correct": false,
+          "feedback": "Review: Investigate pain, equipment settings and milking routine."
+        },
+        {
+          "text": "C. It measures rumen pH",
+          "correct": false,
+          "feedback": "Review: Investigate pain, equipment settings and milking routine."
+        },
+        {
+          "text": "D. It is always a normal habit",
+          "correct": false,
+          "feedback": "Review: Investigate pain, equipment settings and milking routine."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of checking cattle feed for foreign objects?",
+      "options": [
+        {
+          "text": "A. It increases feed energy",
+          "correct": false,
+          "feedback": "Review: Inspect feed and storage areas for hazards."
+        },
+        {
+          "text": "B. It improves palatability",
+          "correct": false,
+          "feedback": "Review: Inspect feed and storage areas for hazards."
+        },
+        {
+          "text": "C. It replaces ration formulation",
+          "correct": false,
+          "feedback": "Review: Inspect feed and storage areas for hazards."
+        },
+        {
+          "text": "D. To prevent choking, injury or contamination",
+          "correct": true,
+          "feedback": "Correct. Inspect feed and storage areas for hazards."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should calves be grouped by similar health status when possible?",
+      "options": [
+        {
+          "text": "A. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Group management can support biosecurity and care."
+        },
+        {
+          "text": "B. It guarantees identical growth",
+          "correct": false,
+          "feedback": "Review: Group management can support biosecurity and care."
+        },
+        {
+          "text": "C. It reduces exposure of vulnerable calves to potential infections",
+          "correct": true,
+          "feedback": "Correct. Group management can support biosecurity and care."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Group management can support biosecurity and care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a high somatic cell count in bulk milk prompt a farmer to investigate?",
+      "options": [
+        {
+          "text": "A. Pasture height only",
+          "correct": false,
+          "feedback": "Review: Use herd and individual cow records to locate the source."
+        },
+        {
+          "text": "B. Udder health and milking hygiene",
+          "correct": true,
+          "feedback": "Correct. Use herd and individual cow records to locate the source."
+        },
+        {
+          "text": "C. Bull fertility",
+          "correct": false,
+          "feedback": "Review: Use herd and individual cow records to locate the source."
+        },
+        {
+          "text": "D. The age of the milk tank",
+          "correct": false,
+          "feedback": "Review: Use herd and individual cow records to locate the source."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should cattle have access to shade and water in holding areas?",
+      "options": [
+        {
+          "text": "A. Waiting and handling can increase heat load and dehydration risk",
+          "correct": true,
+          "feedback": "Correct. Holding facilities should protect welfare, especially in hot weather."
+        },
+        {
+          "text": "B. It improves carcass colour instantly",
+          "correct": false,
+          "feedback": "Review: Holding facilities should protect welfare, especially in hot weather."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Holding facilities should protect welfare, especially in hot weather."
+        },
+        {
+          "text": "D. It prevents all handling stress",
+          "correct": false,
+          "feedback": "Review: Holding facilities should protect welfare, especially in hot weather."
         }
       ],
       "part": 4
