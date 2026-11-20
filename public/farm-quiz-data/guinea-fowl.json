@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It determines chick sex",
           "correct": false,
           "feedback": "Review: Use consistent records to guide investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should guinea-fowl be checked for signs of crop impaction?",
+      "options": [
+        {
+          "text": "A. A blocked crop can interfere with feed passage",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary assessment for a persistently enlarged or abnormal crop."
+        },
+        {
+          "text": "B. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for a persistently enlarged or abnormal crop."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for a persistently enlarged or abnormal crop."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for a persistently enlarged or abnormal crop."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of providing guinea-fowl with enough floor space around feeders?",
+      "options": [
+        {
+          "text": "A. It increases egg size",
+          "correct": false,
+          "feedback": "Review: Ensure all birds can feed comfortably."
+        },
+        {
+          "text": "B. It determines hatch rate",
+          "correct": false,
+          "feedback": "Review: Ensure all birds can feed comfortably."
+        },
+        {
+          "text": "C. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Review: Ensure all birds can feed comfortably."
+        },
+        {
+          "text": "D. It reduces crowding and competition",
+          "correct": true,
+          "feedback": "Correct. Ensure all birds can feed comfortably."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should guinea-fowl eggs be stored away from chemicals and strong odours?",
+      "options": [
+        {
+          "text": "A. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Use a clean, dedicated egg storage area."
+        },
+        {
+          "text": "B. Odours determine sex",
+          "correct": false,
+          "feedback": "Review: Use a clean, dedicated egg storage area."
+        },
+        {
+          "text": "C. Eggshells can be porous and contamination may affect egg quality",
+          "correct": true,
+          "feedback": "Correct. Use a clean, dedicated egg storage area."
+        },
+        {
+          "text": "D. It improves shell strength",
+          "correct": false,
+          "feedback": "Review: Use a clean, dedicated egg storage area."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can guinea-fowl birds with drooping wings and lethargy indicate?",
+      "options": [
+        {
+          "text": "A. A sign of high fertility",
+          "correct": false,
+          "feedback": "Review: Check temperature, water and health promptly."
+        },
+        {
+          "text": "B. Heat stress or illness",
+          "correct": true,
+          "feedback": "Correct. Check temperature, water and health promptly."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check temperature, water and health promptly."
+        },
+        {
+          "text": "D. It predicts hatchability",
+          "correct": false,
+          "feedback": "Review: Check temperature, water and health promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should guinea-fowl be protected from feed that has been contaminated by rodent urine?",
+      "options": [
+        {
+          "text": "A. It can carry pathogens and contaminate the ration",
+          "correct": true,
+          "feedback": "Correct. Discard contaminated feed and secure storage."
+        },
+        {
+          "text": "B. Urine improves feed",
+          "correct": false,
+          "feedback": "Review: Discard contaminated feed and secure storage."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Discard contaminated feed and secure storage."
+        },
+        {
+          "text": "D. It replaces pest control",
+          "correct": false,
+          "feedback": "Review: Discard contaminated feed and secure storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of monitoring keet growth at regular intervals?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Use representative weights and consistent methods."
+        },
+        {
+          "text": "B. It predicts adult colour",
+          "correct": false,
+          "feedback": "Review: Use representative weights and consistent methods."
+        },
+        {
+          "text": "C. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Use representative weights and consistent methods."
+        },
+        {
+          "text": "D. It helps identify underperforming birds and management problems",
+          "correct": true,
+          "feedback": "Correct. Use representative weights and consistent methods."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should guinea-fowl shelters have adequate roosting capacity?",
+      "options": [
+        {
+          "text": "A. It replaces nest boxes",
+          "correct": false,
+          "feedback": "Review: Provide enough secure roost space."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Provide enough secure roost space."
+        },
+        {
+          "text": "C. Crowding can lead to competition and injury",
+          "correct": true,
+          "feedback": "Correct. Provide enough secure roost space."
+        },
+        {
+          "text": "D. It guarantees hatchability",
+          "correct": false,
+          "feedback": "Review: Provide enough secure roost space."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a drop in guinea-fowl egg weight indicate?",
+      "options": [
+        {
+          "text": "A. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Track trends and review breeder nutrition and health."
+        },
+        {
+          "text": "B. Age, nutrition, health or environmental changes",
+          "correct": true,
+          "feedback": "Correct. Track trends and review breeder nutrition and health."
+        },
+        {
+          "text": "C. It proves high fertility",
+          "correct": false,
+          "feedback": "Review: Track trends and review breeder nutrition and health."
+        },
+        {
+          "text": "D. It is unrelated to management",
+          "correct": false,
+          "feedback": "Review: Track trends and review breeder nutrition and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should guinea-fowl farms keep a record of any new bird introductions?",
+      "options": [
+        {
+          "text": "A. It supports traceability and biosecurity follow-up",
+          "correct": true,
+          "feedback": "Correct. Record source, arrival date and health checks."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Record source, arrival date and health checks."
+        },
+        {
+          "text": "C. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Record source, arrival date and health checks."
+        },
+        {
+          "text": "D. It guarantees health",
+          "correct": false,
+          "feedback": "Review: Record source, arrival date and health checks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of checking nest material for dampness?",
+      "options": [
+        {
+          "text": "A. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Keep nest material dry and replace when soiled."
+        },
+        {
+          "text": "B. It increases hatchability",
+          "correct": false,
+          "feedback": "Review: Keep nest material dry and replace when soiled."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Keep nest material dry and replace when soiled."
+        },
+        {
+          "text": "D. Damp nests can contaminate eggs and chill birds",
+          "correct": true,
+          "feedback": "Correct. Keep nest material dry and replace when soiled."
         }
       ],
       "part": 4
