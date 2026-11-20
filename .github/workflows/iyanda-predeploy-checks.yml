@@ -190,3 +190,20 @@ jobs:
                   raise SystemExit("Homepage legal/SEO marker missing: " + marker)
           print("Public policy page, unique IDs, sitemap and social sharing metadata checks passed.")
           PY
+
+      - name: Check privacy-preserving client error monitoring
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          source = Path("src/posthog-init.js").read_text(encoding="utf-8")
+          required = ["iyanda_client_error", "uncaught_error", "unhandled_rejection",
+                      "window.addEventListener('error'", "window.addEventListener('unhandledrejection'"]
+          missing = [item for item in required if item not in source]
+          if missing:
+              raise SystemExit("Client error monitoring is incomplete: " + ", ".join(missing))
+          forbidden = ["event.message", "event.error.stack", "event.reason", "innerText", "textContent"]
+          present = [item for item in forbidden if item in source]
+          if present:
+              raise SystemExit("Client error monitoring may capture raw user/error content: " + ", ".join(present))
+          print("Client error monitoring captures only generic error categories.")
+          PY
