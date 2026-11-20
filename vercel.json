@@ -1,12 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/_ph/static/:path*",
-      "destination": "https://us-assets.i.posthog.com/static/:path*"
+      "source": "/_ph/static/(.*)",
+      "destination": "https://us-assets.i.posthog.com/static/$1"
     },
     {
-      "source": "/_ph/:path*",
-      "destination": "https://us.i.posthog.com/:path*"
+      "source": "/_ph/(.*)",
+      "destination": "https://us.i.posthog.com/$1"
     }
   ],
   "headers": [
