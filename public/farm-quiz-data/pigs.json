@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It predicts market weight",
           "correct": false,
           "feedback": "Review: Tailor the programme to herd risks and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should pigs be monitored for signs of gastric ulcers?",
+      "options": [
+        {
+          "text": "A. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected ulcers."
+        },
+        {
+          "text": "B. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected ulcers."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment for suspected ulcers."
+        },
+        {
+          "text": "D. Ulcers can cause poor appetite, anaemia or sudden death",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary assessment for suspected ulcers."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of checking pig feed for correct mixing time?",
+      "options": [
+        {
+          "text": "A. It replaces ingredient quality",
+          "correct": false,
+          "feedback": "Review: Follow mixer guidance and verify ration uniformity."
+        },
+        {
+          "text": "B. It determines meat colour",
+          "correct": false,
+          "feedback": "Review: Follow mixer guidance and verify ration uniformity."
+        },
+        {
+          "text": "C. Poor mixing can create uneven nutrient or medication distribution",
+          "correct": true,
+          "feedback": "Correct. Follow mixer guidance and verify ration uniformity."
+        },
+        {
+          "text": "D. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Follow mixer guidance and verify ration uniformity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should piglets be checked for signs of joint swelling?",
+      "options": [
+        {
+          "text": "A. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Prompt assessment helps prevent worsening disease."
+        },
+        {
+          "text": "B. It may indicate infection or injury",
+          "correct": true,
+          "feedback": "Correct. Prompt assessment helps prevent worsening disease."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Prompt assessment helps prevent worsening disease."
+        },
+        {
+          "text": "D. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Prompt assessment helps prevent worsening disease."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a sudden drop in sow water intake indicate?",
+      "options": [
+        {
+          "text": "A. Drinkers may be blocked or the sow may be unwell",
+          "correct": true,
+          "feedback": "Correct. Check the water system and the sow's health."
+        },
+        {
+          "text": "B. It proves she needs less water",
+          "correct": false,
+          "feedback": "Review: Check the water system and the sow's health."
+        },
+        {
+          "text": "C. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Check the water system and the sow's health."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check the water system and the sow's health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should pigs be protected from drafts while avoiding stale air?",
+      "options": [
+        {
+          "text": "A. Ventilation replaces bedding",
+          "correct": false,
+          "feedback": "Review: Balance airflow and temperature."
+        },
+        {
+          "text": "B. Airtight housing is best",
+          "correct": false,
+          "feedback": "Review: Balance airflow and temperature."
+        },
+        {
+          "text": "C. Drafts improve growth",
+          "correct": false,
+          "feedback": "Review: Balance airflow and temperature."
+        },
+        {
+          "text": "D. They need fresh air without chilling",
+          "correct": true,
+          "feedback": "Correct. Balance airflow and temperature."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of recording piglet weaning weights by litter?",
+      "options": [
+        {
+          "text": "A. It predicts carcass colour",
+          "correct": false,
+          "feedback": "Review: Use accurate, consistent measurements."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use accurate, consistent measurements."
+        },
+        {
+          "text": "C. It helps compare sow performance and piglet growth",
+          "correct": true,
+          "feedback": "Correct. Use accurate, consistent measurements."
+        },
+        {
+          "text": "D. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Use accurate, consistent measurements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should pig farm staff wear clean boots when entering farrowing rooms?",
+      "options": [
+        {
+          "text": "A. It improves sow milk",
+          "correct": false,
+          "feedback": "Review: Use clean-zone procedures and dedicated footwear."
+        },
+        {
+          "text": "B. It reduces transfer of pathogens to newborn piglets",
+          "correct": true,
+          "feedback": "Correct. Use clean-zone procedures and dedicated footwear."
+        },
+        {
+          "text": "C. It replaces handwashing",
+          "correct": false,
+          "feedback": "Review: Use clean-zone procedures and dedicated footwear."
+        },
+        {
+          "text": "D. It guarantees no infection",
+          "correct": false,
+          "feedback": "Review: Use clean-zone procedures and dedicated footwear."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a pig with persistent vomiting require?",
+      "options": [
+        {
+          "text": "A. Prompt veterinary assessment for digestive or systemic illness",
+          "correct": true,
+          "feedback": "Correct. Persistent vomiting is abnormal and can cause dehydration."
+        },
+        {
+          "text": "B. A routine feed change only",
+          "correct": false,
+          "feedback": "Review: Persistent vomiting is abnormal and can cause dehydration."
+        },
+        {
+          "text": "C. No action if it drinks",
+          "correct": false,
+          "feedback": "Review: Persistent vomiting is abnormal and can cause dehydration."
+        },
+        {
+          "text": "D. Immediate mixing",
+          "correct": false,
+          "feedback": "Review: Persistent vomiting is abnormal and can cause dehydration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should pigs be given access to clean enrichment materials?",
+      "options": [
+        {
+          "text": "A. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Provide safe, manipulable materials."
+        },
+        {
+          "text": "B. It replaces feed",
+          "correct": false,
+          "feedback": "Review: Provide safe, manipulable materials."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Provide safe, manipulable materials."
+        },
+        {
+          "text": "D. Suitable enrichment supports exploration and reduces frustration",
+          "correct": true,
+          "feedback": "Correct. Provide safe, manipulable materials."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of monitoring pig mortality by age and pen?",
+      "options": [
+        {
+          "text": "A. It replaces necropsy",
+          "correct": false,
+          "feedback": "Review: Use detailed records to guide investigation."
+        },
+        {
+          "text": "B. It predicts meat price",
+          "correct": false,
+          "feedback": "Review: Use detailed records to guide investigation."
+        },
+        {
+          "text": "C. It helps identify patterns linked to stage or location",
+          "correct": true,
+          "feedback": "Correct. Use detailed records to guide investigation."
+        },
+        {
+          "text": "D. It determines breed",
+          "correct": false,
+          "feedback": "Review: Use detailed records to guide investigation."
         }
       ],
       "part": 4
