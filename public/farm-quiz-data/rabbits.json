@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. Cold kits grow faster",
           "correct": false,
           "feedback": "Review: Check nest condition and doe care while minimising disturbance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should rabbit enclosures be checked for adequate ventilation without direct drafts?",
+      "options": [
+        {
+          "text": "A. Fresh air reduces moisture and odours while drafts can chill rabbits",
+          "correct": true,
+          "feedback": "Correct. Balance airflow and protection from chilling."
+        },
+        {
+          "text": "B. Airtight housing is best",
+          "correct": false,
+          "feedback": "Review: Balance airflow and protection from chilling."
+        },
+        {
+          "text": "C. Drafts improve immunity",
+          "correct": false,
+          "feedback": "Review: Balance airflow and protection from chilling."
+        },
+        {
+          "text": "D. Ventilation replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Balance airflow and protection from chilling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of monitoring rabbit litter size and kit weights?",
+      "options": [
+        {
+          "text": "A. It measures feed moisture",
+          "correct": false,
+          "feedback": "Review: Use records to guide management and care."
+        },
+        {
+          "text": "B. It predicts fur colour",
+          "correct": false,
+          "feedback": "Review: Use records to guide management and care."
+        },
+        {
+          "text": "C. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Use records to guide management and care."
+        },
+        {
+          "text": "D. It helps identify differences in doe performance and kit development",
+          "correct": true,
+          "feedback": "Correct. Use records to guide management and care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should rabbits be protected from sudden changes in ambient temperature?",
+      "options": [
+        {
+          "text": "A. It determines litter sex",
+          "correct": false,
+          "feedback": "Review: Provide stable housing and monitor weather conditions."
+        },
+        {
+          "text": "B. Temperature never affects rabbits",
+          "correct": false,
+          "feedback": "Review: Provide stable housing and monitor weather conditions."
+        },
+        {
+          "text": "C. They can be vulnerable to heat and cold stress",
+          "correct": true,
+          "feedback": "Correct. Provide stable housing and monitor weather conditions."
+        },
+        {
+          "text": "D. It replaces water",
+          "correct": false,
+          "feedback": "Review: Provide stable housing and monitor weather conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a rabbit with an unusually swollen abdomen and reduced appetite require?",
+      "options": [
+        {
+          "text": "A. A routine grooming session only",
+          "correct": false,
+          "feedback": "Review: Abdominal swelling and reduced appetite can be serious."
+        },
+        {
+          "text": "B. Urgent veterinary assessment for gastrointestinal or other disease",
+          "correct": true,
+          "feedback": "Correct. Abdominal swelling and reduced appetite can be serious."
+        },
+        {
+          "text": "C. No action if it drinks",
+          "correct": false,
+          "feedback": "Review: Abdominal swelling and reduced appetite can be serious."
+        },
+        {
+          "text": "D. Immediate mating",
+          "correct": false,
+          "feedback": "Review: Abdominal swelling and reduced appetite can be serious."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should rabbit hay racks be designed to prevent contamination by urine or droppings?",
+      "options": [
+        {
+          "text": "A. Clean forage encourages intake and reduces contamination",
+          "correct": true,
+          "feedback": "Correct. Keep forage clean and accessible."
+        },
+        {
+          "text": "B. Contamination improves fibre",
+          "correct": false,
+          "feedback": "Review: Keep forage clean and accessible."
+        },
+        {
+          "text": "C. It replaces pellet feeding",
+          "correct": false,
+          "feedback": "Review: Keep forage clean and accessible."
+        },
+        {
+          "text": "D. It prevents dental disease",
+          "correct": false,
+          "feedback": "Review: Keep forage clean and accessible."
         }
       ],
       "part": 4
