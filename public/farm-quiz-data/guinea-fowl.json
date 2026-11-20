@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It increases egg production",
           "correct": false,
           "feedback": "Review: Remove hazards and keep outdoor areas safe."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should guinea-fowl be protected from sudden changes in feed?",
+      "options": [
+        {
+          "text": "A. Abrupt diet changes can reduce intake and upset digestion",
+          "correct": true,
+          "feedback": "Correct. Transition diets gradually and monitor flock response."
+        },
+        {
+          "text": "B. They cannot digest any new feed",
+          "correct": false,
+          "feedback": "Review: Transition diets gradually and monitor flock response."
+        },
+        {
+          "text": "C. It guarantees better laying",
+          "correct": false,
+          "feedback": "Review: Transition diets gradually and monitor flock response."
+        },
+        {
+          "text": "D. It replaces clean water",
+          "correct": false,
+          "feedback": "Review: Transition diets gradually and monitor flock response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of inspecting guinea-fowl toes and claws?",
+      "options": [
+        {
+          "text": "A. It replaces body condition checks",
+          "correct": false,
+          "feedback": "Review: Foot and claw inspection helps maintain mobility."
+        },
+        {
+          "text": "B. It predicts hatch rate",
+          "correct": false,
+          "feedback": "Review: Foot and claw inspection helps maintain mobility."
+        },
+        {
+          "text": "C. It measures egg protein",
+          "correct": false,
+          "feedback": "Review: Foot and claw inspection helps maintain mobility."
+        },
+        {
+          "text": "D. Overgrown claws or injuries can affect movement",
+          "correct": true,
+          "feedback": "Correct. Foot and claw inspection helps maintain mobility."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should a guinea-fowl flock have access to clean, shaded resting areas?",
+      "options": [
+        {
+          "text": "A. It prevents every parasite",
+          "correct": false,
+          "feedback": "Review: Provide shelter suited to local climate and flock needs."
+        },
+        {
+          "text": "B. Shade replaces feed",
+          "correct": false,
+          "feedback": "Review: Provide shelter suited to local climate and flock needs."
+        },
+        {
+          "text": "C. Shade and shelter help birds cope with heat and weather",
+          "correct": true,
+          "feedback": "Correct. Provide shelter suited to local climate and flock needs."
+        },
+        {
+          "text": "D. It increases heat load",
+          "correct": false,
+          "feedback": "Review: Provide shelter suited to local climate and flock needs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What can a drop in guinea-fowl egg fertility prompt a breeder to review?",
+      "options": [
+        {
+          "text": "A. Only the colour of nest material",
+          "correct": false,
+          "feedback": "Review: Fertility can be affected by several reproductive and management factors."
+        },
+        {
+          "text": "B. Breeder condition, mating activity, age and egg handling",
+          "correct": true,
+          "feedback": "Correct. Fertility can be affected by several reproductive and management factors."
+        },
+        {
+          "text": "C. The pond's depth",
+          "correct": false,
+          "feedback": "Review: Fertility can be affected by several reproductive and management factors."
+        },
+        {
+          "text": "D. The feed bag design",
+          "correct": false,
+          "feedback": "Review: Fertility can be affected by several reproductive and management factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should guinea-fowl housing be protected from snakes and other predators?",
+      "options": [
+        {
+          "text": "A. Predators can kill birds and cause severe flock disturbance",
+          "correct": true,
+          "feedback": "Correct. Secure housing and regular checks reduce predation risk."
+        },
+        {
+          "text": "B. Predators improve biosecurity",
+          "correct": false,
+          "feedback": "Review: Secure housing and regular checks reduce predation risk."
+        },
+        {
+          "text": "C. They reduce the need for fencing",
+          "correct": false,
+          "feedback": "Review: Secure housing and regular checks reduce predation risk."
+        },
+        {
+          "text": "D. They increase egg production",
+          "correct": false,
+          "feedback": "Review: Secure housing and regular checks reduce predation risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is a sensible approach to cleaning an incubator between batches?",
+      "options": [
+        {
+          "text": "A. Wash only the outside",
+          "correct": false,
+          "feedback": "Review: Correct cleaning reduces contamination while protecting equipment."
+        },
+        {
+          "text": "B. Use any chemical at any strength",
+          "correct": false,
+          "feedback": "Review: Correct cleaning reduces contamination while protecting equipment."
+        },
+        {
+          "text": "C. Skip cleaning if eggs looked clean",
+          "correct": false,
+          "feedback": "Review: Correct cleaning reduces contamination while protecting equipment."
+        },
+        {
+          "text": "D. Follow the manufacturer's cleaning and disinfection instructions",
+          "correct": true,
+          "feedback": "Correct. Correct cleaning reduces contamination while protecting equipment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should keets have access to feed that is easy to locate?",
+      "options": [
+        {
+          "text": "A. It determines their sex",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and monitor early feed intake."
+        },
+        {
+          "text": "B. It replaces water",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and monitor early feed intake."
+        },
+        {
+          "text": "C. They need to learn feeding quickly during early growth",
+          "correct": true,
+          "feedback": "Correct. Use suitable feeders and monitor early feed intake."
+        },
+        {
+          "text": "D. It prevents all mortality",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and monitor early feed intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What should be investigated if guinea fowl show repeated head shaking?",
+      "options": [
+        {
+          "text": "A. Only their egg size",
+          "correct": false,
+          "feedback": "Review: Persistent abnormal behaviour warrants health and environment checks."
+        },
+        {
+          "text": "B. Possible ear, eye, respiratory or environmental irritation",
+          "correct": true,
+          "feedback": "Correct. Persistent abnormal behaviour warrants health and environment checks."
+        },
+        {
+          "text": "C. Whether pasture is tall",
+          "correct": false,
+          "feedback": "Review: Persistent abnormal behaviour warrants health and environment checks."
+        },
+        {
+          "text": "D. The colour of the roof",
+          "correct": false,
+          "feedback": "Review: Persistent abnormal behaviour warrants health and environment checks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should feed be offered in enough trough space for the flock?",
+      "options": [
+        {
+          "text": "A. It reduces competition and allows more birds to eat together",
+          "correct": true,
+          "feedback": "Correct. Adequate feeder access supports consistent intake."
+        },
+        {
+          "text": "B. It guarantees equal growth",
+          "correct": false,
+          "feedback": "Review: Adequate feeder access supports consistent intake."
+        },
+        {
+          "text": "C. It eliminates feed costs",
+          "correct": false,
+          "feedback": "Review: Adequate feeder access supports consistent intake."
+        },
+        {
+          "text": "D. It replaces ration formulation",
+          "correct": false,
+          "feedback": "Review: Adequate feeder access supports consistent intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is the purpose of keeping a record of keet brooder temperature adjustments?",
+      "options": [
+        {
+          "text": "A. It replaces thermometer checks",
+          "correct": false,
+          "feedback": "Review: Records help identify patterns and improve brooding decisions."
+        },
+        {
+          "text": "B. It predicts adult body weight exactly",
+          "correct": false,
+          "feedback": "Review: Records help identify patterns and improve brooding decisions."
+        },
+        {
+          "text": "C. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Records help identify patterns and improve brooding decisions."
+        },
+        {
+          "text": "D. It helps relate management changes to bird behaviour and health",
+          "correct": true,
+          "feedback": "Correct. Records help identify patterns and improve brooding decisions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should guinea-fowl eggs be handled gently during collection?",
+      "options": [
+        {
+          "text": "A. Shells repair themselves",
+          "correct": false,
+          "feedback": "Review: Careful collection protects egg integrity."
+        },
+        {
+          "text": "B. Shaking improves embryo growth",
+          "correct": false,
+          "feedback": "Review: Careful collection protects egg integrity."
+        },
+        {
+          "text": "C. Rough handling can cause cracks and reduce hatchability",
+          "correct": true,
+          "feedback": "Correct. Careful collection protects egg integrity."
+        },
+        {
+          "text": "D. It changes egg colour",
+          "correct": false,
+          "feedback": "Review: Careful collection protects egg integrity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What can wet litter around feeders indicate?",
+      "options": [
+        {
+          "text": "A. A healthy brooder automatically",
+          "correct": false,
+          "feedback": "Review: Find and correct the moisture source."
+        },
+        {
+          "text": "B. Spillage, drinker leaks or poor drainage",
+          "correct": true,
+          "feedback": "Correct. Find and correct the moisture source."
+        },
+        {
+          "text": "C. A need to close all vents",
+          "correct": false,
+          "feedback": "Review: Find and correct the moisture source."
+        },
+        {
+          "text": "D. It improves foot health",
+          "correct": false,
+          "feedback": "Review: Find and correct the moisture source."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should guinea-fowl be observed after moving to a new range?",
+      "options": [
+        {
+          "text": "A. They may need time to adapt and learn safe roosting locations",
+          "correct": true,
+          "feedback": "Correct. Supervise adaptation and maintain secure night housing."
+        },
+        {
+          "text": "B. They immediately know every shelter",
+          "correct": false,
+          "feedback": "Review: Supervise adaptation and maintain secure night housing."
+        },
+        {
+          "text": "C. Observation prevents feeding",
+          "correct": false,
+          "feedback": "Review: Supervise adaptation and maintain secure night housing."
+        },
+        {
+          "text": "D. It replaces predator protection",
+          "correct": false,
+          "feedback": "Review: Supervise adaptation and maintain secure night housing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is the value of a flock health plan developed with a veterinarian?",
+      "options": [
+        {
+          "text": "A. It permits unlabelled medicine use",
+          "correct": false,
+          "feedback": "Review: A planned approach improves consistency and responsible care."
+        },
+        {
+          "text": "B. It guarantees no disease ever occurs",
+          "correct": false,
+          "feedback": "Review: A planned approach improves consistency and responsible care."
+        },
+        {
+          "text": "C. It replaces daily observation",
+          "correct": false,
+          "feedback": "Review: A planned approach improves consistency and responsible care."
+        },
+        {
+          "text": "D. It organises prevention, monitoring and response to local disease risks",
+          "correct": true,
+          "feedback": "Correct. A planned approach improves consistency and responsible care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should guinea-fowl waterers be checked for adequate number and access?",
+      "options": [
+        {
+          "text": "A. One drinker always suits every flock",
+          "correct": false,
+          "feedback": "Review: Provide enough accessible water points for the group."
+        },
+        {
+          "text": "B. Water access affects only males",
+          "correct": false,
+          "feedback": "Review: Provide enough accessible water points for the group."
+        },
+        {
+          "text": "C. Dominant birds may restrict access if water points are insufficient",
+          "correct": true,
+          "feedback": "Correct. Provide enough accessible water points for the group."
+        },
+        {
+          "text": "D. It changes egg fertility directly",
+          "correct": false,
+          "feedback": "Review: Provide enough accessible water points for the group."
         }
       ],
       "part": 4
