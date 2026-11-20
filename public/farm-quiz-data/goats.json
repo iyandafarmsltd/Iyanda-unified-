@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. It predicts milk yield",
           "correct": false,
           "feedback": "Review: Accurate identification supports health records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should goat kids be checked for normal suckling after a doe's first kidding?",
+      "options": [
+        {
+          "text": "A. It determines kid colour",
+          "correct": false,
+          "feedback": "Review: Confirm nursing and colostrum intake early."
+        },
+        {
+          "text": "B. It predicts adult milk fat",
+          "correct": false,
+          "feedback": "Review: Confirm nursing and colostrum intake early."
+        },
+        {
+          "text": "C. First-time mothers may need observation to ensure kids can nurse",
+          "correct": true,
+          "feedback": "Correct. Confirm nursing and colostrum intake early."
+        },
+        {
+          "text": "D. It replaces identification",
+          "correct": false,
+          "feedback": "Review: Confirm nursing and colostrum intake early."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of keeping a goat herd's grazing plan?",
+      "options": [
+        {
+          "text": "A. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Review: A grazing plan supports pasture and health management."
+        },
+        {
+          "text": "B. It helps manage forage use, pasture recovery and parasite exposure",
+          "correct": true,
+          "feedback": "Correct. A grazing plan supports pasture and health management."
+        },
+        {
+          "text": "C. It predicts rainfall",
+          "correct": false,
+          "feedback": "Review: A grazing plan supports pasture and health management."
+        },
+        {
+          "text": "D. It replaces feed testing",
+          "correct": false,
+          "feedback": "Review: A grazing plan supports pasture and health management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should goats be protected from abrupt exposure to very rich legume pasture?",
+      "options": [
+        {
+          "text": "A. Sudden changes can increase digestive upset and bloat risk",
+          "correct": true,
+          "feedback": "Correct. Introduce high-risk forage carefully and monitor animals."
+        },
+        {
+          "text": "B. Legumes cannot cause bloat",
+          "correct": false,
+          "feedback": "Review: Introduce high-risk forage carefully and monitor animals."
+        },
+        {
+          "text": "C. It removes the need for hay",
+          "correct": false,
+          "feedback": "Review: Introduce high-risk forage carefully and monitor animals."
+        },
+        {
+          "text": "D. It improves rumen pH instantly",
+          "correct": false,
+          "feedback": "Review: Introduce high-risk forage carefully and monitor animals."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a doe's repeated straining without producing a kid indicate?",
+      "options": [
+        {
+          "text": "A. A reason to stop water",
+          "correct": false,
+          "feedback": "Review: Prolonged or abnormal labour needs prompt assistance."
+        },
+        {
+          "text": "B. A normal sign that can be ignored",
+          "correct": false,
+          "feedback": "Review: Prolonged or abnormal labour needs prompt assistance."
+        },
+        {
+          "text": "C. Proof of twins",
+          "correct": false,
+          "feedback": "Review: Prolonged or abnormal labour needs prompt assistance."
+        },
+        {
+          "text": "D. Possible kidding difficulty requiring urgent veterinary help",
+          "correct": true,
+          "feedback": "Correct. Prolonged or abnormal labour needs prompt assistance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should goat milk filters be replaced or cleaned correctly after each milking?",
+      "options": [
+        {
+          "text": "A. They replace udder hygiene",
+          "correct": false,
+          "feedback": "Review: Clean milk-handling equipment is essential."
+        },
+        {
+          "text": "B. They increase milk volume",
+          "correct": false,
+          "feedback": "Review: Clean milk-handling equipment is essential."
+        },
+        {
+          "text": "C. They trap contaminants and can become a source of bacterial growth",
+          "correct": true,
+          "feedback": "Correct. Clean milk-handling equipment is essential."
+        },
+        {
+          "text": "D. They determine fat content",
+          "correct": false,
+          "feedback": "Review: Clean milk-handling equipment is essential."
         }
       ],
       "part": 4
