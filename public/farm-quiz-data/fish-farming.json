@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. It replaces pond testing",
           "correct": false,
           "feedback": "Review: Maintain screens and check water flow after storms."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should a fish farmer monitor water pH after heavy rain?",
+      "options": [
+        {
+          "text": "A. Rainfall can alter pond water chemistry",
+          "correct": true,
+          "feedback": "Correct. Track pH alongside alkalinity and other parameters."
+        },
+        {
+          "text": "B. Rain never changes pH",
+          "correct": false,
+          "feedback": "Review: Track pH alongside alkalinity and other parameters."
+        },
+        {
+          "text": "C. It determines fish sex",
+          "correct": false,
+          "feedback": "Review: Track pH alongside alkalinity and other parameters."
+        },
+        {
+          "text": "D. It replaces dissolved oxygen tests",
+          "correct": false,
+          "feedback": "Review: Track pH alongside alkalinity and other parameters."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of checking fish for skin ulcers during sampling?",
+      "options": [
+        {
+          "text": "A. They are always harmless",
+          "correct": false,
+          "feedback": "Review: Record lesions and seek professional diagnosis."
+        },
+        {
+          "text": "B. They predict harvest size",
+          "correct": false,
+          "feedback": "Review: Record lesions and seek professional diagnosis."
+        },
+        {
+          "text": "C. They determine age exactly",
+          "correct": false,
+          "feedback": "Review: Record lesions and seek professional diagnosis."
+        },
+        {
+          "text": "D. Ulcers can indicate injury, infection or water-quality stress",
+          "correct": true,
+          "feedback": "Correct. Record lesions and seek professional diagnosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should fish transport containers be shaded?",
+      "options": [
+        {
+          "text": "A. It replaces aeration",
+          "correct": false,
+          "feedback": "Review: Manage temperature, oxygen and stocking during transport."
+        },
+        {
+          "text": "B. It increases oxygen demand",
+          "correct": false,
+          "feedback": "Review: Manage temperature, oxygen and stocking during transport."
+        },
+        {
+          "text": "C. Shade helps limit temperature rise and stress",
+          "correct": true,
+          "feedback": "Correct. Manage temperature, oxygen and stocking during transport."
+        },
+        {
+          "text": "D. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Manage temperature, oxygen and stocking during transport."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a fish pond with persistent surface foam require?",
+      "options": [
+        {
+          "text": "A. Immediate restocking",
+          "correct": false,
+          "feedback": "Review: Assess the cause and test water rather than treating by appearance alone."
+        },
+        {
+          "text": "B. Investigation of organic matter, feed residues or water chemistry",
+          "correct": true,
+          "feedback": "Correct. Assess the cause and test water rather than treating by appearance alone."
+        },
+        {
+          "text": "C. No action if fish feed",
+          "correct": false,
+          "feedback": "Review: Assess the cause and test water rather than treating by appearance alone."
+        },
+        {
+          "text": "D. A guaranteed increase in oxygen",
+          "correct": false,
+          "feedback": "Review: Assess the cause and test water rather than treating by appearance alone."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should farmers maintain a record of water-treatment product use?",
+      "options": [
+        {
+          "text": "A. It supports traceability, safety and review of treatment outcomes",
+          "correct": true,
+          "feedback": "Correct. Use only appropriate products as directed and keep records."
+        },
+        {
+          "text": "B. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Use only appropriate products as directed and keep records."
+        },
+        {
+          "text": "C. It replaces product instructions",
+          "correct": false,
+          "feedback": "Review: Use only appropriate products as directed and keep records."
+        },
+        {
+          "text": "D. It guarantees water is safe",
+          "correct": false,
+          "feedback": "Review: Use only appropriate products as directed and keep records."
         }
       ],
       "part": 4
