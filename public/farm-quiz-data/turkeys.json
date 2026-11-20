@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should turkey poults be checked for access to feed and water soon after placement?",
+      "options": [
+        {
+          "text": "A. It determines adult feather colour",
+          "correct": false,
+          "feedback": "Review: Check that poults locate and use feeders and drinkers promptly."
+        },
+        {
+          "text": "B. Early access supports hydration, feeding and adaptation to the brooder",
+          "correct": true,
+          "feedback": "Correct. Check that poults locate and use feeders and drinkers promptly."
+        },
+        {
+          "text": "C. It replaces brooder temperature control",
+          "correct": false,
+          "feedback": "Review: Check that poults locate and use feeders and drinkers promptly."
+        },
+        {
+          "text": "D. It guarantees disease-free status",
+          "correct": false,
+          "feedback": "Review: Check that poults locate and use feeders and drinkers promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of monitoring turkey breast and leg condition in a growing flock?",
+      "options": [
+        {
+          "text": "A. To identify growth, mobility or welfare problems",
+          "correct": true,
+          "feedback": "Correct. Body condition and locomotion observations help assess flock welfare."
+        },
+        {
+          "text": "B. To determine pond oxygen",
+          "correct": false,
+          "feedback": "Review: Body condition and locomotion observations help assess flock welfare."
+        },
+        {
+          "text": "C. To replace feed records",
+          "correct": false,
+          "feedback": "Review: Body condition and locomotion observations help assess flock welfare."
+        },
+        {
+          "text": "D. To predict egg shell colour",
+          "correct": false,
+          "feedback": "Review: Body condition and locomotion observations help assess flock welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why is ventilation adjusted as turkey birds grow larger?",
+      "options": [
+        {
+          "text": "A. Air quality is unrelated to bird size",
+          "correct": false,
+          "feedback": "Review: Ventilation needs change with bird biomass and environmental conditions."
+        },
+        {
+          "text": "B. Large birds need no fresh air",
+          "correct": false,
+          "feedback": "Review: Ventilation needs change with bird biomass and environmental conditions."
+        },
+        {
+          "text": "C. Ventilation should always remain fully closed",
+          "correct": false,
+          "feedback": "Review: Ventilation needs change with bird biomass and environmental conditions."
+        },
+        {
+          "text": "D. Larger birds produce more heat, moisture and respiratory gases",
+          "correct": true,
+          "feedback": "Correct. Ventilation needs change with bird biomass and environmental conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What should be done if turkey litter cakes around drinkers?",
+      "options": [
+        {
+          "text": "A. Cover it with feed",
+          "correct": false,
+          "feedback": "Review: Wet cake increases ammonia and footpad risks."
+        },
+        {
+          "text": "B. Add water to soften it",
+          "correct": false,
+          "feedback": "Review: Wet cake increases ammonia and footpad risks."
+        },
+        {
+          "text": "C. Correct leaks, improve drinker management and remove wet cake",
+          "correct": true,
+          "feedback": "Correct. Wet cake increases ammonia and footpad risks."
+        },
+        {
+          "text": "D. Ignore it until the flock leaves",
+          "correct": false,
+          "feedback": "Review: Wet cake increases ammonia and footpad risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why should turkey breeder males be monitored for leg soundness?",
+      "options": [
+        {
+          "text": "A. Leg condition determines egg shell thickness",
+          "correct": false,
+          "feedback": "Review: Leg and foot health are important for breeder performance."
+        },
+        {
+          "text": "B. Mobility affects mating ability and welfare",
+          "correct": true,
+          "feedback": "Correct. Leg and foot health are important for breeder performance."
+        },
+        {
+          "text": "C. It replaces fertility testing",
+          "correct": false,
+          "feedback": "Review: Leg and foot health are important for breeder performance."
+        },
+        {
+          "text": "D. It has no effect on breeding",
+          "correct": false,
+          "feedback": "Review: Leg and foot health are important for breeder performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the purpose of maintaining a clean egg nest area for turkey breeders?",
+      "options": [
+        {
+          "text": "A. It reduces contamination and helps protect egg quality",
+          "correct": true,
+          "feedback": "Correct. Clean nests and frequent collection reduce dirty and damaged eggs."
+        },
+        {
+          "text": "B. It increases egg size automatically",
+          "correct": false,
+          "feedback": "Review: Clean nests and frequent collection reduce dirty and damaged eggs."
+        },
+        {
+          "text": "C. It replaces incubation hygiene",
+          "correct": false,
+          "feedback": "Review: Clean nests and frequent collection reduce dirty and damaged eggs."
+        },
+        {
+          "text": "D. It prevents all infertility",
+          "correct": false,
+          "feedback": "Review: Clean nests and frequent collection reduce dirty and damaged eggs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should turkey flocks be weighed using a consistent sampling method?",
+      "options": [
+        {
+          "text": "A. It determines disease status",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods to track flock performance."
+        },
+        {
+          "text": "B. It removes all sampling error",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods to track flock performance."
+        },
+        {
+          "text": "C. It predicts market price exactly",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods to track flock performance."
+        },
+        {
+          "text": "D. Consistent sampling makes growth trends more comparable",
+          "correct": true,
+          "feedback": "Correct. Use representative samples and consistent methods to track flock performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What can increased water consumption alongside wet droppings suggest?",
+      "options": [
+        {
+          "text": "A. A normal sign in every flock",
+          "correct": false,
+          "feedback": "Review: Monitor patterns and seek veterinary advice when changes persist."
+        },
+        {
+          "text": "B. A guaranteed improvement in growth",
+          "correct": false,
+          "feedback": "Review: Monitor patterns and seek veterinary advice when changes persist."
+        },
+        {
+          "text": "C. A health, feed or environmental issue requiring investigation",
+          "correct": true,
+          "feedback": "Correct. Monitor patterns and seek veterinary advice when changes persist."
+        },
+        {
+          "text": "D. That water should be removed",
+          "correct": false,
+          "feedback": "Review: Monitor patterns and seek veterinary advice when changes persist."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should turkey transport crates allow adequate headroom and ventilation?",
+      "options": [
+        {
+          "text": "A. To prevent all movement",
+          "correct": false,
+          "feedback": "Review: Suitable crates and loading density protect bird welfare during transport."
+        },
+        {
+          "text": "B. To reduce injury, overheating and respiratory stress",
+          "correct": true,
+          "feedback": "Correct. Suitable crates and loading density protect bird welfare during transport."
+        },
+        {
+          "text": "C. To keep birds in darkness permanently",
+          "correct": false,
+          "feedback": "Review: Suitable crates and loading density protect bird welfare during transport."
+        },
+        {
+          "text": "D. To increase stocking density",
+          "correct": false,
+          "feedback": "Review: Suitable crates and loading density protect bird welfare during transport."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is a sensible approach to selecting turkey breeder stock?",
+      "options": [
+        {
+          "text": "A. Consider health, growth, fertility, conformation and records",
+          "correct": true,
+          "feedback": "Correct. Balanced selection supports sustainable flock improvement."
+        },
+        {
+          "text": "B. Choose only the heaviest bird",
+          "correct": false,
+          "feedback": "Review: Balanced selection supports sustainable flock improvement."
+        },
+        {
+          "text": "C. Ignore leg health",
+          "correct": false,
+          "feedback": "Review: Balanced selection supports sustainable flock improvement."
+        },
+        {
+          "text": "D. Select without checking parentage or performance",
+          "correct": false,
+          "feedback": "Review: Balanced selection supports sustainable flock improvement."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should turkey feed be protected from prolonged heat and humidity?",
+      "options": [
+        {
+          "text": "A. Feed quality is unaffected by storage",
+          "correct": false,
+          "feedback": "Review: Use dry, cool, pest-resistant storage and rotate stock."
+        },
+        {
+          "text": "B. Heat sterilises all feed safely",
+          "correct": false,
+          "feedback": "Review: Use dry, cool, pest-resistant storage and rotate stock."
+        },
+        {
+          "text": "C. Humidity improves shelf life",
+          "correct": false,
+          "feedback": "Review: Use dry, cool, pest-resistant storage and rotate stock."
+        },
+        {
+          "text": "D. Poor storage conditions can cause nutrient loss and mould growth",
+          "correct": true,
+          "feedback": "Correct. Use dry, cool, pest-resistant storage and rotate stock."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What does a turkey flock's feed conversion ratio help evaluate?",
+      "options": [
+        {
+          "text": "A. The house ventilation rate",
+          "correct": false,
+          "feedback": "Review: FCR is useful when feed intake and weight data are measured consistently."
+        },
+        {
+          "text": "B. The number of eggs per nest",
+          "correct": false,
+          "feedback": "Review: FCR is useful when feed intake and weight data are measured consistently."
+        },
+        {
+          "text": "C. Feed used relative to liveweight gain",
+          "correct": true,
+          "feedback": "Correct. FCR is useful when feed intake and weight data are measured consistently."
+        },
+        {
+          "text": "D. The hatchery's water pH",
+          "correct": false,
+          "feedback": "Review: FCR is useful when feed intake and weight data are measured consistently."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should turkey litter be assessed for footpad condition?",
+      "options": [
+        {
+          "text": "A. Footpads measure feed protein",
+          "correct": false,
+          "feedback": "Review: Footpad scoring can help evaluate housing and litter management."
+        },
+        {
+          "text": "B. Footpad lesions can indicate wet litter and welfare problems",
+          "correct": true,
+          "feedback": "Correct. Footpad scoring can help evaluate housing and litter management."
+        },
+        {
+          "text": "C. Lesions are always harmless",
+          "correct": false,
+          "feedback": "Review: Footpad scoring can help evaluate housing and litter management."
+        },
+        {
+          "text": "D. Litter has no effect on feet",
+          "correct": false,
+          "feedback": "Review: Footpad scoring can help evaluate housing and litter management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What should be considered before administering medication to turkeys?",
+      "options": [
+        {
+          "text": "A. Correct diagnosis, product approval, dose and withdrawal period",
+          "correct": true,
+          "feedback": "Correct. Follow veterinary direction and product instructions to protect birds and food safety."
+        },
+        {
+          "text": "B. Only the bird's feather colour",
+          "correct": false,
+          "feedback": "Review: Follow veterinary direction and product instructions to protect birds and food safety."
+        },
+        {
+          "text": "C. Whether a neighbour used it",
+          "correct": false,
+          "feedback": "Review: Follow veterinary direction and product instructions to protect birds and food safety."
+        },
+        {
+          "text": "D. Using several products at once",
+          "correct": false,
+          "feedback": "Review: Follow veterinary direction and product instructions to protect birds and food safety."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should turkey houses have a visitor and vehicle biosecurity protocol?",
+      "options": [
+        {
+          "text": "A. Biosecurity applies only during outbreaks",
+          "correct": false,
+          "feedback": "Review: Access control, cleaning and disinfection reduce disease introduction."
+        },
+        {
+          "text": "B. Visitors improve immunity",
+          "correct": false,
+          "feedback": "Review: Access control, cleaning and disinfection reduce disease introduction."
+        },
+        {
+          "text": "C. Vehicles sterilise the farm",
+          "correct": false,
+          "feedback": "Review: Access control, cleaning and disinfection reduce disease introduction."
+        },
+        {
+          "text": "D. People and vehicles can carry infectious agents between farms",
+          "correct": true,
+          "feedback": "Correct. Access control, cleaning and disinfection reduce disease introduction."
+        }
+      ],
+      "part": 4
     }
   ]
 }
