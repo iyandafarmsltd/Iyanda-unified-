@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It helps identify recurring risks and improve management",
           "correct": true,
           "feedback": "Correct. Use mortality trends with health and environmental records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should turkey poults be monitored for crop fill after their first feeding period?",
+      "options": [
+        {
+          "text": "A. It predicts adult colour",
+          "correct": false,
+          "feedback": "Review: Check a representative sample and correct access problems."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Check a representative sample and correct access problems."
+        },
+        {
+          "text": "C. It helps confirm that young birds are accessing feed",
+          "correct": true,
+          "feedback": "Correct. Check a representative sample and correct access problems."
+        },
+        {
+          "text": "D. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Check a representative sample and correct access problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking turkey house floors for cracks?",
+      "options": [
+        {
+          "text": "A. They improve ventilation",
+          "correct": false,
+          "feedback": "Review: Repair damaged flooring and maintain hygiene."
+        },
+        {
+          "text": "B. Cracks can harbour dirt and create injury or sanitation problems",
+          "correct": true,
+          "feedback": "Correct. Repair damaged flooring and maintain hygiene."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Repair damaged flooring and maintain hygiene."
+        },
+        {
+          "text": "D. It replaces litter",
+          "correct": false,
+          "feedback": "Review: Repair damaged flooring and maintain hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should turkey farms maintain a record of water sanitation treatments?",
+      "options": [
+        {
+          "text": "A. It supports consistency and prevents incorrect chemical use",
+          "correct": true,
+          "feedback": "Correct. Follow approved procedures and document treatment details."
+        },
+        {
+          "text": "B. It predicts growth",
+          "correct": false,
+          "feedback": "Review: Follow approved procedures and document treatment details."
+        },
+        {
+          "text": "C. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Follow approved procedures and document treatment details."
+        },
+        {
+          "text": "D. It determines egg size",
+          "correct": false,
+          "feedback": "Review: Follow approved procedures and document treatment details."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can an increase in turkey breast blisters indicate?",
+      "options": [
+        {
+          "text": "A. It is always genetic",
+          "correct": false,
+          "feedback": "Review: Review litter condition and bird comfort."
+        },
+        {
+          "text": "B. It determines hatchability",
+          "correct": false,
+          "feedback": "Review: Review litter condition and bird comfort."
+        },
+        {
+          "text": "C. It proves the ration is balanced",
+          "correct": false,
+          "feedback": "Review: Review litter condition and bird comfort."
+        },
+        {
+          "text": "D. Litter, resting surface or housing conditions may be unsuitable",
+          "correct": true,
+          "feedback": "Correct. Review litter condition and bird comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should turkey breeders be protected from excessive body weight gain?",
+      "options": [
+        {
+          "text": "A. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Manage breeder nutrition and body condition."
+        },
+        {
+          "text": "B. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Manage breeder nutrition and body condition."
+        },
+        {
+          "text": "C. Overconditioning can impair mobility and reproductive performance",
+          "correct": true,
+          "feedback": "Correct. Manage breeder nutrition and body condition."
+        },
+        {
+          "text": "D. It replaces exercise",
+          "correct": false,
+          "feedback": "Review: Manage breeder nutrition and body condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of checking turkey eggs for cracks before storage?",
+      "options": [
+        {
+          "text": "A. It predicts poult sex",
+          "correct": false,
+          "feedback": "Review: Exclude unsuitable eggs from incubation."
+        },
+        {
+          "text": "B. Cracked shells increase contamination and moisture-loss risk",
+          "correct": true,
+          "feedback": "Correct. Exclude unsuitable eggs from incubation."
+        },
+        {
+          "text": "C. It improves hatchability",
+          "correct": false,
+          "feedback": "Review: Exclude unsuitable eggs from incubation."
+        },
+        {
+          "text": "D. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Exclude unsuitable eggs from incubation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should turkey poults have access to suitable grit only when their diet and system require it?",
+      "options": [
+        {
+          "text": "A. Grit needs depend on feed form and management system",
+          "correct": true,
+          "feedback": "Correct. Follow nutrition and husbandry guidance for the system."
+        },
+        {
+          "text": "B. All poults need unlimited grit",
+          "correct": false,
+          "feedback": "Review: Follow nutrition and husbandry guidance for the system."
+        },
+        {
+          "text": "C. It replaces balanced feed",
+          "correct": false,
+          "feedback": "Review: Follow nutrition and husbandry guidance for the system."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Follow nutrition and husbandry guidance for the system."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can turkey birds gathering near water lines but not drinking indicate?",
+      "options": [
+        {
+          "text": "A. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check water delivery and observe actual drinking."
+        },
+        {
+          "text": "B. It proves water is perfect",
+          "correct": false,
+          "feedback": "Review: Check water delivery and observe actual drinking."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Check water delivery and observe actual drinking."
+        },
+        {
+          "text": "D. Drinker access, flow or water quality may be inadequate",
+          "correct": true,
+          "feedback": "Correct. Check water delivery and observe actual drinking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should turkey farms record the timing of flock medication?",
+      "options": [
+        {
+          "text": "A. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Maintain accurate treatment and withdrawal records."
+        },
+        {
+          "text": "B. It predicts market price",
+          "correct": false,
+          "feedback": "Review: Maintain accurate treatment and withdrawal records."
+        },
+        {
+          "text": "C. It helps manage treatment intervals and withdrawal periods",
+          "correct": true,
+          "feedback": "Correct. Maintain accurate treatment and withdrawal records."
+        },
+        {
+          "text": "D. It determines breeder age",
+          "correct": false,
+          "feedback": "Review: Maintain accurate treatment and withdrawal records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of reviewing turkey house mortality by location?",
+      "options": [
+        {
+          "text": "A. It predicts egg colour",
+          "correct": false,
+          "feedback": "Review: Use location-specific patterns to guide investigation."
+        },
+        {
+          "text": "B. It may reveal localised environmental or equipment problems",
+          "correct": true,
+          "feedback": "Correct. Use location-specific patterns to guide investigation."
+        },
+        {
+          "text": "C. It replaces daily records",
+          "correct": false,
+          "feedback": "Review: Use location-specific patterns to guide investigation."
+        },
+        {
+          "text": "D. It determines breed",
+          "correct": false,
+          "feedback": "Review: Use location-specific patterns to guide investigation."
         }
       ],
       "part": 4
