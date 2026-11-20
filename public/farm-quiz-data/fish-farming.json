@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It replaces water quality testing",
           "correct": false,
           "feedback": "Review: Match stocking to the system's carrying capacity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should fish farmers record rainfall alongside pond water-quality readings?",
+      "options": [
+        {
+          "text": "A. It replaces oxygen testing",
+          "correct": false,
+          "feedback": "Review: Weather records help interpret water-quality trends."
+        },
+        {
+          "text": "B. Rainfall determines fish sex",
+          "correct": false,
+          "feedback": "Review: Weather records help interpret water-quality trends."
+        },
+        {
+          "text": "C. Rainfall can influence runoff, dilution and water chemistry",
+          "correct": true,
+          "feedback": "Correct. Weather records help interpret water-quality trends."
+        },
+        {
+          "text": "D. It predicts exact harvest size",
+          "correct": false,
+          "feedback": "Review: Weather records help interpret water-quality trends."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of checking fish gill movement during observation?",
+      "options": [
+        {
+          "text": "A. It measures fish weight",
+          "correct": false,
+          "feedback": "Review: Observe breathing and verify water conditions."
+        },
+        {
+          "text": "B. Abnormal rapid movement can signal stress or poor water conditions",
+          "correct": true,
+          "feedback": "Correct. Observe breathing and verify water conditions."
+        },
+        {
+          "text": "C. It determines species exactly",
+          "correct": false,
+          "feedback": "Review: Observe breathing and verify water conditions."
+        },
+        {
+          "text": "D. It replaces water tests",
+          "correct": false,
+          "feedback": "Review: Observe breathing and verify water conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should fish ponds be protected from livestock entering directly?",
+      "options": [
+        {
+          "text": "A. Livestock can disturb banks and introduce manure and pathogens",
+          "correct": true,
+          "feedback": "Correct. Use barriers and manage water access."
+        },
+        {
+          "text": "B. Livestock improve water clarity",
+          "correct": false,
+          "feedback": "Review: Use barriers and manage water access."
+        },
+        {
+          "text": "C. It increases fish growth",
+          "correct": false,
+          "feedback": "Review: Use barriers and manage water access."
+        },
+        {
+          "text": "D. It replaces fencing",
+          "correct": false,
+          "feedback": "Review: Use barriers and manage water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can an unusual fish odour or off-flavour indicate?",
+      "options": [
+        {
+          "text": "A. It is always genetic",
+          "correct": false,
+          "feedback": "Review: Investigate water sources, algae and feed and follow food-safety advice."
+        },
+        {
+          "text": "B. It proves fish are fresh",
+          "correct": false,
+          "feedback": "Review: Investigate water sources, algae and feed and follow food-safety advice."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Investigate water sources, algae and feed and follow food-safety advice."
+        },
+        {
+          "text": "D. Water or feed-related compounds may be affecting fish quality",
+          "correct": true,
+          "feedback": "Correct. Investigate water sources, algae and feed and follow food-safety advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should fish harvest equipment be cleaned before use?",
+      "options": [
+        {
+          "text": "A. It replaces chilling",
+          "correct": false,
+          "feedback": "Review: Use hygienic equipment and clean handling surfaces."
+        },
+        {
+          "text": "B. It increases fish weight",
+          "correct": false,
+          "feedback": "Review: Use hygienic equipment and clean handling surfaces."
+        },
+        {
+          "text": "C. It reduces contamination and transfer of pathogens",
+          "correct": true,
+          "feedback": "Correct. Use hygienic equipment and clean handling surfaces."
+        },
+        {
+          "text": "D. It determines market grade",
+          "correct": false,
+          "feedback": "Review: Use hygienic equipment and clean handling surfaces."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of measuring pond water conductivity where useful?",
+      "options": [
+        {
+          "text": "A. It measures fish length",
+          "correct": false,
+          "feedback": "Review: Interpret conductivity with other water-quality results."
+        },
+        {
+          "text": "B. It provides information about dissolved ions and changes in water chemistry",
+          "correct": true,
+          "feedback": "Correct. Interpret conductivity with other water-quality results."
+        },
+        {
+          "text": "C. It replaces pH and oxygen testing",
+          "correct": false,
+          "feedback": "Review: Interpret conductivity with other water-quality results."
+        },
+        {
+          "text": "D. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Interpret conductivity with other water-quality results."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should fish farmers avoid overstocking nursery tanks?",
+      "options": [
+        {
+          "text": "A. High density increases stress, oxygen demand and disease risk",
+          "correct": true,
+          "feedback": "Correct. Match stocking to tank capacity and filtration or aeration."
+        },
+        {
+          "text": "B. It guarantees faster growth",
+          "correct": false,
+          "feedback": "Review: Match stocking to tank capacity and filtration or aeration."
+        },
+        {
+          "text": "C. It improves water quality",
+          "correct": false,
+          "feedback": "Review: Match stocking to tank capacity and filtration or aeration."
+        },
+        {
+          "text": "D. It removes need for grading",
+          "correct": false,
+          "feedback": "Review: Match stocking to tank capacity and filtration or aeration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can a sudden rise in fish surface gasping indicate?",
+      "options": [
+        {
+          "text": "A. It should be ignored",
+          "correct": false,
+          "feedback": "Review: Check oxygen immediately and respond to the emergency."
+        },
+        {
+          "text": "B. A sign of good feeding",
+          "correct": false,
+          "feedback": "Review: Check oxygen immediately and respond to the emergency."
+        },
+        {
+          "text": "C. It determines fish sex",
+          "correct": false,
+          "feedback": "Review: Check oxygen immediately and respond to the emergency."
+        },
+        {
+          "text": "D. Low dissolved oxygen or another serious water-quality problem",
+          "correct": true,
+          "feedback": "Correct. Check oxygen immediately and respond to the emergency."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should fish farmers inspect pond banks for erosion?",
+      "options": [
+        {
+          "text": "A. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Repair erosion and manage runoff."
+        },
+        {
+          "text": "B. It improves oxygen",
+          "correct": false,
+          "feedback": "Review: Repair erosion and manage runoff."
+        },
+        {
+          "text": "C. Erosion can reduce pond stability and increase suspended solids",
+          "correct": true,
+          "feedback": "Correct. Repair erosion and manage runoff."
+        },
+        {
+          "text": "D. It determines fish age",
+          "correct": false,
+          "feedback": "Review: Repair erosion and manage runoff."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of recording fish harvest size distribution?",
+      "options": [
+        {
+          "text": "A. It measures pond alkalinity",
+          "correct": false,
+          "feedback": "Review: Use consistent sampling and grading records."
+        },
+        {
+          "text": "B. It helps evaluate growth uniformity and market grading",
+          "correct": true,
+          "feedback": "Correct. Use consistent sampling and grading records."
+        },
+        {
+          "text": "C. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Use consistent sampling and grading records."
+        },
+        {
+          "text": "D. It replaces biomass records",
+          "correct": false,
+          "feedback": "Review: Use consistent sampling and grading records."
         }
       ],
       "part": 4
