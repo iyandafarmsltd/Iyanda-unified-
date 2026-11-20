@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. They measure feed intake",
           "correct": false,
           "feedback": "Review: Improve lying surfaces and investigate affected animals."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should piglets be monitored for signs of crushing after farrowing?",
+      "options": [
+        {
+          "text": "A. It is harmless",
+          "correct": false,
+          "feedback": "Review: Use suitable farrowing accommodation and observe sow and litter behaviour."
+        },
+        {
+          "text": "B. It improves litter uniformity",
+          "correct": false,
+          "feedback": "Review: Use suitable farrowing accommodation and observe sow and litter behaviour."
+        },
+        {
+          "text": "C. Crushing is a significant risk and can cause severe injury or death",
+          "correct": true,
+          "feedback": "Correct. Use suitable farrowing accommodation and observe sow and litter behaviour."
+        },
+        {
+          "text": "D. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Use suitable farrowing accommodation and observe sow and litter behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of checking pig feed for correct particle size?",
+      "options": [
+        {
+          "text": "A. It determines pig sex",
+          "correct": false,
+          "feedback": "Review: Follow nutritionist guidance for grinding and feed form."
+        },
+        {
+          "text": "B. Particle size can influence digestion, feed intake and ulcer risk",
+          "correct": true,
+          "feedback": "Correct. Follow nutritionist guidance for grinding and feed form."
+        },
+        {
+          "text": "C. It replaces nutrient analysis",
+          "correct": false,
+          "feedback": "Review: Follow nutritionist guidance for grinding and feed form."
+        },
+        {
+          "text": "D. It measures water quality",
+          "correct": false,
+          "feedback": "Review: Follow nutritionist guidance for grinding and feed form."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should pig farms monitor air quality at pig level?",
+      "options": [
+        {
+          "text": "A. Ammonia, dust and poor airflow can harm respiratory health",
+          "correct": true,
+          "feedback": "Correct. Measure and manage air quality where pigs are housed."
+        },
+        {
+          "text": "B. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Measure and manage air quality where pigs are housed."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Review: Measure and manage air quality where pigs are housed."
+        },
+        {
+          "text": "D. It improves growth automatically",
+          "correct": false,
+          "feedback": "Review: Measure and manage air quality where pigs are housed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can repeated vulval discharge in a sow after farrowing indicate?",
+      "options": [
+        {
+          "text": "A. A reason to stop feeding",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment, especially if accompanied by fever or poor appetite."
+        },
+        {
+          "text": "B. A normal sign in every sow",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment, especially if accompanied by fever or poor appetite."
+        },
+        {
+          "text": "C. It predicts a large litter",
+          "correct": false,
+          "feedback": "Review: Seek veterinary assessment, especially if accompanied by fever or poor appetite."
+        },
+        {
+          "text": "D. Possible reproductive tract infection or complication",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary assessment, especially if accompanied by fever or poor appetite."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should piglets be provided with an appropriate creep feed before weaning?",
+      "options": [
+        {
+          "text": "A. It prevents all weaning stress",
+          "correct": false,
+          "feedback": "Review: Offer suitable feed gradually and maintain hygiene."
+        },
+        {
+          "text": "B. It replaces milk completely",
+          "correct": false,
+          "feedback": "Review: Offer suitable feed gradually and maintain hygiene."
+        },
+        {
+          "text": "C. It helps them become familiar with solid feed",
+          "correct": true,
+          "feedback": "Correct. Offer suitable feed gradually and maintain hygiene."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Offer suitable feed gradually and maintain hygiene."
         }
       ],
       "part": 4
