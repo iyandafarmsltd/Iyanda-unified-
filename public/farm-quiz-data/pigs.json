@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. Diarrhoea improves adaptation",
           "correct": false,
           "feedback": "Review: Close monitoring helps detect problems early."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should pigs be observed for water intake during hot weather?",
+      "options": [
+        {
+          "text": "A. Water needs may rise and restricted supply can worsen heat stress",
+          "correct": true,
+          "feedback": "Correct. Check drinker function and provide reliable access."
+        },
+        {
+          "text": "B. Water needs fall in heat",
+          "correct": false,
+          "feedback": "Review: Check drinker function and provide reliable access."
+        },
+        {
+          "text": "C. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Check drinker function and provide reliable access."
+        },
+        {
+          "text": "D. It replaces cooling",
+          "correct": false,
+          "feedback": "Review: Check drinker function and provide reliable access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of maintaining separate pens for newly weaned piglets?",
+      "options": [
+        {
+          "text": "A. It prevents all social behaviour",
+          "correct": false,
+          "feedback": "Review: Weaned piglets benefit from suitable grouping and close observation."
+        },
+        {
+          "text": "B. It guarantees no diarrhoea",
+          "correct": false,
+          "feedback": "Review: Weaned piglets benefit from suitable grouping and close observation."
+        },
+        {
+          "text": "C. It replaces monitoring",
+          "correct": false,
+          "feedback": "Review: Weaned piglets benefit from suitable grouping and close observation."
+        },
+        {
+          "text": "D. It allows management of their changing feed and environmental needs",
+          "correct": true,
+          "feedback": "Correct. Weaned piglets benefit from suitable grouping and close observation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should piglets be checked for signs of anaemia?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Follow veterinary guidance for prevention and treatment."
+        },
+        {
+          "text": "B. Anaemia improves immunity",
+          "correct": false,
+          "feedback": "Review: Follow veterinary guidance for prevention and treatment."
+        },
+        {
+          "text": "C. Iron deficiency can impair growth and health",
+          "correct": true,
+          "feedback": "Correct. Follow veterinary guidance for prevention and treatment."
+        },
+        {
+          "text": "D. It is prevented by extra water alone",
+          "correct": false,
+          "feedback": "Review: Follow veterinary guidance for prevention and treatment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can repeated fighting after mixing pigs indicate?",
+      "options": [
+        {
+          "text": "A. Fighting improves welfare",
+          "correct": false,
+          "feedback": "Review: Reduce stressors and monitor injuries."
+        },
+        {
+          "text": "B. The group needs review of space, resources and mixing management",
+          "correct": true,
+          "feedback": "Correct. Reduce stressors and monitor injuries."
+        },
+        {
+          "text": "C. It proves the ration is balanced",
+          "correct": false,
+          "feedback": "Review: Reduce stressors and monitor injuries."
+        },
+        {
+          "text": "D. It should be ignored",
+          "correct": false,
+          "feedback": "Review: Reduce stressors and monitor injuries."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should pig farm workers use dedicated clothing and boots?",
+      "options": [
+        {
+          "text": "A. It helps reduce disease transfer between farms and production areas",
+          "correct": true,
+          "feedback": "Correct. Dedicated clothing is one layer of biosecurity."
+        },
+        {
+          "text": "B. It increases feed conversion",
+          "correct": false,
+          "feedback": "Review: Dedicated clothing is one layer of biosecurity."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Dedicated clothing is one layer of biosecurity."
+        },
+        {
+          "text": "D. It guarantees pathogen-free status",
+          "correct": false,
+          "feedback": "Review: Dedicated clothing is one layer of biosecurity."
         }
       ],
       "part": 4
