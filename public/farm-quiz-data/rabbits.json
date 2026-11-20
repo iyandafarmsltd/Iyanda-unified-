@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. Storage increases parasite transmission intentionally",
           "correct": false,
           "feedback": "Review: Manage manure according to local hygiene and crop-safety guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should rabbit enclosures include hiding places?",
+      "options": [
+        {
+          "text": "A. Hiding opportunities help rabbits feel secure and express natural behaviour",
+          "correct": true,
+          "feedback": "Correct. Suitable retreats support rabbit welfare."
+        },
+        {
+          "text": "B. They replace feeding space",
+          "correct": false,
+          "feedback": "Review: Suitable retreats support rabbit welfare."
+        },
+        {
+          "text": "C. They prevent all disease",
+          "correct": false,
+          "feedback": "Review: Suitable retreats support rabbit welfare."
+        },
+        {
+          "text": "D. They eliminate the need for handling",
+          "correct": false,
+          "feedback": "Review: Suitable retreats support rabbit welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of checking rabbit water bottles or drinkers daily?",
+      "options": [
+        {
+          "text": "A. It predicts breeding success",
+          "correct": false,
+          "feedback": "Review: Check flow and function every day and provide reliable water access."
+        },
+        {
+          "text": "B. It measures body condition",
+          "correct": false,
+          "feedback": "Review: Check flow and function every day and provide reliable water access."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Check flow and function every day and provide reliable water access."
+        },
+        {
+          "text": "D. A blockage can quickly deprive rabbits of water",
+          "correct": true,
+          "feedback": "Correct. Check flow and function every day and provide reliable water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should rabbit breeders avoid mating animals with known inherited defects?",
+      "options": [
+        {
+          "text": "A. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Responsible selection considers health and inherited conditions."
+        },
+        {
+          "text": "B. It guarantees perfect offspring",
+          "correct": false,
+          "feedback": "Review: Responsible selection considers health and inherited conditions."
+        },
+        {
+          "text": "C. It reduces the chance of passing harmful traits to offspring",
+          "correct": true,
+          "feedback": "Correct. Responsible selection considers health and inherited conditions."
+        },
+        {
+          "text": "D. It increases litter size automatically",
+          "correct": false,
+          "feedback": "Review: Responsible selection considers health and inherited conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What can a sudden reduction in rabbit droppings mean?",
+      "options": [
+        {
+          "text": "A. Improved digestion in every case",
+          "correct": false,
+          "feedback": "Review: Reduced droppings can be urgent; seek veterinary advice promptly."
+        },
+        {
+          "text": "B. Reduced food intake or gastrointestinal slowdown",
+          "correct": true,
+          "feedback": "Correct. Reduced droppings can be urgent; seek veterinary advice promptly."
+        },
+        {
+          "text": "C. A sign of pregnancy",
+          "correct": false,
+          "feedback": "Review: Reduced droppings can be urgent; seek veterinary advice promptly."
+        },
+        {
+          "text": "D. A reason to remove hay",
+          "correct": false,
+          "feedback": "Review: Reduced droppings can be urgent; seek veterinary advice promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should rabbit meat be chilled and handled hygienically after slaughter?",
+      "options": [
+        {
+          "text": "A. It slows bacterial growth and reduces food-safety risk",
+          "correct": true,
+          "feedback": "Correct. Maintain hygienic processing and an appropriate cold chain."
+        },
+        {
+          "text": "B. Chilling sterilises meat",
+          "correct": false,
+          "feedback": "Review: Maintain hygienic processing and an appropriate cold chain."
+        },
+        {
+          "text": "C. It removes the need for clean equipment",
+          "correct": false,
+          "feedback": "Review: Maintain hygienic processing and an appropriate cold chain."
+        },
+        {
+          "text": "D. Meat stays safe indefinitely",
+          "correct": false,
+          "feedback": "Review: Maintain hygienic processing and an appropriate cold chain."
         }
       ],
       "part": 4
