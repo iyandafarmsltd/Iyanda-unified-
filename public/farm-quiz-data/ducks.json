@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It predicts rainfall",
           "correct": false,
           "feedback": "Review: Pen-level records help identify patterns."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should ducklings be observed for signs of chilling after swimming or bathing?",
+      "options": [
+        {
+          "text": "A. Water always warms ducklings",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and safe water access."
+        },
+        {
+          "text": "B. Wet young birds can lose body heat",
+          "correct": true,
+          "feedback": "Correct. Provide suitable warmth and safe water access."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and safe water access."
+        },
+        {
+          "text": "D. It replaces brooder checks",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and safe water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking duck pond banks for sharp debris?",
+      "options": [
+        {
+          "text": "A. It prevents foot injuries and other wounds",
+          "correct": true,
+          "feedback": "Correct. Remove hazards and maintain safe access."
+        },
+        {
+          "text": "B. It improves pond fertility",
+          "correct": false,
+          "feedback": "Review: Remove hazards and maintain safe access."
+        },
+        {
+          "text": "C. It measures water pH",
+          "correct": false,
+          "feedback": "Review: Remove hazards and maintain safe access."
+        },
+        {
+          "text": "D. It replaces fencing",
+          "correct": false,
+          "feedback": "Review: Remove hazards and maintain safe access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should duck feed be stored separately from pesticides and fertilisers?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Keep feed in a clean, dedicated store."
+        },
+        {
+          "text": "B. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Keep feed in a clean, dedicated store."
+        },
+        {
+          "text": "C. It replaces labels",
+          "correct": false,
+          "feedback": "Review: Keep feed in a clean, dedicated store."
+        },
+        {
+          "text": "D. It prevents accidental chemical contamination",
+          "correct": true,
+          "feedback": "Correct. Keep feed in a clean, dedicated store."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a sudden rise in duck egg breakage indicate?",
+      "options": [
+        {
+          "text": "A. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the egg-handling process."
+        },
+        {
+          "text": "B. It proves high fertility",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the egg-handling process."
+        },
+        {
+          "text": "C. Nest design, collection or handling problems",
+          "correct": true,
+          "feedback": "Correct. Track breakage and inspect the egg-handling process."
+        },
+        {
+          "text": "D. It is unrelated to management",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the egg-handling process."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should ducks have access to shade even when a pond is available?",
+      "options": [
+        {
+          "text": "A. Shade stops birds drinking",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water."
+        },
+        {
+          "text": "B. Water access alone may not prevent heat stress",
+          "correct": true,
+          "feedback": "Correct. Provide shade, airflow and clean water."
+        },
+        {
+          "text": "C. Ponds guarantee cool air",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of monitoring duck flock uniformity?",
+      "options": [
+        {
+          "text": "A. It can reveal uneven access to feed, water or suitable conditions",
+          "correct": true,
+          "feedback": "Correct. Use representative weights and behaviour observations."
+        },
+        {
+          "text": "B. It determines pond depth",
+          "correct": false,
+          "feedback": "Review: Use representative weights and behaviour observations."
+        },
+        {
+          "text": "C. It replaces mortality records",
+          "correct": false,
+          "feedback": "Review: Use representative weights and behaviour observations."
+        },
+        {
+          "text": "D. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Use representative weights and behaviour observations."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should duck waterers be cleaned before adding fresh water?",
+      "options": [
+        {
+          "text": "A. It determines egg size",
+          "correct": false,
+          "feedback": "Review: Clean water equipment routinely."
+        },
+        {
+          "text": "B. Cleaning increases salinity",
+          "correct": false,
+          "feedback": "Review: Clean water equipment routinely."
+        },
+        {
+          "text": "C. It replaces pond management",
+          "correct": false,
+          "feedback": "Review: Clean water equipment routinely."
+        },
+        {
+          "text": "D. Organic material and biofilm can contaminate drinking water",
+          "correct": true,
+          "feedback": "Correct. Clean water equipment routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can repeated sneezing in ducklings indicate?",
+      "options": [
+        {
+          "text": "A. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if signs persist."
+        },
+        {
+          "text": "B. A sign of good growth",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if signs persist."
+        },
+        {
+          "text": "C. Dust, poor air quality or respiratory illness",
+          "correct": true,
+          "feedback": "Correct. Check the environment and seek veterinary advice if signs persist."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if signs persist."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should ducklings have suitable access to feed from the first day?",
+      "options": [
+        {
+          "text": "A. It determines feather colour",
+          "correct": false,
+          "feedback": "Review: Provide accessible starter feed and clean water."
+        },
+        {
+          "text": "B. Early feeding supports growth and development",
+          "correct": true,
+          "feedback": "Correct. Provide accessible starter feed and clean water."
+        },
+        {
+          "text": "C. It replaces water",
+          "correct": false,
+          "feedback": "Review: Provide accessible starter feed and clean water."
+        },
+        {
+          "text": "D. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Provide accessible starter feed and clean water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of recording the source of replacement ducks?",
+      "options": [
+        {
+          "text": "A. It supports traceability and disease investigations",
+          "correct": true,
+          "feedback": "Correct. Keep source and arrival records and observe new birds."
+        },
+        {
+          "text": "B. It predicts egg colour",
+          "correct": false,
+          "feedback": "Review: Keep source and arrival records and observe new birds."
+        },
+        {
+          "text": "C. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Keep source and arrival records and observe new birds."
+        },
+        {
+          "text": "D. It guarantees flock health",
+          "correct": false,
+          "feedback": "Review: Keep source and arrival records and observe new birds."
         }
       ],
       "part": 4
