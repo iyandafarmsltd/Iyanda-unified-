@@ -156,3 +156,37 @@ jobs:
                   raise SystemExit(f"Source/public quiz bank mismatch: {public_file.name}")
           print("Farm quiz data smoke check passed: 10 banks, 1,500 questions, answer integrity and source/public parity.")
           PY
+
+      - name: Validate public policy page and SEO discovery
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import xml.etree.ElementTree as ET
+
+          legal = Path("src/legal/index.html")
+          if not legal.is_file():
+              raise SystemExit("Public legal page is missing")
+          page = legal.read_text(encoding="utf-8")
+          required = [
+              'id="privacy"', 'id="terms"', 'id="refunds"',
+              'id="delivery"', 'id="sellers"', 'id="partners"',
+              'mailto:iyandafarmsltd@gmail.com',
+              'https://wa.me/2347043071733'
+          ]
+          missing = [item for item in required if item not in page]
+          if missing:
+              raise SystemExit("Policy page is missing required sections/contact links: " + ", ".join(missing))
+          ids = re.findall(r'\\bid="([^"]+)"', page)
+          if len(ids) != len(set(ids)):
+              raise SystemExit("Duplicate IDs detected in the policy page")
+          ET.parse("src/sitemap.xml")
+          sitemap = Path("src/sitemap.xml").read_text(encoding="utf-8")
+          if "https://iyanda-unified.vercel.app/legal/" not in sitemap:
+              raise SystemExit("Policy page is not listed in the sitemap")
+          home = Path("src/index.html").read_text(encoding="utf-8")
+          for marker in ['href="/legal/"', 'property="og:image"', 'name="twitter:image"']:
+              if marker not in home:
+                  raise SystemExit("Homepage legal/SEO marker missing: " + marker)
+          print("Public policy page, unique IDs, sitemap and social sharing metadata checks passed.")
+          PY
