@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. Dropping changes can indicate altered intake or digestive health",
           "correct": true,
           "feedback": "Correct. Monitor droppings and appetite together."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should rabbit pellets be stored in sealed containers?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "B. It improves fibre content",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "C. It protects them from pests and moisture",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "D. It replaces rotation",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of checking rabbit incisors and molars during health review?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Dental assessment is important when appetite or droppings change."
+        },
+        {
+          "text": "B. Dental problems can affect eating and cause pain",
+          "correct": true,
+          "feedback": "Correct. Dental assessment is important when appetite or droppings change."
+        },
+        {
+          "text": "C. It measures hydration",
+          "correct": false,
+          "feedback": "Review: Dental assessment is important when appetite or droppings change."
+        },
+        {
+          "text": "D. It replaces weight records",
+          "correct": false,
+          "feedback": "Review: Dental assessment is important when appetite or droppings change."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should rabbits have a clean, dry resting surface?",
+      "options": [
+        {
+          "text": "A. Damp or dirty surfaces can contribute to sore hocks and illness",
+          "correct": true,
+          "feedback": "Correct. Maintain suitable flooring and hygiene."
+        },
+        {
+          "text": "B. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Maintain suitable flooring and hygiene."
+        },
+        {
+          "text": "C. It replaces exercise",
+          "correct": false,
+          "feedback": "Review: Maintain suitable flooring and hygiene."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Maintain suitable flooring and hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a rabbit that drinks less and produces fewer droppings indicate?",
+      "options": [
+        {
+          "text": "A. It is always normal",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice."
+        },
+        {
+          "text": "B. A sign of good health",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice."
+        },
+        {
+          "text": "C. It predicts pregnancy",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice."
+        },
+        {
+          "text": "D. Dehydration, pain or gastrointestinal slowdown",
+          "correct": true,
+          "feedback": "Correct. Seek prompt veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should rabbit kits be weighed at consistent times when monitoring growth?",
+      "options": [
+        {
+          "text": "A. It predicts fur colour",
+          "correct": false,
+          "feedback": "Review: Use the same scale and method."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use the same scale and method."
+        },
+        {
+          "text": "C. Consistent measurements make growth trends more reliable",
+          "correct": true,
+          "feedback": "Correct. Use the same scale and method."
+        },
+        {
+          "text": "D. It replaces nest checks",
+          "correct": false,
+          "feedback": "Review: Use the same scale and method."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of protecting rabbit feed from wild birds?",
+      "options": [
+        {
+          "text": "A. They improve protein",
+          "correct": false,
+          "feedback": "Review: Use covered feeders and secure stores."
+        },
+        {
+          "text": "B. Wild birds can contaminate feed and introduce pathogens",
+          "correct": true,
+          "feedback": "Correct. Use covered feeders and secure stores."
+        },
+        {
+          "text": "C. It replaces pest control",
+          "correct": false,
+          "feedback": "Review: Use covered feeders and secure stores."
+        },
+        {
+          "text": "D. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Use covered feeders and secure stores."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should rabbit housing avoid excessive humidity?",
+      "options": [
+        {
+          "text": "A. Damp conditions can contribute to respiratory and skin problems",
+          "correct": true,
+          "feedback": "Correct. Maintain dry bedding and ventilation."
+        },
+        {
+          "text": "B. Humidity improves coat quality",
+          "correct": false,
+          "feedback": "Review: Maintain dry bedding and ventilation."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain dry bedding and ventilation."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Maintain dry bedding and ventilation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a rabbit with repeated sneezing and nasal discharge indicate?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary care if persistent."
+        },
+        {
+          "text": "B. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary care if persistent."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary care if persistent."
+        },
+        {
+          "text": "D. Respiratory infection or environmental irritation",
+          "correct": true,
+          "feedback": "Correct. Check air quality and seek veterinary care if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should rabbits be handled with support under the hindquarters?",
+      "options": [
+        {
+          "text": "A. It improves fertility",
+          "correct": false,
+          "feedback": "Review: Support the body securely during lifting."
+        },
+        {
+          "text": "B. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Support the body securely during lifting."
+        },
+        {
+          "text": "C. It reduces the risk of spinal injury and struggling",
+          "correct": true,
+          "feedback": "Correct. Support the body securely during lifting."
+        },
+        {
+          "text": "D. It replaces calm handling",
+          "correct": false,
+          "feedback": "Review: Support the body securely during lifting."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of keeping a rabbit treatment record?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Record product, dose, date and veterinary direction."
+        },
+        {
+          "text": "B. It tracks medicines, response and withdrawal requirements where relevant",
+          "correct": true,
+          "feedback": "Correct. Record product, dose, date and veterinary direction."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Record product, dose, date and veterinary direction."
+        },
+        {
+          "text": "D. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Record product, dose, date and veterinary direction."
         }
       ],
       "part": 4
