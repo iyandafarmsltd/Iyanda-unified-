@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 215,
+  "total": 220,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,141 @@
           "text": "D. It prevents all handling stress",
           "correct": false,
           "feedback": "Review: Holding facilities should protect welfare, especially in hot weather."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should cattle feed storage areas have pest-control records?",
+      "options": [
+        {
+          "text": "A. They replace feed analysis",
+          "correct": false,
+          "feedback": "Review: Pest monitoring protects feed hygiene and traceability."
+        },
+        {
+          "text": "B. They predict milk yield",
+          "correct": false,
+          "feedback": "Review: Pest monitoring protects feed hygiene and traceability."
+        },
+        {
+          "text": "C. They help track activity that may contaminate feed or damage stores",
+          "correct": true,
+          "feedback": "Correct. Pest monitoring protects feed hygiene and traceability."
+        },
+        {
+          "text": "D. They determine animal age",
+          "correct": false,
+          "feedback": "Review: Pest monitoring protects feed hygiene and traceability."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of recording individual cow treatments?",
+      "options": [
+        {
+          "text": "A. It guarantees recovery",
+          "correct": false,
+          "feedback": "Review: Complete treatment records are essential for responsible medicine use."
+        },
+        {
+          "text": "B. It supports follow-up, withdrawal compliance and herd health review",
+          "correct": true,
+          "feedback": "Correct. Complete treatment records are essential for responsible medicine use."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Complete treatment records are essential for responsible medicine use."
+        },
+        {
+          "text": "D. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Complete treatment records are essential for responsible medicine use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should calves be observed for navel swelling or discharge?",
+      "options": [
+        {
+          "text": "A. It may indicate navel infection",
+          "correct": true,
+          "feedback": "Correct. Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "B. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "C. It is normal in every calf",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a sudden rise in cattle water consumption indicate?",
+      "options": [
+        {
+          "text": "A. It means water should be restricted",
+          "correct": false,
+          "feedback": "Review: Check the water system and assess the herd."
+        },
+        {
+          "text": "B. It proves water is clean",
+          "correct": false,
+          "feedback": "Review: Check the water system and assess the herd."
+        },
+        {
+          "text": "C. It guarantees higher milk yield",
+          "correct": false,
+          "feedback": "Review: Check the water system and assess the herd."
+        },
+        {
+          "text": "D. Heat stress, feed changes, leakage or illness",
+          "correct": true,
+          "feedback": "Correct. Check the water system and assess the herd."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should cattle be moved away from recently flooded grazing areas until assessed?",
+      "options": [
+        {
+          "text": "A. Cattle neutralise all contaminants",
+          "correct": false,
+          "feedback": "Review: Assess flood-related risks before grazing."
+        },
+        {
+          "text": "B. Flooding improves forage safety",
+          "correct": false,
+          "feedback": "Review: Assess flood-related risks before grazing."
+        },
+        {
+          "text": "C. Floodwater may leave contaminants or hazards",
+          "correct": true,
+          "feedback": "Correct. Assess flood-related risks before grazing."
+        },
+        {
+          "text": "D. It replaces pasture inspection",
+          "correct": false,
+          "feedback": "Review: Assess flood-related risks before grazing."
         }
       ],
       "part": 4
