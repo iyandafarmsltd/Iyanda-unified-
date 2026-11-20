@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. It replaces rainfall records",
           "correct": false,
           "feedback": "Review: Identify and repair leaks where practical."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should a fish farmer monitor water hardness where relevant to the species?",
+      "options": [
+        {
+          "text": "A. It measures fish weight",
+          "correct": false,
+          "feedback": "Review: Water hardness is one part of interpreting pond chemistry."
+        },
+        {
+          "text": "B. Hardness affects mineral availability and some water-treatment responses",
+          "correct": true,
+          "feedback": "Correct. Water hardness is one part of interpreting pond chemistry."
+        },
+        {
+          "text": "C. It replaces pH testing",
+          "correct": false,
+          "feedback": "Review: Water hardness is one part of interpreting pond chemistry."
+        },
+        {
+          "text": "D. It determines the pond's depth",
+          "correct": false,
+          "feedback": "Review: Water hardness is one part of interpreting pond chemistry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of recording the exact time of fish mortality observations?",
+      "options": [
+        {
+          "text": "A. It helps identify patterns linked to feeding, weather or oxygen cycles",
+          "correct": true,
+          "feedback": "Correct. Time-stamped records help investigate recurring events."
+        },
+        {
+          "text": "B. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Time-stamped records help investigate recurring events."
+        },
+        {
+          "text": "C. It replaces mortality counts",
+          "correct": false,
+          "feedback": "Review: Time-stamped records help investigate recurring events."
+        },
+        {
+          "text": "D. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Time-stamped records help investigate recurring events."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should fish farmers check the calibration of dissolved-oxygen meters?",
+      "options": [
+        {
+          "text": "A. Meters do not drift",
+          "correct": false,
+          "feedback": "Review: Calibrate and maintain instruments according to manufacturer guidance."
+        },
+        {
+          "text": "B. Calibration increases oxygen",
+          "correct": false,
+          "feedback": "Review: Calibrate and maintain instruments according to manufacturer guidance."
+        },
+        {
+          "text": "C. It replaces aeration",
+          "correct": false,
+          "feedback": "Review: Calibrate and maintain instruments according to manufacturer guidance."
+        },
+        {
+          "text": "D. Incorrect readings can lead to unsafe management decisions",
+          "correct": true,
+          "feedback": "Correct. Calibrate and maintain instruments according to manufacturer guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can a sudden change in fish swimming depth indicate?",
+      "options": [
+        {
+          "text": "A. It predicts harvest weight",
+          "correct": false,
+          "feedback": "Review: Behavioural shifts should prompt water checks and observation."
+        },
+        {
+          "text": "B. It always means fish are spawning",
+          "correct": false,
+          "feedback": "Review: Behavioural shifts should prompt water checks and observation."
+        },
+        {
+          "text": "C. Possible oxygen, temperature, light or health changes",
+          "correct": true,
+          "feedback": "Correct. Behavioural shifts should prompt water checks and observation."
+        },
+        {
+          "text": "D. It is never relevant",
+          "correct": false,
+          "feedback": "Review: Behavioural shifts should prompt water checks and observation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should pond fertiliser not be applied blindly?",
+      "options": [
+        {
+          "text": "A. More fertiliser always increases harvest",
+          "correct": false,
+          "feedback": "Review: Base fertilisation on pond conditions and monitor water quality."
+        },
+        {
+          "text": "B. Excess nutrients can trigger algal blooms and oxygen problems",
+          "correct": true,
+          "feedback": "Correct. Base fertilisation on pond conditions and monitor water quality."
+        },
+        {
+          "text": "C. It sterilises pond water",
+          "correct": false,
+          "feedback": "Review: Base fertilisation on pond conditions and monitor water quality."
+        },
+        {
+          "text": "D. It replaces feed",
+          "correct": false,
+          "feedback": "Review: Base fertilisation on pond conditions and monitor water quality."
         }
       ],
       "part": 4
