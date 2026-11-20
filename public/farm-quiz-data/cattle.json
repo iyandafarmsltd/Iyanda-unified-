@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 250,
+  "total": 260,
   "questions": [
     {
       "number": 1,
@@ -6749,6 +6749,276 @@
           "text": "D. It predicts weather",
           "correct": false,
           "feedback": "Review: Stage-specific records support better nutrition decisions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 251,
+      "question": "Why should cows be monitored for a drop in feed intake around calving?",
+      "options": [
+        {
+          "text": "A. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Observe appetite and other signs and seek help for illness."
+        },
+        {
+          "text": "B. It may signal transition stress or metabolic illness",
+          "correct": true,
+          "feedback": "Correct. Observe appetite and other signs and seek help for illness."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Observe appetite and other signs and seek help for illness."
+        },
+        {
+          "text": "D. It replaces veterinary checks",
+          "correct": false,
+          "feedback": "Review: Observe appetite and other signs and seek help for illness."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 252,
+      "question": "What is the purpose of checking cattle feed mixer uniformity?",
+      "options": [
+        {
+          "text": "A. It helps ensure nutrients are distributed consistently through the ration",
+          "correct": true,
+          "feedback": "Correct. Check mixing equipment and follow ration formulation guidance."
+        },
+        {
+          "text": "B. It determines milk colour",
+          "correct": false,
+          "feedback": "Review: Check mixing equipment and follow ration formulation guidance."
+        },
+        {
+          "text": "C. It replaces ingredient analysis",
+          "correct": false,
+          "feedback": "Review: Check mixing equipment and follow ration formulation guidance."
+        },
+        {
+          "text": "D. It predicts calving",
+          "correct": false,
+          "feedback": "Review: Check mixing equipment and follow ration formulation guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 253,
+      "question": "Why should calves be housed with suitable ventilation but no direct cold drafts?",
+      "options": [
+        {
+          "text": "A. Ventilation replaces bedding",
+          "correct": false,
+          "feedback": "Review: Balance air exchange and calf comfort."
+        },
+        {
+          "text": "B. Airtight housing is safest",
+          "correct": false,
+          "feedback": "Review: Balance air exchange and calf comfort."
+        },
+        {
+          "text": "C. Drafts improve immunity",
+          "correct": false,
+          "feedback": "Review: Balance air exchange and calf comfort."
+        },
+        {
+          "text": "D. Fresh air is needed while young calves must be protected from chilling",
+          "correct": true,
+          "feedback": "Correct. Balance air exchange and calf comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 254,
+      "question": "What can a cow's sudden reluctance to enter the milking parlour indicate?",
+      "options": [
+        {
+          "text": "A. It predicts pregnancy",
+          "correct": false,
+          "feedback": "Review: Check health, flooring and handling practices."
+        },
+        {
+          "text": "B. It determines milk fat",
+          "correct": false,
+          "feedback": "Review: Check health, flooring and handling practices."
+        },
+        {
+          "text": "C. Pain, fear, slippery footing or an unpleasant handling experience",
+          "correct": true,
+          "feedback": "Correct. Check health, flooring and handling practices."
+        },
+        {
+          "text": "D. It is always stubbornness",
+          "correct": false,
+          "feedback": "Review: Check health, flooring and handling practices."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 255,
+      "question": "Why should cattle be prevented from accessing mouldy grain?",
+      "options": [
+        {
+          "text": "A. Mould improves protein",
+          "correct": false,
+          "feedback": "Review: Store grain correctly and reject suspect feed."
+        },
+        {
+          "text": "B. Mould toxins may cause illness and reduce performance",
+          "correct": true,
+          "feedback": "Correct. Store grain correctly and reject suspect feed."
+        },
+        {
+          "text": "C. It sterilises the grain",
+          "correct": false,
+          "feedback": "Review: Store grain correctly and reject suspect feed."
+        },
+        {
+          "text": "D. It replaces forage",
+          "correct": false,
+          "feedback": "Review: Store grain correctly and reject suspect feed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 256,
+      "question": "What is the purpose of monitoring calf starter intake before weaning?",
+      "options": [
+        {
+          "text": "A. It helps assess readiness for transition away from milk",
+          "correct": true,
+          "feedback": "Correct. Use intake and health criteria rather than age alone."
+        },
+        {
+          "text": "B. It predicts adult size exactly",
+          "correct": false,
+          "feedback": "Review: Use intake and health criteria rather than age alone."
+        },
+        {
+          "text": "C. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Use intake and health criteria rather than age alone."
+        },
+        {
+          "text": "D. It replaces water",
+          "correct": false,
+          "feedback": "Review: Use intake and health criteria rather than age alone."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 257,
+      "question": "Why should cattle be checked for abnormal eye discharge?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Assess the eyes and seek veterinary care if persistent."
+        },
+        {
+          "text": "B. It measures milk production",
+          "correct": false,
+          "feedback": "Review: Assess the eyes and seek veterinary care if persistent."
+        },
+        {
+          "text": "C. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Assess the eyes and seek veterinary care if persistent."
+        },
+        {
+          "text": "D. It may indicate irritation, injury or infection",
+          "correct": true,
+          "feedback": "Correct. Assess the eyes and seek veterinary care if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 258,
+      "question": "What can an increase in cattle lameness after a flooring change indicate?",
+      "options": [
+        {
+          "text": "A. It determines milk quality",
+          "correct": false,
+          "feedback": "Review: Review surface design and mobility records."
+        },
+        {
+          "text": "B. It proves improved comfort",
+          "correct": false,
+          "feedback": "Review: Review surface design and mobility records."
+        },
+        {
+          "text": "C. The new surface may be slippery, abrasive or unsuitable",
+          "correct": true,
+          "feedback": "Correct. Review surface design and mobility records."
+        },
+        {
+          "text": "D. It is unrelated to flooring",
+          "correct": false,
+          "feedback": "Review: Review surface design and mobility records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 259,
+      "question": "Why should cows have access to feed soon after milking?",
+      "options": [
+        {
+          "text": "A. It determines milk fat",
+          "correct": false,
+          "feedback": "Review: Good post-milking management supports teat hygiene and cow comfort."
+        },
+        {
+          "text": "B. It can encourage standing while teat canals close after milking",
+          "correct": true,
+          "feedback": "Correct. Good post-milking management supports teat hygiene and cow comfort."
+        },
+        {
+          "text": "C. It replaces udder hygiene",
+          "correct": false,
+          "feedback": "Review: Good post-milking management supports teat hygiene and cow comfort."
+        },
+        {
+          "text": "D. It guarantees no mastitis",
+          "correct": false,
+          "feedback": "Review: Good post-milking management supports teat hygiene and cow comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 260,
+      "question": "What is the purpose of recording cattle birth weights by sire group?",
+      "options": [
+        {
+          "text": "A. It helps evaluate calving and growth traits in breeding lines",
+          "correct": true,
+          "feedback": "Correct. Use birth-weight data alongside calving ease and other traits."
+        },
+        {
+          "text": "B. It predicts milk colour",
+          "correct": false,
+          "feedback": "Review: Use birth-weight data alongside calving ease and other traits."
+        },
+        {
+          "text": "C. It replaces calving records",
+          "correct": false,
+          "feedback": "Review: Use birth-weight data alongside calving ease and other traits."
+        },
+        {
+          "text": "D. It determines pasture quality",
+          "correct": false,
+          "feedback": "Review: Use birth-weight data alongside calving ease and other traits."
         }
       ],
       "part": 4
