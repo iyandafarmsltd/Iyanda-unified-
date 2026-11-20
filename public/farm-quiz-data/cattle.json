@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. Isolate affected animals as appropriate and contact a veterinarian promptly",
           "correct": true,
           "feedback": "Correct. Clustered signs may indicate a contagious disease and require urgent investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should cows be monitored for signs of ketosis after calving?",
+      "options": [
+        {
+          "text": "A. It affects only bulls",
+          "correct": false,
+          "feedback": "Review: Reduced appetite, milk changes or other signs need veterinary assessment."
+        },
+        {
+          "text": "B. Ketosis is caused only by dirty bedding",
+          "correct": false,
+          "feedback": "Review: Reduced appetite, milk changes or other signs need veterinary assessment."
+        },
+        {
+          "text": "C. Early lactation energy demand can exceed energy intake",
+          "correct": true,
+          "feedback": "Correct. Reduced appetite, milk changes or other signs need veterinary assessment."
+        },
+        {
+          "text": "D. It is prevented by withholding water",
+          "correct": false,
+          "feedback": "Review: Reduced appetite, milk changes or other signs need veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of checking the dry matter content of silage?",
+      "options": [
+        {
+          "text": "A. It measures the cow's body temperature",
+          "correct": false,
+          "feedback": "Review: Dry matter content is essential for comparing feeds and balancing rations."
+        },
+        {
+          "text": "B. It helps calculate how much actual feed dry matter is being offered",
+          "correct": true,
+          "feedback": "Correct. Dry matter content is essential for comparing feeds and balancing rations."
+        },
+        {
+          "text": "C. It identifies the forage species exactly",
+          "correct": false,
+          "feedback": "Review: Dry matter content is essential for comparing feeds and balancing rations."
+        },
+        {
+          "text": "D. It replaces protein analysis",
+          "correct": false,
+          "feedback": "Review: Dry matter content is essential for comparing feeds and balancing rations."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should cattle be prevented from accessing freshly treated pesticide areas until safe?",
+      "options": [
+        {
+          "text": "A. They may ingest residues or contact chemicals before re-entry is safe",
+          "correct": true,
+          "feedback": "Correct. Follow product label restrictions and local agricultural guidance."
+        },
+        {
+          "text": "B. Pesticides improve rumen function",
+          "correct": false,
+          "feedback": "Review: Follow product label restrictions and local agricultural guidance."
+        },
+        {
+          "text": "C. Cattle neutralise all residues",
+          "correct": false,
+          "feedback": "Review: Follow product label restrictions and local agricultural guidance."
+        },
+        {
+          "text": "D. The waiting period applies only to crops",
+          "correct": false,
+          "feedback": "Review: Follow product label restrictions and local agricultural guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a sudden fall in rumination time across a dairy group suggest?",
+      "options": [
+        {
+          "text": "A. A change in coat colour",
+          "correct": false,
+          "feedback": "Review: Group-level rumination changes warrant review of ration and environment."
+        },
+        {
+          "text": "B. A guaranteed increase in milk fat",
+          "correct": false,
+          "feedback": "Review: Group-level rumination changes warrant review of ration and environment."
+        },
+        {
+          "text": "C. That all cows are pregnant",
+          "correct": false,
+          "feedback": "Review: Group-level rumination changes warrant review of ration and environment."
+        },
+        {
+          "text": "D. A shared change in feed intake, comfort or health",
+          "correct": true,
+          "feedback": "Correct. Group-level rumination changes warrant review of ration and environment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why is a clean, dry lying area important for dairy cows?",
+      "options": [
+        {
+          "text": "A. It makes bedding unnecessary",
+          "correct": false,
+          "feedback": "Review: Cow comfort and cleanliness influence health and welfare."
+        },
+        {
+          "text": "B. It replaces hoof care",
+          "correct": false,
+          "feedback": "Review: Cow comfort and cleanliness influence health and welfare."
+        },
+        {
+          "text": "C. It supports comfort and helps reduce udder and skin contamination",
+          "correct": true,
+          "feedback": "Correct. Cow comfort and cleanliness influence health and welfare."
+        },
+        {
+          "text": "D. It prevents every infection",
+          "correct": false,
+          "feedback": "Review: Cow comfort and cleanliness influence health and welfare."
         }
       ],
       "part": 4
