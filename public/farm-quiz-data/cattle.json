@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 240,
+  "total": 250,
   "questions": [
     {
       "number": 1,
@@ -6479,6 +6479,276 @@
           "text": "D. It predicts milk fat",
           "correct": false,
           "feedback": "Review: Use calving data as one factor in breeding decisions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "Why should cows be observed for abnormal udder heat or swelling between milkings?",
+      "options": [
+        {
+          "text": "A. It predicts calf colour",
+          "correct": false,
+          "feedback": "Review: Check the udder and seek veterinary advice for abnormal findings."
+        },
+        {
+          "text": "B. It can reveal developing mastitis or injury",
+          "correct": true,
+          "feedback": "Correct. Check the udder and seek veterinary advice for abnormal findings."
+        },
+        {
+          "text": "C. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Check the udder and seek veterinary advice for abnormal findings."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check the udder and seek veterinary advice for abnormal findings."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "What is the purpose of maintaining a cattle feed inventory?",
+      "options": [
+        {
+          "text": "A. It helps prevent shortages and identify old or spoiled stock",
+          "correct": true,
+          "feedback": "Correct. Track quantities, batches and storage condition."
+        },
+        {
+          "text": "B. It determines milk fat",
+          "correct": false,
+          "feedback": "Review: Track quantities, batches and storage condition."
+        },
+        {
+          "text": "C. It replaces ration formulation",
+          "correct": false,
+          "feedback": "Review: Track quantities, batches and storage condition."
+        },
+        {
+          "text": "D. It predicts calving",
+          "correct": false,
+          "feedback": "Review: Track quantities, batches and storage condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "Why should cattle be protected from drinking water contaminated by manure runoff?",
+      "options": [
+        {
+          "text": "A. It replaces trough cleaning",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and maintain clean water sources."
+        },
+        {
+          "text": "B. Manure sterilises water",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and maintain clean water sources."
+        },
+        {
+          "text": "C. It improves digestion",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and maintain clean water sources."
+        },
+        {
+          "text": "D. It can expose them to pathogens and harmful contaminants",
+          "correct": true,
+          "feedback": "Correct. Prevent runoff and maintain clean water sources."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "What can a sudden increase in calf mortality require?",
+      "options": [
+        {
+          "text": "A. No action if adult cows are healthy",
+          "correct": false,
+          "feedback": "Review: Investigate promptly with veterinary support."
+        },
+        {
+          "text": "B. Only a change in bedding colour",
+          "correct": false,
+          "feedback": "Review: Investigate promptly with veterinary support."
+        },
+        {
+          "text": "C. Urgent review of colostrum, hygiene, disease and management",
+          "correct": true,
+          "feedback": "Correct. Investigate promptly with veterinary support."
+        },
+        {
+          "text": "D. It predicts market prices",
+          "correct": false,
+          "feedback": "Review: Investigate promptly with veterinary support."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "Why should cattle be weighed at a consistent time relative to feeding when tracking growth?",
+      "options": [
+        {
+          "text": "A. It changes the animal's genetics",
+          "correct": false,
+          "feedback": "Review: Consistent weighing conditions improve comparisons."
+        },
+        {
+          "text": "B. Feed and gut fill can influence measured liveweight",
+          "correct": true,
+          "feedback": "Correct. Consistent weighing conditions improve comparisons."
+        },
+        {
+          "text": "C. It determines breed",
+          "correct": false,
+          "feedback": "Review: Consistent weighing conditions improve comparisons."
+        },
+        {
+          "text": "D. It replaces scale calibration",
+          "correct": false,
+          "feedback": "Review: Consistent weighing conditions improve comparisons."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 246,
+      "question": "What is the purpose of checking cattle mineral blocks for appropriate species labelling?",
+      "options": [
+        {
+          "text": "A. Some formulations may contain levels unsuitable for cattle or other livestock",
+          "correct": true,
+          "feedback": "Correct. Use supplements intended for the species and production stage."
+        },
+        {
+          "text": "B. All blocks are interchangeable",
+          "correct": false,
+          "feedback": "Review: Use supplements intended for the species and production stage."
+        },
+        {
+          "text": "C. It predicts growth",
+          "correct": false,
+          "feedback": "Review: Use supplements intended for the species and production stage."
+        },
+        {
+          "text": "D. It replaces forage analysis",
+          "correct": false,
+          "feedback": "Review: Use supplements intended for the species and production stage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 247,
+      "question": "Why should dairy cows have adequate lying time?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Housing and management should allow comfortable resting."
+        },
+        {
+          "text": "B. It replaces feeding",
+          "correct": false,
+          "feedback": "Review: Housing and management should allow comfortable resting."
+        },
+        {
+          "text": "C. It determines milk colour",
+          "correct": false,
+          "feedback": "Review: Housing and management should allow comfortable resting."
+        },
+        {
+          "text": "D. Rest supports comfort, rumination and normal behaviour",
+          "correct": true,
+          "feedback": "Correct. Housing and management should allow comfortable resting."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 248,
+      "question": "What can a sudden decline in milk fat percentage prompt a farmer to review?",
+      "options": [
+        {
+          "text": "A. The bull's age",
+          "correct": false,
+          "feedback": "Review: Review ration and herd records with a nutrition professional."
+        },
+        {
+          "text": "B. Only the cow's coat colour",
+          "correct": false,
+          "feedback": "Review: Review ration and herd records with a nutrition professional."
+        },
+        {
+          "text": "C. Ration fibre, rumen function and feeding consistency",
+          "correct": true,
+          "feedback": "Correct. Review ration and herd records with a nutrition professional."
+        },
+        {
+          "text": "D. The water trough shape",
+          "correct": false,
+          "feedback": "Review: Review ration and herd records with a nutrition professional."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 249,
+      "question": "Why should cattle be checked for signs of foot rot after prolonged wet conditions?",
+      "options": [
+        {
+          "text": "A. Wetness sterilises hooves",
+          "correct": false,
+          "feedback": "Review: Inspect feet and seek appropriate veterinary advice."
+        },
+        {
+          "text": "B. Wet, contaminated footing can increase hoof infection risk",
+          "correct": true,
+          "feedback": "Correct. Inspect feet and seek appropriate veterinary advice."
+        },
+        {
+          "text": "C. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Inspect feet and seek appropriate veterinary advice."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Inspect feet and seek appropriate veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 250,
+      "question": "What is the purpose of keeping a record of cattle body condition by lactation stage?",
+      "options": [
+        {
+          "text": "A. It helps target feeding and monitor energy balance",
+          "correct": true,
+          "feedback": "Correct. Stage-specific records support better nutrition decisions."
+        },
+        {
+          "text": "B. It determines exact milk yield",
+          "correct": false,
+          "feedback": "Review: Stage-specific records support better nutrition decisions."
+        },
+        {
+          "text": "C. It replaces pregnancy checks",
+          "correct": false,
+          "feedback": "Review: Stage-specific records support better nutrition decisions."
+        },
+        {
+          "text": "D. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Stage-specific records support better nutrition decisions."
         }
       ],
       "part": 4
