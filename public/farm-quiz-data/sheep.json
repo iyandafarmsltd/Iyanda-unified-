@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It is always normal",
           "correct": false,
           "feedback": "Review: Use hygienic procedures and monitor healing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should lambs be monitored for signs of joint ill after birth?",
+      "options": [
+        {
+          "text": "A. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Joint swelling or lameness needs prompt veterinary attention."
+        },
+        {
+          "text": "B. Bacteria can enter through the navel and cause joint infection",
+          "correct": true,
+          "feedback": "Correct. Joint swelling or lameness needs prompt veterinary attention."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Joint swelling or lameness needs prompt veterinary attention."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Joint swelling or lameness needs prompt veterinary attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of checking ewes' teeth before the breeding season?",
+      "options": [
+        {
+          "text": "A. Dental problems can reduce grazing and body condition",
+          "correct": true,
+          "feedback": "Correct. Sound teeth help maintain intake and condition."
+        },
+        {
+          "text": "B. It predicts lamb sex",
+          "correct": false,
+          "feedback": "Review: Sound teeth help maintain intake and condition."
+        },
+        {
+          "text": "C. It replaces pregnancy scanning",
+          "correct": false,
+          "feedback": "Review: Sound teeth help maintain intake and condition."
+        },
+        {
+          "text": "D. It determines fleece colour",
+          "correct": false,
+          "feedback": "Review: Sound teeth help maintain intake and condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should sheep be moved gradually between very different pasture types?",
+      "options": [
+        {
+          "text": "A. It replaces parasite control",
+          "correct": false,
+          "feedback": "Review: Introduce pasture changes progressively."
+        },
+        {
+          "text": "B. It guarantees twins",
+          "correct": false,
+          "feedback": "Review: Introduce pasture changes progressively."
+        },
+        {
+          "text": "C. It prevents water needs",
+          "correct": false,
+          "feedback": "Review: Introduce pasture changes progressively."
+        },
+        {
+          "text": "D. Abrupt diet changes can disrupt rumen function",
+          "correct": true,
+          "feedback": "Correct. Introduce pasture changes progressively."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a ewe with a swollen, hot udder and reluctant lambs indicate?",
+      "options": [
+        {
+          "text": "A. Proof of twins",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and ensure lambs receive adequate nutrition."
+        },
+        {
+          "text": "B. A normal sign of high fertility",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and ensure lambs receive adequate nutrition."
+        },
+        {
+          "text": "C. Possible mastitis or udder pain",
+          "correct": true,
+          "feedback": "Correct. Seek prompt veterinary assessment and ensure lambs receive adequate nutrition."
+        },
+        {
+          "text": "D. A reason to stop milking",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and ensure lambs receive adequate nutrition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should sheep handling facilities be checked for protruding nails?",
+      "options": [
+        {
+          "text": "A. They improve hoof wear",
+          "correct": false,
+          "feedback": "Review: Remove hazards before moving animals through the facility."
+        },
+        {
+          "text": "B. They can cause cuts and infections",
+          "correct": true,
+          "feedback": "Correct. Remove hazards before moving animals through the facility."
+        },
+        {
+          "text": "C. They increase handling speed",
+          "correct": false,
+          "feedback": "Review: Remove hazards before moving animals through the facility."
+        },
+        {
+          "text": "D. They prevent parasites",
+          "correct": false,
+          "feedback": "Review: Remove hazards before moving animals through the facility."
         }
       ],
       "part": 4
