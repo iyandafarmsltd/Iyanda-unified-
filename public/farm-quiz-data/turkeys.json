@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It determines breeding success",
           "correct": false,
           "feedback": "Review: Test emergency systems routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should turkey flocks be monitored for changes in litter consumption or pecking?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Investigate behaviour and provide appropriate enrichment and nutrition."
+        },
+        {
+          "text": "B. It may indicate boredom, nutritional imbalance or environmental stress",
+          "correct": true,
+          "feedback": "Correct. Investigate behaviour and provide appropriate enrichment and nutrition."
+        },
+        {
+          "text": "C. It proves the ration is balanced",
+          "correct": false,
+          "feedback": "Review: Investigate behaviour and provide appropriate enrichment and nutrition."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Investigate behaviour and provide appropriate enrichment and nutrition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of checking turkey poult feet after transport?",
+      "options": [
+        {
+          "text": "A. It can reveal injuries or mobility problems",
+          "correct": true,
+          "feedback": "Correct. Inspect and manage any injuries promptly."
+        },
+        {
+          "text": "B. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Inspect and manage any injuries promptly."
+        },
+        {
+          "text": "C. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Inspect and manage any injuries promptly."
+        },
+        {
+          "text": "D. It replaces brooder checks",
+          "correct": false,
+          "feedback": "Review: Inspect and manage any injuries promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should turkey houses have a plan for rapid removal of wet litter patches?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Remove or correct wet areas and fix the source."
+        },
+        {
+          "text": "B. Wet litter improves welfare",
+          "correct": false,
+          "feedback": "Review: Remove or correct wet areas and fix the source."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Remove or correct wet areas and fix the source."
+        },
+        {
+          "text": "D. Wet patches can increase ammonia and footpad damage",
+          "correct": true,
+          "feedback": "Correct. Remove or correct wet areas and fix the source."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can poor turkey breeder fertility despite normal egg production indicate?",
+      "options": [
+        {
+          "text": "A. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Review breeder performance and seek veterinary or specialist guidance."
+        },
+        {
+          "text": "B. It proves egg storage is perfect",
+          "correct": false,
+          "feedback": "Review: Review breeder performance and seek veterinary or specialist guidance."
+        },
+        {
+          "text": "C. Mating, male condition, age or reproductive health issues",
+          "correct": true,
+          "feedback": "Correct. Review breeder performance and seek veterinary or specialist guidance."
+        },
+        {
+          "text": "D. It is unrelated to breeders",
+          "correct": false,
+          "feedback": "Review: Review breeder performance and seek veterinary or specialist guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should turkey carcasses be protected from cross-contamination during processing?",
+      "options": [
+        {
+          "text": "A. It improves liveweight",
+          "correct": false,
+          "feedback": "Review: Maintain clean workflow and food-safety controls."
+        },
+        {
+          "text": "B. It reduces foodborne pathogen transfer",
+          "correct": true,
+          "feedback": "Correct. Maintain clean workflow and food-safety controls."
+        },
+        {
+          "text": "C. It replaces chilling",
+          "correct": false,
+          "feedback": "Review: Maintain clean workflow and food-safety controls."
+        },
+        {
+          "text": "D. It guarantees sterile meat",
+          "correct": false,
+          "feedback": "Review: Maintain clean workflow and food-safety controls."
         }
       ],
       "part": 4
