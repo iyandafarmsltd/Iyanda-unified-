@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. Runoff can change water quality and introduce contaminants",
           "correct": true,
           "feedback": "Correct. Check for runoff, turbidity and changes in water quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should duck flocks be checked for footpad lesions?",
+      "options": [
+        {
+          "text": "A. It determines pond depth",
+          "correct": false,
+          "feedback": "Review: Foot health is an important welfare indicator."
+        },
+        {
+          "text": "B. It measures egg fertility",
+          "correct": false,
+          "feedback": "Review: Foot health is an important welfare indicator."
+        },
+        {
+          "text": "C. Wet or rough surfaces can damage feet and affect mobility",
+          "correct": true,
+          "feedback": "Correct. Foot health is an important welfare indicator."
+        },
+        {
+          "text": "D. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Review: Foot health is an important welfare indicator."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of keeping duck feed bins closed between use?",
+      "options": [
+        {
+          "text": "A. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Secure bins help maintain feed quality."
+        },
+        {
+          "text": "B. It protects feed from moisture, pests and contamination",
+          "correct": true,
+          "feedback": "Correct. Secure bins help maintain feed quality."
+        },
+        {
+          "text": "C. It changes feed texture beneficially",
+          "correct": false,
+          "feedback": "Review: Secure bins help maintain feed quality."
+        },
+        {
+          "text": "D. It replaces stock rotation",
+          "correct": false,
+          "feedback": "Review: Secure bins help maintain feed quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should ducklings be kept away from deep open drains?",
+      "options": [
+        {
+          "text": "A. They can fall in, become trapped or chill",
+          "correct": true,
+          "feedback": "Correct. Cover hazards and provide safe water access."
+        },
+        {
+          "text": "B. Drains improve swimming",
+          "correct": false,
+          "feedback": "Review: Cover hazards and provide safe water access."
+        },
+        {
+          "text": "C. Ducklings do not need safe footing",
+          "correct": false,
+          "feedback": "Review: Cover hazards and provide safe water access."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Cover hazards and provide safe water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a change in duck egg shell quality prompt a farmer to review?",
+      "options": [
+        {
+          "text": "A. The weather forecast alone",
+          "correct": false,
+          "feedback": "Review: Review records and nutrition rather than assuming one cause."
+        },
+        {
+          "text": "B. Only the colour of the pond",
+          "correct": false,
+          "feedback": "Review: Review records and nutrition rather than assuming one cause."
+        },
+        {
+          "text": "C. The farm's fencing material",
+          "correct": false,
+          "feedback": "Review: Review records and nutrition rather than assuming one cause."
+        },
+        {
+          "text": "D. Nutrition, flock health, age and egg handling",
+          "correct": true,
+          "feedback": "Correct. Review records and nutrition rather than assuming one cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should ducks be monitored after introduction to a new pond?",
+      "options": [
+        {
+          "text": "A. Monitoring changes egg sex",
+          "correct": false,
+          "feedback": "Review: Observe behaviour and water quality after relocation."
+        },
+        {
+          "text": "B. They instantly adapt to every waterbody",
+          "correct": false,
+          "feedback": "Review: Observe behaviour and water quality after relocation."
+        },
+        {
+          "text": "C. They may encounter unfamiliar hazards or water-quality conditions",
+          "correct": true,
+          "feedback": "Correct. Observe behaviour and water quality after relocation."
+        },
+        {
+          "text": "D. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Observe behaviour and water quality after relocation."
         }
       ],
       "part": 4
