@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It determines sex",
           "correct": false,
           "feedback": "Review: Offer suitable feed gradually and maintain hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should pigs be monitored for signs of heat stress such as rapid breathing?",
+      "options": [
+        {
+          "text": "A. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Provide appropriate cooling, airflow and water."
+        },
+        {
+          "text": "B. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Provide appropriate cooling, airflow and water."
+        },
+        {
+          "text": "C. It is normal in cool weather",
+          "correct": false,
+          "feedback": "Review: Provide appropriate cooling, airflow and water."
+        },
+        {
+          "text": "D. Pigs have limited ability to cool themselves by sweating",
+          "correct": true,
+          "feedback": "Correct. Provide appropriate cooling, airflow and water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking piglet belly fill after nursing?",
+      "options": [
+        {
+          "text": "A. It predicts adult carcass grade",
+          "correct": false,
+          "feedback": "Review: Observe nursing and identify piglets that may need support."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Observe nursing and identify piglets that may need support."
+        },
+        {
+          "text": "C. It can help assess whether piglets are obtaining milk",
+          "correct": true,
+          "feedback": "Correct. Observe nursing and identify piglets that may need support."
+        },
+        {
+          "text": "D. It replaces sow udder checks",
+          "correct": false,
+          "feedback": "Review: Observe nursing and identify piglets that may need support."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should a pig farm maintain a visitor hygiene station?",
+      "options": [
+        {
+          "text": "A. It guarantees visitors carry no pathogens",
+          "correct": false,
+          "feedback": "Review: Visitor hygiene is one layer of farm biosecurity."
+        },
+        {
+          "text": "B. It supports cleaning and disinfection before entry",
+          "correct": true,
+          "feedback": "Correct. Visitor hygiene is one layer of farm biosecurity."
+        },
+        {
+          "text": "C. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Visitor hygiene is one layer of farm biosecurity."
+        },
+        {
+          "text": "D. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Visitor hygiene is one layer of farm biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a rise in piglet scours after a feed change indicate?",
+      "options": [
+        {
+          "text": "A. The change may be too abrupt or the feed may be unsuitable or contaminated",
+          "correct": true,
+          "feedback": "Correct. Review the feed transition and seek veterinary advice for persistent cases."
+        },
+        {
+          "text": "B. It proves the new feed is superior",
+          "correct": false,
+          "feedback": "Review: Review the feed transition and seek veterinary advice for persistent cases."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Review the feed transition and seek veterinary advice for persistent cases."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Review the feed transition and seek veterinary advice for persistent cases."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should pig housing include a comfortable lying area separate from dunging space where possible?",
+      "options": [
+        {
+          "text": "A. It guarantees no disease",
+          "correct": false,
+          "feedback": "Review: Good pen layout can help keep resting areas cleaner."
+        },
+        {
+          "text": "B. It determines meat colour",
+          "correct": false,
+          "feedback": "Review: Good pen layout can help keep resting areas cleaner."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Good pen layout can help keep resting areas cleaner."
+        },
+        {
+          "text": "D. It supports hygiene and normal resting behaviour",
+          "correct": true,
+          "feedback": "Correct. Good pen layout can help keep resting areas cleaner."
         }
       ],
       "part": 4
