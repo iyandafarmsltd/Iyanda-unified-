@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It supports hygiene and normal resting behaviour",
           "correct": true,
           "feedback": "Correct. Good pen layout can help keep resting areas cleaner."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should pigs be checked for signs of shoulder ulcers?",
+      "options": [
+        {
+          "text": "A. It is always genetic",
+          "correct": false,
+          "feedback": "Review: Review flooring, bedding and body condition."
+        },
+        {
+          "text": "B. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Review flooring, bedding and body condition."
+        },
+        {
+          "text": "C. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Review flooring, bedding and body condition."
+        },
+        {
+          "text": "D. Prolonged pressure on hard surfaces can damage skin",
+          "correct": true,
+          "feedback": "Correct. Review flooring, bedding and body condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of checking a sow's body condition at weaning?",
+      "options": [
+        {
+          "text": "A. It replaces reproductive records",
+          "correct": false,
+          "feedback": "Review: Use condition records to plan nutrition."
+        },
+        {
+          "text": "B. It determines piglet sex",
+          "correct": false,
+          "feedback": "Review: Use condition records to plan nutrition."
+        },
+        {
+          "text": "C. It helps guide recovery feeding before the next breeding cycle",
+          "correct": true,
+          "feedback": "Correct. Use condition records to plan nutrition."
+        },
+        {
+          "text": "D. It guarantees conception",
+          "correct": false,
+          "feedback": "Review: Use condition records to plan nutrition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should pig feed be protected from mycotoxin contamination?",
+      "options": [
+        {
+          "text": "A. They improve feed conversion",
+          "correct": false,
+          "feedback": "Review: Use quality ingredients and manage moisture and storage."
+        },
+        {
+          "text": "B. Some mycotoxins can impair health, reproduction and growth",
+          "correct": true,
+          "feedback": "Correct. Use quality ingredients and manage moisture and storage."
+        },
+        {
+          "text": "C. They are always visible",
+          "correct": false,
+          "feedback": "Review: Use quality ingredients and manage moisture and storage."
+        },
+        {
+          "text": "D. They are removed by ordinary storage",
+          "correct": false,
+          "feedback": "Review: Use quality ingredients and manage moisture and storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can repeated tail injuries in a pig group indicate?",
+      "options": [
+        {
+          "text": "A. Biting behaviour and possible environmental or management stressors",
+          "correct": true,
+          "feedback": "Correct. Investigate enrichment, stocking, feed and health."
+        },
+        {
+          "text": "B. A sign of high fertility",
+          "correct": false,
+          "feedback": "Review: Investigate enrichment, stocking, feed and health."
+        },
+        {
+          "text": "C. It is harmless",
+          "correct": false,
+          "feedback": "Review: Investigate enrichment, stocking, feed and health."
+        },
+        {
+          "text": "D. It proves the feed is balanced",
+          "correct": false,
+          "feedback": "Review: Investigate enrichment, stocking, feed and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should pig transport time and rest periods be recorded?",
+      "options": [
+        {
+          "text": "A. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Maintain transport records and follow applicable requirements."
+        },
+        {
+          "text": "B. It predicts carcass colour",
+          "correct": false,
+          "feedback": "Review: Maintain transport records and follow applicable requirements."
+        },
+        {
+          "text": "C. It replaces vehicle cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain transport records and follow applicable requirements."
+        },
+        {
+          "text": "D. Records support welfare, traceability and transport planning",
+          "correct": true,
+          "feedback": "Correct. Maintain transport records and follow applicable requirements."
         }
       ],
       "part": 4
