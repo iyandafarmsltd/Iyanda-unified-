@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. Nutrient changes can affect reproductive performance",
           "correct": true,
           "feedback": "Correct. Track production and condition when adjusting breeder diets."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should turkey poults be checked for access to clean water after transport?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Provide water promptly and observe drinking behaviour."
+        },
+        {
+          "text": "B. Water is unnecessary after transport",
+          "correct": false,
+          "feedback": "Review: Provide water promptly and observe drinking behaviour."
+        },
+        {
+          "text": "C. Transport stress can increase dehydration risk",
+          "correct": true,
+          "feedback": "Correct. Provide water promptly and observe drinking behaviour."
+        },
+        {
+          "text": "D. It replaces brooder heat",
+          "correct": false,
+          "feedback": "Review: Provide water promptly and observe drinking behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of checking turkey house curtains and side inlets?",
+      "options": [
+        {
+          "text": "A. They determine egg fertility",
+          "correct": false,
+          "feedback": "Review: Maintain ventilation controls and inspect for damage."
+        },
+        {
+          "text": "B. They help manage airflow and protect birds from drafts",
+          "correct": true,
+          "feedback": "Correct. Maintain ventilation controls and inspect for damage."
+        },
+        {
+          "text": "C. They replace fans",
+          "correct": false,
+          "feedback": "Review: Maintain ventilation controls and inspect for damage."
+        },
+        {
+          "text": "D. They measure feed quality",
+          "correct": false,
+          "feedback": "Review: Maintain ventilation controls and inspect for damage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should turkey breeders be monitored for changes in mating activity?",
+      "options": [
+        {
+          "text": "A. Changes can signal health, condition or fertility problems",
+          "correct": true,
+          "feedback": "Correct. Use observations alongside fertility and hatchability records."
+        },
+        {
+          "text": "B. It predicts market price",
+          "correct": false,
+          "feedback": "Review: Use observations alongside fertility and hatchability records."
+        },
+        {
+          "text": "C. It replaces egg candling",
+          "correct": false,
+          "feedback": "Review: Use observations alongside fertility and hatchability records."
+        },
+        {
+          "text": "D. It determines feed moisture",
+          "correct": false,
+          "feedback": "Review: Use observations alongside fertility and hatchability records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can an unusual increase in turkey egg cracks indicate?",
+      "options": [
+        {
+          "text": "A. It is unrelated to management",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the full egg-handling chain."
+        },
+        {
+          "text": "B. It proves high fertility",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the full egg-handling chain."
+        },
+        {
+          "text": "C. It determines poult sex",
+          "correct": false,
+          "feedback": "Review: Track breakage and inspect the full egg-handling chain."
+        },
+        {
+          "text": "D. Nest design, collection, handling or shell quality may need review",
+          "correct": true,
+          "feedback": "Correct. Track breakage and inspect the full egg-handling chain."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should turkey houses be checked for uneven airflow?",
+      "options": [
+        {
+          "text": "A. It replaces stocking control",
+          "correct": false,
+          "feedback": "Review: Assess air movement at bird level across the house."
+        },
+        {
+          "text": "B. It improves all litter conditions",
+          "correct": false,
+          "feedback": "Review: Assess air movement at bird level across the house."
+        },
+        {
+          "text": "C. Dead zones can accumulate moisture, dust or harmful gases",
+          "correct": true,
+          "feedback": "Correct. Assess air movement at bird level across the house."
+        },
+        {
+          "text": "D. It guarantees uniform growth",
+          "correct": false,
+          "feedback": "Review: Assess air movement at bird level across the house."
         }
       ],
       "part": 4
