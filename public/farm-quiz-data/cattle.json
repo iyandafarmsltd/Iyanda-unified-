@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should calves be weighed at regular intervals?",
+      "options": [
+        {
+          "text": "A. To monitor growth and identify feeding or health problems early",
+          "correct": true,
+          "feedback": "Correct. Repeated weights show growth trends and help detect problems early."
+        },
+        {
+          "text": "B. To determine the colour of future coats",
+          "correct": false,
+          "feedback": "Review: Repeated weights show growth trends and help detect problems early."
+        },
+        {
+          "text": "C. To replace vaccination records",
+          "correct": false,
+          "feedback": "Review: Repeated weights show growth trends and help detect problems early."
+        },
+        {
+          "text": "D. To measure the cow's milk temperature",
+          "correct": false,
+          "feedback": "Review: Repeated weights show growth trends and help detect problems early."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of a cattle handling race?",
+      "options": [
+        {
+          "text": "A. To provide a permanent grazing area",
+          "correct": false,
+          "feedback": "Review: A well-designed race supports controlled, low-stress handling."
+        },
+        {
+          "text": "B. To store silage",
+          "correct": false,
+          "feedback": "Review: A well-designed race supports controlled, low-stress handling."
+        },
+        {
+          "text": "C. To mix mineral supplements",
+          "correct": false,
+          "feedback": "Review: A well-designed race supports controlled, low-stress handling."
+        },
+        {
+          "text": "D. To guide animals safely for examination and treatment",
+          "correct": true,
+          "feedback": "Correct. A well-designed race supports controlled, low-stress handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should silage be covered and sealed after ensiling?",
+      "options": [
+        {
+          "text": "A. To encourage mould growth",
+          "correct": false,
+          "feedback": "Review: Excluding air supports fermentation and reduces aerobic spoilage."
+        },
+        {
+          "text": "B. To increase rainwater penetration",
+          "correct": false,
+          "feedback": "Review: Excluding air supports fermentation and reduces aerobic spoilage."
+        },
+        {
+          "text": "C. To limit oxygen entry and reduce spoilage",
+          "correct": true,
+          "feedback": "Correct. Excluding air supports fermentation and reduces aerobic spoilage."
+        },
+        {
+          "text": "D. To make the forage lose all moisture",
+          "correct": false,
+          "feedback": "Review: Excluding air supports fermentation and reduces aerobic spoilage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "Which practice helps reduce mastitis risk during milking?",
+      "options": [
+        {
+          "text": "A. Sharing unwashed towels between cows",
+          "correct": false,
+          "feedback": "Review: Milking hygiene reduces transfer of mastitis-causing organisms."
+        },
+        {
+          "text": "B. Clean hands and equipment with consistent teat hygiene",
+          "correct": true,
+          "feedback": "Correct. Milking hygiene reduces transfer of mastitis-causing organisms."
+        },
+        {
+          "text": "C. Milking visibly dirty teats without cleaning",
+          "correct": false,
+          "feedback": "Review: Milking hygiene reduces transfer of mastitis-causing organisms."
+        },
+        {
+          "text": "D. Leaving milking equipment wet and unclean",
+          "correct": false,
+          "feedback": "Review: Milking hygiene reduces transfer of mastitis-causing organisms."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why is a balanced transition ration important before calving?",
+      "options": [
+        {
+          "text": "A. It helps the cow adapt to the demands of early lactation",
+          "correct": true,
+          "feedback": "Correct. Transition nutrition supports metabolic adaptation around calving."
+        },
+        {
+          "text": "B. It removes the need for fresh water",
+          "correct": false,
+          "feedback": "Review: Transition nutrition supports metabolic adaptation around calving."
+        },
+        {
+          "text": "C. It prevents all calving difficulties",
+          "correct": false,
+          "feedback": "Review: Transition nutrition supports metabolic adaptation around calving."
+        },
+        {
+          "text": "D. It should contain no forage",
+          "correct": false,
+          "feedback": "Review: Transition nutrition supports metabolic adaptation around calving."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the main purpose of a bull breeding soundness examination?",
+      "options": [
+        {
+          "text": "A. To determine the age of every calf",
+          "correct": false,
+          "feedback": "Review: A breeding soundness exam evaluates factors such as physical condition and semen quality."
+        },
+        {
+          "text": "B. To estimate meat colour",
+          "correct": false,
+          "feedback": "Review: A breeding soundness exam evaluates factors such as physical condition and semen quality."
+        },
+        {
+          "text": "C. To test the quality of pasture seed",
+          "correct": false,
+          "feedback": "Review: A breeding soundness exam evaluates factors such as physical condition and semen quality."
+        },
+        {
+          "text": "D. To assess physical and reproductive fitness before breeding",
+          "correct": true,
+          "feedback": "Correct. A breeding soundness exam evaluates factors such as physical condition and semen quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should cattle feed be introduced gradually after a ration change?",
+      "options": [
+        {
+          "text": "A. To eliminate the need for forage",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation reduces risk of ruminal acidosis and intake disruption."
+        },
+        {
+          "text": "B. To stop rumen fermentation",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation reduces risk of ruminal acidosis and intake disruption."
+        },
+        {
+          "text": "C. To allow rumen microbes to adapt and reduce digestive upset",
+          "correct": true,
+          "feedback": "Correct. Gradual adaptation reduces risk of ruminal acidosis and intake disruption."
+        },
+        {
+          "text": "D. To make cattle eat less water",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation reduces risk of ruminal acidosis and intake disruption."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What is a useful reason to inspect fences routinely?",
+      "options": [
+        {
+          "text": "A. To replace animal identification",
+          "correct": false,
+          "feedback": "Review: Routine fence checks prevent escapes and reduce injury hazards."
+        },
+        {
+          "text": "B. To find damage before animals escape or become injured",
+          "correct": true,
+          "feedback": "Correct. Routine fence checks prevent escapes and reduce injury hazards."
+        },
+        {
+          "text": "C. To improve milk fat directly",
+          "correct": false,
+          "feedback": "Review: Routine fence checks prevent escapes and reduce injury hazards."
+        },
+        {
+          "text": "D. To avoid checking water points",
+          "correct": false,
+          "feedback": "Review: Routine fence checks prevent escapes and reduce injury hazards."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why are clean calving pens important?",
+      "options": [
+        {
+          "text": "A. They reduce exposure of newborn calves and cows to infectious organisms",
+          "correct": true,
+          "feedback": "Correct. Clean, dry calving areas lower environmental pathogen exposure."
+        },
+        {
+          "text": "B. They make colostrum unnecessary",
+          "correct": false,
+          "feedback": "Review: Clean, dry calving areas lower environmental pathogen exposure."
+        },
+        {
+          "text": "C. They prevent all genetic disorders",
+          "correct": false,
+          "feedback": "Review: Clean, dry calving areas lower environmental pathogen exposure."
+        },
+        {
+          "text": "D. They remove the need for bedding",
+          "correct": false,
+          "feedback": "Review: Clean, dry calving areas lower environmental pathogen exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What does a cattle ration's crude protein value describe?",
+      "options": [
+        {
+          "text": "A. The number of calories in one kilogram",
+          "correct": false,
+          "feedback": "Review: Crude protein is estimated from nitrogen and does not describe protein quality by itself."
+        },
+        {
+          "text": "B. The exact amount of every amino acid absorbed",
+          "correct": false,
+          "feedback": "Review: Crude protein is estimated from nitrogen and does not describe protein quality by itself."
+        },
+        {
+          "text": "C. The feed's water content only",
+          "correct": false,
+          "feedback": "Review: Crude protein is estimated from nitrogen and does not describe protein quality by itself."
+        },
+        {
+          "text": "D. An estimate of protein based on feed nitrogen content",
+          "correct": true,
+          "feedback": "Correct. Crude protein is estimated from nitrogen and does not describe protein quality by itself."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should cattle be observed after vaccination?",
+      "options": [
+        {
+          "text": "A. To avoid recording the vaccine batch",
+          "correct": false,
+          "feedback": "Review: Observation and records help identify reactions and document vaccination."
+        },
+        {
+          "text": "B. To prove the vaccine prevents every disease",
+          "correct": false,
+          "feedback": "Review: Observation and records help identify reactions and document vaccination."
+        },
+        {
+          "text": "C. To notice uncommon adverse reactions and check normal recovery",
+          "correct": true,
+          "feedback": "Correct. Observation and records help identify reactions and document vaccination."
+        },
+        {
+          "text": "D. To stop providing water",
+          "correct": false,
+          "feedback": "Review: Observation and records help identify reactions and document vaccination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What can excessive salivation and difficulty swallowing in cattle require?",
+      "options": [
+        {
+          "text": "A. A routine change of mineral lick only",
+          "correct": false,
+          "feedback": "Review: These signs can indicate serious conditions and should be assessed promptly."
+        },
+        {
+          "text": "B. Urgent veterinary assessment",
+          "correct": true,
+          "feedback": "Correct. These signs can indicate serious conditions and should be assessed promptly."
+        },
+        {
+          "text": "C. Ignoring the animal until the next feeding",
+          "correct": false,
+          "feedback": "Review: These signs can indicate serious conditions and should be assessed promptly."
+        },
+        {
+          "text": "D. Immediate transport through the herd",
+          "correct": false,
+          "feedback": "Review: These signs can indicate serious conditions and should be assessed promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why is pasture rest included in rotational grazing?",
+      "options": [
+        {
+          "text": "A. To allow forage plants time to recover and regrow",
+          "correct": true,
+          "feedback": "Correct. Rest periods support plant recovery when matched to growth conditions."
+        },
+        {
+          "text": "B. To keep all paddocks grazed continuously",
+          "correct": false,
+          "feedback": "Review: Rest periods support plant recovery when matched to growth conditions."
+        },
+        {
+          "text": "C. To eliminate the need for stocking plans",
+          "correct": false,
+          "feedback": "Review: Rest periods support plant recovery when matched to growth conditions."
+        },
+        {
+          "text": "D. To stop roots absorbing water",
+          "correct": false,
+          "feedback": "Review: Rest periods support plant recovery when matched to growth conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is the purpose of recording withdrawal periods after cattle treatment?",
+      "options": [
+        {
+          "text": "A. To replace the treatment label",
+          "correct": false,
+          "feedback": "Review: Withdrawal periods protect consumers from veterinary medicine residues."
+        },
+        {
+          "text": "B. To calculate the animal's market weight",
+          "correct": false,
+          "feedback": "Review: Withdrawal periods protect consumers from veterinary medicine residues."
+        },
+        {
+          "text": "C. To determine the next breeding season",
+          "correct": false,
+          "feedback": "Review: Withdrawal periods protect consumers from veterinary medicine residues."
+        },
+        {
+          "text": "D. To ensure milk or meat is not marketed before the safe interval ends",
+          "correct": true,
+          "feedback": "Correct. Withdrawal periods protect consumers from veterinary medicine residues."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should cattle mineral supplements be based on local forage and water analysis where possible?",
+      "options": [
+        {
+          "text": "A. More minerals always improve production",
+          "correct": false,
+          "feedback": "Review: Testing helps target deficiencies and avoid potentially toxic oversupply."
+        },
+        {
+          "text": "B. All soils have identical mineral levels",
+          "correct": false,
+          "feedback": "Review: Testing helps target deficiencies and avoid potentially toxic oversupply."
+        },
+        {
+          "text": "C. Mineral levels vary and excesses can also be harmful",
+          "correct": true,
+          "feedback": "Correct. Testing helps target deficiencies and avoid potentially toxic oversupply."
+        },
+        {
+          "text": "D. Minerals can replace energy in the ration",
+          "correct": false,
+          "feedback": "Review: Testing helps target deficiencies and avoid potentially toxic oversupply."
+        }
+      ],
+      "part": 4
     }
   ]
 }
