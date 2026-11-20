@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It reduces bacterial growth and protects milk quality",
           "correct": true,
           "feedback": "Correct. Use hygienic milking and cold storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should goat kids be checked for normal breathing after birth?",
+      "options": [
+        {
+          "text": "A. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Ensure airways are clear and seek help if breathing is abnormal."
+        },
+        {
+          "text": "B. Breathing difficulty can be an immediate neonatal emergency",
+          "correct": true,
+          "feedback": "Correct. Ensure airways are clear and seek help if breathing is abnormal."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Ensure airways are clear and seek help if breathing is abnormal."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Ensure airways are clear and seek help if breathing is abnormal."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of keeping goats' feed troughs off the ground?",
+      "options": [
+        {
+          "text": "A. It reduces contamination from droppings and dirt",
+          "correct": true,
+          "feedback": "Correct. Elevated, suitable feeders support hygiene."
+        },
+        {
+          "text": "B. It determines milk yield",
+          "correct": false,
+          "feedback": "Review: Elevated, suitable feeders support hygiene."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Elevated, suitable feeders support hygiene."
+        },
+        {
+          "text": "D. It increases mineral content",
+          "correct": false,
+          "feedback": "Review: Elevated, suitable feeders support hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should goats be monitored after a change in mineral supplement?",
+      "options": [
+        {
+          "text": "A. It predicts kidding date",
+          "correct": false,
+          "feedback": "Review: Use goat-appropriate supplements and monitor intake."
+        },
+        {
+          "text": "B. All minerals are safe at any dose",
+          "correct": false,
+          "feedback": "Review: Use goat-appropriate supplements and monitor intake."
+        },
+        {
+          "text": "C. It replaces water",
+          "correct": false,
+          "feedback": "Review: Use goat-appropriate supplements and monitor intake."
+        },
+        {
+          "text": "D. Excess intake or an unsuitable formulation can be harmful",
+          "correct": true,
+          "feedback": "Correct. Use goat-appropriate supplements and monitor intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a doe's failure to pass the placenta after kidding require?",
+      "options": [
+        {
+          "text": "A. No attention if she eats",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "B. A routine feed change only",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "C. Veterinary assessment for retained placenta and complications",
+          "correct": true,
+          "feedback": "Correct. Do not attempt unsafe manual removal; seek veterinary guidance."
+        },
+        {
+          "text": "D. Immediate rebreeding",
+          "correct": false,
+          "feedback": "Review: Do not attempt unsafe manual removal; seek veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should goats be protected from poisonous plants along fence lines?",
+      "options": [
+        {
+          "text": "A. Goats avoid all toxic plants",
+          "correct": false,
+          "feedback": "Review: Identify local hazards and maintain safe fencing."
+        },
+        {
+          "text": "B. They may reach leaves or branches that are toxic",
+          "correct": true,
+          "feedback": "Correct. Identify local hazards and maintain safe fencing."
+        },
+        {
+          "text": "C. Toxins disappear in sunlight",
+          "correct": false,
+          "feedback": "Review: Identify local hazards and maintain safe fencing."
+        },
+        {
+          "text": "D. It improves browsing",
+          "correct": false,
+          "feedback": "Review: Identify local hazards and maintain safe fencing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of weighing goat kids at weaning?",
+      "options": [
+        {
+          "text": "A. It helps assess growth and readiness for the next management stage",
+          "correct": true,
+          "feedback": "Correct. Use weights alongside health and condition assessments."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use weights alongside health and condition assessments."
+        },
+        {
+          "text": "C. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Use weights alongside health and condition assessments."
+        },
+        {
+          "text": "D. It predicts adult milk yield exactly",
+          "correct": false,
+          "feedback": "Review: Use weights alongside health and condition assessments."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should goat bucks have separate resting areas when needed?",
+      "options": [
+        {
+          "text": "A. It replaces hoof care",
+          "correct": false,
+          "feedback": "Review: Manage social groups to reduce injury and stress."
+        },
+        {
+          "text": "B. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Manage social groups to reduce injury and stress."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Manage social groups to reduce injury and stress."
+        },
+        {
+          "text": "D. It can reduce fighting and allow recovery",
+          "correct": true,
+          "feedback": "Correct. Manage social groups to reduce injury and stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can repeated nasal discharge in goats indicate?",
+      "options": [
+        {
+          "text": "A. It determines kid sex",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "B. A sign of high milk yield",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "C. Respiratory infection, irritation or environmental problems",
+          "correct": true,
+          "feedback": "Correct. Assess the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should goat milk be tested or monitored for quality?",
+      "options": [
+        {
+          "text": "A. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Use appropriate quality checks and hygienic handling."
+        },
+        {
+          "text": "B. It helps identify hygiene or udder-health problems",
+          "correct": true,
+          "feedback": "Correct. Use appropriate quality checks and hygienic handling."
+        },
+        {
+          "text": "C. It replaces cooling",
+          "correct": false,
+          "feedback": "Review: Use appropriate quality checks and hygienic handling."
+        },
+        {
+          "text": "D. It guarantees safe milk",
+          "correct": false,
+          "feedback": "Review: Use appropriate quality checks and hygienic handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of a goat herd identification register?",
+      "options": [
+        {
+          "text": "A. It links each animal to health, breeding and movement records",
+          "correct": true,
+          "feedback": "Correct. Maintain clear, current identification records."
+        },
+        {
+          "text": "B. It measures pasture protein",
+          "correct": false,
+          "feedback": "Review: Maintain clear, current identification records."
+        },
+        {
+          "text": "C. It determines market price",
+          "correct": false,
+          "feedback": "Review: Maintain clear, current identification records."
+        },
+        {
+          "text": "D. It replaces ear tags",
+          "correct": false,
+          "feedback": "Review: Maintain clear, current identification records."
         }
       ],
       "part": 4
