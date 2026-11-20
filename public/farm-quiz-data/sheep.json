@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It guarantees uniform growth",
           "correct": false,
           "feedback": "Review: Clean feeding equipment supports hygiene and intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should ewes be monitored for pregnancy toxemia risk late in gestation?",
+      "options": [
+        {
+          "text": "A. It occurs only in rams",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate nutrition and seek veterinary help for suspected cases."
+        },
+        {
+          "text": "B. Energy demands rise, especially in ewes carrying multiple lambs",
+          "correct": true,
+          "feedback": "Correct. Maintain appropriate nutrition and seek veterinary help for suspected cases."
+        },
+        {
+          "text": "C. It is prevented by withholding feed",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate nutrition and seek veterinary help for suspected cases."
+        },
+        {
+          "text": "D. It improves lamb birth weight",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate nutrition and seek veterinary help for suspected cases."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of checking lambs for swollen joints?",
+      "options": [
+        {
+          "text": "A. Joint ill or other infection may need prompt treatment",
+          "correct": true,
+          "feedback": "Correct. Swollen joints in young lambs need veterinary assessment."
+        },
+        {
+          "text": "B. It predicts wool grade",
+          "correct": false,
+          "feedback": "Review: Swollen joints in young lambs need veterinary assessment."
+        },
+        {
+          "text": "C. It measures milk yield",
+          "correct": false,
+          "feedback": "Review: Swollen joints in young lambs need veterinary assessment."
+        },
+        {
+          "text": "D. It is normal in every lamb",
+          "correct": false,
+          "feedback": "Review: Swollen joints in young lambs need veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should sheep be given time to settle after shearing before exposure to severe weather?",
+      "options": [
+        {
+          "text": "A. It replaces shelter",
+          "correct": false,
+          "feedback": "Review: Plan shearing around weather and provide protection."
+        },
+        {
+          "text": "B. Shearing makes sheep heat-proof",
+          "correct": false,
+          "feedback": "Review: Plan shearing around weather and provide protection."
+        },
+        {
+          "text": "C. Weather has no effect after shearing",
+          "correct": false,
+          "feedback": "Review: Plan shearing around weather and provide protection."
+        },
+        {
+          "text": "D. Loss of fleece insulation can increase cold stress",
+          "correct": true,
+          "feedback": "Correct. Plan shearing around weather and provide protection."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What is the purpose of monitoring ram condition during joining?",
+      "options": [
+        {
+          "text": "A. It replaces fertility checks",
+          "correct": false,
+          "feedback": "Review: Monitor body condition and mating workload."
+        },
+        {
+          "text": "B. It determines ewe age",
+          "correct": false,
+          "feedback": "Review: Monitor body condition and mating workload."
+        },
+        {
+          "text": "C. Rams may lose condition while working and need management",
+          "correct": true,
+          "feedback": "Correct. Monitor body condition and mating workload."
+        },
+        {
+          "text": "D. It guarantees conception",
+          "correct": false,
+          "feedback": "Review: Monitor body condition and mating workload."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should sheep water troughs be checked for algae and debris?",
+      "options": [
+        {
+          "text": "A. Algae always improves water",
+          "correct": false,
+          "feedback": "Review: Clean troughs and maintain reliable water supply."
+        },
+        {
+          "text": "B. Contamination can reduce water quality and intake",
+          "correct": true,
+          "feedback": "Correct. Clean troughs and maintain reliable water supply."
+        },
+        {
+          "text": "C. Sheep do not need clean water",
+          "correct": false,
+          "feedback": "Review: Clean troughs and maintain reliable water supply."
+        },
+        {
+          "text": "D. It replaces mineral supplements",
+          "correct": false,
+          "feedback": "Review: Clean troughs and maintain reliable water supply."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What can a ewe that separates from the flock and stops eating indicate?",
+      "options": [
+        {
+          "text": "A. Illness, pain or a lambing-related problem",
+          "correct": true,
+          "feedback": "Correct. Behavioural changes warrant prompt observation and assessment."
+        },
+        {
+          "text": "B. A normal sign of high fertility",
+          "correct": false,
+          "feedback": "Review: Behavioural changes warrant prompt observation and assessment."
+        },
+        {
+          "text": "C. Proof of twins",
+          "correct": false,
+          "feedback": "Review: Behavioural changes warrant prompt observation and assessment."
+        },
+        {
+          "text": "D. A reason to ignore her",
+          "correct": false,
+          "feedback": "Review: Behavioural changes warrant prompt observation and assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should lambs be protected from predators in open lambing areas?",
+      "options": [
+        {
+          "text": "A. They prevent parasites",
+          "correct": false,
+          "feedback": "Review: Use suitable shelter, fencing and supervision."
+        },
+        {
+          "text": "B. Predators improve flock genetics",
+          "correct": false,
+          "feedback": "Review: Use suitable shelter, fencing and supervision."
+        },
+        {
+          "text": "C. They reduce lambing labour",
+          "correct": false,
+          "feedback": "Review: Use suitable shelter, fencing and supervision."
+        },
+        {
+          "text": "D. Predation can cause injury and substantial losses",
+          "correct": true,
+          "feedback": "Correct. Use suitable shelter, fencing and supervision."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What is the benefit of recording lambing assistance by ewe?",
+      "options": [
+        {
+          "text": "A. It predicts fleece colour",
+          "correct": false,
+          "feedback": "Review: Accurate records help improve flock management."
+        },
+        {
+          "text": "B. It measures pasture growth",
+          "correct": false,
+          "feedback": "Review: Accurate records help improve flock management."
+        },
+        {
+          "text": "C. It identifies recurring difficulty that may affect future breeding selection",
+          "correct": true,
+          "feedback": "Correct. Accurate records help improve flock management."
+        },
+        {
+          "text": "D. It replaces lamb weights",
+          "correct": false,
+          "feedback": "Review: Accurate records help improve flock management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should sheep be moved off a pasture with suspected toxic plant exposure?",
+      "options": [
+        {
+          "text": "A. More grazing dilutes toxins",
+          "correct": false,
+          "feedback": "Review: Remove access and seek urgent veterinary guidance."
+        },
+        {
+          "text": "B. Further ingestion may increase poisoning risk",
+          "correct": true,
+          "feedback": "Correct. Remove access and seek urgent veterinary guidance."
+        },
+        {
+          "text": "C. All toxic plants become safe after rain",
+          "correct": false,
+          "feedback": "Review: Remove access and seek urgent veterinary guidance."
+        },
+        {
+          "text": "D. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Review: Remove access and seek urgent veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is the purpose of monitoring fleece condition before shearing?",
+      "options": [
+        {
+          "text": "A. It helps plan timing and identify skin or parasite problems",
+          "correct": true,
+          "feedback": "Correct. Fleece inspection supports welfare and shearing decisions."
+        },
+        {
+          "text": "B. It determines pregnancy status",
+          "correct": false,
+          "feedback": "Review: Fleece inspection supports welfare and shearing decisions."
+        },
+        {
+          "text": "C. It replaces body condition scoring",
+          "correct": false,
+          "feedback": "Review: Fleece inspection supports welfare and shearing decisions."
+        },
+        {
+          "text": "D. It predicts market price exactly",
+          "correct": false,
+          "feedback": "Review: Fleece inspection supports welfare and shearing decisions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should sheep handling be avoided during the hottest part of the day?",
+      "options": [
+        {
+          "text": "A. It prevents the need for water",
+          "correct": false,
+          "feedback": "Review: Schedule handling for cooler periods when possible."
+        },
+        {
+          "text": "B. Heat improves handling safety",
+          "correct": false,
+          "feedback": "Review: Schedule handling for cooler periods when possible."
+        },
+        {
+          "text": "C. Sheep do not overheat",
+          "correct": false,
+          "feedback": "Review: Schedule handling for cooler periods when possible."
+        },
+        {
+          "text": "D. Handling increases exertion and heat stress risk",
+          "correct": true,
+          "feedback": "Correct. Schedule handling for cooler periods when possible."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What can a sudden drop in lamb growth rate indicate?",
+      "options": [
+        {
+          "text": "A. A sign to stop weighing",
+          "correct": false,
+          "feedback": "Review: Use records and clinical assessment to identify the cause."
+        },
+        {
+          "text": "B. Guaranteed genetic improvement",
+          "correct": false,
+          "feedback": "Review: Use records and clinical assessment to identify the cause."
+        },
+        {
+          "text": "C. Changes in milk supply, pasture, parasites or disease",
+          "correct": true,
+          "feedback": "Correct. Use records and clinical assessment to identify the cause."
+        },
+        {
+          "text": "D. Only a change in wool price",
+          "correct": false,
+          "feedback": "Review: Use records and clinical assessment to identify the cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should sheep mineral supplementation be reviewed when forage sources change?",
+      "options": [
+        {
+          "text": "A. All forage contains identical minerals",
+          "correct": false,
+          "feedback": "Review: Match supplements to local needs and species safety."
+        },
+        {
+          "text": "B. Different feeds and soils can have different mineral profiles",
+          "correct": true,
+          "feedback": "Correct. Match supplements to local needs and species safety."
+        },
+        {
+          "text": "C. More minerals are always safer",
+          "correct": false,
+          "feedback": "Review: Match supplements to local needs and species safety."
+        },
+        {
+          "text": "D. Minerals replace energy",
+          "correct": false,
+          "feedback": "Review: Match supplements to local needs and species safety."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is a useful reason to maintain separate lambing and hospital pens?",
+      "options": [
+        {
+          "text": "A. They support focused care and reduce disease transmission",
+          "correct": true,
+          "feedback": "Correct. Separate facilities can improve hygiene and care."
+        },
+        {
+          "text": "B. They make observation unnecessary",
+          "correct": false,
+          "feedback": "Review: Separate facilities can improve hygiene and care."
+        },
+        {
+          "text": "C. They guarantee no infection",
+          "correct": false,
+          "feedback": "Review: Separate facilities can improve hygiene and care."
+        },
+        {
+          "text": "D. They replace pasture",
+          "correct": false,
+          "feedback": "Review: Separate facilities can improve hygiene and care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should sheep with severe foot pain be treated promptly?",
+      "options": [
+        {
+          "text": "A. It should be ignored until shearing",
+          "correct": false,
+          "feedback": "Review: Prompt diagnosis and treatment reduce suffering and production losses."
+        },
+        {
+          "text": "B. Lameness improves weight gain",
+          "correct": false,
+          "feedback": "Review: Prompt diagnosis and treatment reduce suffering and production losses."
+        },
+        {
+          "text": "C. Foot pain is harmless",
+          "correct": false,
+          "feedback": "Review: Prompt diagnosis and treatment reduce suffering and production losses."
+        },
+        {
+          "text": "D. Pain limits feeding and movement and can worsen welfare",
+          "correct": true,
+          "feedback": "Correct. Prompt diagnosis and treatment reduce suffering and production losses."
         }
       ],
       "part": 4
