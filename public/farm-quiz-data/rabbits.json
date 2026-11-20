@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It guarantees fertility",
           "correct": false,
           "feedback": "Review: Temperament is one useful selection consideration alongside health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should rabbit owners avoid bathing rabbits routinely?",
+      "options": [
+        {
+          "text": "A. Bathing can cause stress and chilling and may damage coat condition",
+          "correct": true,
+          "feedback": "Correct. Clean only when necessary using appropriate advice and methods."
+        },
+        {
+          "text": "B. Bathing prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Clean only when necessary using appropriate advice and methods."
+        },
+        {
+          "text": "C. Rabbits need daily immersion",
+          "correct": false,
+          "feedback": "Review: Clean only when necessary using appropriate advice and methods."
+        },
+        {
+          "text": "D. Water improves gut motility",
+          "correct": false,
+          "feedback": "Review: Clean only when necessary using appropriate advice and methods."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of checking rabbit teeth alignment regularly?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Dental checks help detect malocclusion early."
+        },
+        {
+          "text": "B. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Dental checks help detect malocclusion early."
+        },
+        {
+          "text": "C. It measures hydration",
+          "correct": false,
+          "feedback": "Review: Dental checks help detect malocclusion early."
+        },
+        {
+          "text": "D. Misalignment can lead to overgrown teeth and difficulty eating",
+          "correct": true,
+          "feedback": "Correct. Dental checks help detect malocclusion early."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should rabbit feed storage be protected from insects?",
+      "options": [
+        {
+          "text": "A. They sterilise pellets",
+          "correct": false,
+          "feedback": "Review: Store feed dry, sealed and pest-resistant."
+        },
+        {
+          "text": "B. Insects increase protein",
+          "correct": false,
+          "feedback": "Review: Store feed dry, sealed and pest-resistant."
+        },
+        {
+          "text": "C. Insects can contaminate feed and damage its quality",
+          "correct": true,
+          "feedback": "Correct. Store feed dry, sealed and pest-resistant."
+        },
+        {
+          "text": "D. It makes rotation unnecessary",
+          "correct": false,
+          "feedback": "Review: Store feed dry, sealed and pest-resistant."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a doe that repeatedly pulls fur and builds a nest outside the expected period indicate?",
+      "options": [
+        {
+          "text": "A. A guaranteed pregnancy",
+          "correct": false,
+          "feedback": "Review: Interpret nesting behaviour alongside mating and pregnancy records."
+        },
+        {
+          "text": "B. Possible pseudopregnancy or reproductive behaviour requiring context",
+          "correct": true,
+          "feedback": "Correct. Interpret nesting behaviour alongside mating and pregnancy records."
+        },
+        {
+          "text": "C. A sign of dental disease",
+          "correct": false,
+          "feedback": "Review: Interpret nesting behaviour alongside mating and pregnancy records."
+        },
+        {
+          "text": "D. A need to stop water",
+          "correct": false,
+          "feedback": "Review: Interpret nesting behaviour alongside mating and pregnancy records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should rabbits have a stable daily routine?",
+      "options": [
+        {
+          "text": "A. Predictability can reduce stress and support normal feeding behaviour",
+          "correct": true,
+          "feedback": "Correct. Consistent care routines support welfare."
+        },
+        {
+          "text": "B. It prevents all illness",
+          "correct": false,
+          "feedback": "Review: Consistent care routines support welfare."
+        },
+        {
+          "text": "C. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Consistent care routines support welfare."
+        },
+        {
+          "text": "D. It replaces enrichment",
+          "correct": false,
+          "feedback": "Review: Consistent care routines support welfare."
         }
       ],
       "part": 4
