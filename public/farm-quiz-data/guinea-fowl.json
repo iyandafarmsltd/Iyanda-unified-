@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It determines egg size",
           "correct": false,
           "feedback": "Review: Allow supervised adjustment and maintain secure housing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should guinea-fowl be protected from excessive heat in transport crates?",
+      "options": [
+        {
+          "text": "A. High temperatures and crowding can cause heat stress",
+          "correct": true,
+          "feedback": "Correct. Provide adequate airflow, space and suitable journey planning."
+        },
+        {
+          "text": "B. Heat improves survival",
+          "correct": false,
+          "feedback": "Review: Provide adequate airflow, space and suitable journey planning."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Provide adequate airflow, space and suitable journey planning."
+        },
+        {
+          "text": "D. It guarantees faster travel",
+          "correct": false,
+          "feedback": "Review: Provide adequate airflow, space and suitable journey planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of inspecting guinea-fowl eggs for hairline cracks?",
+      "options": [
+        {
+          "text": "A. They replace candling",
+          "correct": false,
+          "feedback": "Review: Select intact eggs for incubation."
+        },
+        {
+          "text": "B. They determine sex",
+          "correct": false,
+          "feedback": "Review: Select intact eggs for incubation."
+        },
+        {
+          "text": "C. They improve gas exchange safely",
+          "correct": false,
+          "feedback": "Review: Select intact eggs for incubation."
+        },
+        {
+          "text": "D. Cracks can allow contamination and reduce hatch success",
+          "correct": true,
+          "feedback": "Correct. Select intact eggs for incubation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should guinea-fowl drinkers be placed away from roosting droppings?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Position and clean waterers to maintain hygiene."
+        },
+        {
+          "text": "B. Droppings improve water quality",
+          "correct": false,
+          "feedback": "Review: Position and clean waterers to maintain hygiene."
+        },
+        {
+          "text": "C. It reduces contamination of drinking water",
+          "correct": true,
+          "feedback": "Correct. Position and clean waterers to maintain hygiene."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Position and clean waterers to maintain hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a guinea-fowl keet that persistently chirps and huddles indicate?",
+      "options": [
+        {
+          "text": "A. It proves the brooder is perfect",
+          "correct": false,
+          "feedback": "Review: Check brooder conditions and feed and water access."
+        },
+        {
+          "text": "B. It may be cold, stressed or unable to access resources",
+          "correct": true,
+          "feedback": "Correct. Check brooder conditions and feed and water access."
+        },
+        {
+          "text": "C. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Check brooder conditions and feed and water access."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check brooder conditions and feed and water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should guinea-fowl farms control access by wild birds?",
+      "options": [
+        {
+          "text": "A. Wild birds can introduce pathogens and contaminate feed and water",
+          "correct": true,
+          "feedback": "Correct. Use biosecurity measures to limit wild-bird contact."
+        },
+        {
+          "text": "B. They improve immunity",
+          "correct": false,
+          "feedback": "Review: Use biosecurity measures to limit wild-bird contact."
+        },
+        {
+          "text": "C. They prevent all pests",
+          "correct": false,
+          "feedback": "Review: Use biosecurity measures to limit wild-bird contact."
+        },
+        {
+          "text": "D. They sterilise the range",
+          "correct": false,
+          "feedback": "Review: Use biosecurity measures to limit wild-bird contact."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of weighing a sample of keets weekly?",
+      "options": [
+        {
+          "text": "A. It predicts exact adult weight",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Use representative samples and consistent methods."
+        },
+        {
+          "text": "D. It helps monitor growth and identify uneven development",
+          "correct": true,
+          "feedback": "Correct. Use representative samples and consistent methods."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should guinea-fowl housing be checked for gaps at roof level?",
+      "options": [
+        {
+          "text": "A. It determines hatchability",
+          "correct": false,
+          "feedback": "Review: Secure roof and wall junctions."
+        },
+        {
+          "text": "B. It improves airflow in every case",
+          "correct": false,
+          "feedback": "Review: Secure roof and wall junctions."
+        },
+        {
+          "text": "C. Birds may escape and predators may enter",
+          "correct": true,
+          "feedback": "Correct. Secure roof and wall junctions."
+        },
+        {
+          "text": "D. It replaces doors",
+          "correct": false,
+          "feedback": "Review: Secure roof and wall junctions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can an increase in guinea-fowl mortality after a feed change prompt a farmer to investigate?",
+      "options": [
+        {
+          "text": "A. Only the weather",
+          "correct": false,
+          "feedback": "Review: Stop suspect feed where appropriate and seek veterinary and feed-supplier advice."
+        },
+        {
+          "text": "B. Feed contamination, formulation or abrupt transition",
+          "correct": true,
+          "feedback": "Correct. Stop suspect feed where appropriate and seek veterinary and feed-supplier advice."
+        },
+        {
+          "text": "C. Egg collection times",
+          "correct": false,
+          "feedback": "Review: Stop suspect feed where appropriate and seek veterinary and feed-supplier advice."
+        },
+        {
+          "text": "D. The colour of the drinker",
+          "correct": false,
+          "feedback": "Review: Stop suspect feed where appropriate and seek veterinary and feed-supplier advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should guinea-fowl eggs be stored away from direct sunlight?",
+      "options": [
+        {
+          "text": "A. Heat fluctuations can harm embryo viability",
+          "correct": true,
+          "feedback": "Correct. Use a stable, appropriate storage environment."
+        },
+        {
+          "text": "B. Sunlight determines sex",
+          "correct": false,
+          "feedback": "Review: Use a stable, appropriate storage environment."
+        },
+        {
+          "text": "C. It sterilises eggs",
+          "correct": false,
+          "feedback": "Review: Use a stable, appropriate storage environment."
+        },
+        {
+          "text": "D. It improves shell quality",
+          "correct": false,
+          "feedback": "Review: Use a stable, appropriate storage environment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of maintaining a regular cleaning schedule for guinea-fowl nest boxes?",
+      "options": [
+        {
+          "text": "A. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Clean and dry nest boxes between use."
+        },
+        {
+          "text": "B. It guarantees hatchability",
+          "correct": false,
+          "feedback": "Review: Clean and dry nest boxes between use."
+        },
+        {
+          "text": "C. It replaces egg collection",
+          "correct": false,
+          "feedback": "Review: Clean and dry nest boxes between use."
+        },
+        {
+          "text": "D. It limits contamination and pests",
+          "correct": true,
+          "feedback": "Correct. Clean and dry nest boxes between use."
         }
       ],
       "part": 4
