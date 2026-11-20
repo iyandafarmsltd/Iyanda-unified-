@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It replaces sampling",
           "correct": false,
           "feedback": "Review: Check scales routinely and record calibration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should poultry drinker pressure be adjusted to the bird age and system?",
+      "options": [
+        {
+          "text": "A. Incorrect pressure can restrict drinking or cause excessive spillage",
+          "correct": true,
+          "feedback": "Correct. Follow equipment guidance and observe water access."
+        },
+        {
+          "text": "B. It determines egg sex",
+          "correct": false,
+          "feedback": "Review: Follow equipment guidance and observe water access."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Follow equipment guidance and observe water access."
+        },
+        {
+          "text": "D. It guarantees growth",
+          "correct": false,
+          "feedback": "Review: Follow equipment guidance and observe water access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of recording poultry egg mass per hen?",
+      "options": [
+        {
+          "text": "A. It replaces mortality records",
+          "correct": false,
+          "feedback": "Review: Use consistent production data for flock assessment."
+        },
+        {
+          "text": "B. It measures shell bacteria",
+          "correct": false,
+          "feedback": "Review: Use consistent production data for flock assessment."
+        },
+        {
+          "text": "C. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Use consistent production data for flock assessment."
+        },
+        {
+          "text": "D. It combines egg number and weight to assess output",
+          "correct": true,
+          "feedback": "Correct. Use consistent production data for flock assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should poultry houses be checked for broken insulation panels?",
+      "options": [
+        {
+          "text": "A. It determines feed protein",
+          "correct": false,
+          "feedback": "Review: Repair building damage and check bird-level conditions."
+        },
+        {
+          "text": "B. It improves air quality",
+          "correct": false,
+          "feedback": "Review: Repair building damage and check bird-level conditions."
+        },
+        {
+          "text": "C. Damage can create drafts and temperature instability",
+          "correct": true,
+          "feedback": "Correct. Repair building damage and check bird-level conditions."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Repair building damage and check bird-level conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a sudden increase in poultry feather loss indicate?",
+      "options": [
+        {
+          "text": "A. It always means better growth",
+          "correct": false,
+          "feedback": "Review: Assess age, skin, behaviour and management."
+        },
+        {
+          "text": "B. Moulting, pecking, parasites, stress or nutritional problems",
+          "correct": true,
+          "feedback": "Correct. Assess age, skin, behaviour and management."
+        },
+        {
+          "text": "C. It predicts egg size",
+          "correct": false,
+          "feedback": "Review: Assess age, skin, behaviour and management."
+        },
+        {
+          "text": "D. It is unrelated to health",
+          "correct": false,
+          "feedback": "Review: Assess age, skin, behaviour and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should poultry litter be tested or monitored for moisture?",
+      "options": [
+        {
+          "text": "A. Moisture influences ammonia production and foot health",
+          "correct": true,
+          "feedback": "Correct. Monitor litter condition and correct water or ventilation issues."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Monitor litter condition and correct water or ventilation issues."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Monitor litter condition and correct water or ventilation issues."
+        },
+        {
+          "text": "D. It increases egg fertility",
+          "correct": false,
+          "feedback": "Review: Monitor litter condition and correct water or ventilation issues."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of maintaining a poultry farm visitor log?",
+      "options": [
+        {
+          "text": "A. It predicts feed intake",
+          "correct": false,
+          "feedback": "Review: Record visitor details and recent farm contact as part of biosecurity."
+        },
+        {
+          "text": "B. It guarantees visitors are disease-free",
+          "correct": false,
+          "feedback": "Review: Record visitor details and recent farm contact as part of biosecurity."
+        },
+        {
+          "text": "C. It replaces hygiene measures",
+          "correct": false,
+          "feedback": "Review: Record visitor details and recent farm contact as part of biosecurity."
+        },
+        {
+          "text": "D. It supports traceability if disease exposure is suspected",
+          "correct": true,
+          "feedback": "Correct. Record visitor details and recent farm contact as part of biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should chicks be checked for uniform crop fill after placement?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use representative checks and correct resource access."
+        },
+        {
+          "text": "B. It predicts adult egg yield",
+          "correct": false,
+          "feedback": "Review: Use representative checks and correct resource access."
+        },
+        {
+          "text": "C. Uneven fill can indicate that some chicks cannot find feed or water",
+          "correct": true,
+          "feedback": "Correct. Use representative checks and correct resource access."
+        },
+        {
+          "text": "D. It replaces brooder temperature checks",
+          "correct": false,
+          "feedback": "Review: Use representative checks and correct resource access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a rise in cracked eggs after collection equipment changes indicate?",
+      "options": [
+        {
+          "text": "A. It proves shell quality improved",
+          "correct": false,
+          "feedback": "Review: Inspect belts, drops, trays and handling."
+        },
+        {
+          "text": "B. The new system may be causing impact or handling damage",
+          "correct": true,
+          "feedback": "Correct. Inspect belts, drops, trays and handling."
+        },
+        {
+          "text": "C. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Inspect belts, drops, trays and handling."
+        },
+        {
+          "text": "D. It is unrelated to equipment",
+          "correct": false,
+          "feedback": "Review: Inspect belts, drops, trays and handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should poultry houses be protected from wild-bird droppings entering through open vents?",
+      "options": [
+        {
+          "text": "A. Wild birds may introduce pathogens",
+          "correct": true,
+          "feedback": "Correct. Use suitable barriers while maintaining ventilation."
+        },
+        {
+          "text": "B. Droppings improve litter",
+          "correct": false,
+          "feedback": "Review: Use suitable barriers while maintaining ventilation."
+        },
+        {
+          "text": "C. It replaces rodent control",
+          "correct": false,
+          "feedback": "Review: Use suitable barriers while maintaining ventilation."
+        },
+        {
+          "text": "D. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Use suitable barriers while maintaining ventilation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of checking poultry house alarms before nightfall?",
+      "options": [
+        {
+          "text": "A. It determines feed quality",
+          "correct": false,
+          "feedback": "Review: Test alarms and emergency response systems routinely."
+        },
+        {
+          "text": "B. It predicts mortality",
+          "correct": false,
+          "feedback": "Review: Test alarms and emergency response systems routinely."
+        },
+        {
+          "text": "C. It replaces backup power",
+          "correct": false,
+          "feedback": "Review: Test alarms and emergency response systems routinely."
+        },
+        {
+          "text": "D. It ensures warnings can be acted on when staff are fewer",
+          "correct": true,
+          "feedback": "Correct. Test alarms and emergency response systems routinely."
         }
       ],
       "part": 4
