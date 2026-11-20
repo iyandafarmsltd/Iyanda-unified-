@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. It reduces repeated fouling and pest attraction",
           "correct": true,
           "feedback": "Correct. Relocation and cleaning can improve hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should guinea-fowl be checked for signs of dehydration during hot weather?",
+      "options": [
+        {
+          "text": "A. Heat increases water needs and birds may not access enough water",
+          "correct": true,
+          "feedback": "Correct. Provide clean water and observe flock drinking."
+        },
+        {
+          "text": "B. Dehydration improves feather quality",
+          "correct": false,
+          "feedback": "Review: Provide clean water and observe flock drinking."
+        },
+        {
+          "text": "C. It predicts fertility",
+          "correct": false,
+          "feedback": "Review: Provide clean water and observe flock drinking."
+        },
+        {
+          "text": "D. It is harmless",
+          "correct": false,
+          "feedback": "Review: Provide clean water and observe flock drinking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of recording guinea-fowl feed conversion or growth where measurable?",
+      "options": [
+        {
+          "text": "A. It predicts rainfall",
+          "correct": false,
+          "feedback": "Review: Use consistent weighing and feed records."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Use consistent weighing and feed records."
+        },
+        {
+          "text": "C. It replaces health records",
+          "correct": false,
+          "feedback": "Review: Use consistent weighing and feed records."
+        },
+        {
+          "text": "D. It helps assess the efficiency of feeding and management",
+          "correct": true,
+          "feedback": "Correct. Use consistent weighing and feed records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should keets be protected from overcrowding at heat sources?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Provide adequate brooder space and monitor distribution."
+        },
+        {
+          "text": "B. It improves brooder efficiency",
+          "correct": false,
+          "feedback": "Review: Provide adequate brooder space and monitor distribution."
+        },
+        {
+          "text": "C. Crowding can cause overheating, trampling or suffocation",
+          "correct": true,
+          "feedback": "Correct. Provide adequate brooder space and monitor distribution."
+        },
+        {
+          "text": "D. It replaces temperature checks",
+          "correct": false,
+          "feedback": "Review: Provide adequate brooder space and monitor distribution."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a damaged or missing wing feather in a guinea-fowl flock prompt a farmer to inspect?",
+      "options": [
+        {
+          "text": "A. Only feed protein",
+          "correct": false,
+          "feedback": "Review: Inspect birds and environment for causes."
+        },
+        {
+          "text": "B. Pecking, handling injury or enclosure hazards",
+          "correct": true,
+          "feedback": "Correct. Inspect birds and environment for causes."
+        },
+        {
+          "text": "C. The water pH",
+          "correct": false,
+          "feedback": "Review: Inspect birds and environment for causes."
+        },
+        {
+          "text": "D. Egg storage temperature",
+          "correct": false,
+          "feedback": "Review: Inspect birds and environment for causes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should guinea-fowl nests be positioned in quiet, sheltered areas?",
+      "options": [
+        {
+          "text": "A. Reduced disturbance can encourage consistent nesting behaviour",
+          "correct": true,
+          "feedback": "Correct. Provide suitable nest locations and collect eggs routinely."
+        },
+        {
+          "text": "B. It guarantees all eggs hatch",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest locations and collect eggs routinely."
+        },
+        {
+          "text": "C. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest locations and collect eggs routinely."
+        },
+        {
+          "text": "D. It replaces egg collection",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest locations and collect eggs routinely."
         }
       ],
       "part": 4
