@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 220,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5939,6 +5939,141 @@
           "text": "D. It replaces pasture inspection",
           "correct": false,
           "feedback": "Review: Assess flood-related risks before grazing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "Why should cows be checked for teat-end damage during routine milking review?",
+      "options": [
+        {
+          "text": "A. It determines milk colour",
+          "correct": false,
+          "feedback": "Review: Inspect teat condition and review milking equipment and routine."
+        },
+        {
+          "text": "B. Teat-end damage can increase infection risk and affect milking comfort",
+          "correct": true,
+          "feedback": "Correct. Inspect teat condition and review milking equipment and routine."
+        },
+        {
+          "text": "C. It replaces mastitis testing",
+          "correct": false,
+          "feedback": "Review: Inspect teat condition and review milking equipment and routine."
+        },
+        {
+          "text": "D. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Inspect teat condition and review milking equipment and routine."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "What is the purpose of a cattle farm's emergency contact list?",
+      "options": [
+        {
+          "text": "A. It helps workers respond quickly to illness, injury, fire or equipment failure",
+          "correct": true,
+          "feedback": "Correct. Keep contacts current and accessible."
+        },
+        {
+          "text": "B. It measures herd fertility",
+          "correct": false,
+          "feedback": "Review: Keep contacts current and accessible."
+        },
+        {
+          "text": "C. It replaces staff training",
+          "correct": false,
+          "feedback": "Review: Keep contacts current and accessible."
+        },
+        {
+          "text": "D. It predicts feed needs",
+          "correct": false,
+          "feedback": "Review: Keep contacts current and accessible."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "Why should cattle be prevented from drinking from chemical wash-down areas?",
+      "options": [
+        {
+          "text": "A. It increases milk yield",
+          "correct": false,
+          "feedback": "Review: Separate livestock from chemical handling and storage."
+        },
+        {
+          "text": "B. Chemicals improve rumen function",
+          "correct": false,
+          "feedback": "Review: Separate livestock from chemical handling and storage."
+        },
+        {
+          "text": "C. Cattle can neutralise all detergents",
+          "correct": false,
+          "feedback": "Review: Separate livestock from chemical handling and storage."
+        },
+        {
+          "text": "D. Cleaning chemicals can cause poisoning or irritation",
+          "correct": true,
+          "feedback": "Correct. Separate livestock from chemical handling and storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "What can poor silage compaction cause during storage?",
+      "options": [
+        {
+          "text": "A. Better fermentation in every case",
+          "correct": false,
+          "feedback": "Review: Good compaction and sealing help exclude oxygen."
+        },
+        {
+          "text": "B. Higher protein content",
+          "correct": false,
+          "feedback": "Review: Good compaction and sealing help exclude oxygen."
+        },
+        {
+          "text": "C. Air pockets that encourage heating and spoilage",
+          "correct": true,
+          "feedback": "Correct. Good compaction and sealing help exclude oxygen."
+        },
+        {
+          "text": "D. Lower feed losses",
+          "correct": false,
+          "feedback": "Review: Good compaction and sealing help exclude oxygen."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "Why should cattle be monitored for signs of dehydration during illness?",
+      "options": [
+        {
+          "text": "A. Dehydration improves appetite",
+          "correct": false,
+          "feedback": "Review: Assess hydration and seek veterinary advice for sick animals."
+        },
+        {
+          "text": "B. Fever and diarrhoea can increase fluid losses or reduce drinking",
+          "correct": true,
+          "feedback": "Correct. Assess hydration and seek veterinary advice for sick animals."
+        },
+        {
+          "text": "C. It is unrelated to illness",
+          "correct": false,
+          "feedback": "Review: Assess hydration and seek veterinary advice for sick animals."
+        },
+        {
+          "text": "D. It replaces veterinary treatment",
+          "correct": false,
+          "feedback": "Review: Assess hydration and seek veterinary advice for sick animals."
         }
       ],
       "part": 4
