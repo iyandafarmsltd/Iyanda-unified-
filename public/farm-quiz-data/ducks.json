@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It guarantees flock health",
           "correct": false,
           "feedback": "Review: Keep source and arrival records and observe new birds."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should ducklings be protected from strong water currents in drinkers?",
+      "options": [
+        {
+          "text": "A. It replaces brooder heat",
+          "correct": false,
+          "feedback": "Review: Use drinkers suited to duckling size."
+        },
+        {
+          "text": "B. It improves swimming",
+          "correct": false,
+          "feedback": "Review: Use drinkers suited to duckling size."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use drinkers suited to duckling size."
+        },
+        {
+          "text": "D. Strong flow can make drinking difficult and cause chilling or wet litter",
+          "correct": true,
+          "feedback": "Correct. Use drinkers suited to duckling size."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of inspecting duck feet after access to rough pond banks?",
+      "options": [
+        {
+          "text": "A. It measures water pH",
+          "correct": false,
+          "feedback": "Review: Check feet and repair unsafe access points."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Check feet and repair unsafe access points."
+        },
+        {
+          "text": "C. Rough surfaces can cause cuts and abrasions",
+          "correct": true,
+          "feedback": "Correct. Check feet and repair unsafe access points."
+        },
+        {
+          "text": "D. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Check feet and repair unsafe access points."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should ducks not be allowed to forage in areas treated with slug pellets?",
+      "options": [
+        {
+          "text": "A. Bait improves nutrition",
+          "correct": false,
+          "feedback": "Review: Keep birds away from treated areas according to product directions."
+        },
+        {
+          "text": "B. They may ingest toxic bait or contaminated prey",
+          "correct": true,
+          "feedback": "Correct. Keep birds away from treated areas according to product directions."
+        },
+        {
+          "text": "C. Ducks neutralise toxins",
+          "correct": false,
+          "feedback": "Review: Keep birds away from treated areas according to product directions."
+        },
+        {
+          "text": "D. It replaces pest control",
+          "correct": false,
+          "feedback": "Review: Keep birds away from treated areas according to product directions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can an increase in duck eggs laid outside nests indicate?",
+      "options": [
+        {
+          "text": "A. Nest availability, location or disturbance may be unsuitable",
+          "correct": true,
+          "feedback": "Correct. Review nest access and collection routines."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Review nest access and collection routines."
+        },
+        {
+          "text": "C. It proves high fertility",
+          "correct": false,
+          "feedback": "Review: Review nest access and collection routines."
+        },
+        {
+          "text": "D. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Review: Review nest access and collection routines."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should duck houses be cleaned and dried between flocks?",
+      "options": [
+        {
+          "text": "A. It increases stocking capacity",
+          "correct": false,
+          "feedback": "Review: Clean, disinfect appropriately and allow drying."
+        },
+        {
+          "text": "B. It guarantees no future disease",
+          "correct": false,
+          "feedback": "Review: Clean, disinfect appropriately and allow drying."
+        },
+        {
+          "text": "C. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Clean, disinfect appropriately and allow drying."
+        },
+        {
+          "text": "D. It reduces pathogen carryover and wet-litter problems",
+          "correct": true,
+          "feedback": "Correct. Clean, disinfect appropriately and allow drying."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of checking duck flock body condition during lay?",
+      "options": [
+        {
+          "text": "A. It determines pond depth",
+          "correct": false,
+          "feedback": "Review: Use body condition with egg output and feed records."
+        },
+        {
+          "text": "B. It predicts egg colour",
+          "correct": false,
+          "feedback": "Review: Use body condition with egg output and feed records."
+        },
+        {
+          "text": "C. It helps identify nutritional imbalance or health issues",
+          "correct": true,
+          "feedback": "Correct. Use body condition with egg output and feed records."
+        },
+        {
+          "text": "D. It replaces production records",
+          "correct": false,
+          "feedback": "Review: Use body condition with egg output and feed records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should duck water sources be protected from chemical runoff?",
+      "options": [
+        {
+          "text": "A. Runoff improves water quality",
+          "correct": false,
+          "feedback": "Review: Protect water sources and assess risks after runoff events."
+        },
+        {
+          "text": "B. Contaminants can harm birds and aquatic life",
+          "correct": true,
+          "feedback": "Correct. Protect water sources and assess risks after runoff events."
+        },
+        {
+          "text": "C. Ducks filter all chemicals",
+          "correct": false,
+          "feedback": "Review: Protect water sources and assess risks after runoff events."
+        },
+        {
+          "text": "D. It replaces testing",
+          "correct": false,
+          "feedback": "Review: Protect water sources and assess risks after runoff events."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a duckling with a persistently wet underside indicate?",
+      "options": [
+        {
+          "text": "A. Wet bedding, drinker design or water management issues",
+          "correct": true,
+          "feedback": "Correct. Review brooder flooring and drinker setup."
+        },
+        {
+          "text": "B. A sign of good growth",
+          "correct": false,
+          "feedback": "Review: Review brooder flooring and drinker setup."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Review brooder flooring and drinker setup."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Review brooder flooring and drinker setup."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should duck eggs be stored in a clean tray rather than directly on the floor?",
+      "options": [
+        {
+          "text": "A. It replaces egg collection",
+          "correct": false,
+          "feedback": "Review: Use clean trays and suitable storage."
+        },
+        {
+          "text": "B. It determines embryo sex",
+          "correct": false,
+          "feedback": "Review: Use clean trays and suitable storage."
+        },
+        {
+          "text": "C. It increases shell thickness",
+          "correct": false,
+          "feedback": "Review: Use clean trays and suitable storage."
+        },
+        {
+          "text": "D. It reduces contamination and damage",
+          "correct": true,
+          "feedback": "Correct. Use clean trays and suitable storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of keeping records of duck feed batches?",
+      "options": [
+        {
+          "text": "A. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Record supplier, batch and delivery date."
+        },
+        {
+          "text": "B. It measures pond oxygen",
+          "correct": false,
+          "feedback": "Review: Record supplier, batch and delivery date."
+        },
+        {
+          "text": "C. It supports traceability if feed quality problems arise",
+          "correct": true,
+          "feedback": "Correct. Record supplier, batch and delivery date."
+        },
+        {
+          "text": "D. It replaces ration analysis",
+          "correct": false,
+          "feedback": "Review: Record supplier, batch and delivery date."
         }
       ],
       "part": 4
