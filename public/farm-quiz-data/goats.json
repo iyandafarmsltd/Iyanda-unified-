@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. Some plants become more abundant or accessible as vegetation changes",
           "correct": true,
           "feedback": "Correct. Identify local toxic plants and manage grazing risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should does be monitored for signs of pregnancy complications near kidding?",
+      "options": [
+        {
+          "text": "A. It determines the number of kids",
+          "correct": false,
+          "feedback": "Review: Seek prompt help for abnormal discharge, distress or prolonged difficulty."
+        },
+        {
+          "text": "B. Complications are always harmless",
+          "correct": false,
+          "feedback": "Review: Seek prompt help for abnormal discharge, distress or prolonged difficulty."
+        },
+        {
+          "text": "C. Early detection allows timely veterinary help",
+          "correct": true,
+          "feedback": "Correct. Seek prompt help for abnormal discharge, distress or prolonged difficulty."
+        },
+        {
+          "text": "D. It replaces breeding records",
+          "correct": false,
+          "feedback": "Review: Seek prompt help for abnormal discharge, distress or prolonged difficulty."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of maintaining separate feed storage for medicated and ordinary feed?",
+      "options": [
+        {
+          "text": "A. It improves feed colour",
+          "correct": false,
+          "feedback": "Review: Clear segregation and labelling reduce feeding errors."
+        },
+        {
+          "text": "B. It reduces accidental medication exposure to the wrong animals",
+          "correct": true,
+          "feedback": "Correct. Clear segregation and labelling reduce feeding errors."
+        },
+        {
+          "text": "C. It replaces withdrawal records",
+          "correct": false,
+          "feedback": "Review: Clear segregation and labelling reduce feeding errors."
+        },
+        {
+          "text": "D. It guarantees treatment success",
+          "correct": false,
+          "feedback": "Review: Clear segregation and labelling reduce feeding errors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should goat kids be protected from overcrowded sleeping areas?",
+      "options": [
+        {
+          "text": "A. Crowding can increase chilling, trampling and disease transmission",
+          "correct": true,
+          "feedback": "Correct. Provide adequate dry space for the group."
+        },
+        {
+          "text": "B. It improves colostrum quality",
+          "correct": false,
+          "feedback": "Review: Provide adequate dry space for the group."
+        },
+        {
+          "text": "C. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Provide adequate dry space for the group."
+        },
+        {
+          "text": "D. It makes bedding unnecessary",
+          "correct": false,
+          "feedback": "Review: Provide adequate dry space for the group."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can a doe's poor body condition during lactation suggest?",
+      "options": [
+        {
+          "text": "A. It means feed should be stopped",
+          "correct": false,
+          "feedback": "Review: Review nutrition, parasites, dental health and milk demand."
+        },
+        {
+          "text": "B. It proves twins were born",
+          "correct": false,
+          "feedback": "Review: Review nutrition, parasites, dental health and milk demand."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review nutrition, parasites, dental health and milk demand."
+        },
+        {
+          "text": "D. Milk production demands may exceed nutrient intake or health may be compromised",
+          "correct": true,
+          "feedback": "Correct. Review nutrition, parasites, dental health and milk demand."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should goat shelters be inspected after heavy rain?",
+      "options": [
+        {
+          "text": "A. It eliminates parasites",
+          "correct": false,
+          "feedback": "Review: Repair leaks and restore dry resting areas."
+        },
+        {
+          "text": "B. Rain improves bedding hygiene",
+          "correct": false,
+          "feedback": "Review: Repair leaks and restore dry resting areas."
+        },
+        {
+          "text": "C. Leaks and wet bedding can create health and comfort problems",
+          "correct": true,
+          "feedback": "Correct. Repair leaks and restore dry resting areas."
+        },
+        {
+          "text": "D. It replaces drainage",
+          "correct": false,
+          "feedback": "Review: Repair leaks and restore dry resting areas."
         }
       ],
       "part": 4
