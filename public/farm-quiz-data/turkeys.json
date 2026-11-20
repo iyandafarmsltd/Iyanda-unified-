@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It determines breed",
           "correct": false,
           "feedback": "Review: Use location-specific patterns to guide investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should turkey poults be protected from access to open water containers they cannot exit?",
+      "options": [
+        {
+          "text": "A. They may become trapped, exhausted or chilled",
+          "correct": true,
+          "feedback": "Correct. Use safe drinkers suitable for the age of the birds."
+        },
+        {
+          "text": "B. It improves swimming",
+          "correct": false,
+          "feedback": "Review: Use safe drinkers suitable for the age of the birds."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Use safe drinkers suitable for the age of the birds."
+        },
+        {
+          "text": "D. It replaces drinkers",
+          "correct": false,
+          "feedback": "Review: Use safe drinkers suitable for the age of the birds."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of monitoring turkey flock feed conversion over time?",
+      "options": [
+        {
+          "text": "A. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Use consistent feed and weight records."
+        },
+        {
+          "text": "B. It predicts egg colour",
+          "correct": false,
+          "feedback": "Review: Use consistent feed and weight records."
+        },
+        {
+          "text": "C. It measures water pH",
+          "correct": false,
+          "feedback": "Review: Use consistent feed and weight records."
+        },
+        {
+          "text": "D. It helps assess feed efficiency and performance changes",
+          "correct": true,
+          "feedback": "Correct. Use consistent feed and weight records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should turkey houses be checked for loose insulation or ceiling debris?",
+      "options": [
+        {
+          "text": "A. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Maintain building integrity and remove hazards."
+        },
+        {
+          "text": "B. It improves ventilation",
+          "correct": false,
+          "feedback": "Review: Maintain building integrity and remove hazards."
+        },
+        {
+          "text": "C. Falling material can injure birds or contaminate feed",
+          "correct": true,
+          "feedback": "Correct. Maintain building integrity and remove hazards."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain building integrity and remove hazards."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a sudden rise in turkey mortality during a heat wave indicate?",
+      "options": [
+        {
+          "text": "A. It proves feed quality is high",
+          "correct": false,
+          "feedback": "Review: Act promptly to reduce heat load and seek veterinary help."
+        },
+        {
+          "text": "B. Heat stress or related environmental problems",
+          "correct": true,
+          "feedback": "Correct. Act promptly to reduce heat load and seek veterinary help."
+        },
+        {
+          "text": "C. It predicts egg size",
+          "correct": false,
+          "feedback": "Review: Act promptly to reduce heat load and seek veterinary help."
+        },
+        {
+          "text": "D. It is always unrelated to weather",
+          "correct": false,
+          "feedback": "Review: Act promptly to reduce heat load and seek veterinary help."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should turkey breeder males be monitored for footpad and leg condition?",
+      "options": [
+        {
+          "text": "A. Mobility is important for natural mating and welfare",
+          "correct": true,
+          "feedback": "Correct. Assess mobility and adjust management."
+        },
+        {
+          "text": "B. It determines egg shell colour",
+          "correct": false,
+          "feedback": "Review: Assess mobility and adjust management."
+        },
+        {
+          "text": "C. It replaces fertility records",
+          "correct": false,
+          "feedback": "Review: Assess mobility and adjust management."
+        },
+        {
+          "text": "D. It guarantees hatchability",
+          "correct": false,
+          "feedback": "Review: Assess mobility and adjust management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of recording turkey egg storage temperature?",
+      "options": [
+        {
+          "text": "A. It predicts market weight",
+          "correct": false,
+          "feedback": "Review: Maintain stable, recommended storage conditions and records."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Maintain stable, recommended storage conditions and records."
+        },
+        {
+          "text": "C. It replaces egg counts",
+          "correct": false,
+          "feedback": "Review: Maintain stable, recommended storage conditions and records."
+        },
+        {
+          "text": "D. It helps interpret hatchability and storage conditions",
+          "correct": true,
+          "feedback": "Correct. Maintain stable, recommended storage conditions and records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should turkey feed troughs be cleaned between flocks?",
+      "options": [
+        {
+          "text": "A. It replaces disinfection",
+          "correct": false,
+          "feedback": "Review: Clean equipment and inspect for contamination."
+        },
+        {
+          "text": "B. It improves feed protein",
+          "correct": false,
+          "feedback": "Review: Clean equipment and inspect for contamination."
+        },
+        {
+          "text": "C. Old feed residues can harbour mould and pests",
+          "correct": true,
+          "feedback": "Correct. Clean equipment and inspect for contamination."
+        },
+        {
+          "text": "D. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Clean equipment and inspect for contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can turkey poults huddling tightly under a heat source indicate?",
+      "options": [
+        {
+          "text": "A. It proves temperature is ideal",
+          "correct": false,
+          "feedback": "Review: Adjust brooding conditions using behaviour and temperature readings."
+        },
+        {
+          "text": "B. They may be too cold or exposed to drafts",
+          "correct": true,
+          "feedback": "Correct. Adjust brooding conditions using behaviour and temperature readings."
+        },
+        {
+          "text": "C. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Adjust brooding conditions using behaviour and temperature readings."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Adjust brooding conditions using behaviour and temperature readings."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should turkey houses maintain adequate air exchange during cold weather?",
+      "options": [
+        {
+          "text": "A. Ventilation removes moisture and gases even when heating is needed",
+          "correct": true,
+          "feedback": "Correct. Balance ventilation and heat to maintain air quality."
+        },
+        {
+          "text": "B. Closing vents always improves health",
+          "correct": false,
+          "feedback": "Review: Balance ventilation and heat to maintain air quality."
+        },
+        {
+          "text": "C. It determines egg output",
+          "correct": false,
+          "feedback": "Review: Balance ventilation and heat to maintain air quality."
+        },
+        {
+          "text": "D. It replaces litter care",
+          "correct": false,
+          "feedback": "Review: Balance ventilation and heat to maintain air quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of checking turkey feed for caking or clumps?",
+      "options": [
+        {
+          "text": "A. It replaces feed testing",
+          "correct": false,
+          "feedback": "Review: Investigate moisture and discard suspect feed."
+        },
+        {
+          "text": "B. It improves palatability",
+          "correct": false,
+          "feedback": "Review: Investigate moisture and discard suspect feed."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Investigate moisture and discard suspect feed."
+        },
+        {
+          "text": "D. Moisture may have entered and feed may be spoiling",
+          "correct": true,
+          "feedback": "Correct. Investigate moisture and discard suspect feed."
         }
       ],
       "part": 4
