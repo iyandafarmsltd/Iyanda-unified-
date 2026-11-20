@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. Records are useful only after slaughter",
           "correct": false,
           "feedback": "Review: Contextual records help identify deviations requiring investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should turkey drinkers be adjusted to prevent both spills and restricted access?",
+      "options": [
+        {
+          "text": "A. Correct height and flow support drinking while keeping litter dry",
+          "correct": true,
+          "feedback": "Correct. Check drinker height and pressure as birds grow."
+        },
+        {
+          "text": "B. Spillage improves litter",
+          "correct": false,
+          "feedback": "Review: Check drinker height and pressure as birds grow."
+        },
+        {
+          "text": "C. Birds should struggle to reach water",
+          "correct": false,
+          "feedback": "Review: Check drinker height and pressure as birds grow."
+        },
+        {
+          "text": "D. Height affects only feather colour",
+          "correct": false,
+          "feedback": "Review: Check drinker height and pressure as birds grow."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of recording turkey egg collection and storage conditions?",
+      "options": [
+        {
+          "text": "A. It measures house ammonia",
+          "correct": false,
+          "feedback": "Review: Egg handling records help assess incubation outcomes."
+        },
+        {
+          "text": "B. It predicts meat yield",
+          "correct": false,
+          "feedback": "Review: Egg handling records help assess incubation outcomes."
+        },
+        {
+          "text": "C. It replaces breeder health records",
+          "correct": false,
+          "feedback": "Review: Egg handling records help assess incubation outcomes."
+        },
+        {
+          "text": "D. It helps investigate changes in hatchability",
+          "correct": true,
+          "feedback": "Correct. Egg handling records help assess incubation outcomes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should turkey poults be protected from drafts at floor level?",
+      "options": [
+        {
+          "text": "A. Poults regulate temperature perfectly",
+          "correct": false,
+          "feedback": "Review: Assess conditions at bird level, not only at thermostat height."
+        },
+        {
+          "text": "B. Drafts improve brooding",
+          "correct": false,
+          "feedback": "Review: Assess conditions at bird level, not only at thermostat height."
+        },
+        {
+          "text": "C. Young birds can become chilled even when room air seems warm",
+          "correct": true,
+          "feedback": "Correct. Assess conditions at bird level, not only at thermostat height."
+        },
+        {
+          "text": "D. It replaces heat-source checks",
+          "correct": false,
+          "feedback": "Review: Assess conditions at bird level, not only at thermostat height."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What can a turkey flock's uneven growth prompt a manager to investigate?",
+      "options": [
+        {
+          "text": "A. Only the colour of the roof",
+          "correct": false,
+          "feedback": "Review: Uneven growth can have several management or health causes."
+        },
+        {
+          "text": "B. Feeder access, disease, stocking density and environmental variation",
+          "correct": true,
+          "feedback": "Correct. Uneven growth can have several management or health causes."
+        },
+        {
+          "text": "C. Egg storage temperature",
+          "correct": false,
+          "feedback": "Review: Uneven growth can have several management or health causes."
+        },
+        {
+          "text": "D. Pond pH",
+          "correct": false,
+          "feedback": "Review: Uneven growth can have several management or health causes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should turkey litter not be allowed to become excessively dusty?",
+      "options": [
+        {
+          "text": "A. Dust can irritate respiratory systems and affect air quality",
+          "correct": true,
+          "feedback": "Correct. Manage litter and ventilation to control dust."
+        },
+        {
+          "text": "B. Dust improves breathing",
+          "correct": false,
+          "feedback": "Review: Manage litter and ventilation to control dust."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Manage litter and ventilation to control dust."
+        },
+        {
+          "text": "D. It prevents footpad lesions",
+          "correct": false,
+          "feedback": "Review: Manage litter and ventilation to control dust."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of monitoring turkey breeder body condition throughout lay?",
+      "options": [
+        {
+          "text": "A. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Body condition is important in breeder management."
+        },
+        {
+          "text": "B. It predicts exact hatch rate",
+          "correct": false,
+          "feedback": "Review: Body condition is important in breeder management."
+        },
+        {
+          "text": "C. It replaces egg records",
+          "correct": false,
+          "feedback": "Review: Body condition is important in breeder management."
+        },
+        {
+          "text": "D. It helps maintain reproductive health and avoid excessive weight change",
+          "correct": true,
+          "feedback": "Correct. Body condition is important in breeder management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should turkey houses be inspected for holes that allow wild birds inside?",
+      "options": [
+        {
+          "text": "A. They improve feed conversion",
+          "correct": false,
+          "feedback": "Review: Exclude wild birds as part of biosecurity."
+        },
+        {
+          "text": "B. Wild birds sterilise houses",
+          "correct": false,
+          "feedback": "Review: Exclude wild birds as part of biosecurity."
+        },
+        {
+          "text": "C. Wild birds can introduce pathogens and contaminate feed or water",
+          "correct": true,
+          "feedback": "Correct. Exclude wild birds as part of biosecurity."
+        },
+        {
+          "text": "D. They prevent rodent access",
+          "correct": false,
+          "feedback": "Review: Exclude wild birds as part of biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What should be done if turkey poults repeatedly pile on top of one another?",
+      "options": [
+        {
+          "text": "A. Assume it is normal and ignore it",
+          "correct": false,
+          "feedback": "Review: Piling can cause suffocation and indicates a management problem."
+        },
+        {
+          "text": "B. Check brooder temperature, lighting, drafts, noise and access",
+          "correct": true,
+          "feedback": "Correct. Piling can cause suffocation and indicates a management problem."
+        },
+        {
+          "text": "C. Increase crowding",
+          "correct": false,
+          "feedback": "Review: Piling can cause suffocation and indicates a management problem."
+        },
+        {
+          "text": "D. Remove all heat",
+          "correct": false,
+          "feedback": "Review: Piling can cause suffocation and indicates a management problem."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should turkey feed storage follow first-in, first-out stock rotation?",
+      "options": [
+        {
+          "text": "A. It reduces the chance that older feed deteriorates in storage",
+          "correct": true,
+          "feedback": "Correct. Rotate stock and inspect feed condition."
+        },
+        {
+          "text": "B. It increases protein content",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed condition."
+        },
+        {
+          "text": "C. It eliminates pest risks",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed condition."
+        },
+        {
+          "text": "D. It replaces checking expiry dates",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is a reason to keep turkey processing equipment clean between batches?",
+      "options": [
+        {
+          "text": "A. It makes hand hygiene unnecessary",
+          "correct": false,
+          "feedback": "Review: Clean equipment is essential for food hygiene."
+        },
+        {
+          "text": "B. It improves bird growth",
+          "correct": false,
+          "feedback": "Review: Clean equipment is essential for food hygiene."
+        },
+        {
+          "text": "C. It replaces chilling",
+          "correct": false,
+          "feedback": "Review: Clean equipment is essential for food hygiene."
+        },
+        {
+          "text": "D. It reduces cross-contamination of carcasses",
+          "correct": true,
+          "feedback": "Correct. Clean equipment is essential for food hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should a turkey farm monitor litter moisture near drinker lines daily?",
+      "options": [
+        {
+          "text": "A. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Daily correction of leaks and wet spots helps protect flock health."
+        },
+        {
+          "text": "B. Moisture improves all welfare measures",
+          "correct": false,
+          "feedback": "Review: Daily correction of leaks and wet spots helps protect flock health."
+        },
+        {
+          "text": "C. Wet litter can quickly contribute to foot lesions and ammonia",
+          "correct": true,
+          "feedback": "Correct. Daily correction of leaks and wet spots helps protect flock health."
+        },
+        {
+          "text": "D. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Daily correction of leaks and wet spots helps protect flock health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What does a turkey flock's livability percentage describe?",
+      "options": [
+        {
+          "text": "A. The average egg weight",
+          "correct": false,
+          "feedback": "Review: Define the period and starting count consistently."
+        },
+        {
+          "text": "B. The proportion of birds surviving over a defined period",
+          "correct": true,
+          "feedback": "Correct. Define the period and starting count consistently."
+        },
+        {
+          "text": "C. Feed protein content",
+          "correct": false,
+          "feedback": "Review: Define the period and starting count consistently."
+        },
+        {
+          "text": "D. The house temperature",
+          "correct": false,
+          "feedback": "Review: Define the period and starting count consistently."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should turkey breeder males be checked for mating ability and leg health?",
+      "options": [
+        {
+          "text": "A. Poor mobility can reduce successful natural mating",
+          "correct": true,
+          "feedback": "Correct. Monitor physical soundness and reproductive performance."
+        },
+        {
+          "text": "B. Leg health determines egg size",
+          "correct": false,
+          "feedback": "Review: Monitor physical soundness and reproductive performance."
+        },
+        {
+          "text": "C. It replaces semen evaluation",
+          "correct": false,
+          "feedback": "Review: Monitor physical soundness and reproductive performance."
+        },
+        {
+          "text": "D. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Monitor physical soundness and reproductive performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What should be reviewed when turkey feed conversion worsens?",
+      "options": [
+        {
+          "text": "A. The farm's postal address",
+          "correct": false,
+          "feedback": "Review: FCR changes need a whole-system investigation."
+        },
+        {
+          "text": "B. Only the market colour",
+          "correct": false,
+          "feedback": "Review: FCR changes need a whole-system investigation."
+        },
+        {
+          "text": "C. Whether the house has trees",
+          "correct": false,
+          "feedback": "Review: FCR changes need a whole-system investigation."
+        },
+        {
+          "text": "D. Feed quality, health, environment, wastage and weight records",
+          "correct": true,
+          "feedback": "Correct. FCR changes need a whole-system investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should turkey flocks be caught and loaded during cooler periods when practical?",
+      "options": [
+        {
+          "text": "A. Birds do not need ventilation",
+          "correct": false,
+          "feedback": "Review: Coordinate catching, ventilation and transport to protect welfare."
+        },
+        {
+          "text": "B. Cool periods eliminate all transport risk",
+          "correct": false,
+          "feedback": "Review: Coordinate catching, ventilation and transport to protect welfare."
+        },
+        {
+          "text": "C. It reduces heat stress during handling and transport",
+          "correct": true,
+          "feedback": "Correct. Coordinate catching, ventilation and transport to protect welfare."
+        },
+        {
+          "text": "D. It replaces journey planning",
+          "correct": false,
+          "feedback": "Review: Coordinate catching, ventilation and transport to protect welfare."
         }
       ],
       "part": 4
