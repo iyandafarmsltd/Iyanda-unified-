@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It proves the feed is high quality",
           "correct": false,
           "feedback": "Review: Adjust feeding to appetite and investigate changes in behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should pond depth be monitored during dry periods?",
+      "options": [
+        {
+          "text": "A. Low water always increases oxygen",
+          "correct": false,
+          "feedback": "Review: Water level changes can alter several pond conditions."
+        },
+        {
+          "text": "B. Depth determines fish sex",
+          "correct": false,
+          "feedback": "Review: Water level changes can alter several pond conditions."
+        },
+        {
+          "text": "C. Falling water levels can affect temperature, oxygen and fish habitat",
+          "correct": true,
+          "feedback": "Correct. Water level changes can alter several pond conditions."
+        },
+        {
+          "text": "D. It replaces feed monitoring",
+          "correct": false,
+          "feedback": "Review: Water level changes can alter several pond conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of checking fish gills during a health examination?",
+      "options": [
+        {
+          "text": "A. It measures exact age",
+          "correct": false,
+          "feedback": "Review: Gill signs need professional interpretation and should be considered with water data."
+        },
+        {
+          "text": "B. Gill appearance can provide clues about irritation, parasites or disease",
+          "correct": true,
+          "feedback": "Correct. Gill signs need professional interpretation and should be considered with water data."
+        },
+        {
+          "text": "C. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Gill signs need professional interpretation and should be considered with water data."
+        },
+        {
+          "text": "D. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Gill signs need professional interpretation and should be considered with water data."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should fish farmers avoid handling fish more than necessary?",
+      "options": [
+        {
+          "text": "A. Repeated handling causes stress and can damage protective mucus or scales",
+          "correct": true,
+          "feedback": "Correct. Minimise handling and use appropriate equipment."
+        },
+        {
+          "text": "B. Handling improves immunity every time",
+          "correct": false,
+          "feedback": "Review: Minimise handling and use appropriate equipment."
+        },
+        {
+          "text": "C. Fish do not experience stress",
+          "correct": false,
+          "feedback": "Review: Minimise handling and use appropriate equipment."
+        },
+        {
+          "text": "D. It replaces sampling",
+          "correct": false,
+          "feedback": "Review: Minimise handling and use appropriate equipment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What does a pond's total ammonia nitrogen test measure?",
+      "options": [
+        {
+          "text": "A. Water hardness only",
+          "correct": false,
+          "feedback": "Review: TAN must be interpreted with pH and temperature to assess toxicity risk."
+        },
+        {
+          "text": "B. Only dissolved oxygen",
+          "correct": false,
+          "feedback": "Review: TAN must be interpreted with pH and temperature to assess toxicity risk."
+        },
+        {
+          "text": "C. Fish biomass",
+          "correct": false,
+          "feedback": "Review: TAN must be interpreted with pH and temperature to assess toxicity risk."
+        },
+        {
+          "text": "D. The combined concentration of ionised and un-ionised ammonia",
+          "correct": true,
+          "feedback": "Correct. TAN must be interpreted with pH and temperature to assess toxicity risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why is a backup aerator useful even when the main aerator is reliable?",
+      "options": [
+        {
+          "text": "A. Aeration is never needed at night",
+          "correct": false,
+          "feedback": "Review: Redundancy reduces risk during equipment or power failures."
+        },
+        {
+          "text": "B. Backup equipment increases stocking capacity automatically",
+          "correct": false,
+          "feedback": "Review: Redundancy reduces risk during equipment or power failures."
+        },
+        {
+          "text": "C. Mechanical equipment can fail unexpectedly",
+          "correct": true,
+          "feedback": "Correct. Redundancy reduces risk during equipment or power failures."
+        },
+        {
+          "text": "D. It replaces power maintenance",
+          "correct": false,
+          "feedback": "Review: Redundancy reduces risk during equipment or power failures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of keeping a pond fertilisation record?",
+      "options": [
+        {
+          "text": "A. It determines fish species",
+          "correct": false,
+          "feedback": "Review: Record inputs and monitor the pond response carefully."
+        },
+        {
+          "text": "B. It helps relate inputs to plankton response and water-quality changes",
+          "correct": true,
+          "feedback": "Correct. Record inputs and monitor the pond response carefully."
+        },
+        {
+          "text": "C. It replaces alkalinity testing",
+          "correct": false,
+          "feedback": "Review: Record inputs and monitor the pond response carefully."
+        },
+        {
+          "text": "D. It measures fish age",
+          "correct": false,
+          "feedback": "Review: Record inputs and monitor the pond response carefully."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should fish farmers avoid stocking fingerlings with visible wounds or abnormal swimming?",
+      "options": [
+        {
+          "text": "A. They may be unhealthy and can introduce disease or perform poorly",
+          "correct": true,
+          "feedback": "Correct. Inspect stock and consult suppliers or a veterinarian before stocking."
+        },
+        {
+          "text": "B. Wounds improve adaptation",
+          "correct": false,
+          "feedback": "Review: Inspect stock and consult suppliers or a veterinarian before stocking."
+        },
+        {
+          "text": "C. Abnormal swimming is always harmless",
+          "correct": false,
+          "feedback": "Review: Inspect stock and consult suppliers or a veterinarian before stocking."
+        },
+        {
+          "text": "D. It increases genetic diversity",
+          "correct": false,
+          "feedback": "Review: Inspect stock and consult suppliers or a veterinarian before stocking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What is a useful reason to test incoming water before filling a new pond?",
+      "options": [
+        {
+          "text": "A. It predicts fish market price",
+          "correct": false,
+          "feedback": "Review: Source-water assessment reduces avoidable risks."
+        },
+        {
+          "text": "B. It guarantees future water quality",
+          "correct": false,
+          "feedback": "Review: Source-water assessment reduces avoidable risks."
+        },
+        {
+          "text": "C. It replaces pond preparation",
+          "correct": false,
+          "feedback": "Review: Source-water assessment reduces avoidable risks."
+        },
+        {
+          "text": "D. It can reveal unsuitable chemistry or contamination risks",
+          "correct": true,
+          "feedback": "Correct. Source-water assessment reduces avoidable risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should fish feed be stored on pallets away from walls?",
+      "options": [
+        {
+          "text": "A. It prevents all mould regardless of conditions",
+          "correct": false,
+          "feedback": "Review: Dry, ventilated storage supports feed quality."
+        },
+        {
+          "text": "B. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Dry, ventilated storage supports feed quality."
+        },
+        {
+          "text": "C. It improves airflow and helps protect feed from moisture and pests",
+          "correct": true,
+          "feedback": "Correct. Dry, ventilated storage supports feed quality."
+        },
+        {
+          "text": "D. It makes stock rotation unnecessary",
+          "correct": false,
+          "feedback": "Review: Dry, ventilated storage supports feed quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What does a fish pond's carrying capacity refer to?",
+      "options": [
+        {
+          "text": "A. The maximum number of nets",
+          "correct": false,
+          "feedback": "Review: Carrying capacity depends on water quality, aeration, exchange and management."
+        },
+        {
+          "text": "B. The biomass the system can support under its management conditions",
+          "correct": true,
+          "feedback": "Correct. Carrying capacity depends on water quality, aeration, exchange and management."
+        },
+        {
+          "text": "C. The depth of the pond bank",
+          "correct": false,
+          "feedback": "Review: Carrying capacity depends on water quality, aeration, exchange and management."
+        },
+        {
+          "text": "D. The weight of one fish",
+          "correct": false,
+          "feedback": "Review: Carrying capacity depends on water quality, aeration, exchange and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should fish be sampled at similar times and under similar conditions?",
+      "options": [
+        {
+          "text": "A. It makes growth and condition comparisons more consistent",
+          "correct": true,
+          "feedback": "Correct. Consistent sampling improves the value of trend data."
+        },
+        {
+          "text": "B. It guarantees equal weights",
+          "correct": false,
+          "feedback": "Review: Consistent sampling improves the value of trend data."
+        },
+        {
+          "text": "C. It removes sampling stress completely",
+          "correct": false,
+          "feedback": "Review: Consistent sampling improves the value of trend data."
+        },
+        {
+          "text": "D. It determines pond alkalinity",
+          "correct": false,
+          "feedback": "Review: Consistent sampling improves the value of trend data."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What should be done if fish stop feeding and water tests show low oxygen?",
+      "options": [
+        {
+          "text": "A. Turn off aeration",
+          "correct": false,
+          "feedback": "Review: Follow emergency oxygen procedures and monitor fish response."
+        },
+        {
+          "text": "B. Increase feed to stimulate appetite",
+          "correct": false,
+          "feedback": "Review: Follow emergency oxygen procedures and monitor fish response."
+        },
+        {
+          "text": "C. Add more stock",
+          "correct": false,
+          "feedback": "Review: Follow emergency oxygen procedures and monitor fish response."
+        },
+        {
+          "text": "D. Reduce or stop feeding temporarily and restore oxygen while investigating",
+          "correct": true,
+          "feedback": "Correct. Follow emergency oxygen procedures and monitor fish response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should fish farmers document all chemical treatments applied to ponds?",
+      "options": [
+        {
+          "text": "A. It replaces product labels",
+          "correct": false,
+          "feedback": "Review: Use only approved products as directed and maintain complete records."
+        },
+        {
+          "text": "B. It predicts harvest colour",
+          "correct": false,
+          "feedback": "Review: Use only approved products as directed and maintain complete records."
+        },
+        {
+          "text": "C. Records support food safety, traceability and treatment review",
+          "correct": true,
+          "feedback": "Correct. Use only approved products as directed and maintain complete records."
+        },
+        {
+          "text": "D. It makes withdrawal rules irrelevant",
+          "correct": false,
+          "feedback": "Review: Use only approved products as directed and maintain complete records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is the purpose of grading harvested fish by size?",
+      "options": [
+        {
+          "text": "A. It changes fish growth",
+          "correct": false,
+          "feedback": "Review: Accurate grading helps meet buyer specifications."
+        },
+        {
+          "text": "B. It supports consistent packaging, pricing and market requirements",
+          "correct": true,
+          "feedback": "Correct. Accurate grading helps meet buyer specifications."
+        },
+        {
+          "text": "C. It sterilises the product",
+          "correct": false,
+          "feedback": "Review: Accurate grading helps meet buyer specifications."
+        },
+        {
+          "text": "D. It measures water quality",
+          "correct": false,
+          "feedback": "Review: Accurate grading helps meet buyer specifications."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should ponds be checked for seepage or leaks?",
+      "options": [
+        {
+          "text": "A. Water loss can affect depth, stocking conditions and farm costs",
+          "correct": true,
+          "feedback": "Correct. Identify and repair leaks where practical."
+        },
+        {
+          "text": "B. Leaks improve oxygen",
+          "correct": false,
+          "feedback": "Review: Identify and repair leaks where practical."
+        },
+        {
+          "text": "C. Water level is unrelated to production",
+          "correct": false,
+          "feedback": "Review: Identify and repair leaks where practical."
+        },
+        {
+          "text": "D. It replaces rainfall records",
+          "correct": false,
+          "feedback": "Review: Identify and repair leaks where practical."
         }
       ],
       "part": 4
