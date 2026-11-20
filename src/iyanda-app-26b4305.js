@@ -1041,7 +1041,7 @@ const languageRunButton=$('#languageRun');if(languageRunButton){$('#languageActi
  let bank=null,activeQuestions=[],quizIndex=0,quizScore=0,hasAnswered=false,loading=false;
  let answerPositions=[];
  const shuffleList=list=>{const a=[...list];for(let i=a.length-1;i>0;i--){const k=Math.floor(Math.random()*(i+1));[a[i],a[k]]=[a[k],a[i]]}return a};
- const makeBalancedPositions=total=>{const a=Array.from({length:total},(_,i)=>i%4);return shuffleList(a)};
+ const makeBalancedPositions=total=>{const pairs=[[0,1],[2,3],[0,2],[1,3],[0,3],[1,2]];const positions=[];for(let start=0,part=0;start<total;start+=50,part++){const length=Math.min(50,total-start),counts=[12,12,12,12];const pair=pairs[part%pairs.length];counts[pair[0]]++;counts[pair[1]]++;const block=[];counts.forEach((count,answer)=>{for(let n=0;n<count;n++)block.push(answer)});positions.push(...shuffleList(block).slice(0,length))}return positions};
  const renderMasterQuestion=()=>{
   if(!questionEl||!bank)return;const q=activeQuestions[quizIndex];if(!q)return;
   hasAnswered=false;countEl.textContent='Question '+(quizIndex+1)+' of '+activeQuestions.length;partLabel.textContent='Part '+q.part+' · Question '+q.number;questionEl.textContent=q.question;optionsEl.innerHTML='';feedbackEl.textContent='Choose one answer.';nextEl.classList.add('hidden');nextEl.textContent=quizIndex===activeQuestions.length-1?'See lesson result':'Next question';
