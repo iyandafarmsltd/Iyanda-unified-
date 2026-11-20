@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It replaces water-line checks",
           "correct": false,
           "feedback": "Review: Repair roof leaks and dry affected areas."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should poultry house lighting be checked for dark patches?",
+      "options": [
+        {
+          "text": "A. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Maintain an appropriate, consistent lighting environment."
+        },
+        {
+          "text": "B. Uneven lighting can affect bird distribution and access to resources",
+          "correct": true,
+          "feedback": "Correct. Maintain an appropriate, consistent lighting environment."
+        },
+        {
+          "text": "C. It replaces feeder checks",
+          "correct": false,
+          "feedback": "Review: Maintain an appropriate, consistent lighting environment."
+        },
+        {
+          "text": "D. It guarantees uniform growth",
+          "correct": false,
+          "feedback": "Review: Maintain an appropriate, consistent lighting environment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of monitoring broiler gait scores?",
+      "options": [
+        {
+          "text": "A. It helps assess mobility and welfare trends",
+          "correct": true,
+          "feedback": "Correct. Use consistent scoring and investigate deterioration."
+        },
+        {
+          "text": "B. It measures egg fertility",
+          "correct": false,
+          "feedback": "Review: Use consistent scoring and investigate deterioration."
+        },
+        {
+          "text": "C. It predicts feed protein",
+          "correct": false,
+          "feedback": "Review: Use consistent scoring and investigate deterioration."
+        },
+        {
+          "text": "D. It replaces body weights",
+          "correct": false,
+          "feedback": "Review: Use consistent scoring and investigate deterioration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should poultry egg collection belts be cleaned routinely?",
+      "options": [
+        {
+          "text": "A. It replaces nest cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain clean egg-handling equipment."
+        },
+        {
+          "text": "B. It increases shell thickness",
+          "correct": false,
+          "feedback": "Review: Maintain clean egg-handling equipment."
+        },
+        {
+          "text": "C. It determines hatch rate",
+          "correct": false,
+          "feedback": "Review: Maintain clean egg-handling equipment."
+        },
+        {
+          "text": "D. Residue can contaminate eggs and attract pests",
+          "correct": true,
+          "feedback": "Correct. Maintain clean egg-handling equipment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a sudden increase in dirty eggs indicate?",
+      "options": [
+        {
+          "text": "A. It determines bird age",
+          "correct": false,
+          "feedback": "Review: Review nest use and egg collection practices."
+        },
+        {
+          "text": "B. It proves better fertility",
+          "correct": false,
+          "feedback": "Review: Review nest use and egg collection practices."
+        },
+        {
+          "text": "C. Nest hygiene, litter, stocking or collection routines may need review",
+          "correct": true,
+          "feedback": "Correct. Review nest use and egg collection practices."
+        },
+        {
+          "text": "D. It is unrelated to management",
+          "correct": false,
+          "feedback": "Review: Review nest use and egg collection practices."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should poultry farms avoid mixing birds of very different ages in one house?",
+      "options": [
+        {
+          "text": "A. It guarantees better growth",
+          "correct": false,
+          "feedback": "Review: Use appropriate age-group separation and all-in/all-out where practical."
+        },
+        {
+          "text": "B. Age differences complicate health management and can increase disease transmission",
+          "correct": true,
+          "feedback": "Correct. Use appropriate age-group separation and all-in/all-out where practical."
+        },
+        {
+          "text": "C. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Use appropriate age-group separation and all-in/all-out where practical."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Use appropriate age-group separation and all-in/all-out where practical."
         }
       ],
       "part": 4
