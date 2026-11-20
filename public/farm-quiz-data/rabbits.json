@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It replaces enrichment",
           "correct": false,
           "feedback": "Review: Consistent care routines support welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should rabbits be protected from sudden loud handling during pregnancy?",
+      "options": [
+        {
+          "text": "A. Noise improves litter size",
+          "correct": false,
+          "feedback": "Review: Handle pregnant does calmly and minimise disturbance."
+        },
+        {
+          "text": "B. Stress may affect welfare and can lead to injury",
+          "correct": true,
+          "feedback": "Correct. Handle pregnant does calmly and minimise disturbance."
+        },
+        {
+          "text": "C. It replaces nest checks",
+          "correct": false,
+          "feedback": "Review: Handle pregnant does calmly and minimise disturbance."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Handle pregnant does calmly and minimise disturbance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of checking rabbit ears for crusts or mites?",
+      "options": [
+        {
+          "text": "A. Ear parasites or infection can cause pain and irritation",
+          "correct": true,
+          "feedback": "Correct. Ear abnormalities should be assessed and treated appropriately."
+        },
+        {
+          "text": "B. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Ear abnormalities should be assessed and treated appropriately."
+        },
+        {
+          "text": "C. It measures body weight",
+          "correct": false,
+          "feedback": "Review: Ear abnormalities should be assessed and treated appropriately."
+        },
+        {
+          "text": "D. It replaces dental checks",
+          "correct": false,
+          "feedback": "Review: Ear abnormalities should be assessed and treated appropriately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should rabbit forage be free from mould and chemical contamination?",
+      "options": [
+        {
+          "text": "A. It replaces pellet formulation",
+          "correct": false,
+          "feedback": "Review: Use clean, correctly identified forage."
+        },
+        {
+          "text": "B. Mould improves fibre",
+          "correct": false,
+          "feedback": "Review: Use clean, correctly identified forage."
+        },
+        {
+          "text": "C. Chemicals are neutralised by chewing",
+          "correct": false,
+          "feedback": "Review: Use clean, correctly identified forage."
+        },
+        {
+          "text": "D. Unsafe forage can cause digestive illness or poisoning",
+          "correct": true,
+          "feedback": "Correct. Use clean, correctly identified forage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a rabbit that drools and has a wet chin indicate?",
+      "options": [
+        {
+          "text": "A. It predicts pregnancy",
+          "correct": false,
+          "feedback": "Review: Wet chin and drooling warrant dental and veterinary assessment."
+        },
+        {
+          "text": "B. A sign of good hydration",
+          "correct": false,
+          "feedback": "Review: Wet chin and drooling warrant dental and veterinary assessment."
+        },
+        {
+          "text": "C. Dental disease or difficulty chewing and swallowing",
+          "correct": true,
+          "feedback": "Correct. Wet chin and drooling warrant dental and veterinary assessment."
+        },
+        {
+          "text": "D. A normal grooming behaviour",
+          "correct": false,
+          "feedback": "Review: Wet chin and drooling warrant dental and veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should rabbit kits be checked for adequate warmth in the nest?",
+      "options": [
+        {
+          "text": "A. Warmth determines sex",
+          "correct": false,
+          "feedback": "Review: Check nest condition and doe care while minimising disturbance."
+        },
+        {
+          "text": "B. Newborn kits cannot regulate body temperature effectively",
+          "correct": true,
+          "feedback": "Correct. Check nest condition and doe care while minimising disturbance."
+        },
+        {
+          "text": "C. It replaces nursing",
+          "correct": false,
+          "feedback": "Review: Check nest condition and doe care while minimising disturbance."
+        },
+        {
+          "text": "D. Cold kits grow faster",
+          "correct": false,
+          "feedback": "Review: Check nest condition and doe care while minimising disturbance."
         }
       ],
       "part": 4
