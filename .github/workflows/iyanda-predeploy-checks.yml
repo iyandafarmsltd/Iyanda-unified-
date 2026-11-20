@@ -177,7 +177,7 @@ jobs:
           missing = [item for item in required if item not in page]
           if missing:
               raise SystemExit("Policy page is missing required sections/contact links: " + ", ".join(missing))
-          ids = re.findall(r'\\bid="([^"]+)"', page)
+          ids = re.findall(r'\bid="([^"]+)"', page)
           if len(ids) != len(set(ids)):
               raise SystemExit("Duplicate IDs detected in the policy page")
           ET.parse("src/sitemap.xml")
