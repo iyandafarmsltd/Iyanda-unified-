@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. They prevent all injury",
           "correct": false,
           "feedback": "Review: Good race design supports calm, safe movement."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should lambs be checked for signs of bloat after sudden access to lush pasture?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Introduce lush pasture carefully and seek urgent help for bloat signs."
+        },
+        {
+          "text": "B. Bloat improves growth",
+          "correct": false,
+          "feedback": "Review: Introduce lush pasture carefully and seek urgent help for bloat signs."
+        },
+        {
+          "text": "C. Rapid fermentation can cause dangerous rumen distension",
+          "correct": true,
+          "feedback": "Correct. Introduce lush pasture carefully and seek urgent help for bloat signs."
+        },
+        {
+          "text": "D. It replaces parasite checks",
+          "correct": false,
+          "feedback": "Review: Introduce lush pasture carefully and seek urgent help for bloat signs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of checking ewe udders for symmetry and function before lambing?",
+      "options": [
+        {
+          "text": "A. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Udder assessment supports lamb survival and ewe health."
+        },
+        {
+          "text": "B. It helps identify problems that may prevent lambs nursing",
+          "correct": true,
+          "feedback": "Correct. Udder assessment supports lamb survival and ewe health."
+        },
+        {
+          "text": "C. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Udder assessment supports lamb survival and ewe health."
+        },
+        {
+          "text": "D. It replaces scanning",
+          "correct": false,
+          "feedback": "Review: Udder assessment supports lamb survival and ewe health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should sheep mineral supplements be kept dry and labelled?",
+      "options": [
+        {
+          "text": "A. Moisture and poor labelling can cause spoilage or feeding errors",
+          "correct": true,
+          "feedback": "Correct. Store correctly and use sheep-safe products."
+        },
+        {
+          "text": "B. It changes mineral requirements",
+          "correct": false,
+          "feedback": "Review: Store correctly and use sheep-safe products."
+        },
+        {
+          "text": "C. It prevents all toxicity",
+          "correct": false,
+          "feedback": "Review: Store correctly and use sheep-safe products."
+        },
+        {
+          "text": "D. It replaces ration checks",
+          "correct": false,
+          "feedback": "Review: Store correctly and use sheep-safe products."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a sudden increase in sheep scratching or rubbing indicate?",
+      "options": [
+        {
+          "text": "A. It replaces shearing",
+          "correct": false,
+          "feedback": "Review: Inspect skin and fleece and seek appropriate advice."
+        },
+        {
+          "text": "B. A sign of good condition",
+          "correct": false,
+          "feedback": "Review: Inspect skin and fleece and seek appropriate advice."
+        },
+        {
+          "text": "C. It determines pregnancy",
+          "correct": false,
+          "feedback": "Review: Inspect skin and fleece and seek appropriate advice."
+        },
+        {
+          "text": "D. External parasites, skin irritation or fleece problems",
+          "correct": true,
+          "feedback": "Correct. Inspect skin and fleece and seek appropriate advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should sheep be checked for adequate body condition before winter or dry season?",
+      "options": [
+        {
+          "text": "A. It replaces water supply",
+          "correct": false,
+          "feedback": "Review: Condition scoring supports forward feed planning."
+        },
+        {
+          "text": "B. It predicts exact lambing date",
+          "correct": false,
+          "feedback": "Review: Condition scoring supports forward feed planning."
+        },
+        {
+          "text": "C. It helps plan nutrition before forage availability becomes limited",
+          "correct": true,
+          "feedback": "Correct. Condition scoring supports forward feed planning."
+        },
+        {
+          "text": "D. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Condition scoring supports forward feed planning."
         }
       ],
       "part": 4
