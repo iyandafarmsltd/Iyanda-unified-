@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. It is always safe when fresh",
           "correct": false,
           "feedback": "Review: Separate waste from feed and water and maintain hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should rabbit water containers be checked for leaks?",
+      "options": [
+        {
+          "text": "A. Leaks improve hydration",
+          "correct": false,
+          "feedback": "Review: Repair leaks and keep resting areas dry."
+        },
+        {
+          "text": "B. Leaks create damp housing and can contaminate bedding",
+          "correct": true,
+          "feedback": "Correct. Repair leaks and keep resting areas dry."
+        },
+        {
+          "text": "C. They prevent urine scald",
+          "correct": false,
+          "feedback": "Review: Repair leaks and keep resting areas dry."
+        },
+        {
+          "text": "D. They replace cleaning",
+          "correct": false,
+          "feedback": "Review: Repair leaks and keep resting areas dry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of monitoring rabbit weight during a treatment course?",
+      "options": [
+        {
+          "text": "A. It helps assess condition and may support accurate veterinary dosing",
+          "correct": true,
+          "feedback": "Correct. Follow veterinary instructions and monitor response."
+        },
+        {
+          "text": "B. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Follow veterinary instructions and monitor response."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Follow veterinary instructions and monitor response."
+        },
+        {
+          "text": "D. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Follow veterinary instructions and monitor response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should rabbits have a quiet recovery area after veterinary procedures?",
+      "options": [
+        {
+          "text": "A. It removes need for water",
+          "correct": false,
+          "feedback": "Review: Provide warmth, quiet and post-procedure monitoring as advised."
+        },
+        {
+          "text": "B. It prevents all complications",
+          "correct": false,
+          "feedback": "Review: Provide warmth, quiet and post-procedure monitoring as advised."
+        },
+        {
+          "text": "C. It replaces follow-up care",
+          "correct": false,
+          "feedback": "Review: Provide warmth, quiet and post-procedure monitoring as advised."
+        },
+        {
+          "text": "D. A calm environment supports recovery and reduces stress",
+          "correct": true,
+          "feedback": "Correct. Provide warmth, quiet and post-procedure monitoring as advised."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can persistent scratching around a rabbit's ears indicate?",
+      "options": [
+        {
+          "text": "A. Proof of pregnancy",
+          "correct": false,
+          "feedback": "Review: Check the ears and seek veterinary assessment."
+        },
+        {
+          "text": "B. A normal sign of contentment",
+          "correct": false,
+          "feedback": "Review: Check the ears and seek veterinary assessment."
+        },
+        {
+          "text": "C. Ear mites, infection or irritation may be present",
+          "correct": true,
+          "feedback": "Correct. Check the ears and seek veterinary assessment."
+        },
+        {
+          "text": "D. A reason to stop cleaning",
+          "correct": false,
+          "feedback": "Review: Check the ears and seek veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should rabbit breeding stock be evaluated for temperament?",
+      "options": [
+        {
+          "text": "A. Temperament determines litter sex",
+          "correct": false,
+          "feedback": "Review: Temperament is one useful selection consideration alongside health."
+        },
+        {
+          "text": "B. Calm, manageable animals can be safer to handle and manage",
+          "correct": true,
+          "feedback": "Correct. Temperament is one useful selection consideration alongside health."
+        },
+        {
+          "text": "C. It replaces health screening",
+          "correct": false,
+          "feedback": "Review: Temperament is one useful selection consideration alongside health."
+        },
+        {
+          "text": "D. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Temperament is one useful selection consideration alongside health."
         }
       ],
       "part": 4
