@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It replaces ear tags",
           "correct": false,
           "feedback": "Review: Maintain clear, current identification records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should goats be checked for signs of urinary straining?",
+      "options": [
+        {
+          "text": "A. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Urinary straining, especially in males, requires urgent veterinary attention."
+        },
+        {
+          "text": "B. It may indicate urinary obstruction or other serious disease",
+          "correct": true,
+          "feedback": "Correct. Urinary straining, especially in males, requires urgent veterinary attention."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Urinary straining, especially in males, requires urgent veterinary attention."
+        },
+        {
+          "text": "D. It replaces feed checks",
+          "correct": false,
+          "feedback": "Review: Urinary straining, especially in males, requires urgent veterinary attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking goat kids' growth after a change in milk feeding?",
+      "options": [
+        {
+          "text": "A. It helps confirm that the new feeding routine meets their needs",
+          "correct": true,
+          "feedback": "Correct. Monitor weights, appetite and health."
+        },
+        {
+          "text": "B. It determines horn shape",
+          "correct": false,
+          "feedback": "Review: Monitor weights, appetite and health."
+        },
+        {
+          "text": "C. It replaces water",
+          "correct": false,
+          "feedback": "Review: Monitor weights, appetite and health."
+        },
+        {
+          "text": "D. It predicts adult coat colour",
+          "correct": false,
+          "feedback": "Review: Monitor weights, appetite and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should goats be prevented from eating feed that has been stored while wet?",
+      "options": [
+        {
+          "text": "A. It replaces hay",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and discard suspect material."
+        },
+        {
+          "text": "B. Wet feed is more nutritious",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and discard suspect material."
+        },
+        {
+          "text": "C. Mould is harmless",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and discard suspect material."
+        },
+        {
+          "text": "D. Wet feed may mould and develop harmful toxins",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and discard suspect material."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a goat with a rough coat and poor growth indicate?",
+      "options": [
+        {
+          "text": "A. It is always seasonal",
+          "correct": false,
+          "feedback": "Review: Assess nutrition and health systematically."
+        },
+        {
+          "text": "B. It predicts fertility",
+          "correct": false,
+          "feedback": "Review: Assess nutrition and health systematically."
+        },
+        {
+          "text": "C. Parasites, nutritional deficiency or chronic illness",
+          "correct": true,
+          "feedback": "Correct. Assess nutrition and health systematically."
+        },
+        {
+          "text": "D. It determines breed",
+          "correct": false,
+          "feedback": "Review: Assess nutrition and health systematically."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should a goat herd's breeding season be planned around feed availability?",
+      "options": [
+        {
+          "text": "A. It guarantees twins",
+          "correct": false,
+          "feedback": "Review: Align breeding with resources where possible."
+        },
+        {
+          "text": "B. Does need suitable condition and nutrition during pregnancy and lactation",
+          "correct": true,
+          "feedback": "Correct. Align breeding with resources where possible."
+        },
+        {
+          "text": "C. It replaces pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Review: Align breeding with resources where possible."
+        },
+        {
+          "text": "D. It determines kid colour",
+          "correct": false,
+          "feedback": "Review: Align breeding with resources where possible."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of maintaining clean kidding equipment?",
+      "options": [
+        {
+          "text": "A. It reduces contamination during assistance and newborn care",
+          "correct": true,
+          "feedback": "Correct. Clean and disinfect equipment according to appropriate procedures."
+        },
+        {
+          "text": "B. It increases milk yield",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment according to appropriate procedures."
+        },
+        {
+          "text": "C. It replaces veterinary help",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment according to appropriate procedures."
+        },
+        {
+          "text": "D. It determines birth weight",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment according to appropriate procedures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should goats be protected from excessive handling during late pregnancy?",
+      "options": [
+        {
+          "text": "A. It replaces nutrition",
+          "correct": false,
+          "feedback": "Review: Handle calmly and only as necessary."
+        },
+        {
+          "text": "B. Handling improves fetal growth",
+          "correct": false,
+          "feedback": "Review: Handle calmly and only as necessary."
+        },
+        {
+          "text": "C. It prevents all complications",
+          "correct": false,
+          "feedback": "Review: Handle calmly and only as necessary."
+        },
+        {
+          "text": "D. Stress and injury can affect welfare and pregnancy",
+          "correct": true,
+          "feedback": "Correct. Handle calmly and only as necessary."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can an increase in goat hoof overgrowth indicate?",
+      "options": [
+        {
+          "text": "A. It is harmless",
+          "correct": false,
+          "feedback": "Review: Inspect feet and maintain appropriate hoof care."
+        },
+        {
+          "text": "B. It predicts milk quality",
+          "correct": false,
+          "feedback": "Review: Inspect feet and maintain appropriate hoof care."
+        },
+        {
+          "text": "C. Insufficient natural wear or inadequate hoof-care routine",
+          "correct": true,
+          "feedback": "Correct. Inspect feet and maintain appropriate hoof care."
+        },
+        {
+          "text": "D. It replaces parasite checks",
+          "correct": false,
+          "feedback": "Review: Inspect feet and maintain appropriate hoof care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should goat water troughs be positioned to prevent faecal contamination?",
+      "options": [
+        {
+          "text": "A. Faeces improve water quality",
+          "correct": false,
+          "feedback": "Review: Keep water sources clean and protected."
+        },
+        {
+          "text": "B. Contaminated water can spread disease",
+          "correct": true,
+          "feedback": "Correct. Keep water sources clean and protected."
+        },
+        {
+          "text": "C. It determines kid sex",
+          "correct": false,
+          "feedback": "Review: Keep water sources clean and protected."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Keep water sources clean and protected."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of reviewing kid survival by dam?",
+      "options": [
+        {
+          "text": "A. It helps identify maternal, birth or management patterns",
+          "correct": true,
+          "feedback": "Correct. Use records to improve breeding and care."
+        },
+        {
+          "text": "B. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Use records to improve breeding and care."
+        },
+        {
+          "text": "C. It replaces identification",
+          "correct": false,
+          "feedback": "Review: Use records to improve breeding and care."
+        },
+        {
+          "text": "D. It measures pasture protein",
+          "correct": false,
+          "feedback": "Review: Use records to improve breeding and care."
         }
       ],
       "part": 4
