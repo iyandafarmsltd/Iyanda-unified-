@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It guarantees uniform growth",
           "correct": false,
           "feedback": "Review: Assess air movement at bird level across the house."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should turkey poults be monitored for signs of dehydration after placement?",
+      "options": [
+        {
+          "text": "A. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Check water access and early drinking behaviour."
+        },
+        {
+          "text": "B. Dehydration improves growth",
+          "correct": false,
+          "feedback": "Review: Check water access and early drinking behaviour."
+        },
+        {
+          "text": "C. Water is unnecessary after placement",
+          "correct": false,
+          "feedback": "Review: Check water access and early drinking behaviour."
+        },
+        {
+          "text": "D. Young birds can become dehydrated if they fail to find drinkers",
+          "correct": true,
+          "feedback": "Correct. Check water access and early drinking behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of checking turkey nest boxes for broken eggs?",
+      "options": [
+        {
+          "text": "A. It replaces egg records",
+          "correct": false,
+          "feedback": "Review: Review nest access, collection frequency and egg handling."
+        },
+        {
+          "text": "B. It determines breeder sex",
+          "correct": false,
+          "feedback": "Review: Review nest access, collection frequency and egg handling."
+        },
+        {
+          "text": "C. It helps identify nest design or handling problems",
+          "correct": true,
+          "feedback": "Correct. Review nest access, collection frequency and egg handling."
+        },
+        {
+          "text": "D. It measures feed conversion",
+          "correct": false,
+          "feedback": "Review: Review nest access, collection frequency and egg handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should turkey litter be protected from roof leaks?",
+      "options": [
+        {
+          "text": "A. Wet litter improves air quality",
+          "correct": false,
+          "feedback": "Review: Repair leaks and maintain dry litter."
+        },
+        {
+          "text": "B. Wet litter can increase ammonia and footpad problems",
+          "correct": true,
+          "feedback": "Correct. Repair leaks and maintain dry litter."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Repair leaks and maintain dry litter."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Repair leaks and maintain dry litter."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can turkey poults huddling away from a brooder indicate?",
+      "options": [
+        {
+          "text": "A. The heat source may be too warm or poorly positioned",
+          "correct": true,
+          "feedback": "Correct. Use bird distribution and temperature checks to adjust brooding."
+        },
+        {
+          "text": "B. It proves the brooder is ideal",
+          "correct": false,
+          "feedback": "Review: Use bird distribution and temperature checks to adjust brooding."
+        },
+        {
+          "text": "C. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Use bird distribution and temperature checks to adjust brooding."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Use bird distribution and temperature checks to adjust brooding."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should turkey farm records include the date of each flock placement?",
+      "options": [
+        {
+          "text": "A. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Placement dates provide a reference for flock management."
+        },
+        {
+          "text": "B. It predicts market price",
+          "correct": false,
+          "feedback": "Review: Placement dates provide a reference for flock management."
+        },
+        {
+          "text": "C. It replaces mortality data",
+          "correct": false,
+          "feedback": "Review: Placement dates provide a reference for flock management."
+        },
+        {
+          "text": "D. It supports age-based management, health planning and performance comparison",
+          "correct": true,
+          "feedback": "Correct. Placement dates provide a reference for flock management."
         }
       ],
       "part": 4
