@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It measures pasture protein",
           "correct": false,
           "feedback": "Review: Use records to improve breeding and care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should goats be checked for signs of bloat after eating fresh legumes?",
+      "options": [
+        {
+          "text": "A. Legumes cannot cause bloat",
+          "correct": false,
+          "feedback": "Review: Introduce risky forage carefully and monitor animals."
+        },
+        {
+          "text": "B. Some legumes can increase bloat risk, especially after abrupt introduction",
+          "correct": true,
+          "feedback": "Correct. Introduce risky forage carefully and monitor animals."
+        },
+        {
+          "text": "C. It predicts milk yield",
+          "correct": false,
+          "feedback": "Review: Introduce risky forage carefully and monitor animals."
+        },
+        {
+          "text": "D. It replaces forage",
+          "correct": false,
+          "feedback": "Review: Introduce risky forage carefully and monitor animals."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of monitoring doe body condition before mating?",
+      "options": [
+        {
+          "text": "A. It helps assess whether nutrition supports reproductive readiness",
+          "correct": true,
+          "feedback": "Correct. Use condition scoring to guide pre-breeding feeding."
+        },
+        {
+          "text": "B. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to guide pre-breeding feeding."
+        },
+        {
+          "text": "C. It replaces buck checks",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to guide pre-breeding feeding."
+        },
+        {
+          "text": "D. It guarantees conception",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to guide pre-breeding feeding."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should goat kids be observed for signs of coughing after housing changes?",
+      "options": [
+        {
+          "text": "A. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "B. It predicts adult size",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check the environment and seek veterinary advice if persistent."
+        },
+        {
+          "text": "D. Dust, ventilation or infection may be contributing",
+          "correct": true,
+          "feedback": "Correct. Check the environment and seek veterinary advice if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a doe's refusal to allow kids to nurse indicate?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Check udder health and ensure kids receive adequate colostrum and milk."
+        },
+        {
+          "text": "B. It guarantees twins",
+          "correct": false,
+          "feedback": "Review: Check udder health and ensure kids receive adequate colostrum and milk."
+        },
+        {
+          "text": "C. Udder pain, stress or maternal behaviour issues",
+          "correct": true,
+          "feedback": "Correct. Check udder health and ensure kids receive adequate colostrum and milk."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check udder health and ensure kids receive adequate colostrum and milk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should goats be protected from access to lead-containing scrap or paint?",
+      "options": [
+        {
+          "text": "A. Lead improves mineral balance",
+          "correct": false,
+          "feedback": "Review: Remove hazardous materials and seek urgent advice after suspected exposure."
+        },
+        {
+          "text": "B. Lead can cause serious poisoning",
+          "correct": true,
+          "feedback": "Correct. Remove hazardous materials and seek urgent advice after suspected exposure."
+        },
+        {
+          "text": "C. Goats neutralise heavy metals",
+          "correct": false,
+          "feedback": "Review: Remove hazardous materials and seek urgent advice after suspected exposure."
+        },
+        {
+          "text": "D. It replaces salt",
+          "correct": false,
+          "feedback": "Review: Remove hazardous materials and seek urgent advice after suspected exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of checking goat shelter ventilation during the wet season?",
+      "options": [
+        {
+          "text": "A. Damp air and poor airflow can increase respiratory problems",
+          "correct": true,
+          "feedback": "Correct. Maintain airflow while keeping resting areas dry."
+        },
+        {
+          "text": "B. It determines kidding dates",
+          "correct": false,
+          "feedback": "Review: Maintain airflow while keeping resting areas dry."
+        },
+        {
+          "text": "C. It replaces bedding",
+          "correct": false,
+          "feedback": "Review: Maintain airflow while keeping resting areas dry."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Maintain airflow while keeping resting areas dry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should goat feed be offered in clean troughs?",
+      "options": [
+        {
+          "text": "A. They increase protein",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment routinely."
+        },
+        {
+          "text": "B. They determine milk fat",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment routinely."
+        },
+        {
+          "text": "C. They replace feed testing",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment routinely."
+        },
+        {
+          "text": "D. Clean troughs reduce contamination and feed refusal",
+          "correct": true,
+          "feedback": "Correct. Clean feeding equipment routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a sudden rise in kid mortality after weaning indicate?",
+      "options": [
+        {
+          "text": "A. It determines adult weight",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and review weaning management."
+        },
+        {
+          "text": "B. It proves weaning was successful",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and review weaning management."
+        },
+        {
+          "text": "C. Stress, nutrition, parasites or infectious disease",
+          "correct": true,
+          "feedback": "Correct. Investigate promptly and review weaning management."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and review weaning management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should goats be checked for adequate hoof length before long-distance movement?",
+      "options": [
+        {
+          "text": "A. It predicts fertility",
+          "correct": false,
+          "feedback": "Review: Inspect and manage hoof health before movement."
+        },
+        {
+          "text": "B. Overgrown or painful hooves can impair walking",
+          "correct": true,
+          "feedback": "Correct. Inspect and manage hoof health before movement."
+        },
+        {
+          "text": "C. It replaces hydration",
+          "correct": false,
+          "feedback": "Review: Inspect and manage hoof health before movement."
+        },
+        {
+          "text": "D. It determines breed",
+          "correct": false,
+          "feedback": "Review: Inspect and manage hoof health before movement."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of recording goat milk yield by doe?",
+      "options": [
+        {
+          "text": "A. It helps assess individual production and identify changes",
+          "correct": true,
+          "feedback": "Correct. Keep consistent individual records."
+        },
+        {
+          "text": "B. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Keep consistent individual records."
+        },
+        {
+          "text": "C. It replaces udder checks",
+          "correct": false,
+          "feedback": "Review: Keep consistent individual records."
+        },
+        {
+          "text": "D. It determines pasture type",
+          "correct": false,
+          "feedback": "Review: Keep consistent individual records."
         }
       ],
       "part": 4
