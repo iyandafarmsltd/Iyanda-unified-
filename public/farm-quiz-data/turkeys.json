@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It prevents all disease",
           "correct": false,
           "feedback": "Review: Inspect the full drinker system and repair leaks promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should turkey houses be checked for uneven litter depth?",
+      "options": [
+        {
+          "text": "A. Uneven litter can create inconsistent footing and moisture conditions",
+          "correct": true,
+          "feedback": "Correct. Maintain an even, suitable litter surface."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Maintain an even, suitable litter surface."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Maintain an even, suitable litter surface."
+        },
+        {
+          "text": "D. It improves all bird growth",
+          "correct": false,
+          "feedback": "Review: Maintain an even, suitable litter surface."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of recording turkey poult placement weights?",
+      "options": [
+        {
+          "text": "A. It measures egg shell thickness",
+          "correct": false,
+          "feedback": "Review: Consistent baseline weights improve flock performance tracking."
+        },
+        {
+          "text": "B. It predicts adult sex",
+          "correct": false,
+          "feedback": "Review: Consistent baseline weights improve flock performance tracking."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Consistent baseline weights improve flock performance tracking."
+        },
+        {
+          "text": "D. It provides a baseline for monitoring growth",
+          "correct": true,
+          "feedback": "Correct. Consistent baseline weights improve flock performance tracking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should turkey breeder nests be inspected for parasites and pests?",
+      "options": [
+        {
+          "text": "A. They replace cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain nest hygiene and appropriate pest control."
+        },
+        {
+          "text": "B. They improve hatchability",
+          "correct": false,
+          "feedback": "Review: Maintain nest hygiene and appropriate pest control."
+        },
+        {
+          "text": "C. Pests can irritate birds and contaminate eggs or nesting areas",
+          "correct": true,
+          "feedback": "Correct. Maintain nest hygiene and appropriate pest control."
+        },
+        {
+          "text": "D. They determine poult sex",
+          "correct": false,
+          "feedback": "Review: Maintain nest hygiene and appropriate pest control."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a sudden increase in turkey respiratory noise indicate?",
+      "options": [
+        {
+          "text": "A. It proves good ventilation",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary assessment."
+        },
+        {
+          "text": "B. Possible respiratory irritation or disease",
+          "correct": true,
+          "feedback": "Correct. Check air quality and seek veterinary assessment."
+        },
+        {
+          "text": "C. It predicts egg output",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary assessment."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check air quality and seek veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should turkey farm emergency lighting be tested?",
+      "options": [
+        {
+          "text": "A. It helps workers respond safely during power failures",
+          "correct": true,
+          "feedback": "Correct. Test emergency systems routinely."
+        },
+        {
+          "text": "B. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Test emergency systems routinely."
+        },
+        {
+          "text": "C. It replaces backup power",
+          "correct": false,
+          "feedback": "Review: Test emergency systems routinely."
+        },
+        {
+          "text": "D. It determines breeding success",
+          "correct": false,
+          "feedback": "Review: Test emergency systems routinely."
         }
       ],
       "part": 4
