@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. It changes egg fertility directly",
           "correct": false,
           "feedback": "Review: Provide enough accessible water points for the group."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should guinea-fowl be introduced to new feed in small stages?",
+      "options": [
+        {
+          "text": "A. It guarantees higher egg production",
+          "correct": false,
+          "feedback": "Review: Introduce ration changes progressively and monitor response."
+        },
+        {
+          "text": "B. It changes their breed",
+          "correct": false,
+          "feedback": "Review: Introduce ration changes progressively and monitor response."
+        },
+        {
+          "text": "C. It eliminates water needs",
+          "correct": false,
+          "feedback": "Review: Introduce ration changes progressively and monitor response."
+        },
+        {
+          "text": "D. Gradual transition helps maintain intake and digestive adaptation",
+          "correct": true,
+          "feedback": "Correct. Introduce ration changes progressively and monitor response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of checking guinea-fowl eyes for discharge or swelling?",
+      "options": [
+        {
+          "text": "A. It measures bird weight",
+          "correct": false,
+          "feedback": "Review: Observe abnormalities and seek veterinary advice if persistent."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Observe abnormalities and seek veterinary advice if persistent."
+        },
+        {
+          "text": "C. Eye problems can affect welfare and may signal injury or infection",
+          "correct": true,
+          "feedback": "Correct. Observe abnormalities and seek veterinary advice if persistent."
+        },
+        {
+          "text": "D. It replaces foot checks",
+          "correct": false,
+          "feedback": "Review: Observe abnormalities and seek veterinary advice if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should guinea-fowl roosts be stable and free of sharp edges?",
+      "options": [
+        {
+          "text": "A. They improve feed protein",
+          "correct": false,
+          "feedback": "Review: Inspect perches and ensure safe access."
+        },
+        {
+          "text": "B. Unsafe roosts can cause falls and foot injuries",
+          "correct": true,
+          "feedback": "Correct. Inspect perches and ensure safe access."
+        },
+        {
+          "text": "C. They prevent all predators",
+          "correct": false,
+          "feedback": "Review: Inspect perches and ensure safe access."
+        },
+        {
+          "text": "D. They replace nesting areas",
+          "correct": false,
+          "feedback": "Review: Inspect perches and ensure safe access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can a drop in keet feed intake after a brooder move indicate?",
+      "options": [
+        {
+          "text": "A. Stress, difficulty locating resources or unsuitable brooding conditions",
+          "correct": true,
+          "feedback": "Correct. Check feed and water access, temperature and behaviour."
+        },
+        {
+          "text": "B. It proves the birds are mature",
+          "correct": false,
+          "feedback": "Review: Check feed and water access, temperature and behaviour."
+        },
+        {
+          "text": "C. It is always beneficial",
+          "correct": false,
+          "feedback": "Review: Check feed and water access, temperature and behaviour."
+        },
+        {
+          "text": "D. It measures egg hatchability",
+          "correct": false,
+          "feedback": "Review: Check feed and water access, temperature and behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should guinea-fowl eggs be marked by collection date before incubation?",
+      "options": [
+        {
+          "text": "A. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Date marking supports egg traceability and hatchery planning."
+        },
+        {
+          "text": "B. It determines embryo sex",
+          "correct": false,
+          "feedback": "Review: Date marking supports egg traceability and hatchery planning."
+        },
+        {
+          "text": "C. It sterilises shells",
+          "correct": false,
+          "feedback": "Review: Date marking supports egg traceability and hatchery planning."
+        },
+        {
+          "text": "D. It helps manage storage duration and set eggs in order",
+          "correct": true,
+          "feedback": "Correct. Date marking supports egg traceability and hatchery planning."
         }
       ],
       "part": 4
