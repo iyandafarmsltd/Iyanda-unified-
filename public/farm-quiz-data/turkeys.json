@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. It replaces journey planning",
           "correct": false,
           "feedback": "Review: Coordinate catching, ventilation and transport to protect welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should turkey poults be observed for evenly distributed brooder use?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Bird distribution is a practical brooding comfort indicator."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Bird distribution is a practical brooding comfort indicator."
+        },
+        {
+          "text": "C. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Bird distribution is a practical brooding comfort indicator."
+        },
+        {
+          "text": "D. Clustering or avoidance can indicate temperature or draft problems",
+          "correct": true,
+          "feedback": "Correct. Bird distribution is a practical brooding comfort indicator."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of monitoring turkey breast blisters and hock burns?",
+      "options": [
+        {
+          "text": "A. They determine feed price",
+          "correct": false,
+          "feedback": "Review: Track lesions and correct environmental causes."
+        },
+        {
+          "text": "B. They predict egg fertility",
+          "correct": false,
+          "feedback": "Review: Track lesions and correct environmental causes."
+        },
+        {
+          "text": "C. They can reveal litter and housing welfare issues",
+          "correct": true,
+          "feedback": "Correct. Track lesions and correct environmental causes."
+        },
+        {
+          "text": "D. They are always genetic",
+          "correct": false,
+          "feedback": "Review: Track lesions and correct environmental causes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should turkey houses have protected electrical connections?",
+      "options": [
+        {
+          "text": "A. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Maintain electrical safety and inspect equipment routinely."
+        },
+        {
+          "text": "B. Wet litter and dust can increase equipment and fire hazards",
+          "correct": true,
+          "feedback": "Correct. Maintain electrical safety and inspect equipment routinely."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Maintain electrical safety and inspect equipment routinely."
+        },
+        {
+          "text": "D. It makes alarms unnecessary",
+          "correct": false,
+          "feedback": "Review: Maintain electrical safety and inspect equipment routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can poor turkey egg hatchability despite good fertility suggest?",
+      "options": [
+        {
+          "text": "A. Egg handling, storage or incubation conditions may be unsuitable",
+          "correct": true,
+          "feedback": "Correct. Separate fertility from hatchability and review each stage."
+        },
+        {
+          "text": "B. It proves breeder infertility",
+          "correct": false,
+          "feedback": "Review: Separate fertility from hatchability and review each stage."
+        },
+        {
+          "text": "C. It determines poult sex",
+          "correct": false,
+          "feedback": "Review: Separate fertility from hatchability and review each stage."
+        },
+        {
+          "text": "D. It is unrelated to incubation",
+          "correct": false,
+          "feedback": "Review: Separate fertility from hatchability and review each stage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should turkey breeder feed changes be monitored for effects on egg output?",
+      "options": [
+        {
+          "text": "A. It replaces egg records",
+          "correct": false,
+          "feedback": "Review: Track production and condition when adjusting breeder diets."
+        },
+        {
+          "text": "B. Feed has no effect on laying",
+          "correct": false,
+          "feedback": "Review: Track production and condition when adjusting breeder diets."
+        },
+        {
+          "text": "C. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Track production and condition when adjusting breeder diets."
+        },
+        {
+          "text": "D. Nutrient changes can affect reproductive performance",
+          "correct": true,
+          "feedback": "Correct. Track production and condition when adjusting breeder diets."
         }
       ],
       "part": 4
