@@ -16,3 +16,13 @@ posthog.init('phc_ByKPsvsv9SwV6upEMVDPs5tKxG8TWkxfKhKvjqJVFSCZ', {
 window.addEventListener('hashchange', function () {
   posthog.capture('$pageview', { $current_url: window.location.href });
 });
+ 
+// Lightweight client error monitoring. Capture only the error category; never
+// send exception messages, stack traces, form values, prompts, or customer data.
+window.addEventListener('error', function (event) {
+  if (event.target && event.target !== window) return;
+  posthog.capture('iyanda_client_error', { error_type: 'uncaught_error' });
+});
+window.addEventListener('unhandledrejection', function () {
+  posthog.capture('iyanda_client_error', { error_type: 'unhandled_rejection' });
+});
