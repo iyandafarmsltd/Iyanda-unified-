@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. It replaces veterinary examination",
           "correct": false,
           "feedback": "Review: Feed assessment is one part of investigating reduced production."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should a goat kid's navel be checked after birth?",
+      "options": [
+        {
+          "text": "A. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Navel hygiene and observation help reduce infection risk."
+        },
+        {
+          "text": "B. It determines kid sex",
+          "correct": false,
+          "feedback": "Review: Navel hygiene and observation help reduce infection risk."
+        },
+        {
+          "text": "C. A contaminated or inflamed navel can lead to infection",
+          "correct": true,
+          "feedback": "Correct. Navel hygiene and observation help reduce infection risk."
+        },
+        {
+          "text": "D. It predicts adult milk yield",
+          "correct": false,
+          "feedback": "Review: Navel hygiene and observation help reduce infection risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of keeping a buck's hooves trimmed appropriately?",
+      "options": [
+        {
+          "text": "A. It increases horn growth",
+          "correct": false,
+          "feedback": "Review: Hoof care supports mobility and breeding soundness."
+        },
+        {
+          "text": "B. Sound feet support movement and mating",
+          "correct": true,
+          "feedback": "Correct. Hoof care supports mobility and breeding soundness."
+        },
+        {
+          "text": "C. It determines fertility by itself",
+          "correct": false,
+          "feedback": "Review: Hoof care supports mobility and breeding soundness."
+        },
+        {
+          "text": "D. It replaces body condition scoring",
+          "correct": false,
+          "feedback": "Review: Hoof care supports mobility and breeding soundness."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should goats have access to shade during transport waiting periods?",
+      "options": [
+        {
+          "text": "A. It reduces heat load while animals are stationary",
+          "correct": true,
+          "feedback": "Correct. Plan loading and waiting to minimise heat stress."
+        },
+        {
+          "text": "B. Shade increases dehydration",
+          "correct": false,
+          "feedback": "Review: Plan loading and waiting to minimise heat stress."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Plan loading and waiting to minimise heat stress."
+        },
+        {
+          "text": "D. It prevents all transport injuries",
+          "correct": false,
+          "feedback": "Review: Plan loading and waiting to minimise heat stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What should be reviewed if several kids develop diarrhoea?",
+      "options": [
+        {
+          "text": "A. Nothing until weaning",
+          "correct": false,
+          "feedback": "Review: Multiple cases require prompt investigation and veterinary guidance."
+        },
+        {
+          "text": "B. Only the colour of their coats",
+          "correct": false,
+          "feedback": "Review: Multiple cases require prompt investigation and veterinary guidance."
+        },
+        {
+          "text": "C. Whether the buck has horns",
+          "correct": false,
+          "feedback": "Review: Multiple cases require prompt investigation and veterinary guidance."
+        },
+        {
+          "text": "D. Colostrum, hygiene, feed changes, parasites and infectious causes",
+          "correct": true,
+          "feedback": "Correct. Multiple cases require prompt investigation and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should mineral supplements be stored away from moisture?",
+      "options": [
+        {
+          "text": "A. It makes the supplement sterile",
+          "correct": false,
+          "feedback": "Review: Dry storage helps maintain supplement quality."
+        },
+        {
+          "text": "B. It improves mineral absorption",
+          "correct": false,
+          "feedback": "Review: Dry storage helps maintain supplement quality."
+        },
+        {
+          "text": "C. Moisture can cause caking, spoilage or uneven intake",
+          "correct": true,
+          "feedback": "Correct. Dry storage helps maintain supplement quality."
+        },
+        {
+          "text": "D. It increases the salt content automatically",
+          "correct": false,
+          "feedback": "Review: Dry storage helps maintain supplement quality."
         }
       ],
       "part": 4
