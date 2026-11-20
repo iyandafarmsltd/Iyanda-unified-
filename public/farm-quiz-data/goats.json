@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It increases the salt content automatically",
           "correct": false,
           "feedback": "Review: Dry storage helps maintain supplement quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should goat kids be monitored for signs of navel ill?",
+      "options": [
+        {
+          "text": "A. It improves growth",
+          "correct": false,
+          "feedback": "Review: Swelling, heat or discharge at the navel needs prompt attention."
+        },
+        {
+          "text": "B. Navel infection can spread and cause serious illness",
+          "correct": true,
+          "feedback": "Correct. Swelling, heat or discharge at the navel needs prompt attention."
+        },
+        {
+          "text": "C. It determines coat pattern",
+          "correct": false,
+          "feedback": "Review: Swelling, heat or discharge at the navel needs prompt attention."
+        },
+        {
+          "text": "D. It is harmless in young kids",
+          "correct": false,
+          "feedback": "Review: Swelling, heat or discharge at the navel needs prompt attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of providing a separate area for kidding?",
+      "options": [
+        {
+          "text": "A. It supports clean, calm births and close observation",
+          "correct": true,
+          "feedback": "Correct. A prepared kidding area supports hygiene and care."
+        },
+        {
+          "text": "B. It guarantees twins",
+          "correct": false,
+          "feedback": "Review: A prepared kidding area supports hygiene and care."
+        },
+        {
+          "text": "C. It replaces supervision",
+          "correct": false,
+          "feedback": "Review: A prepared kidding area supports hygiene and care."
+        },
+        {
+          "text": "D. It prevents all birth complications",
+          "correct": false,
+          "feedback": "Review: A prepared kidding area supports hygiene and care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should goats be offered forage before large concentrate meals?",
+      "options": [
+        {
+          "text": "A. It prevents goats drinking",
+          "correct": false,
+          "feedback": "Review: Maintain adequate forage and introduce concentrates gradually."
+        },
+        {
+          "text": "B. Forage stops rumen activity",
+          "correct": false,
+          "feedback": "Review: Maintain adequate forage and introduce concentrates gradually."
+        },
+        {
+          "text": "C. Concentrate should replace all roughage",
+          "correct": false,
+          "feedback": "Review: Maintain adequate forage and introduce concentrates gradually."
+        },
+        {
+          "text": "D. Fibre supports rumen function and helps moderate rapid concentrate intake",
+          "correct": true,
+          "feedback": "Correct. Maintain adequate forage and introduce concentrates gradually."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What can a goat with a swollen, painful udder need?",
+      "options": [
+        {
+          "text": "A. No attention if milk is present",
+          "correct": false,
+          "feedback": "Review: Udder swelling and pain warrant assessment."
+        },
+        {
+          "text": "B. A routine hoof trim only",
+          "correct": false,
+          "feedback": "Review: Udder swelling and pain warrant assessment."
+        },
+        {
+          "text": "C. Prompt examination for mastitis or udder injury",
+          "correct": true,
+          "feedback": "Correct. Udder swelling and pain warrant assessment."
+        },
+        {
+          "text": "D. Immediate breeding",
+          "correct": false,
+          "feedback": "Review: Udder swelling and pain warrant assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should a goat farm keep feed storage rodent-proof?",
+      "options": [
+        {
+          "text": "A. Rodents improve feed quality",
+          "correct": false,
+          "feedback": "Review: Secure storage is a basic biosecurity practice."
+        },
+        {
+          "text": "B. Rodents contaminate and consume feed and can spread disease",
+          "correct": true,
+          "feedback": "Correct. Secure storage is a basic biosecurity practice."
+        },
+        {
+          "text": "C. They prevent mould",
+          "correct": false,
+          "feedback": "Review: Secure storage is a basic biosecurity practice."
+        },
+        {
+          "text": "D. They increase mineral availability",
+          "correct": false,
+          "feedback": "Review: Secure storage is a basic biosecurity practice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of checking a buck's teeth and jaw?",
+      "options": [
+        {
+          "text": "A. Dental problems can affect eating and body condition",
+          "correct": true,
+          "feedback": "Correct. Dental health contributes to intake and condition."
+        },
+        {
+          "text": "B. It determines fertility exactly",
+          "correct": false,
+          "feedback": "Review: Dental health contributes to intake and condition."
+        },
+        {
+          "text": "C. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Dental health contributes to intake and condition."
+        },
+        {
+          "text": "D. It replaces hoof inspection",
+          "correct": false,
+          "feedback": "Review: Dental health contributes to intake and condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should goats be moved calmly through handling races?",
+      "options": [
+        {
+          "text": "A. Goats cannot be injured during handling",
+          "correct": false,
+          "feedback": "Review: Good stockmanship improves safety and welfare."
+        },
+        {
+          "text": "B. Stress improves conception",
+          "correct": false,
+          "feedback": "Review: Good stockmanship improves safety and welfare."
+        },
+        {
+          "text": "C. Rough handling prevents disease",
+          "correct": false,
+          "feedback": "Review: Good stockmanship improves safety and welfare."
+        },
+        {
+          "text": "D. Calm movement reduces stress and injury",
+          "correct": true,
+          "feedback": "Correct. Good stockmanship improves safety and welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What does a herd's kidding distribution record help with?",
+      "options": [
+        {
+          "text": "A. Measuring milk fat",
+          "correct": false,
+          "feedback": "Review: A breeding calendar supports preparation for births."
+        },
+        {
+          "text": "B. Determining pasture pH",
+          "correct": false,
+          "feedback": "Review: A breeding calendar supports preparation for births."
+        },
+        {
+          "text": "C. Planning labour, shelter, feed and kid care across the season",
+          "correct": true,
+          "feedback": "Correct. A breeding calendar supports preparation for births."
+        },
+        {
+          "text": "D. Predicting rainfall",
+          "correct": false,
+          "feedback": "Review: A breeding calendar supports preparation for births."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should goats not be allowed to browse near rubbish dumps?",
+      "options": [
+        {
+          "text": "A. Rubbish improves mineral intake",
+          "correct": false,
+          "feedback": "Review: Exclude livestock from contaminated areas."
+        },
+        {
+          "text": "B. They may ingest plastics, chemicals or other hazardous materials",
+          "correct": true,
+          "feedback": "Correct. Exclude livestock from contaminated areas."
+        },
+        {
+          "text": "C. Goats digest plastic safely",
+          "correct": false,
+          "feedback": "Review: Exclude livestock from contaminated areas."
+        },
+        {
+          "text": "D. Waste sites are always clean",
+          "correct": false,
+          "feedback": "Review: Exclude livestock from contaminated areas."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What should be checked when a doe produces less milk than expected?",
+      "options": [
+        {
+          "text": "A. Udder health, feed and water intake, body condition and kid nursing",
+          "correct": true,
+          "feedback": "Correct. Milk production depends on health, nutrition and management."
+        },
+        {
+          "text": "B. Only horn length",
+          "correct": false,
+          "feedback": "Review: Milk production depends on health, nutrition and management."
+        },
+        {
+          "text": "C. The colour of bedding",
+          "correct": false,
+          "feedback": "Review: Milk production depends on health, nutrition and management."
+        },
+        {
+          "text": "D. Nothing if the kids are quiet",
+          "correct": false,
+          "feedback": "Review: Milk production depends on health, nutrition and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why is a dry, well-ventilated shelter useful for goats?",
+      "options": [
+        {
+          "text": "A. It prevents all diseases",
+          "correct": false,
+          "feedback": "Review: Shelter design should balance dryness, airflow and protection."
+        },
+        {
+          "text": "B. It removes need for shade",
+          "correct": false,
+          "feedback": "Review: Shelter design should balance dryness, airflow and protection."
+        },
+        {
+          "text": "C. It increases parasite survival",
+          "correct": false,
+          "feedback": "Review: Shelter design should balance dryness, airflow and protection."
+        },
+        {
+          "text": "D. It reduces dampness and supports respiratory and hoof health",
+          "correct": true,
+          "feedback": "Correct. Shelter design should balance dryness, airflow and protection."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What is the purpose of identifying individual goats before treatment?",
+      "options": [
+        {
+          "text": "A. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Accurate identification prevents treatment errors."
+        },
+        {
+          "text": "B. It improves medicine strength",
+          "correct": false,
+          "feedback": "Review: Accurate identification prevents treatment errors."
+        },
+        {
+          "text": "C. It ensures the correct animal and dose are recorded",
+          "correct": true,
+          "feedback": "Correct. Accurate identification prevents treatment errors."
+        },
+        {
+          "text": "D. It determines withdrawal periods automatically",
+          "correct": false,
+          "feedback": "Review: Accurate identification prevents treatment errors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should a goat with severe bloat not be forced to walk long distances?",
+      "options": [
+        {
+          "text": "A. Walking cures bloat",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help for suspected severe bloat."
+        },
+        {
+          "text": "B. Unnecessary exertion can worsen distress in a serious condition",
+          "correct": true,
+          "feedback": "Correct. Seek urgent veterinary help for suspected severe bloat."
+        },
+        {
+          "text": "C. Bloat is not painful",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help for suspected severe bloat."
+        },
+        {
+          "text": "D. Exercise replaces veterinary care",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help for suspected severe bloat."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What can poor kid growth despite adequate milk access indicate?",
+      "options": [
+        {
+          "text": "A. Parasites, disease, poor milk quality or other nutritional problems",
+          "correct": true,
+          "feedback": "Correct. Investigate the whole health and nutrition picture."
+        },
+        {
+          "text": "B. A guaranteed genetic advantage",
+          "correct": false,
+          "feedback": "Review: Investigate the whole health and nutrition picture."
+        },
+        {
+          "text": "C. That weighing is unnecessary",
+          "correct": false,
+          "feedback": "Review: Investigate the whole health and nutrition picture."
+        },
+        {
+          "text": "D. Only a need for more bedding",
+          "correct": false,
+          "feedback": "Review: Investigate the whole health and nutrition picture."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should goat pasture be checked for toxic weeds after seasonal rains?",
+      "options": [
+        {
+          "text": "A. Goats instinctively avoid every poisonous plant",
+          "correct": false,
+          "feedback": "Review: Identify local toxic plants and manage grazing risk."
+        },
+        {
+          "text": "B. Rain removes plant toxins",
+          "correct": false,
+          "feedback": "Review: Identify local toxic plants and manage grazing risk."
+        },
+        {
+          "text": "C. All weeds are safe when young",
+          "correct": false,
+          "feedback": "Review: Identify local toxic plants and manage grazing risk."
+        },
+        {
+          "text": "D. Some plants become more abundant or accessible as vegetation changes",
+          "correct": true,
+          "feedback": "Correct. Identify local toxic plants and manage grazing risk."
         }
       ],
       "part": 4
