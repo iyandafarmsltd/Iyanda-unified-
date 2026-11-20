@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 230,
+  "total": 240,
   "questions": [
     {
       "number": 1,
@@ -6209,6 +6209,276 @@
           "text": "D. It may contain harmful fermentation products and contaminants",
           "correct": true,
           "feedback": "Correct. Prevent access and manage silage effluent safely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "Why should a calf's navel be kept clean and observed during the first days?",
+      "options": [
+        {
+          "text": "A. It predicts adult milk yield",
+          "correct": false,
+          "feedback": "Review: Keep the area clean and seek care for swelling or discharge."
+        },
+        {
+          "text": "B. The open navel can provide an entry point for infection",
+          "correct": true,
+          "feedback": "Correct. Keep the area clean and seek care for swelling or discharge."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Keep the area clean and seek care for swelling or discharge."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Keep the area clean and seek care for swelling or discharge."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "What is the purpose of checking the accuracy of cattle scales?",
+      "options": [
+        {
+          "text": "A. Reliable weights support feeding, breeding and sale decisions",
+          "correct": true,
+          "feedback": "Correct. Calibrated scales improve record quality."
+        },
+        {
+          "text": "B. It changes animal growth",
+          "correct": false,
+          "feedback": "Review: Calibrated scales improve record quality."
+        },
+        {
+          "text": "C. It replaces health records",
+          "correct": false,
+          "feedback": "Review: Calibrated scales improve record quality."
+        },
+        {
+          "text": "D. It determines pasture quality",
+          "correct": false,
+          "feedback": "Review: Calibrated scales improve record quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "Why should cattle be prevented from eating feed contaminated by birds?",
+      "options": [
+        {
+          "text": "A. It replaces vaccination",
+          "correct": false,
+          "feedback": "Review: Protect feed from wild birds and pests."
+        },
+        {
+          "text": "B. Droppings add useful protein",
+          "correct": false,
+          "feedback": "Review: Protect feed from wild birds and pests."
+        },
+        {
+          "text": "C. It improves palatability",
+          "correct": false,
+          "feedback": "Review: Protect feed from wild birds and pests."
+        },
+        {
+          "text": "D. Bird droppings can introduce pathogens and spoil feed",
+          "correct": true,
+          "feedback": "Correct. Protect feed from wild birds and pests."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "What can repeated bellowing and restlessness in a cow indicate?",
+      "options": [
+        {
+          "text": "A. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Assess the animal and context rather than assuming one cause."
+        },
+        {
+          "text": "B. It always means hunger",
+          "correct": false,
+          "feedback": "Review: Assess the animal and context rather than assuming one cause."
+        },
+        {
+          "text": "C. Pain, heat stress, oestrus or another source of distress",
+          "correct": true,
+          "feedback": "Correct. Assess the animal and context rather than assuming one cause."
+        },
+        {
+          "text": "D. It is never a health sign",
+          "correct": false,
+          "feedback": "Review: Assess the animal and context rather than assuming one cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "Why should cattle be monitored for swelling after an injection?",
+      "options": [
+        {
+          "text": "A. It guarantees immunity",
+          "correct": false,
+          "feedback": "Review: Follow product guidance and seek veterinary advice for severe or persistent reactions."
+        },
+        {
+          "text": "B. It may indicate a local reaction or infection",
+          "correct": true,
+          "feedback": "Correct. Follow product guidance and seek veterinary advice for severe or persistent reactions."
+        },
+        {
+          "text": "C. It determines milk quality",
+          "correct": false,
+          "feedback": "Review: Follow product guidance and seek veterinary advice for severe or persistent reactions."
+        },
+        {
+          "text": "D. It should always be ignored",
+          "correct": false,
+          "feedback": "Review: Follow product guidance and seek veterinary advice for severe or persistent reactions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "What is the purpose of a cattle movement register?",
+      "options": [
+        {
+          "text": "A. It records animal movements for traceability and disease control",
+          "correct": true,
+          "feedback": "Correct. Accurate movement records support biosecurity."
+        },
+        {
+          "text": "B. It measures feed conversion",
+          "correct": false,
+          "feedback": "Review: Accurate movement records support biosecurity."
+        },
+        {
+          "text": "C. It predicts market prices",
+          "correct": false,
+          "feedback": "Review: Accurate movement records support biosecurity."
+        },
+        {
+          "text": "D. It replaces identification",
+          "correct": false,
+          "feedback": "Review: Accurate movement records support biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "Why should cows have a comfortable surface for lying down?",
+      "options": [
+        {
+          "text": "A. It prevents all lameness",
+          "correct": false,
+          "feedback": "Review: Suitable lying areas are an important housing factor."
+        },
+        {
+          "text": "B. It determines milk colour",
+          "correct": false,
+          "feedback": "Review: Suitable lying areas are an important housing factor."
+        },
+        {
+          "text": "C. It replaces pasture",
+          "correct": false,
+          "feedback": "Review: Suitable lying areas are an important housing factor."
+        },
+        {
+          "text": "D. Resting comfort supports welfare and reduces injury risk",
+          "correct": true,
+          "feedback": "Correct. Suitable lying areas are an important housing factor."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "What can a sudden decline in calf starter intake suggest?",
+      "options": [
+        {
+          "text": "A. It predicts adult size",
+          "correct": false,
+          "feedback": "Review: Check health, feed freshness and feeder access."
+        },
+        {
+          "text": "B. A sign of maturity only",
+          "correct": false,
+          "feedback": "Review: Check health, feed freshness and feeder access."
+        },
+        {
+          "text": "C. Illness, feed quality issues or poor access",
+          "correct": true,
+          "feedback": "Correct. Check health, feed freshness and feeder access."
+        },
+        {
+          "text": "D. It means water should stop",
+          "correct": false,
+          "feedback": "Review: Check health, feed freshness and feeder access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "Why should cattle feed be protected from mould during rainy season?",
+      "options": [
+        {
+          "text": "A. Rain improves nutrient content",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and reject suspect material."
+        },
+        {
+          "text": "B. Moisture encourages mould growth and possible toxin production",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and reject suspect material."
+        },
+        {
+          "text": "C. Mould is harmless",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and reject suspect material."
+        },
+        {
+          "text": "D. It replaces hay",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and reject suspect material."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "What is the purpose of monitoring calving ease records by sire?",
+      "options": [
+        {
+          "text": "A. It helps identify sires associated with difficult births",
+          "correct": true,
+          "feedback": "Correct. Use calving data as one factor in breeding decisions."
+        },
+        {
+          "text": "B. It determines calf colour",
+          "correct": false,
+          "feedback": "Review: Use calving data as one factor in breeding decisions."
+        },
+        {
+          "text": "C. It replaces dam records",
+          "correct": false,
+          "feedback": "Review: Use calving data as one factor in breeding decisions."
+        },
+        {
+          "text": "D. It predicts milk fat",
+          "correct": false,
+          "feedback": "Review: Use calving data as one factor in breeding decisions."
         }
       ],
       "part": 4
