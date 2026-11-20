@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It prevents every infection",
           "correct": false,
           "feedback": "Review: Cow comfort and cleanliness influence health and welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should cattle be monitored for abnormal breathing during hot weather?",
+      "options": [
+        {
+          "text": "A. It proves the ration is balanced",
+          "correct": false,
+          "feedback": "Review: Observe breathing alongside temperature, behaviour and water intake."
+        },
+        {
+          "text": "B. Heat stress or respiratory illness may be developing",
+          "correct": true,
+          "feedback": "Correct. Observe breathing alongside temperature, behaviour and water intake."
+        },
+        {
+          "text": "C. It measures milk fat",
+          "correct": false,
+          "feedback": "Review: Observe breathing alongside temperature, behaviour and water intake."
+        },
+        {
+          "text": "D. It is always normal after grazing",
+          "correct": false,
+          "feedback": "Review: Observe breathing alongside temperature, behaviour and water intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of a cattle herd health calendar?",
+      "options": [
+        {
+          "text": "A. It schedules preventive care and routine monitoring",
+          "correct": true,
+          "feedback": "Correct. A calendar supports consistency but must be adapted to local risk and veterinary guidance."
+        },
+        {
+          "text": "B. It guarantees disease cannot occur",
+          "correct": false,
+          "feedback": "Review: A calendar supports consistency but must be adapted to local risk and veterinary guidance."
+        },
+        {
+          "text": "C. It replaces veterinary advice",
+          "correct": false,
+          "feedback": "Review: A calendar supports consistency but must be adapted to local risk and veterinary guidance."
+        },
+        {
+          "text": "D. It predicts exact calving dates",
+          "correct": false,
+          "feedback": "Review: A calendar supports consistency but must be adapted to local risk and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should cows be milked using a consistent routine?",
+      "options": [
+        {
+          "text": "A. It prevents all mastitis",
+          "correct": false,
+          "feedback": "Review: A consistent, hygienic routine supports milk quality and cow comfort."
+        },
+        {
+          "text": "B. It determines calf sex",
+          "correct": false,
+          "feedback": "Review: A consistent, hygienic routine supports milk quality and cow comfort."
+        },
+        {
+          "text": "C. It replaces equipment cleaning",
+          "correct": false,
+          "feedback": "Review: A consistent, hygienic routine supports milk quality and cow comfort."
+        },
+        {
+          "text": "D. Consistency supports udder hygiene and reduces avoidable stress",
+          "correct": true,
+          "feedback": "Correct. A consistent, hygienic routine supports milk quality and cow comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What should be checked when cattle refuse a new batch of silage?",
+      "options": [
+        {
+          "text": "A. The animal's ear tag shape",
+          "correct": false,
+          "feedback": "Review: Feed refusal may indicate spoilage or an abrupt change."
+        },
+        {
+          "text": "B. Only the colour of the tractor",
+          "correct": false,
+          "feedback": "Review: Feed refusal may indicate spoilage or an abrupt change."
+        },
+        {
+          "text": "C. Smell, heating, mould, fermentation quality and ration transition",
+          "correct": true,
+          "feedback": "Correct. Feed refusal may indicate spoilage or an abrupt change."
+        },
+        {
+          "text": "D. Nothing if hay is available",
+          "correct": false,
+          "feedback": "Review: Feed refusal may indicate spoilage or an abrupt change."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should cattle be protected from access to discarded batteries or chemicals?",
+      "options": [
+        {
+          "text": "A. They provide useful minerals",
+          "correct": false,
+          "feedback": "Review: Keep hazardous materials securely stored and livestock areas clear."
+        },
+        {
+          "text": "B. They can cause poisoning or serious injury",
+          "correct": true,
+          "feedback": "Correct. Keep hazardous materials securely stored and livestock areas clear."
+        },
+        {
+          "text": "C. Cattle can safely digest plastic",
+          "correct": false,
+          "feedback": "Review: Keep hazardous materials securely stored and livestock areas clear."
+        },
+        {
+          "text": "D. They improve rumen microbes",
+          "correct": false,
+          "feedback": "Review: Keep hazardous materials securely stored and livestock areas clear."
         }
       ],
       "part": 4
