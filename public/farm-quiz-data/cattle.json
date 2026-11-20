@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 165,
+  "total": 180,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,411 @@
           "text": "D. Minerals can replace energy in the ration",
           "correct": false,
           "feedback": "Review: Testing helps target deficiencies and avoid potentially toxic oversupply."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should cows be allowed time to rest after a long-distance journey before breeding or handling?",
+      "options": [
+        {
+          "text": "A. Travel stress improves conception",
+          "correct": false,
+          "feedback": "Review: Allow recovery and assess animals before breeding or demanding handling."
+        },
+        {
+          "text": "B. Recovery reduces stress and allows hydration and health to be assessed",
+          "correct": true,
+          "feedback": "Correct. Allow recovery and assess animals before breeding or demanding handling."
+        },
+        {
+          "text": "C. Rest makes identification unnecessary",
+          "correct": false,
+          "feedback": "Review: Allow recovery and assess animals before breeding or demanding handling."
+        },
+        {
+          "text": "D. Cattle cannot become dehydrated during travel",
+          "correct": false,
+          "feedback": "Review: Allow recovery and assess animals before breeding or demanding handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the main risk of feeding mouldy hay to cattle?",
+      "options": [
+        {
+          "text": "A. Mould toxins and poor palatability can harm health and performance",
+          "correct": true,
+          "feedback": "Correct. Reject visibly mouldy or spoiled feed and investigate storage conditions."
+        },
+        {
+          "text": "B. It reliably increases protein",
+          "correct": false,
+          "feedback": "Review: Reject visibly mouldy or spoiled feed and investigate storage conditions."
+        },
+        {
+          "text": "C. It sterilises the rumen",
+          "correct": false,
+          "feedback": "Review: Reject visibly mouldy or spoiled feed and investigate storage conditions."
+        },
+        {
+          "text": "D. It removes the need for minerals",
+          "correct": false,
+          "feedback": "Review: Reject visibly mouldy or spoiled feed and investigate storage conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should a herd have an isolation pen for sick cattle?",
+      "options": [
+        {
+          "text": "A. It should share water troughs with the herd",
+          "correct": false,
+          "feedback": "Review: Isolation supports treatment and disease control."
+        },
+        {
+          "text": "B. It guarantees immediate recovery",
+          "correct": false,
+          "feedback": "Review: Isolation supports treatment and disease control."
+        },
+        {
+          "text": "C. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Review: Isolation supports treatment and disease control."
+        },
+        {
+          "text": "D. It allows observation and care while reducing contact with healthy animals",
+          "correct": true,
+          "feedback": "Correct. Isolation supports treatment and disease control."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What does a body condition score help a cattle manager estimate?",
+      "options": [
+        {
+          "text": "A. Milk bacterial count",
+          "correct": false,
+          "feedback": "Review: Body condition scoring is a practical assessment of energy reserves."
+        },
+        {
+          "text": "B. Exact liveweight without error",
+          "correct": false,
+          "feedback": "Review: Body condition scoring is a practical assessment of energy reserves."
+        },
+        {
+          "text": "C. Fat and muscle reserves on the animal",
+          "correct": true,
+          "feedback": "Correct. Body condition scoring is a practical assessment of energy reserves."
+        },
+        {
+          "text": "D. The age of the calf",
+          "correct": false,
+          "feedback": "Review: Body condition scoring is a practical assessment of energy reserves."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should calf milk-feeding equipment be cleaned after use?",
+      "options": [
+        {
+          "text": "A. Cleaning reduces calf water needs",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps prevent bacterial contamination."
+        },
+        {
+          "text": "B. Milk residues support bacterial growth",
+          "correct": true,
+          "feedback": "Correct. Clean equipment helps prevent bacterial contamination."
+        },
+        {
+          "text": "C. Residue improves immunity",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps prevent bacterial contamination."
+        },
+        {
+          "text": "D. It makes colostrum unnecessary",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps prevent bacterial contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "What is the purpose of a dry-cow period in dairy management?",
+      "options": [
+        {
+          "text": "A. To allow udder tissue recovery before the next lactation",
+          "correct": true,
+          "feedback": "Correct. A planned dry period supports udder recovery and transition management."
+        },
+        {
+          "text": "B. To stop cows drinking",
+          "correct": false,
+          "feedback": "Review: A planned dry period supports udder recovery and transition management."
+        },
+        {
+          "text": "C. To guarantee twins",
+          "correct": false,
+          "feedback": "Review: A planned dry period supports udder recovery and transition management."
+        },
+        {
+          "text": "D. To remove the need for transition feeding",
+          "correct": false,
+          "feedback": "Review: A planned dry period supports udder recovery and transition management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "Why should cattle with bloat signs receive urgent attention?",
+      "options": [
+        {
+          "text": "A. It indicates mineral sufficiency",
+          "correct": false,
+          "feedback": "Review: Bloat can be life-threatening and needs prompt veterinary response."
+        },
+        {
+          "text": "B. Bloat always resolves without intervention",
+          "correct": false,
+          "feedback": "Review: Bloat can be life-threatening and needs prompt veterinary response."
+        },
+        {
+          "text": "C. It is only a coat problem",
+          "correct": false,
+          "feedback": "Review: Bloat can be life-threatening and needs prompt veterinary response."
+        },
+        {
+          "text": "D. Severe rumen distension can rapidly impair breathing and circulation",
+          "correct": true,
+          "feedback": "Correct. Bloat can be life-threatening and needs prompt veterinary response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should a farm record the identity of the sire for each calf?",
+      "options": [
+        {
+          "text": "A. It replaces calf health records",
+          "correct": false,
+          "feedback": "Review: Parentage data supports genetic and herd management."
+        },
+        {
+          "text": "B. It predicts the weather",
+          "correct": false,
+          "feedback": "Review: Parentage data supports genetic and herd management."
+        },
+        {
+          "text": "C. It supports pedigree, breeding and performance decisions",
+          "correct": true,
+          "feedback": "Correct. Parentage data supports genetic and herd management."
+        },
+        {
+          "text": "D. It identifies pasture species",
+          "correct": false,
+          "feedback": "Review: Parentage data supports genetic and herd management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What is the benefit of testing forage before formulating a dairy ration?",
+      "options": [
+        {
+          "text": "A. It guarantees a fixed milk yield",
+          "correct": false,
+          "feedback": "Review: Forage analysis supports more accurate ration formulation."
+        },
+        {
+          "text": "B. It provides better estimates of nutrient content and variability",
+          "correct": true,
+          "feedback": "Correct. Forage analysis supports more accurate ration formulation."
+        },
+        {
+          "text": "C. It eliminates ration balancing",
+          "correct": false,
+          "feedback": "Review: Forage analysis supports more accurate ration formulation."
+        },
+        {
+          "text": "D. It determines the cow's pregnancy status",
+          "correct": false,
+          "feedback": "Review: Forage analysis supports more accurate ration formulation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why are hoof-trimming schedules based on inspection rather than a fixed calendar alone?",
+      "options": [
+        {
+          "text": "A. Hoof growth and wear differ with housing, terrain and individual condition",
+          "correct": true,
+          "feedback": "Correct. Regular inspection helps target trimming when needed and avoid over-trimming."
+        },
+        {
+          "text": "B. Every cow needs trimming every week",
+          "correct": false,
+          "feedback": "Review: Regular inspection helps target trimming when needed and avoid over-trimming."
+        },
+        {
+          "text": "C. Hooves do not grow",
+          "correct": false,
+          "feedback": "Review: Regular inspection helps target trimming when needed and avoid over-trimming."
+        },
+        {
+          "text": "D. Inspection makes lameness impossible",
+          "correct": false,
+          "feedback": "Review: Regular inspection helps target trimming when needed and avoid over-trimming."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of a clean water trough overflow and drainage system?",
+      "options": [
+        {
+          "text": "A. It keeps cattle from drinking",
+          "correct": false,
+          "feedback": "Review: Good drainage helps maintain hygiene and safe footing."
+        },
+        {
+          "text": "B. It increases water contamination",
+          "correct": false,
+          "feedback": "Review: Good drainage helps maintain hygiene and safe footing."
+        },
+        {
+          "text": "C. It replaces trough cleaning",
+          "correct": false,
+          "feedback": "Review: Good drainage helps maintain hygiene and safe footing."
+        },
+        {
+          "text": "D. It prevents stagnant water and muddy areas around the trough",
+          "correct": true,
+          "feedback": "Correct. Good drainage helps maintain hygiene and safe footing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should heifers be bred at an appropriate size and maturity rather than age alone?",
+      "options": [
+        {
+          "text": "A. Small heifers always calve more easily",
+          "correct": false,
+          "feedback": "Review: Use breed-appropriate growth and veterinary advice when setting breeding targets."
+        },
+        {
+          "text": "B. Age alone predicts pelvic size perfectly",
+          "correct": false,
+          "feedback": "Review: Use breed-appropriate growth and veterinary advice when setting breeding targets."
+        },
+        {
+          "text": "C. Growth and body development influence ability to cope with pregnancy and calving",
+          "correct": true,
+          "feedback": "Correct. Use breed-appropriate growth and veterinary advice when setting breeding targets."
+        },
+        {
+          "text": "D. Maturity has no effect on breeding",
+          "correct": false,
+          "feedback": "Review: Use breed-appropriate growth and veterinary advice when setting breeding targets."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What is a useful reason to monitor rumination in dairy cows?",
+      "options": [
+        {
+          "text": "A. It measures exact milk protein",
+          "correct": false,
+          "feedback": "Review: Rumination trends can support early detection but are not a diagnosis."
+        },
+        {
+          "text": "B. Changes can provide an early clue to altered intake or health",
+          "correct": true,
+          "feedback": "Correct. Rumination trends can support early detection but are not a diagnosis."
+        },
+        {
+          "text": "C. It replaces temperature checks",
+          "correct": false,
+          "feedback": "Review: Rumination trends can support early detection but are not a diagnosis."
+        },
+        {
+          "text": "D. It identifies the cow's sire",
+          "correct": false,
+          "feedback": "Review: Rumination trends can support early detection but are not a diagnosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should cattle feed bunks be managed to avoid long periods with no feed?",
+      "options": [
+        {
+          "text": "A. Consistent access helps maintain intake and reduces competition",
+          "correct": true,
+          "feedback": "Correct. Bunk management supports stable intake and social access."
+        },
+        {
+          "text": "B. Fasting improves all production",
+          "correct": false,
+          "feedback": "Review: Bunk management supports stable intake and social access."
+        },
+        {
+          "text": "C. Feed access affects only calves",
+          "correct": false,
+          "feedback": "Review: Bunk management supports stable intake and social access."
+        },
+        {
+          "text": "D. Empty bunks prevent digestive disorders",
+          "correct": false,
+          "feedback": "Review: Bunk management supports stable intake and social access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What should be done when several cattle develop similar unexplained signs?",
+      "options": [
+        {
+          "text": "A. Move the whole herd without assessment",
+          "correct": false,
+          "feedback": "Review: A cluster may indicate a shared exposure or contagious disease."
+        },
+        {
+          "text": "B. Treat each animal with random medicines",
+          "correct": false,
+          "feedback": "Review: A cluster may indicate a shared exposure or contagious disease."
+        },
+        {
+          "text": "C. Ignore the pattern",
+          "correct": false,
+          "feedback": "Review: A cluster may indicate a shared exposure or contagious disease."
+        },
+        {
+          "text": "D. Promptly contact a veterinarian and review shared feed, water and exposure",
+          "correct": true,
+          "feedback": "Correct. A cluster may indicate a shared exposure or contagious disease."
         }
       ],
       "part": 4
