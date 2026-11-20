@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 225,
+  "total": 230,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,141 @@
           "text": "D. It replaces veterinary treatment",
           "correct": false,
           "feedback": "Review: Assess hydration and seek veterinary advice for sick animals."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should cattle water troughs be positioned to avoid manure contamination?",
+      "options": [
+        {
+          "text": "A. It increases milk protein",
+          "correct": false,
+          "feedback": "Review: Keep troughs clean and protected from runoff and faeces."
+        },
+        {
+          "text": "B. Manure improves water quality",
+          "correct": false,
+          "feedback": "Review: Keep troughs clean and protected from runoff and faeces."
+        },
+        {
+          "text": "C. It replaces trough cleaning",
+          "correct": false,
+          "feedback": "Review: Keep troughs clean and protected from runoff and faeces."
+        },
+        {
+          "text": "D. Contamination can spread pathogens and reduce water intake",
+          "correct": true,
+          "feedback": "Correct. Keep troughs clean and protected from runoff and faeces."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking the body condition of bulls before joining?",
+      "options": [
+        {
+          "text": "A. It replaces semen evaluation",
+          "correct": false,
+          "feedback": "Review: Suitable condition supports mobility and reproductive performance."
+        },
+        {
+          "text": "B. It predicts calf sex",
+          "correct": false,
+          "feedback": "Review: Suitable condition supports mobility and reproductive performance."
+        },
+        {
+          "text": "C. It helps assess fitness for breeding activity",
+          "correct": true,
+          "feedback": "Correct. Suitable condition supports mobility and reproductive performance."
+        },
+        {
+          "text": "D. It guarantees conception",
+          "correct": false,
+          "feedback": "Review: Suitable condition supports mobility and reproductive performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should cattle be observed after a new mineral supplement is introduced?",
+      "options": [
+        {
+          "text": "A. All minerals are harmless at any level",
+          "correct": false,
+          "feedback": "Review: Monitor supplement use and follow species-appropriate directions."
+        },
+        {
+          "text": "B. Intake and response should be checked to avoid under- or overconsumption",
+          "correct": true,
+          "feedback": "Correct. Monitor supplement use and follow species-appropriate directions."
+        },
+        {
+          "text": "C. It replaces forage analysis",
+          "correct": false,
+          "feedback": "Review: Monitor supplement use and follow species-appropriate directions."
+        },
+        {
+          "text": "D. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Monitor supplement use and follow species-appropriate directions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can repeated coughing in calves housed together indicate?",
+      "options": [
+        {
+          "text": "A. Poor air quality or a contagious respiratory problem",
+          "correct": true,
+          "feedback": "Correct. Review ventilation, stocking and veterinary health status."
+        },
+        {
+          "text": "B. A sign of good growth",
+          "correct": false,
+          "feedback": "Review: Review ventilation, stocking and veterinary health status."
+        },
+        {
+          "text": "C. It measures milk yield",
+          "correct": false,
+          "feedback": "Review: Review ventilation, stocking and veterinary health status."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review ventilation, stocking and veterinary health status."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should cattle be kept away from spoiled silage leachate?",
+      "options": [
+        {
+          "text": "A. It replaces clean water",
+          "correct": false,
+          "feedback": "Review: Prevent access and manage silage effluent safely."
+        },
+        {
+          "text": "B. It is a useful electrolyte drink",
+          "correct": false,
+          "feedback": "Review: Prevent access and manage silage effluent safely."
+        },
+        {
+          "text": "C. It improves rumen function",
+          "correct": false,
+          "feedback": "Review: Prevent access and manage silage effluent safely."
+        },
+        {
+          "text": "D. It may contain harmful fermentation products and contaminants",
+          "correct": true,
+          "feedback": "Correct. Prevent access and manage silage effluent safely."
         }
       ],
       "part": 4
