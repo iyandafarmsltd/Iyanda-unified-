@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. It replaces quarantine",
           "correct": false,
           "feedback": "Review: Observe behaviour and water quality after relocation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should ducklings be checked for signs of pasty vent after a brooder temperature change?",
+      "options": [
+        {
+          "text": "A. It measures water alkalinity",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "B. It predicts adult egg output",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "C. Stress or unsuitable conditions can contribute to the problem",
+          "correct": true,
+          "feedback": "Correct. Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of recording the number of duck eggs set for incubation?",
+      "options": [
+        {
+          "text": "A. It determines adult body weight",
+          "correct": false,
+          "feedback": "Review: Accurate counts are needed for meaningful hatchery records."
+        },
+        {
+          "text": "B. It provides a denominator for fertility and hatchability calculations",
+          "correct": true,
+          "feedback": "Correct. Accurate counts are needed for meaningful hatchery records."
+        },
+        {
+          "text": "C. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Accurate counts are needed for meaningful hatchery records."
+        },
+        {
+          "text": "D. It measures pond oxygen",
+          "correct": false,
+          "feedback": "Review: Accurate counts are needed for meaningful hatchery records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should ducks have access to dry litter or bedding in night housing?",
+      "options": [
+        {
+          "text": "A. It supports resting comfort and helps protect feet",
+          "correct": true,
+          "feedback": "Correct. Maintain dry, clean resting areas."
+        },
+        {
+          "text": "B. It replaces drinking water",
+          "correct": false,
+          "feedback": "Review: Maintain dry, clean resting areas."
+        },
+        {
+          "text": "C. It prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Maintain dry, clean resting areas."
+        },
+        {
+          "text": "D. It increases heat stress",
+          "correct": false,
+          "feedback": "Review: Maintain dry, clean resting areas."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a sudden change in duck flock vocalisation or activity suggest?",
+      "options": [
+        {
+          "text": "A. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Observe the flock and investigate unusual behaviour."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Observe the flock and investigate unusual behaviour."
+        },
+        {
+          "text": "C. It is always a sign of good health",
+          "correct": false,
+          "feedback": "Review: Observe the flock and investigate unusual behaviour."
+        },
+        {
+          "text": "D. Disturbance, predator presence or health and environmental changes",
+          "correct": true,
+          "feedback": "Correct. Observe the flock and investigate unusual behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should duck farms avoid feeding spoiled kitchen waste?",
+      "options": [
+        {
+          "text": "A. Cooking is never relevant",
+          "correct": false,
+          "feedback": "Review: Use safe, suitable feed and comply with local feed rules."
+        },
+        {
+          "text": "B. Waste always improves nutrition",
+          "correct": false,
+          "feedback": "Review: Use safe, suitable feed and comply with local feed rules."
+        },
+        {
+          "text": "C. It may contain pathogens, toxins or an unbalanced nutrient mix",
+          "correct": true,
+          "feedback": "Correct. Use safe, suitable feed and comply with local feed rules."
+        },
+        {
+          "text": "D. Ducks can safely eat any waste",
+          "correct": false,
+          "feedback": "Review: Use safe, suitable feed and comply with local feed rules."
         }
       ],
       "part": 4
