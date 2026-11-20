@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. Some lambs may not receive enough milk",
           "correct": true,
           "feedback": "Correct. Check each lamb's nursing and growth."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should lambs be checked for signs of navel infection after wet weather?",
+      "options": [
+        {
+          "text": "A. It predicts fleece length",
+          "correct": false,
+          "feedback": "Review: Maintain clean lambing areas and inspect newborns."
+        },
+        {
+          "text": "B. Moist conditions can increase contamination risk",
+          "correct": true,
+          "feedback": "Correct. Maintain clean lambing areas and inspect newborns."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Maintain clean lambing areas and inspect newborns."
+        },
+        {
+          "text": "D. It replaces vaccination",
+          "correct": false,
+          "feedback": "Review: Maintain clean lambing areas and inspect newborns."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of keeping sheep handling equipment in good repair?",
+      "options": [
+        {
+          "text": "A. It reduces injury and escape risks",
+          "correct": true,
+          "feedback": "Correct. Inspect gates, hinges and races regularly."
+        },
+        {
+          "text": "B. It improves wool quality",
+          "correct": false,
+          "feedback": "Review: Inspect gates, hinges and races regularly."
+        },
+        {
+          "text": "C. It determines pregnancy",
+          "correct": false,
+          "feedback": "Review: Inspect gates, hinges and races regularly."
+        },
+        {
+          "text": "D. It replaces stockmanship",
+          "correct": false,
+          "feedback": "Review: Inspect gates, hinges and races regularly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should sheep be monitored for signs of heat stress during shearing?",
+      "options": [
+        {
+          "text": "A. It is unrelated to weather",
+          "correct": false,
+          "feedback": "Review: Plan shearing and recovery around weather and welfare."
+        },
+        {
+          "text": "B. Shearing prevents heat stress automatically",
+          "correct": false,
+          "feedback": "Review: Plan shearing and recovery around weather and welfare."
+        },
+        {
+          "text": "C. It replaces water",
+          "correct": false,
+          "feedback": "Review: Plan shearing and recovery around weather and welfare."
+        },
+        {
+          "text": "D. Handling and fleece removal can add to heat load or weather exposure",
+          "correct": true,
+          "feedback": "Correct. Plan shearing and recovery around weather and welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can an increase in ewe mortality during late pregnancy require?",
+      "options": [
+        {
+          "text": "A. No action if lambs are moving",
+          "correct": false,
+          "feedback": "Review: Investigate promptly because multiple causes may be involved."
+        },
+        {
+          "text": "B. Only a change in shearing date",
+          "correct": false,
+          "feedback": "Review: Investigate promptly because multiple causes may be involved."
+        },
+        {
+          "text": "C. Urgent veterinary investigation of nutrition, disease and management",
+          "correct": true,
+          "feedback": "Correct. Investigate promptly because multiple causes may be involved."
+        },
+        {
+          "text": "D. A reason to stop recording",
+          "correct": false,
+          "feedback": "Review: Investigate promptly because multiple causes may be involved."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should sheep have access to clean water when grazing dry pasture?",
+      "options": [
+        {
+          "text": "A. Water is unnecessary with hay",
+          "correct": false,
+          "feedback": "Review: Ensure water is clean and readily available."
+        },
+        {
+          "text": "B. Dry forage increases the importance of reliable water intake",
+          "correct": true,
+          "feedback": "Correct. Ensure water is clean and readily available."
+        },
+        {
+          "text": "C. It determines fleece colour",
+          "correct": false,
+          "feedback": "Review: Ensure water is clean and readily available."
+        },
+        {
+          "text": "D. It replaces minerals",
+          "correct": false,
+          "feedback": "Review: Ensure water is clean and readily available."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of recording lamb birth type (single, twin or triplet)?",
+      "options": [
+        {
+          "text": "A. It helps interpret growth and plan feeding and care",
+          "correct": true,
+          "feedback": "Correct. Litter size affects lamb management and performance."
+        },
+        {
+          "text": "B. It predicts wool colour",
+          "correct": false,
+          "feedback": "Review: Litter size affects lamb management and performance."
+        },
+        {
+          "text": "C. It replaces dam identity",
+          "correct": false,
+          "feedback": "Review: Litter size affects lamb management and performance."
+        },
+        {
+          "text": "D. It measures pasture height",
+          "correct": false,
+          "feedback": "Review: Litter size affects lamb management and performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should sheep be checked for signs of flystrike during periods of high fly activity?",
+      "options": [
+        {
+          "text": "A. It affects only rams",
+          "correct": false,
+          "feedback": "Review: Inspect vulnerable areas and seek prompt treatment."
+        },
+        {
+          "text": "B. Flies improve fleece",
+          "correct": false,
+          "feedback": "Review: Inspect vulnerable areas and seek prompt treatment."
+        },
+        {
+          "text": "C. It is harmless",
+          "correct": false,
+          "feedback": "Review: Inspect vulnerable areas and seek prompt treatment."
+        },
+        {
+          "text": "D. Fly larvae can cause rapid tissue damage and severe pain",
+          "correct": true,
+          "feedback": "Correct. Inspect vulnerable areas and seek prompt treatment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can poor ewe body condition before mating lead to?",
+      "options": [
+        {
+          "text": "A. It has no reproductive effect",
+          "correct": false,
+          "feedback": "Review: Aim for suitable condition using planned nutrition."
+        },
+        {
+          "text": "B. Guaranteed triplets",
+          "correct": false,
+          "feedback": "Review: Aim for suitable condition using planned nutrition."
+        },
+        {
+          "text": "C. Reduced reproductive performance in some circumstances",
+          "correct": true,
+          "feedback": "Correct. Aim for suitable condition using planned nutrition."
+        },
+        {
+          "text": "D. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Aim for suitable condition using planned nutrition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should sheep feed troughs be cleaned of spoiled leftovers?",
+      "options": [
+        {
+          "text": "A. It improves palatability",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and maintain clean troughs."
+        },
+        {
+          "text": "B. Spoiled feed can reduce intake and create health risks",
+          "correct": true,
+          "feedback": "Correct. Remove spoiled feed and maintain clean troughs."
+        },
+        {
+          "text": "C. It replaces forage testing",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and maintain clean troughs."
+        },
+        {
+          "text": "D. It increases energy",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and maintain clean troughs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of maintaining separate sick pens for sheep?",
+      "options": [
+        {
+          "text": "A. It supports care and reduces contact with healthy flock members",
+          "correct": true,
+          "feedback": "Correct. Use isolation alongside veterinary advice and hygiene."
+        },
+        {
+          "text": "B. It guarantees recovery",
+          "correct": false,
+          "feedback": "Review: Use isolation alongside veterinary advice and hygiene."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Use isolation alongside veterinary advice and hygiene."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Use isolation alongside veterinary advice and hygiene."
         }
       ],
       "part": 4
