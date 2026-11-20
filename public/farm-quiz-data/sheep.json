@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It prevents all disease",
           "correct": false,
           "feedback": "Review: Use isolation alongside veterinary advice and hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should sheep be checked for signs of listeriosis when neurological signs occur?",
+      "options": [
+        {
+          "text": "A. It affects only lambs",
+          "correct": false,
+          "feedback": "Review: Neurological signs need urgent veterinary assessment."
+        },
+        {
+          "text": "B. It predicts fleece grade",
+          "correct": false,
+          "feedback": "Review: Neurological signs need urgent veterinary assessment."
+        },
+        {
+          "text": "C. It is harmless",
+          "correct": false,
+          "feedback": "Review: Neurological signs need urgent veterinary assessment."
+        },
+        {
+          "text": "D. Listeriosis can cause serious neurological disease in sheep",
+          "correct": true,
+          "feedback": "Correct. Neurological signs need urgent veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking sheep water troughs after frost or cold nights?",
+      "options": [
+        {
+          "text": "A. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Ensure reliable access to unfrozen clean water."
+        },
+        {
+          "text": "B. It improves water quality",
+          "correct": false,
+          "feedback": "Review: Ensure reliable access to unfrozen clean water."
+        },
+        {
+          "text": "C. Water may be frozen or supply may be restricted",
+          "correct": true,
+          "feedback": "Correct. Ensure reliable access to unfrozen clean water."
+        },
+        {
+          "text": "D. It replaces pasture checks",
+          "correct": false,
+          "feedback": "Review: Ensure reliable access to unfrozen clean water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should lambs be monitored for signs of hypothermia after difficult births?",
+      "options": [
+        {
+          "text": "A. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Dry, warm and assess newborns promptly."
+        },
+        {
+          "text": "B. Exhaustion and exposure can reduce their ability to maintain body temperature",
+          "correct": true,
+          "feedback": "Correct. Dry, warm and assess newborns promptly."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Dry, warm and assess newborns promptly."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Dry, warm and assess newborns promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a sudden decline in ewe milk production indicate?",
+      "options": [
+        {
+          "text": "A. Mastitis, poor nutrition, stress or other illness",
+          "correct": true,
+          "feedback": "Correct. Review udder health, feed, water and lamb nursing."
+        },
+        {
+          "text": "B. It determines fleece colour",
+          "correct": false,
+          "feedback": "Review: Review udder health, feed, water and lamb nursing."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review udder health, feed, water and lamb nursing."
+        },
+        {
+          "text": "D. It predicts twins",
+          "correct": false,
+          "feedback": "Review: Review udder health, feed, water and lamb nursing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should sheep be protected from access to toxic garden clippings?",
+      "options": [
+        {
+          "text": "A. It improves forage",
+          "correct": false,
+          "feedback": "Review: Identify plant material and dispose of it safely."
+        },
+        {
+          "text": "B. All clippings are safe",
+          "correct": false,
+          "feedback": "Review: Identify plant material and dispose of it safely."
+        },
+        {
+          "text": "C. Sheep can digest every plant",
+          "correct": false,
+          "feedback": "Review: Identify plant material and dispose of it safely."
+        },
+        {
+          "text": "D. Some ornamental plants are poisonous to livestock",
+          "correct": true,
+          "feedback": "Correct. Identify plant material and dispose of it safely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of monitoring lamb weight gain after weaning?",
+      "options": [
+        {
+          "text": "A. It replaces parasite control",
+          "correct": false,
+          "feedback": "Review: Track growth and adjust management where needed."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Track growth and adjust management where needed."
+        },
+        {
+          "text": "C. It helps assess adaptation to solid feed and pasture",
+          "correct": true,
+          "feedback": "Correct. Track growth and adjust management where needed."
+        },
+        {
+          "text": "D. It predicts fleece colour",
+          "correct": false,
+          "feedback": "Review: Track growth and adjust management where needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should sheep be inspected for foot problems after transport?",
+      "options": [
+        {
+          "text": "A. Transport cures foot disease",
+          "correct": false,
+          "feedback": "Review: Check mobility and treat concerns promptly."
+        },
+        {
+          "text": "B. Long journeys and unfamiliar footing can aggravate lameness",
+          "correct": true,
+          "feedback": "Correct. Check mobility and treat concerns promptly."
+        },
+        {
+          "text": "C. It predicts wool yield",
+          "correct": false,
+          "feedback": "Review: Check mobility and treat concerns promptly."
+        },
+        {
+          "text": "D. It is unrelated to handling",
+          "correct": false,
+          "feedback": "Review: Check mobility and treat concerns promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can repeated ewe coughing in a dusty shed indicate?",
+      "options": [
+        {
+          "text": "A. Dust irritation or respiratory disease",
+          "correct": true,
+          "feedback": "Correct. Improve air quality and seek veterinary advice if persistent."
+        },
+        {
+          "text": "B. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Improve air quality and seek veterinary advice if persistent."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Improve air quality and seek veterinary advice if persistent."
+        },
+        {
+          "text": "D. It predicts milk yield",
+          "correct": false,
+          "feedback": "Review: Improve air quality and seek veterinary advice if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should lambing records include stillbirths?",
+      "options": [
+        {
+          "text": "A. It determines feed quality",
+          "correct": false,
+          "feedback": "Review: Record outcomes consistently for flock review."
+        },
+        {
+          "text": "B. It predicts fleece colour",
+          "correct": false,
+          "feedback": "Review: Record outcomes consistently for flock review."
+        },
+        {
+          "text": "C. It replaces ewe identity",
+          "correct": false,
+          "feedback": "Review: Record outcomes consistently for flock review."
+        },
+        {
+          "text": "D. They help assess reproductive performance and identify patterns",
+          "correct": true,
+          "feedback": "Correct. Record outcomes consistently for flock review."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of separating sheep with suspected contagious disease?",
+      "options": [
+        {
+          "text": "A. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Use isolation and veterinary guidance."
+        },
+        {
+          "text": "B. It guarantees recovery",
+          "correct": false,
+          "feedback": "Review: Use isolation and veterinary guidance."
+        },
+        {
+          "text": "C. It reduces contact with healthy flock members while care is arranged",
+          "correct": true,
+          "feedback": "Correct. Use isolation and veterinary guidance."
+        },
+        {
+          "text": "D. It prevents all future illness",
+          "correct": false,
+          "feedback": "Review: Use isolation and veterinary guidance."
         }
       ],
       "part": 4
