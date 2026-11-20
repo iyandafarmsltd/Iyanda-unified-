@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. Shade prevents all infectious disease",
           "correct": false,
           "feedback": "Review: Provide shade, water and suitable handling times during hot weather."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should lambs be checked for a warm mouth and normal activity soon after birth?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Newborn lamb condition needs close monitoring, especially in cold weather."
+        },
+        {
+          "text": "B. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Newborn lamb condition needs close monitoring, especially in cold weather."
+        },
+        {
+          "text": "C. Coldness or weakness can indicate hypothermia or inadequate intake",
+          "correct": true,
+          "feedback": "Correct. Newborn lamb condition needs close monitoring, especially in cold weather."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Newborn lamb condition needs close monitoring, especially in cold weather."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of recording ewe pregnancy scan results?",
+      "options": [
+        {
+          "text": "A. It predicts fleece colour",
+          "correct": false,
+          "feedback": "Review: Litter-size information supports targeted feeding and preparation."
+        },
+        {
+          "text": "B. It helps plan nutrition and allocate lambing attention",
+          "correct": true,
+          "feedback": "Correct. Litter-size information supports targeted feeding and preparation."
+        },
+        {
+          "text": "C. It replaces ram identification",
+          "correct": false,
+          "feedback": "Review: Litter-size information supports targeted feeding and preparation."
+        },
+        {
+          "text": "D. It guarantees all lambs survive",
+          "correct": false,
+          "feedback": "Review: Litter-size information supports targeted feeding and preparation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should sheep handling yards have non-slip surfaces?",
+      "options": [
+        {
+          "text": "A. Slips can cause injury and increase stress",
+          "correct": true,
+          "feedback": "Correct. Safe footing is important for humane handling."
+        },
+        {
+          "text": "B. Slippery floors improve movement",
+          "correct": false,
+          "feedback": "Review: Safe footing is important for humane handling."
+        },
+        {
+          "text": "C. It replaces race design",
+          "correct": false,
+          "feedback": "Review: Safe footing is important for humane handling."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Safe footing is important for humane handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What can a sheep with a swollen jaw or face need?",
+      "options": [
+        {
+          "text": "A. Immediate mixing with new stock",
+          "correct": false,
+          "feedback": "Review: Swelling has multiple possible causes and should be assessed."
+        },
+        {
+          "text": "B. A routine change in shearing time",
+          "correct": false,
+          "feedback": "Review: Swelling has multiple possible causes and should be assessed."
+        },
+        {
+          "text": "C. No attention if it is grazing",
+          "correct": false,
+          "feedback": "Review: Swelling has multiple possible causes and should be assessed."
+        },
+        {
+          "text": "D. Prompt veterinary assessment to identify injury, infection or other causes",
+          "correct": true,
+          "feedback": "Correct. Swelling has multiple possible causes and should be assessed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should lambs be introduced to creep feed in clean troughs?",
+      "options": [
+        {
+          "text": "A. It replaces pasture",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment supports hygiene and intake."
+        },
+        {
+          "text": "B. Dirty troughs improve immunity",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment supports hygiene and intake."
+        },
+        {
+          "text": "C. Clean troughs reduce contamination and support feed acceptance",
+          "correct": true,
+          "feedback": "Correct. Clean feeding equipment supports hygiene and intake."
+        },
+        {
+          "text": "D. It guarantees uniform growth",
+          "correct": false,
+          "feedback": "Review: Clean feeding equipment supports hygiene and intake."
         }
       ],
       "part": 4
