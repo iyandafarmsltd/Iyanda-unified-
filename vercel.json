@@ -25,7 +25,7 @@
         },
         {
           "key": "Content-Security-Policy-Report-Only",
-          "value": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self' https://esm.sh https://*.posthog.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https://cvtgsisxjkgkxnjfhswf.supabase.co wss://cvtgsisxjkgkxnjfhswf.supabase.co https://esm.sh https://*.posthog.com; worker-src 'self' blob: https://esm.sh https://*.posthog.com; media-src 'self' data: blob: https:; manifest-src 'self'"
+          "value": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self' https://esm.sh; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https://cvtgsisxjkgkxnjfhswf.supabase.co wss://cvtgsisxjkgkxnjfhswf.supabase.co https://esm.sh; worker-src 'self' blob: https://esm.sh; media-src 'self' data: blob: https:; manifest-src 'self'"
         }
       ]
     }
