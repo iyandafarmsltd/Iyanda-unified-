@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It can be nutritionally unbalanced and contaminated",
           "correct": true,
           "feedback": "Correct. Provide a suitable ration and avoid spoiled waste."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should ducks be observed for signs of lameness after moving to a new range?",
+      "options": [
+        {
+          "text": "A. It is always normal",
+          "correct": false,
+          "feedback": "Review: Inspect footing and birds after a move."
+        },
+        {
+          "text": "B. It determines egg size",
+          "correct": false,
+          "feedback": "Review: Inspect footing and birds after a move."
+        },
+        {
+          "text": "C. It predicts fertility",
+          "correct": false,
+          "feedback": "Review: Inspect footing and birds after a move."
+        },
+        {
+          "text": "D. Uneven or unfamiliar ground can expose injuries or mobility problems",
+          "correct": true,
+          "feedback": "Correct. Inspect footing and birds after a move."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of cleaning duck nest bedding regularly?",
+      "options": [
+        {
+          "text": "A. It replaces egg collection",
+          "correct": false,
+          "feedback": "Review: Keep nest areas dry and clean."
+        },
+        {
+          "text": "B. It increases egg fertility",
+          "correct": false,
+          "feedback": "Review: Keep nest areas dry and clean."
+        },
+        {
+          "text": "C. It reduces contamination and helps keep eggs clean",
+          "correct": true,
+          "feedback": "Correct. Keep nest areas dry and clean."
+        },
+        {
+          "text": "D. It determines hatchling sex",
+          "correct": false,
+          "feedback": "Review: Keep nest areas dry and clean."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should duck drinking water be supplied separately from bathing water?",
+      "options": [
+        {
+          "text": "A. Ducks do not need clean drinking water",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water separately."
+        },
+        {
+          "text": "B. Bathing water can become contaminated quickly",
+          "correct": true,
+          "feedback": "Correct. Provide clean drinking water and manage bathing water separately."
+        },
+        {
+          "text": "C. Pond water is always sterile",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water separately."
+        },
+        {
+          "text": "D. It replaces trough cleaning",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water separately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a sudden drop in duck feed intake during hot weather indicate?",
+      "options": [
+        {
+          "text": "A. Heat stress may be reducing appetite",
+          "correct": true,
+          "feedback": "Correct. Provide shade, ventilation and clean water; monitor the flock."
+        },
+        {
+          "text": "B. It proves the feed is superior",
+          "correct": false,
+          "feedback": "Review: Provide shade, ventilation and clean water; monitor the flock."
+        },
+        {
+          "text": "C. It predicts egg sex",
+          "correct": false,
+          "feedback": "Review: Provide shade, ventilation and clean water; monitor the flock."
+        },
+        {
+          "text": "D. It means water should be limited",
+          "correct": false,
+          "feedback": "Review: Provide shade, ventilation and clean water; monitor the flock."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should duck eggs be handled with clean hands or gloves?",
+      "options": [
+        {
+          "text": "A. It improves shell thickness",
+          "correct": false,
+          "feedback": "Review: Use hygienic egg collection and storage practices."
+        },
+        {
+          "text": "B. It determines embryo sex",
+          "correct": false,
+          "feedback": "Review: Use hygienic egg collection and storage practices."
+        },
+        {
+          "text": "C. It replaces nest sanitation",
+          "correct": false,
+          "feedback": "Review: Use hygienic egg collection and storage practices."
+        },
+        {
+          "text": "D. It reduces contamination during collection",
+          "correct": true,
+          "feedback": "Correct. Use hygienic egg collection and storage practices."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of keeping ducks away from feed stores during cleaning?",
+      "options": [
+        {
+          "text": "A. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Separate birds from chemical use and storage."
+        },
+        {
+          "text": "B. It increases feed intake",
+          "correct": false,
+          "feedback": "Review: Separate birds from chemical use and storage."
+        },
+        {
+          "text": "C. It prevents accidental ingestion of cleaning chemicals or contaminated material",
+          "correct": true,
+          "feedback": "Correct. Separate birds from chemical use and storage."
+        },
+        {
+          "text": "D. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Review: Separate birds from chemical use and storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should ducklings be monitored for leg weakness?",
+      "options": [
+        {
+          "text": "A. It predicts adult feather colour",
+          "correct": false,
+          "feedback": "Review: Review diet and footing and seek veterinary guidance."
+        },
+        {
+          "text": "B. It can be associated with nutrition, injury or developmental issues",
+          "correct": true,
+          "feedback": "Correct. Review diet and footing and seek veterinary guidance."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review diet and footing and seek veterinary guidance."
+        },
+        {
+          "text": "D. It determines pond depth",
+          "correct": false,
+          "feedback": "Review: Review diet and footing and seek veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can a duck flock's sudden reluctance to enter night housing indicate?",
+      "options": [
+        {
+          "text": "A. Disturbance, predator pressure or poor shelter access",
+          "correct": true,
+          "feedback": "Correct. Inspect security, lighting and access."
+        },
+        {
+          "text": "B. It proves the shelter is ideal",
+          "correct": false,
+          "feedback": "Review: Inspect security, lighting and access."
+        },
+        {
+          "text": "C. It determines hatch rate",
+          "correct": false,
+          "feedback": "Review: Inspect security, lighting and access."
+        },
+        {
+          "text": "D. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Review: Inspect security, lighting and access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should duck farm manure be managed away from pond inlets?",
+      "options": [
+        {
+          "text": "A. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and manage waste responsibly."
+        },
+        {
+          "text": "B. Manure sterilises ponds",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and manage waste responsibly."
+        },
+        {
+          "text": "C. It increases oxygen",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and manage waste responsibly."
+        },
+        {
+          "text": "D. Runoff can add nutrients and contaminants to water",
+          "correct": true,
+          "feedback": "Correct. Prevent runoff and manage waste responsibly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of recording duck flock mortality by pen?",
+      "options": [
+        {
+          "text": "A. It replaces veterinary checks",
+          "correct": false,
+          "feedback": "Review: Pen-level records help identify patterns."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Pen-level records help identify patterns."
+        },
+        {
+          "text": "C. It can reveal location-specific management or health problems",
+          "correct": true,
+          "feedback": "Correct. Pen-level records help identify patterns."
+        },
+        {
+          "text": "D. It predicts rainfall",
+          "correct": false,
+          "feedback": "Review: Pen-level records help identify patterns."
         }
       ],
       "part": 4
