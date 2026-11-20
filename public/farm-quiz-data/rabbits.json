@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It prevents dental disease",
           "correct": false,
           "feedback": "Review: Keep forage clean and accessible."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should rabbit water be checked for freezing or overheating in extreme weather?",
+      "options": [
+        {
+          "text": "A. Rabbits do not need water in cold weather",
+          "correct": false,
+          "feedback": "Review: Keep water available and at a suitable temperature."
+        },
+        {
+          "text": "B. Water temperature determines sex",
+          "correct": false,
+          "feedback": "Review: Keep water available and at a suitable temperature."
+        },
+        {
+          "text": "C. Temperature extremes can reduce drinking and compromise hydration",
+          "correct": true,
+          "feedback": "Correct. Keep water available and at a suitable temperature."
+        },
+        {
+          "text": "D. It replaces feed checks",
+          "correct": false,
+          "feedback": "Review: Keep water available and at a suitable temperature."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking rabbit feet for sore hocks?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Inspect feet and review flooring and body condition."
+        },
+        {
+          "text": "B. Sore hocks can cause pain and affect movement",
+          "correct": true,
+          "feedback": "Correct. Inspect feet and review flooring and body condition."
+        },
+        {
+          "text": "C. It measures body fat",
+          "correct": false,
+          "feedback": "Review: Inspect feet and review flooring and body condition."
+        },
+        {
+          "text": "D. It replaces dental checks",
+          "correct": false,
+          "feedback": "Review: Inspect feet and review flooring and body condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should a rabbit's diet not be changed suddenly before transport?",
+      "options": [
+        {
+          "text": "A. A sudden change can disrupt digestion during an already stressful event",
+          "correct": true,
+          "feedback": "Correct. Keep routine stable and provide familiar feed and water."
+        },
+        {
+          "text": "B. It prevents stress",
+          "correct": false,
+          "feedback": "Review: Keep routine stable and provide familiar feed and water."
+        },
+        {
+          "text": "C. It improves gut movement instantly",
+          "correct": false,
+          "feedback": "Review: Keep routine stable and provide familiar feed and water."
+        },
+        {
+          "text": "D. It replaces water",
+          "correct": false,
+          "feedback": "Review: Keep routine stable and provide familiar feed and water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a doe that fails to nurse her kits require?",
+      "options": [
+        {
+          "text": "A. A change in buck",
+          "correct": false,
+          "feedback": "Review: Ensure kits receive adequate nutrition and seek experienced veterinary guidance."
+        },
+        {
+          "text": "B. Immediate removal of all kits without review",
+          "correct": false,
+          "feedback": "Review: Ensure kits receive adequate nutrition and seek experienced veterinary guidance."
+        },
+        {
+          "text": "C. No action if nest is warm",
+          "correct": false,
+          "feedback": "Review: Ensure kits receive adequate nutrition and seek experienced veterinary guidance."
+        },
+        {
+          "text": "D. Assessment of maternal behaviour, milk supply and kit health",
+          "correct": true,
+          "feedback": "Correct. Ensure kits receive adequate nutrition and seek experienced veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should rabbit feed containers have tight-fitting lids?",
+      "options": [
+        {
+          "text": "A. They replace cleaning",
+          "correct": false,
+          "feedback": "Review: Store feed securely and rotate stock."
+        },
+        {
+          "text": "B. They improve nutrient content",
+          "correct": false,
+          "feedback": "Review: Store feed securely and rotate stock."
+        },
+        {
+          "text": "C. They protect feed from pests, moisture and contamination",
+          "correct": true,
+          "feedback": "Correct. Store feed securely and rotate stock."
+        },
+        {
+          "text": "D. They guarantee feed freshness",
+          "correct": false,
+          "feedback": "Review: Store feed securely and rotate stock."
         }
       ],
       "part": 4
