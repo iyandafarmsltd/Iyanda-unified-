@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It reduces the need for cleaning",
           "correct": false,
           "feedback": "Review: Use controlled movement and biosecurity procedures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should poultry feeders be checked for uneven feed distribution?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Even distribution supports flock access and performance."
+        },
+        {
+          "text": "B. It determines egg sex",
+          "correct": false,
+          "feedback": "Review: Even distribution supports flock access and performance."
+        },
+        {
+          "text": "C. It increases vaccination response",
+          "correct": false,
+          "feedback": "Review: Even distribution supports flock access and performance."
+        },
+        {
+          "text": "D. Some birds may receive less feed, leading to poor uniformity",
+          "correct": true,
+          "feedback": "Correct. Even distribution supports flock access and performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of keeping a record of poultry house temperature at bird level?",
+      "options": [
+        {
+          "text": "A. It predicts hatchability",
+          "correct": false,
+          "feedback": "Review: Bird-level readings are more useful than room readings alone."
+        },
+        {
+          "text": "B. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Bird-level readings are more useful than room readings alone."
+        },
+        {
+          "text": "C. It reflects the conditions birds actually experience",
+          "correct": true,
+          "feedback": "Correct. Bird-level readings are more useful than room readings alone."
+        },
+        {
+          "text": "D. It replaces ventilation checks",
+          "correct": false,
+          "feedback": "Review: Bird-level readings are more useful than room readings alone."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should hatching eggs with abnormal shell texture be evaluated carefully?",
+      "options": [
+        {
+          "text": "A. Texture predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Select eggs according to hatchery quality criteria."
+        },
+        {
+          "text": "B. Shell defects may affect gas exchange and hatch success",
+          "correct": true,
+          "feedback": "Correct. Select eggs according to hatchery quality criteria."
+        },
+        {
+          "text": "C. All shell defects are harmless",
+          "correct": false,
+          "feedback": "Review: Select eggs according to hatchery quality criteria."
+        },
+        {
+          "text": "D. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Select eggs according to hatchery quality criteria."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can persistent watery eyes in chickens indicate?",
+      "options": [
+        {
+          "text": "A. Irritation or respiratory disease",
+          "correct": true,
+          "feedback": "Correct. Review dust, ammonia and health signs; seek veterinary advice if persistent."
+        },
+        {
+          "text": "B. A sign of high egg production",
+          "correct": false,
+          "feedback": "Review: Review dust, ammonia and health signs; seek veterinary advice if persistent."
+        },
+        {
+          "text": "C. Proof of good ventilation",
+          "correct": false,
+          "feedback": "Review: Review dust, ammonia and health signs; seek veterinary advice if persistent."
+        },
+        {
+          "text": "D. A normal sign in every bird",
+          "correct": false,
+          "feedback": "Review: Review dust, ammonia and health signs; seek veterinary advice if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should poultry drinker lines be sanitised only with suitable products and procedures?",
+      "options": [
+        {
+          "text": "A. Residues improve immunity",
+          "correct": false,
+          "feedback": "Review: Use approved products and follow label directions."
+        },
+        {
+          "text": "B. Any chemical is safe when diluted",
+          "correct": false,
+          "feedback": "Review: Use approved products and follow label directions."
+        },
+        {
+          "text": "C. Sanitising replaces flushing",
+          "correct": false,
+          "feedback": "Review: Use approved products and follow label directions."
+        },
+        {
+          "text": "D. Incorrect chemicals or residues can harm birds and affect water safety",
+          "correct": true,
+          "feedback": "Correct. Use approved products and follow label directions."
         }
       ],
       "part": 4
