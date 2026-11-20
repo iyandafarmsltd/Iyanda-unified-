@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. To determine bird age",
           "correct": false,
           "feedback": "Review: Withdrawal compliance protects consumers and meets product requirements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should poultry drinker water lines be protected from direct sunlight where possible?",
+      "options": [
+        {
+          "text": "A. It removes the need for flushing",
+          "correct": false,
+          "feedback": "Review: Manage water temperature and hygiene as part of the water programme."
+        },
+        {
+          "text": "B. Sunlight increases vaccine potency",
+          "correct": false,
+          "feedback": "Review: Manage water temperature and hygiene as part of the water programme."
+        },
+        {
+          "text": "C. It sterilises biofilm inside pipes",
+          "correct": false,
+          "feedback": "Review: Manage water temperature and hygiene as part of the water programme."
+        },
+        {
+          "text": "D. Warm water can encourage microbial growth and reduce water freshness",
+          "correct": true,
+          "feedback": "Correct. Manage water temperature and hygiene as part of the water programme."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of checking broiler breast blisters or footpad lesions?",
+      "options": [
+        {
+          "text": "A. They predict feed protein",
+          "correct": false,
+          "feedback": "Review: Lesion monitoring can identify housing issues needing correction."
+        },
+        {
+          "text": "B. They measure egg fertility",
+          "correct": false,
+          "feedback": "Review: Lesion monitoring can identify housing issues needing correction."
+        },
+        {
+          "text": "C. They can indicate litter, flooring or welfare problems",
+          "correct": true,
+          "feedback": "Correct. Lesion monitoring can identify housing issues needing correction."
+        },
+        {
+          "text": "D. They are always harmless",
+          "correct": false,
+          "feedback": "Review: Lesion monitoring can identify housing issues needing correction."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should a layer flock's calcium source particle size be considered?",
+      "options": [
+        {
+          "text": "A. Particle size determines hen sex",
+          "correct": false,
+          "feedback": "Review: Ration design should consider calcium source and feeding strategy."
+        },
+        {
+          "text": "B. Different particle sizes can affect calcium availability over the day",
+          "correct": true,
+          "feedback": "Correct. Ration design should consider calcium source and feeding strategy."
+        },
+        {
+          "text": "C. It replaces calcium analysis",
+          "correct": false,
+          "feedback": "Review: Ration design should consider calcium source and feeding strategy."
+        },
+        {
+          "text": "D. All particle sizes behave identically",
+          "correct": false,
+          "feedback": "Review: Ration design should consider calcium source and feeding strategy."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What should a farmer do if feed intake drops but water intake remains normal?",
+      "options": [
+        {
+          "text": "A. Check feed quality, delivery equipment, environment and flock health",
+          "correct": true,
+          "feedback": "Correct. Investigate changes systematically rather than guessing the cause."
+        },
+        {
+          "text": "B. Assume the birds are full forever",
+          "correct": false,
+          "feedback": "Review: Investigate changes systematically rather than guessing the cause."
+        },
+        {
+          "text": "C. Remove all feeders",
+          "correct": false,
+          "feedback": "Review: Investigate changes systematically rather than guessing the cause."
+        },
+        {
+          "text": "D. Increase stocking density",
+          "correct": false,
+          "feedback": "Review: Investigate changes systematically rather than guessing the cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should poultry houses have a clear clean-to-dirty movement direction?",
+      "options": [
+        {
+          "text": "A. It guarantees no disease",
+          "correct": false,
+          "feedback": "Review: A defined workflow strengthens biosecurity."
+        },
+        {
+          "text": "B. It improves egg shell colour",
+          "correct": false,
+          "feedback": "Review: A defined workflow strengthens biosecurity."
+        },
+        {
+          "text": "C. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Review: A defined workflow strengthens biosecurity."
+        },
+        {
+          "text": "D. It reduces the chance of carrying contamination into clean areas",
+          "correct": true,
+          "feedback": "Correct. A defined workflow strengthens biosecurity."
         }
       ],
       "part": 4
