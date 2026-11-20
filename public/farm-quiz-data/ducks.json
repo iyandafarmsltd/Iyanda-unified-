@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. Field treatment has no relevance to livestock",
           "correct": false,
           "feedback": "Review: Observe product re-entry and grazing restrictions and seek local advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should duck housing be checked for ammonia build-up?",
+      "options": [
+        {
+          "text": "A. It is harmless at any concentration",
+          "correct": false,
+          "feedback": "Review: Ventilation and litter management help control ammonia."
+        },
+        {
+          "text": "B. Ammonia improves feather condition",
+          "correct": false,
+          "feedback": "Review: Ventilation and litter management help control ammonia."
+        },
+        {
+          "text": "C. It increases pond oxygen",
+          "correct": false,
+          "feedback": "Review: Ventilation and litter management help control ammonia."
+        },
+        {
+          "text": "D. Ammonia irritates respiratory tissues and can harm bird welfare",
+          "correct": true,
+          "feedback": "Correct. Ventilation and litter management help control ammonia."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of providing ducklings with non-slip flooring?",
+      "options": [
+        {
+          "text": "A. It replaces brooder warmth",
+          "correct": false,
+          "feedback": "Review: Suitable footing supports mobility in young birds."
+        },
+        {
+          "text": "B. It changes their growth genetics",
+          "correct": false,
+          "feedback": "Review: Suitable footing supports mobility in young birds."
+        },
+        {
+          "text": "C. It helps reduce leg strain and slipping injuries",
+          "correct": true,
+          "feedback": "Correct. Suitable footing supports mobility in young birds."
+        },
+        {
+          "text": "D. It prevents all infections",
+          "correct": false,
+          "feedback": "Review: Suitable footing supports mobility in young birds."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should a duck flock's feed intake be compared with water use?",
+      "options": [
+        {
+          "text": "A. The two are unrelated",
+          "correct": false,
+          "feedback": "Review: Monitor both patterns to identify possible management changes."
+        },
+        {
+          "text": "B. Changes in either can help reveal equipment, health or diet issues",
+          "correct": true,
+          "feedback": "Correct. Monitor both patterns to identify possible management changes."
+        },
+        {
+          "text": "C. It predicts egg shell colour",
+          "correct": false,
+          "feedback": "Review: Monitor both patterns to identify possible management changes."
+        },
+        {
+          "text": "D. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Monitor both patterns to identify possible management changes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What should be done with duck eggs that are heavily soiled or cracked?",
+      "options": [
+        {
+          "text": "A. Handle them according to food-safety or hatchery rules and exclude unsuitable eggs",
+          "correct": true,
+          "feedback": "Correct. Egg selection and handling should follow appropriate hygiene standards."
+        },
+        {
+          "text": "B. Incubate every cracked egg",
+          "correct": false,
+          "feedback": "Review: Egg selection and handling should follow appropriate hygiene standards."
+        },
+        {
+          "text": "C. Wash with any household chemical",
+          "correct": false,
+          "feedback": "Review: Egg selection and handling should follow appropriate hygiene standards."
+        },
+        {
+          "text": "D. Mix them with clean eggs without inspection",
+          "correct": false,
+          "feedback": "Review: Egg selection and handling should follow appropriate hygiene standards."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should pond edges have gentle, safe access points?",
+      "options": [
+        {
+          "text": "A. They increase water contamination",
+          "correct": false,
+          "feedback": "Review: Safe banks support bird access and pond integrity."
+        },
+        {
+          "text": "B. They prevent ducks from drinking",
+          "correct": false,
+          "feedback": "Review: Safe banks support bird access and pond integrity."
+        },
+        {
+          "text": "C. They replace pond testing",
+          "correct": false,
+          "feedback": "Review: Safe banks support bird access and pond integrity."
+        },
+        {
+          "text": "D. They reduce injury risk and help manage erosion",
+          "correct": true,
+          "feedback": "Correct. Safe banks support bird access and pond integrity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What can persistent limping in a duck require?",
+      "options": [
+        {
+          "text": "A. No action if it still eats",
+          "correct": false,
+          "feedback": "Review: Lameness can arise from injury, infection or nutrition problems."
+        },
+        {
+          "text": "B. A change in egg collection time only",
+          "correct": false,
+          "feedback": "Review: Lameness can arise from injury, infection or nutrition problems."
+        },
+        {
+          "text": "C. Foot and leg examination and veterinary assessment",
+          "correct": true,
+          "feedback": "Correct. Lameness can arise from injury, infection or nutrition problems."
+        },
+        {
+          "text": "D. Immediate release into a new pond",
+          "correct": false,
+          "feedback": "Review: Lameness can arise from injury, infection or nutrition problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should duck breeders be checked for adequate body condition before laying?",
+      "options": [
+        {
+          "text": "A. Condition predicts exact hatchability",
+          "correct": false,
+          "feedback": "Review: Monitor breeder condition alongside diet and production records."
+        },
+        {
+          "text": "B. Poor condition can affect health and reproductive performance",
+          "correct": true,
+          "feedback": "Correct. Monitor breeder condition alongside diet and production records."
+        },
+        {
+          "text": "C. It replaces balanced feed",
+          "correct": false,
+          "feedback": "Review: Monitor breeder condition alongside diet and production records."
+        },
+        {
+          "text": "D. Only males need assessment",
+          "correct": false,
+          "feedback": "Review: Monitor breeder condition alongside diet and production records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What is the purpose of recording duck egg production by pen or group?",
+      "options": [
+        {
+          "text": "A. It helps compare performance and identify changes",
+          "correct": true,
+          "feedback": "Correct. Group-level records help target investigation."
+        },
+        {
+          "text": "B. It determines pond depth",
+          "correct": false,
+          "feedback": "Review: Group-level records help target investigation."
+        },
+        {
+          "text": "C. It replaces fertility records",
+          "correct": false,
+          "feedback": "Review: Group-level records help target investigation."
+        },
+        {
+          "text": "D. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Group-level records help target investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should ducks not be given access to stagnant, foul water as their only drinking source?",
+      "options": [
+        {
+          "text": "A. Foul water improves digestion",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage ponds separately."
+        },
+        {
+          "text": "B. Stagnant water is always sterile",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage ponds separately."
+        },
+        {
+          "text": "C. Ducks do not need clean drinking water",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage ponds separately."
+        },
+        {
+          "text": "D. Poor-quality water can expose them to pathogens and contaminants",
+          "correct": true,
+          "feedback": "Correct. Provide clean drinking water and manage ponds separately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is a useful way to reduce feed contamination by wild birds?",
+      "options": [
+        {
+          "text": "A. Store feed beside open ponds",
+          "correct": false,
+          "feedback": "Review: Feed protection limits pests and disease exposure."
+        },
+        {
+          "text": "B. Leave feed scattered overnight",
+          "correct": false,
+          "feedback": "Review: Feed protection limits pests and disease exposure."
+        },
+        {
+          "text": "C. Use covered feeders and secure feed storage",
+          "correct": true,
+          "feedback": "Correct. Feed protection limits pests and disease exposure."
+        },
+        {
+          "text": "D. Use wet sacks",
+          "correct": false,
+          "feedback": "Review: Feed protection limits pests and disease exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should ducklings be kept away from steep-sided water containers?",
+      "options": [
+        {
+          "text": "A. They cannot drink from shallow water",
+          "correct": false,
+          "feedback": "Review: Provide safe waterers appropriate to duckling size."
+        },
+        {
+          "text": "B. They may struggle to exit and become exhausted or chilled",
+          "correct": true,
+          "feedback": "Correct. Provide safe waterers appropriate to duckling size."
+        },
+        {
+          "text": "C. Steep sides improve safety",
+          "correct": false,
+          "feedback": "Review: Provide safe waterers appropriate to duckling size."
+        },
+        {
+          "text": "D. Water access is unnecessary",
+          "correct": false,
+          "feedback": "Review: Provide safe waterers appropriate to duckling size."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What should be monitored when introducing new ducks into an existing flock?",
+      "options": [
+        {
+          "text": "A. Health signs, behaviour, resource access and signs of aggression",
+          "correct": true,
+          "feedback": "Correct. Observe new groups closely and maintain biosecurity."
+        },
+        {
+          "text": "B. Only feather colour",
+          "correct": false,
+          "feedback": "Review: Observe new groups closely and maintain biosecurity."
+        },
+        {
+          "text": "C. Pond colour alone",
+          "correct": false,
+          "feedback": "Review: Observe new groups closely and maintain biosecurity."
+        },
+        {
+          "text": "D. Nothing after release",
+          "correct": false,
+          "feedback": "Review: Observe new groups closely and maintain biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should duck houses be cleaned before new birds arrive?",
+      "options": [
+        {
+          "text": "A. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Cleaning and drying are important parts of preparation."
+        },
+        {
+          "text": "B. It makes ventilation unnecessary",
+          "correct": false,
+          "feedback": "Review: Cleaning and drying are important parts of preparation."
+        },
+        {
+          "text": "C. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Review: Cleaning and drying are important parts of preparation."
+        },
+        {
+          "text": "D. It reduces environmental pathogen load",
+          "correct": true,
+          "feedback": "Correct. Cleaning and drying are important parts of preparation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is the value of recording duck mortality by age group?",
+      "options": [
+        {
+          "text": "A. It predicts feed price",
+          "correct": false,
+          "feedback": "Review: Age-specific trends help guide investigation."
+        },
+        {
+          "text": "B. It calculates egg weight",
+          "correct": false,
+          "feedback": "Review: Age-specific trends help guide investigation."
+        },
+        {
+          "text": "C. It can reveal whether problems are concentrated at a particular stage",
+          "correct": true,
+          "feedback": "Correct. Age-specific trends help guide investigation."
+        },
+        {
+          "text": "D. It replaces necropsy",
+          "correct": false,
+          "feedback": "Review: Age-specific trends help guide investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should ducks have a balanced ration rather than relying only on pond foraging?",
+      "options": [
+        {
+          "text": "A. Pond forage always has identical nutrient content",
+          "correct": false,
+          "feedback": "Review: A balanced diet should meet the flock's production-stage needs."
+        },
+        {
+          "text": "B. Natural forage may not supply all nutrients required for production",
+          "correct": true,
+          "feedback": "Correct. A balanced diet should meet the flock's production-stage needs."
+        },
+        {
+          "text": "C. Ducks cannot digest formulated feed",
+          "correct": false,
+          "feedback": "Review: A balanced diet should meet the flock's production-stage needs."
+        },
+        {
+          "text": "D. Foraging replaces clean water",
+          "correct": false,
+          "feedback": "Review: A balanced diet should meet the flock's production-stage needs."
         }
       ],
       "part": 4
