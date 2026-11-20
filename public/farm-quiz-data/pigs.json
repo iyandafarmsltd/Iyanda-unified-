@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It guarantees pathogen-free status",
           "correct": false,
           "feedback": "Review: Dedicated clothing is one layer of biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should piglets be monitored for chilling during the first day of life?",
+      "options": [
+        {
+          "text": "A. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and confirm early colostrum intake."
+        },
+        {
+          "text": "B. Cold improves immunity",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and confirm early colostrum intake."
+        },
+        {
+          "text": "C. It is harmless if the sow is warm",
+          "correct": false,
+          "feedback": "Review: Provide suitable warmth and confirm early colostrum intake."
+        },
+        {
+          "text": "D. Newborn piglets have limited energy reserves and temperature control",
+          "correct": true,
+          "feedback": "Correct. Provide suitable warmth and confirm early colostrum intake."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of checking sow udder function during lactation?",
+      "options": [
+        {
+          "text": "A. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Udder health directly affects piglet nursing."
+        },
+        {
+          "text": "B. It determines piglet sex",
+          "correct": false,
+          "feedback": "Review: Udder health directly affects piglet nursing."
+        },
+        {
+          "text": "C. It helps identify mastitis or poor milk availability",
+          "correct": true,
+          "feedback": "Correct. Udder health directly affects piglet nursing."
+        },
+        {
+          "text": "D. It predicts market price",
+          "correct": false,
+          "feedback": "Review: Udder health directly affects piglet nursing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should pigs be protected from abrupt feed withdrawal?",
+      "options": [
+        {
+          "text": "A. Fasting always improves growth",
+          "correct": false,
+          "feedback": "Review: Plan feeding changes carefully and follow veterinary or transport guidance."
+        },
+        {
+          "text": "B. It can cause stress and disrupt feeding behaviour",
+          "correct": true,
+          "feedback": "Correct. Plan feeding changes carefully and follow veterinary or transport guidance."
+        },
+        {
+          "text": "C. It prevents disease",
+          "correct": false,
+          "feedback": "Review: Plan feeding changes carefully and follow veterinary or transport guidance."
+        },
+        {
+          "text": "D. It replaces water access",
+          "correct": false,
+          "feedback": "Review: Plan feeding changes carefully and follow veterinary or transport guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can an increase in pig water use with no change in feed indicate?",
+      "options": [
+        {
+          "text": "A. Possible heat stress, water leakage or health changes",
+          "correct": true,
+          "feedback": "Correct. Check temperature, drinkers and health."
+        },
+        {
+          "text": "B. Guaranteed better growth",
+          "correct": false,
+          "feedback": "Review: Check temperature, drinkers and health."
+        },
+        {
+          "text": "C. It proves the water is clean",
+          "correct": false,
+          "feedback": "Review: Check temperature, drinkers and health."
+        },
+        {
+          "text": "D. A need to restrict drinking",
+          "correct": false,
+          "feedback": "Review: Check temperature, drinkers and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should pig pens have adequate resting space?",
+      "options": [
+        {
+          "text": "A. It reduces need for ventilation",
+          "correct": false,
+          "feedback": "Review: Space and resource access are important welfare factors."
+        },
+        {
+          "text": "B. It improves hygiene automatically",
+          "correct": false,
+          "feedback": "Review: Space and resource access are important welfare factors."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Space and resource access are important welfare factors."
+        },
+        {
+          "text": "D. Overcrowding can increase stress, aggression and competition",
+          "correct": true,
+          "feedback": "Correct. Space and resource access are important welfare factors."
         }
       ],
       "part": 4
