@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. People and vehicles can carry infectious agents between farms",
           "correct": true,
           "feedback": "Correct. Access control, cleaning and disinfection reduce disease introduction."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should turkey poults be checked for filled crops after placement?",
+      "options": [
+        {
+          "text": "A. It helps confirm that young birds are finding and consuming feed",
+          "correct": true,
+          "feedback": "Correct. Crop checks can help assess early feed access."
+        },
+        {
+          "text": "B. It determines their sex",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        },
+        {
+          "text": "D. It proves immunity",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of keeping turkey litter depth and condition consistent?",
+      "options": [
+        {
+          "text": "A. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Review: Litter management is central to housing welfare."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Litter management is central to housing welfare."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Litter management is central to housing welfare."
+        },
+        {
+          "text": "D. It supports footing, moisture control and bird comfort",
+          "correct": true,
+          "feedback": "Correct. Litter management is central to housing welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should turkey houses have emergency procedures for water failure?",
+      "options": [
+        {
+          "text": "A. Backup plans reduce feed protein",
+          "correct": false,
+          "feedback": "Review: Rapid response to water failure protects flock health."
+        },
+        {
+          "text": "B. Water is only needed at feeding",
+          "correct": false,
+          "feedback": "Review: Rapid response to water failure protects flock health."
+        },
+        {
+          "text": "C. Birds can become dehydrated quickly if supply stops",
+          "correct": true,
+          "feedback": "Correct. Rapid response to water failure protects flock health."
+        },
+        {
+          "text": "D. Birds can safely go without water",
+          "correct": false,
+          "feedback": "Review: Rapid response to water failure protects flock health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What should be considered when planning turkey catching before transport?",
+      "options": [
+        {
+          "text": "A. Only the truck colour",
+          "correct": false,
+          "feedback": "Review: Planning helps reduce stress, injury and heat risk."
+        },
+        {
+          "text": "B. Bird condition, weather, crate design, staffing and journey arrangements",
+          "correct": true,
+          "feedback": "Correct. Planning helps reduce stress, injury and heat risk."
+        },
+        {
+          "text": "C. Maximum possible crate loading",
+          "correct": false,
+          "feedback": "Review: Planning helps reduce stress, injury and heat risk."
+        },
+        {
+          "text": "D. Whether birds have been fed that morning only",
+          "correct": false,
+          "feedback": "Review: Planning helps reduce stress, injury and heat risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should turkey mortality be compared with the flock's age and management history?",
+      "options": [
+        {
+          "text": "A. Expected patterns vary, and unusual changes may signal a problem",
+          "correct": true,
+          "feedback": "Correct. Contextual records help identify deviations requiring investigation."
+        },
+        {
+          "text": "B. Any mortality is always identical",
+          "correct": false,
+          "feedback": "Review: Contextual records help identify deviations requiring investigation."
+        },
+        {
+          "text": "C. Age has no bearing on risk",
+          "correct": false,
+          "feedback": "Review: Contextual records help identify deviations requiring investigation."
+        },
+        {
+          "text": "D. Records are useful only after slaughter",
+          "correct": false,
+          "feedback": "Review: Contextual records help identify deviations requiring investigation."
         }
       ],
       "part": 4
