@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. It supports age-based management, health planning and performance comparison",
           "correct": true,
           "feedback": "Correct. Placement dates provide a reference for flock management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should turkey poults be protected from wet brooder litter?",
+      "options": [
+        {
+          "text": "A. Wet litter can chill birds and contribute to health problems",
+          "correct": true,
+          "feedback": "Correct. Keep litter dry and correct water leaks."
+        },
+        {
+          "text": "B. It improves feather growth",
+          "correct": false,
+          "feedback": "Review: Keep litter dry and correct water leaks."
+        },
+        {
+          "text": "C. It replaces warmth",
+          "correct": false,
+          "feedback": "Review: Keep litter dry and correct water leaks."
+        },
+        {
+          "text": "D. It prevents all infections",
+          "correct": false,
+          "feedback": "Review: Keep litter dry and correct water leaks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of monitoring turkey egg storage duration?",
+      "options": [
+        {
+          "text": "A. It replaces candling",
+          "correct": false,
+          "feedback": "Review: Set eggs within recommended storage windows."
+        },
+        {
+          "text": "B. It changes egg sex",
+          "correct": false,
+          "feedback": "Review: Set eggs within recommended storage windows."
+        },
+        {
+          "text": "C. It improves shell strength",
+          "correct": false,
+          "feedback": "Review: Set eggs within recommended storage windows."
+        },
+        {
+          "text": "D. Long storage can reduce hatchability",
+          "correct": true,
+          "feedback": "Correct. Set eggs within recommended storage windows."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should turkey breeders have sufficient nest access?",
+      "options": [
+        {
+          "text": "A. It replaces lighting management",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest space and monitor use."
+        },
+        {
+          "text": "B. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest space and monitor use."
+        },
+        {
+          "text": "C. Competition can cause floor laying and egg damage",
+          "correct": true,
+          "feedback": "Correct. Provide suitable nest space and monitor use."
+        },
+        {
+          "text": "D. It guarantees all eggs hatch",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest space and monitor use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a turkey flock's uneven distribution around feeders indicate?",
+      "options": [
+        {
+          "text": "A. It proves the ration is perfect",
+          "correct": false,
+          "feedback": "Review: Review feeder availability and environmental conditions."
+        },
+        {
+          "text": "B. Feeder placement, access or house environment may be uneven",
+          "correct": true,
+          "feedback": "Correct. Review feeder availability and environmental conditions."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Review feeder availability and environmental conditions."
+        },
+        {
+          "text": "D. It measures water hardness",
+          "correct": false,
+          "feedback": "Review: Review feeder availability and environmental conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should turkey houses be inspected for water leaks behind drinker lines?",
+      "options": [
+        {
+          "text": "A. Hidden wet areas can lead to litter and ammonia problems",
+          "correct": true,
+          "feedback": "Correct. Inspect the full drinker system and repair leaks promptly."
+        },
+        {
+          "text": "B. Leaks improve bird comfort",
+          "correct": false,
+          "feedback": "Review: Inspect the full drinker system and repair leaks promptly."
+        },
+        {
+          "text": "C. It replaces litter turning",
+          "correct": false,
+          "feedback": "Review: Inspect the full drinker system and repair leaks promptly."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Inspect the full drinker system and repair leaks promptly."
         }
       ],
       "part": 4
