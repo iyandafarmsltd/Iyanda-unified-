@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. Ducks can safely eat any waste",
           "correct": false,
           "feedback": "Review: Use safe, suitable feed and comply with local feed rules."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should duck eggs be stored in a clean, stable environment before setting?",
+      "options": [
+        {
+          "text": "A. It replaces collection records",
+          "correct": false,
+          "feedback": "Review: Use clean storage and follow hatchery handling guidance."
+        },
+        {
+          "text": "B. It determines embryo sex",
+          "correct": false,
+          "feedback": "Review: Use clean storage and follow hatchery handling guidance."
+        },
+        {
+          "text": "C. It sterilises shells",
+          "correct": false,
+          "feedback": "Review: Use clean storage and follow hatchery handling guidance."
+        },
+        {
+          "text": "D. Contamination and temperature fluctuations can reduce hatch success",
+          "correct": true,
+          "feedback": "Correct. Use clean storage and follow hatchery handling guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking duck bills and nostrils for injury?",
+      "options": [
+        {
+          "text": "A. It measures pond pH",
+          "correct": false,
+          "feedback": "Review: Inspect abnormalities and seek veterinary care where needed."
+        },
+        {
+          "text": "B. It predicts laying rate",
+          "correct": false,
+          "feedback": "Review: Inspect abnormalities and seek veterinary care where needed."
+        },
+        {
+          "text": "C. Injuries can affect feeding, breathing and welfare",
+          "correct": true,
+          "feedback": "Correct. Inspect abnormalities and seek veterinary care where needed."
+        },
+        {
+          "text": "D. It replaces leg checks",
+          "correct": false,
+          "feedback": "Review: Inspect abnormalities and seek veterinary care where needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should ducks be kept away from untreated wastewater?",
+      "options": [
+        {
+          "text": "A. It provides all minerals safely",
+          "correct": false,
+          "feedback": "Review: Use safe water sources and prevent access to polluted water."
+        },
+        {
+          "text": "B. Wastewater may contain pathogens and chemical contaminants",
+          "correct": true,
+          "feedback": "Correct. Use safe water sources and prevent access to polluted water."
+        },
+        {
+          "text": "C. Ducks neutralise contaminants",
+          "correct": false,
+          "feedback": "Review: Use safe water sources and prevent access to polluted water."
+        },
+        {
+          "text": "D. It improves egg fertility",
+          "correct": false,
+          "feedback": "Review: Use safe water sources and prevent access to polluted water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can excessive feather soiling indicate in ducks?",
+      "options": [
+        {
+          "text": "A. Wet or dirty housing, poor water management or health issues",
+          "correct": true,
+          "feedback": "Correct. Review bedding, water access and bird health."
+        },
+        {
+          "text": "B. A sign of high fertility",
+          "correct": false,
+          "feedback": "Review: Review bedding, water access and bird health."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review bedding, water access and bird health."
+        },
+        {
+          "text": "D. It predicts feed conversion",
+          "correct": false,
+          "feedback": "Review: Review bedding, water access and bird health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should duck feed be formulated with suitable niacin levels for young birds?",
+      "options": [
+        {
+          "text": "A. It is only needed by laying ducks",
+          "correct": false,
+          "feedback": "Review: Use a diet formulated for ducklings and their growth stage."
+        },
+        {
+          "text": "B. It determines feather colour",
+          "correct": false,
+          "feedback": "Review: Use a diet formulated for ducklings and their growth stage."
+        },
+        {
+          "text": "C. It replaces protein",
+          "correct": false,
+          "feedback": "Review: Use a diet formulated for ducklings and their growth stage."
+        },
+        {
+          "text": "D. Niacin supports normal growth and leg development",
+          "correct": true,
+          "feedback": "Correct. Use a diet formulated for ducklings and their growth stage."
         }
       ],
       "part": 4
