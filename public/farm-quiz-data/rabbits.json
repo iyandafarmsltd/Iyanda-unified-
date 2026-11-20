@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should rabbit pellets be measured rather than offered without limit?",
+      "options": [
+        {
+          "text": "A. Rabbits cannot become overweight",
+          "correct": false,
+          "feedback": "Review: Controlled pellet portions help maintain a hay-based diet and healthy condition."
+        },
+        {
+          "text": "B. Pellets replace all fibre",
+          "correct": false,
+          "feedback": "Review: Controlled pellet portions help maintain a hay-based diet and healthy condition."
+        },
+        {
+          "text": "C. Unlimited pellets prevent dental disease",
+          "correct": false,
+          "feedback": "Review: Controlled pellet portions help maintain a hay-based diet and healthy condition."
+        },
+        {
+          "text": "D. Excess pellets can displace high-fibre hay and contribute to obesity",
+          "correct": true,
+          "feedback": "Correct. Controlled pellet portions help maintain a hay-based diet and healthy condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of a rabbit's caecotrophy?",
+      "options": [
+        {
+          "text": "A. It replaces drinking water",
+          "correct": false,
+          "feedback": "Review: Caecotrophy is a normal digestive adaptation that recycles nutrients."
+        },
+        {
+          "text": "B. It is a sign of poisoning",
+          "correct": false,
+          "feedback": "Review: Caecotrophy is a normal digestive adaptation that recycles nutrients."
+        },
+        {
+          "text": "C. It allows the rabbit to re-ingest nutrient-rich soft droppings",
+          "correct": true,
+          "feedback": "Correct. Caecotrophy is a normal digestive adaptation that recycles nutrients."
+        },
+        {
+          "text": "D. It removes the need for fibre",
+          "correct": false,
+          "feedback": "Review: Caecotrophy is a normal digestive adaptation that recycles nutrients."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should rabbits be protected from loud sudden disturbances?",
+      "options": [
+        {
+          "text": "A. Noise improves breeding",
+          "correct": false,
+          "feedback": "Review: Calm handling and a predictable environment support rabbit welfare."
+        },
+        {
+          "text": "B. They are prey animals and can become stressed or injure themselves",
+          "correct": true,
+          "feedback": "Correct. Calm handling and a predictable environment support rabbit welfare."
+        },
+        {
+          "text": "C. Stress has no effect on rabbits",
+          "correct": false,
+          "feedback": "Review: Calm handling and a predictable environment support rabbit welfare."
+        },
+        {
+          "text": "D. It prevents normal feeding",
+          "correct": false,
+          "feedback": "Review: Calm handling and a predictable environment support rabbit welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What can wet fur around a rabbit's hindquarters indicate?",
+      "options": [
+        {
+          "text": "A. Possible urine scald, mobility or urinary health problems",
+          "correct": true,
+          "feedback": "Correct. Wet hindquarters need investigation and appropriate veterinary care."
+        },
+        {
+          "text": "B. A normal sign of good hydration",
+          "correct": false,
+          "feedback": "Review: Wet hindquarters need investigation and appropriate veterinary care."
+        },
+        {
+          "text": "C. Proof of pregnancy",
+          "correct": false,
+          "feedback": "Review: Wet hindquarters need investigation and appropriate veterinary care."
+        },
+        {
+          "text": "D. A sign that bathing is needed",
+          "correct": false,
+          "feedback": "Review: Wet hindquarters need investigation and appropriate veterinary care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why should rabbit nest boxes be appropriately sized and lined?",
+      "options": [
+        {
+          "text": "A. They determine litter sex",
+          "correct": false,
+          "feedback": "Review: A suitable nest supports newborn kit warmth and safety."
+        },
+        {
+          "text": "B. They prevent kits from nursing",
+          "correct": false,
+          "feedback": "Review: A suitable nest supports newborn kit warmth and safety."
+        },
+        {
+          "text": "C. They replace the need for clean bedding",
+          "correct": false,
+          "feedback": "Review: A suitable nest supports newborn kit warmth and safety."
+        },
+        {
+          "text": "D. They help the doe build a secure, warm nest for kits",
+          "correct": true,
+          "feedback": "Correct. A suitable nest supports newborn kit warmth and safety."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is a key reason to separate a rabbit with suspected contagious disease?",
+      "options": [
+        {
+          "text": "A. To make it recover without treatment",
+          "correct": false,
+          "feedback": "Review: Appropriate isolation and hygiene help reduce spread."
+        },
+        {
+          "text": "B. To stop it drinking",
+          "correct": false,
+          "feedback": "Review: Appropriate isolation and hygiene help reduce spread."
+        },
+        {
+          "text": "C. To limit exposure of other rabbits while obtaining veterinary advice",
+          "correct": true,
+          "feedback": "Correct. Appropriate isolation and hygiene help reduce spread."
+        },
+        {
+          "text": "D. To avoid cleaning the enclosure",
+          "correct": false,
+          "feedback": "Review: Appropriate isolation and hygiene help reduce spread."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should rabbit housing allow daily movement and exercise?",
+      "options": [
+        {
+          "text": "A. Exercise replaces balanced feed",
+          "correct": false,
+          "feedback": "Review: Adequate space and exercise are important welfare needs."
+        },
+        {
+          "text": "B. Movement supports musculoskeletal health and normal behaviour",
+          "correct": true,
+          "feedback": "Correct. Adequate space and exercise are important welfare needs."
+        },
+        {
+          "text": "C. It prevents every injury",
+          "correct": false,
+          "feedback": "Review: Adequate space and exercise are important welfare needs."
+        },
+        {
+          "text": "D. It removes the need for shelter",
+          "correct": false,
+          "feedback": "Review: Adequate space and exercise are important welfare needs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What should be checked if a rabbit's incisors appear misaligned?",
+      "options": [
+        {
+          "text": "A. Whether dental malocclusion is affecting eating and comfort",
+          "correct": true,
+          "feedback": "Correct. Dental malocclusion can require veterinary treatment and ongoing monitoring."
+        },
+        {
+          "text": "B. Only the colour of its fur",
+          "correct": false,
+          "feedback": "Review: Dental malocclusion can require veterinary treatment and ongoing monitoring."
+        },
+        {
+          "text": "C. Its water pH",
+          "correct": false,
+          "feedback": "Review: Dental malocclusion can require veterinary treatment and ongoing monitoring."
+        },
+        {
+          "text": "D. The number of kits in its litter",
+          "correct": false,
+          "feedback": "Review: Dental malocclusion can require veterinary treatment and ongoing monitoring."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should breeding rabbits not be selected only by body size?",
+      "options": [
+        {
+          "text": "A. Health records are unnecessary",
+          "correct": false,
+          "feedback": "Review: Balanced selection uses multiple performance and welfare traits."
+        },
+        {
+          "text": "B. Size determines every inherited trait",
+          "correct": false,
+          "feedback": "Review: Balanced selection uses multiple performance and welfare traits."
+        },
+        {
+          "text": "C. Large size guarantees easy kindling",
+          "correct": false,
+          "feedback": "Review: Balanced selection uses multiple performance and welfare traits."
+        },
+        {
+          "text": "D. Health, fertility, temperament and structural soundness also matter",
+          "correct": true,
+          "feedback": "Correct. Balanced selection uses multiple performance and welfare traits."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What can urine sludge or unusually thick urine suggest in rabbits?",
+      "options": [
+        {
+          "text": "A. A normal result in every rabbit",
+          "correct": false,
+          "feedback": "Review: Urinary changes should be assessed with diet, hydration and veterinary guidance."
+        },
+        {
+          "text": "B. Perfect kidney health",
+          "correct": false,
+          "feedback": "Review: Urinary changes should be assessed with diet, hydration and veterinary guidance."
+        },
+        {
+          "text": "C. Possible urinary mineral or hydration issues needing assessment",
+          "correct": true,
+          "feedback": "Correct. Urinary changes should be assessed with diet, hydration and veterinary guidance."
+        },
+        {
+          "text": "D. A reason to remove all hay",
+          "correct": false,
+          "feedback": "Review: Urinary changes should be assessed with diet, hydration and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should rabbit feed changes be made over several days?",
+      "options": [
+        {
+          "text": "A. It guarantees no illness",
+          "correct": false,
+          "feedback": "Review: Introduce new feed gradually and monitor appetite and droppings."
+        },
+        {
+          "text": "B. Gradual transition helps the digestive system adapt",
+          "correct": true,
+          "feedback": "Correct. Introduce new feed gradually and monitor appetite and droppings."
+        },
+        {
+          "text": "C. It prevents the need for hay",
+          "correct": false,
+          "feedback": "Review: Introduce new feed gradually and monitor appetite and droppings."
+        },
+        {
+          "text": "D. It makes rabbits stop eating caecotrophs",
+          "correct": false,
+          "feedback": "Review: Introduce new feed gradually and monitor appetite and droppings."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What is the purpose of keeping breeding and litter records?",
+      "options": [
+        {
+          "text": "A. To monitor fertility, litter size, kit survival and parentage",
+          "correct": true,
+          "feedback": "Correct. Records support responsible selection and production planning."
+        },
+        {
+          "text": "B. To determine weather patterns",
+          "correct": false,
+          "feedback": "Review: Records support responsible selection and production planning."
+        },
+        {
+          "text": "C. To replace animal identification",
+          "correct": false,
+          "feedback": "Review: Records support responsible selection and production planning."
+        },
+        {
+          "text": "D. To measure feed moisture",
+          "correct": false,
+          "feedback": "Review: Records support responsible selection and production planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should rabbit cages or pens be checked for sharp edges?",
+      "options": [
+        {
+          "text": "A. They reduce feed consumption",
+          "correct": false,
+          "feedback": "Review: Inspect housing and repair hazards promptly."
+        },
+        {
+          "text": "B. They improve claw wear safely",
+          "correct": false,
+          "feedback": "Review: Inspect housing and repair hazards promptly."
+        },
+        {
+          "text": "C. They prevent parasites",
+          "correct": false,
+          "feedback": "Review: Inspect housing and repair hazards promptly."
+        },
+        {
+          "text": "D. Sharp surfaces can cause cuts and foot injuries",
+          "correct": true,
+          "feedback": "Correct. Inspect housing and repair hazards promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is a suitable first step when a rabbit stops eating?",
+      "options": [
+        {
+          "text": "A. Remove hay and water",
+          "correct": false,
+          "feedback": "Review: Rabbits can deteriorate quickly when they stop eating; prompt veterinary care is important."
+        },
+        {
+          "text": "B. Wait several days",
+          "correct": false,
+          "feedback": "Review: Rabbits can deteriorate quickly when they stop eating; prompt veterinary care is important."
+        },
+        {
+          "text": "C. Treat it as urgent and contact a rabbit-experienced veterinarian",
+          "correct": true,
+          "feedback": "Correct. Rabbits can deteriorate quickly when they stop eating; prompt veterinary care is important."
+        },
+        {
+          "text": "D. Force exercise",
+          "correct": false,
+          "feedback": "Review: Rabbits can deteriorate quickly when they stop eating; prompt veterinary care is important."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should rabbit manure be stored and composted appropriately before use?",
+      "options": [
+        {
+          "text": "A. Fresh manure is always sterile",
+          "correct": false,
+          "feedback": "Review: Manage manure according to local hygiene and crop-safety guidance."
+        },
+        {
+          "text": "B. Proper handling reduces pathogens, odour and environmental risks",
+          "correct": true,
+          "feedback": "Correct. Manage manure according to local hygiene and crop-safety guidance."
+        },
+        {
+          "text": "C. Composting removes all nutrient value",
+          "correct": false,
+          "feedback": "Review: Manage manure according to local hygiene and crop-safety guidance."
+        },
+        {
+          "text": "D. Storage increases parasite transmission intentionally",
+          "correct": false,
+          "feedback": "Review: Manage manure according to local hygiene and crop-safety guidance."
+        }
+      ],
+      "part": 4
     }
   ]
 }
