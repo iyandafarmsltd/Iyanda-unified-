@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It helps manage storage duration and set eggs in order",
           "correct": true,
           "feedback": "Correct. Date marking supports egg traceability and hatchery planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should guinea-fowl be checked for signs of external parasites under the wings?",
+      "options": [
+        {
+          "text": "A. It measures feed intake",
+          "correct": false,
+          "feedback": "Review: Inspect plumage and skin and seek appropriate treatment advice."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Inspect plumage and skin and seek appropriate treatment advice."
+        },
+        {
+          "text": "C. Parasites can cause irritation, feather damage and poor condition",
+          "correct": true,
+          "feedback": "Correct. Inspect plumage and skin and seek appropriate treatment advice."
+        },
+        {
+          "text": "D. It predicts adult sex",
+          "correct": false,
+          "feedback": "Review: Inspect plumage and skin and seek appropriate treatment advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of a secure night shelter for guinea-fowl?",
+      "options": [
+        {
+          "text": "A. It replaces daytime range",
+          "correct": false,
+          "feedback": "Review: Secure shelter is important even for birds that range outdoors."
+        },
+        {
+          "text": "B. It protects birds from predators and severe weather",
+          "correct": true,
+          "feedback": "Correct. Secure shelter is important even for birds that range outdoors."
+        },
+        {
+          "text": "C. It guarantees no disease",
+          "correct": false,
+          "feedback": "Review: Secure shelter is important even for birds that range outdoors."
+        },
+        {
+          "text": "D. It determines laying rate",
+          "correct": false,
+          "feedback": "Review: Secure shelter is important even for birds that range outdoors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should guinea-fowl egg storage temperature be kept stable?",
+      "options": [
+        {
+          "text": "A. Temperature fluctuations can reduce embryo viability",
+          "correct": true,
+          "feedback": "Correct. Follow hatchery guidance for stable storage and handling."
+        },
+        {
+          "text": "B. It changes the shell colour",
+          "correct": false,
+          "feedback": "Review: Follow hatchery guidance for stable storage and handling."
+        },
+        {
+          "text": "C. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Follow hatchery guidance for stable storage and handling."
+        },
+        {
+          "text": "D. It replaces turning",
+          "correct": false,
+          "feedback": "Review: Follow hatchery guidance for stable storage and handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can repeated crowding at a single feeder indicate?",
+      "options": [
+        {
+          "text": "A. It determines hatchability",
+          "correct": false,
+          "feedback": "Review: Adjust feeder number and distribution to reduce competition."
+        },
+        {
+          "text": "B. The flock needs less feed",
+          "correct": false,
+          "feedback": "Review: Adjust feeder number and distribution to reduce competition."
+        },
+        {
+          "text": "C. It proves all birds are healthy",
+          "correct": false,
+          "feedback": "Review: Adjust feeder number and distribution to reduce competition."
+        },
+        {
+          "text": "D. Feeder access or placement may be inadequate",
+          "correct": true,
+          "feedback": "Correct. Adjust feeder number and distribution to reduce competition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should the brooder's thermometer be checked at chick level?",
+      "options": [
+        {
+          "text": "A. It determines feed quality",
+          "correct": false,
+          "feedback": "Review: Measure conditions at bird height and use behaviour as a cross-check."
+        },
+        {
+          "text": "B. It measures humidity exactly",
+          "correct": false,
+          "feedback": "Review: Measure conditions at bird height and use behaviour as a cross-check."
+        },
+        {
+          "text": "C. The temperature where keets stand may differ from the room reading",
+          "correct": true,
+          "feedback": "Correct. Measure conditions at bird height and use behaviour as a cross-check."
+        },
+        {
+          "text": "D. It replaces observing keet behaviour",
+          "correct": false,
+          "feedback": "Review: Measure conditions at bird height and use behaviour as a cross-check."
         }
       ],
       "part": 4
