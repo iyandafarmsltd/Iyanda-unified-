@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. Niacin supports normal growth and leg development",
           "correct": true,
           "feedback": "Correct. Use a diet formulated for ducklings and their growth stage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should duck flocks be checked for signs of eye irritation near dusty feed stores?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Control dust and seek care for persistent symptoms."
+        },
+        {
+          "text": "B. It predicts fertility",
+          "correct": false,
+          "feedback": "Review: Control dust and seek care for persistent symptoms."
+        },
+        {
+          "text": "C. It measures water pH",
+          "correct": false,
+          "feedback": "Review: Control dust and seek care for persistent symptoms."
+        },
+        {
+          "text": "D. Dust can irritate eyes and respiratory passages",
+          "correct": true,
+          "feedback": "Correct. Control dust and seek care for persistent symptoms."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of providing ducklings with a safe, shallow water source for early bathing where appropriate?",
+      "options": [
+        {
+          "text": "A. It guarantees waterproof feathers",
+          "correct": false,
+          "feedback": "Review: Match water access to age and supervision."
+        },
+        {
+          "text": "B. It replaces drinking water",
+          "correct": false,
+          "feedback": "Review: Match water access to age and supervision."
+        },
+        {
+          "text": "C. It supports natural behaviour while reducing drowning and chilling risk",
+          "correct": true,
+          "feedback": "Correct. Match water access to age and supervision."
+        },
+        {
+          "text": "D. It prevents all infections",
+          "correct": false,
+          "feedback": "Review: Match water access to age and supervision."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should duck eggs be turned carefully during storage when required by hatchery guidance?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Follow the hatchery's recommended storage procedure."
+        },
+        {
+          "text": "B. Turning can help prevent embryo adhesion during storage",
+          "correct": true,
+          "feedback": "Correct. Follow the hatchery's recommended storage procedure."
+        },
+        {
+          "text": "C. It sterilises eggs",
+          "correct": false,
+          "feedback": "Review: Follow the hatchery's recommended storage procedure."
+        },
+        {
+          "text": "D. It changes shell thickness",
+          "correct": false,
+          "feedback": "Review: Follow the hatchery's recommended storage procedure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a duck's sudden reluctance to walk indicate?",
+      "options": [
+        {
+          "text": "A. Foot injury, leg pain or illness",
+          "correct": true,
+          "feedback": "Correct. Assess mobility and seek veterinary help if persistent."
+        },
+        {
+          "text": "B. A sign of egg laying",
+          "correct": false,
+          "feedback": "Review: Assess mobility and seek veterinary help if persistent."
+        },
+        {
+          "text": "C. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Assess mobility and seek veterinary help if persistent."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Assess mobility and seek veterinary help if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should ducks not be fed mouldy bread or spoiled bakery waste?",
+      "options": [
+        {
+          "text": "A. Ducks neutralise all toxins",
+          "correct": false,
+          "feedback": "Review: Provide a suitable ration and avoid spoiled waste."
+        },
+        {
+          "text": "B. Mould improves digestion",
+          "correct": false,
+          "feedback": "Review: Provide a suitable ration and avoid spoiled waste."
+        },
+        {
+          "text": "C. It replaces formulated feed",
+          "correct": false,
+          "feedback": "Review: Provide a suitable ration and avoid spoiled waste."
+        },
+        {
+          "text": "D. It can be nutritionally unbalanced and contaminated",
+          "correct": true,
+          "feedback": "Correct. Provide a suitable ration and avoid spoiled waste."
         }
       ],
       "part": 4
