@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why is swimming or bathing water managed differently from drinking water?",
+      "options": [
+        {
+          "text": "A. All pond water is sterile",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water to limit contamination."
+        },
+        {
+          "text": "B. Ducks do not need drinking water",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water to limit contamination."
+        },
+        {
+          "text": "C. Bathing water can become contaminated quickly and should not replace clean drinking supplies",
+          "correct": true,
+          "feedback": "Correct. Provide clean drinking water and manage bathing water to limit contamination."
+        },
+        {
+          "text": "D. Drinking water should contain bedding",
+          "correct": false,
+          "feedback": "Review: Provide clean drinking water and manage bathing water to limit contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of checking duck feet and legs regularly?",
+      "options": [
+        {
+          "text": "A. To determine egg fertility by touch",
+          "correct": false,
+          "feedback": "Review: Regular observation helps identify lameness and housing-related problems."
+        },
+        {
+          "text": "B. To identify injury, swelling or mobility problems early",
+          "correct": true,
+          "feedback": "Correct. Regular observation helps identify lameness and housing-related problems."
+        },
+        {
+          "text": "C. To measure pond oxygen",
+          "correct": false,
+          "feedback": "Review: Regular observation helps identify lameness and housing-related problems."
+        },
+        {
+          "text": "D. To replace flock weight records",
+          "correct": false,
+          "feedback": "Review: Regular observation helps identify lameness and housing-related problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should duck housing have good airflow without strong drafts at bird level?",
+      "options": [
+        {
+          "text": "A. It removes moisture and gases while protecting birds from chilling",
+          "correct": true,
+          "feedback": "Correct. Ventilation must manage moisture and air quality while maintaining comfort."
+        },
+        {
+          "text": "B. It keeps ammonia concentrated",
+          "correct": false,
+          "feedback": "Review: Ventilation must manage moisture and air quality while maintaining comfort."
+        },
+        {
+          "text": "C. It prevents all temperature changes",
+          "correct": false,
+          "feedback": "Review: Ventilation must manage moisture and air quality while maintaining comfort."
+        },
+        {
+          "text": "D. It makes bedding permanently dry without maintenance",
+          "correct": false,
+          "feedback": "Review: Ventilation must manage moisture and air quality while maintaining comfort."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What can dirty water containers contribute to in a duck flock?",
+      "options": [
+        {
+          "text": "A. Automatic parasite control",
+          "correct": false,
+          "feedback": "Review: Frequent cleaning and fresh water reduce contamination."
+        },
+        {
+          "text": "B. Improved immunity",
+          "correct": false,
+          "feedback": "Review: Frequent cleaning and fresh water reduce contamination."
+        },
+        {
+          "text": "C. Higher feed protein",
+          "correct": false,
+          "feedback": "Review: Frequent cleaning and fresh water reduce contamination."
+        },
+        {
+          "text": "D. Microbial contamination and reduced water hygiene",
+          "correct": true,
+          "feedback": "Correct. Frequent cleaning and fresh water reduce contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why is a predator-proof fence useful around duck night housing?",
+      "options": [
+        {
+          "text": "A. It replaces a balanced ration",
+          "correct": false,
+          "feedback": "Review: Secure fencing and housing protect birds from predators."
+        },
+        {
+          "text": "B. It improves water pH",
+          "correct": false,
+          "feedback": "Review: Secure fencing and housing protect birds from predators."
+        },
+        {
+          "text": "C. It reduces access by animals that may kill or injure ducks",
+          "correct": true,
+          "feedback": "Correct. Secure fencing and housing protect birds from predators."
+        },
+        {
+          "text": "D. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Review: Secure fencing and housing protect birds from predators."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "Why should duck breeders be monitored for body condition?",
+      "options": [
+        {
+          "text": "A. Body condition determines feather pattern",
+          "correct": false,
+          "feedback": "Review: Condition monitoring helps guide diet and breeding management."
+        },
+        {
+          "text": "B. Poor or excessive condition can affect health and reproductive performance",
+          "correct": true,
+          "feedback": "Correct. Condition monitoring helps guide diet and breeding management."
+        },
+        {
+          "text": "C. It replaces egg fertility testing",
+          "correct": false,
+          "feedback": "Review: Condition monitoring helps guide diet and breeding management."
+        },
+        {
+          "text": "D. Only males require condition checks",
+          "correct": false,
+          "feedback": "Review: Condition monitoring helps guide diet and breeding management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "What is a sensible way to manage muddy areas around duck drinkers?",
+      "options": [
+        {
+          "text": "A. Improve drainage and relocate or redesign drinker points if needed",
+          "correct": true,
+          "feedback": "Correct. Drainage and drinker design help keep the environment hygienic."
+        },
+        {
+          "text": "B. Add more water to the mud",
+          "correct": false,
+          "feedback": "Review: Drainage and drinker design help keep the environment hygienic."
+        },
+        {
+          "text": "C. Store feed in the wet area",
+          "correct": false,
+          "feedback": "Review: Drainage and drinker design help keep the environment hygienic."
+        },
+        {
+          "text": "D. Stop cleaning the drinkers",
+          "correct": false,
+          "feedback": "Review: Drainage and drinker design help keep the environment hygienic."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "Why are duck eggs checked for cracks before incubation?",
+      "options": [
+        {
+          "text": "A. Cracked eggs need no sanitation",
+          "correct": false,
+          "feedback": "Review: Only suitable intact eggs should be selected under hatchery protocols."
+        },
+        {
+          "text": "B. Cracks improve gas exchange safely",
+          "correct": false,
+          "feedback": "Review: Only suitable intact eggs should be selected under hatchery protocols."
+        },
+        {
+          "text": "C. Shell damage predicts sex",
+          "correct": false,
+          "feedback": "Review: Only suitable intact eggs should be selected under hatchery protocols."
+        },
+        {
+          "text": "D. Cracked shells increase contamination risk and reduce hatch success",
+          "correct": true,
+          "feedback": "Correct. Only suitable intact eggs should be selected under hatchery protocols."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "What should be considered when transporting ducks in hot weather?",
+      "options": [
+        {
+          "text": "A. Overcrowding to reduce movement",
+          "correct": false,
+          "feedback": "Review: Transport planning must prevent heat stress and provide adequate space and airflow."
+        },
+        {
+          "text": "B. Sealing transport crates tightly",
+          "correct": false,
+          "feedback": "Review: Transport planning must prevent heat stress and provide adequate space and airflow."
+        },
+        {
+          "text": "C. Ventilation, stocking, journey duration and access to appropriate care",
+          "correct": true,
+          "feedback": "Correct. Transport planning must prevent heat stress and provide adequate space and airflow."
+        },
+        {
+          "text": "D. Leaving birds in direct sun while waiting",
+          "correct": false,
+          "feedback": "Review: Transport planning must prevent heat stress and provide adequate space and airflow."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "Why should ducklings be introduced to feed and water in a way that is easy to find?",
+      "options": [
+        {
+          "text": "A. It prevents normal development",
+          "correct": false,
+          "feedback": "Review: Accessible feed and water help young birds settle and thrive."
+        },
+        {
+          "text": "B. Early access supports hydration and feed intake",
+          "correct": true,
+          "feedback": "Correct. Accessible feed and water help young birds settle and thrive."
+        },
+        {
+          "text": "C. It removes the need for brooding",
+          "correct": false,
+          "feedback": "Review: Accessible feed and water help young birds settle and thrive."
+        },
+        {
+          "text": "D. It makes water unnecessary later",
+          "correct": false,
+          "feedback": "Review: Accessible feed and water help young birds settle and thrive."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "What can foamy or foul-smelling pond water suggest?",
+      "options": [
+        {
+          "text": "A. Excess organic matter or water-quality imbalance",
+          "correct": true,
+          "feedback": "Correct. Investigate water quality, organic loading and stocking pressure."
+        },
+        {
+          "text": "B. The pond is always healthy",
+          "correct": false,
+          "feedback": "Review: Investigate water quality, organic loading and stocking pressure."
+        },
+        {
+          "text": "C. Fish and ducks no longer need monitoring",
+          "correct": false,
+          "feedback": "Review: Investigate water quality, organic loading and stocking pressure."
+        },
+        {
+          "text": "D. Water has unlimited oxygen",
+          "correct": false,
+          "feedback": "Review: Investigate water quality, organic loading and stocking pressure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "Why should a duck flock's feed be protected from rodents?",
+      "options": [
+        {
+          "text": "A. They prevent mould",
+          "correct": false,
+          "feedback": "Review: Pest-resistant storage protects feed and biosecurity."
+        },
+        {
+          "text": "B. Rodents improve feed palatability",
+          "correct": false,
+          "feedback": "Review: Pest-resistant storage protects feed and biosecurity."
+        },
+        {
+          "text": "C. They increase feed vitamin content",
+          "correct": false,
+          "feedback": "Review: Pest-resistant storage protects feed and biosecurity."
+        },
+        {
+          "text": "D. Rodents consume feed and can contaminate it with droppings and urine",
+          "correct": true,
+          "feedback": "Correct. Pest-resistant storage protects feed and biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should ducklings not be left in deep water without suitable supervision and management?",
+      "options": [
+        {
+          "text": "A. Swimming always prevents chilling",
+          "correct": false,
+          "feedback": "Review: Water access must match age, feathering, health and the housing system."
+        },
+        {
+          "text": "B. They cannot get wet at all",
+          "correct": false,
+          "feedback": "Review: Water access must match age, feathering, health and the housing system."
+        },
+        {
+          "text": "C. They can become exhausted or chilled if water access is unsafe",
+          "correct": true,
+          "feedback": "Correct. Water access must match age, feathering, health and the housing system."
+        },
+        {
+          "text": "D. Deep water replaces dry resting areas",
+          "correct": false,
+          "feedback": "Review: Water access must match age, feathering, health and the housing system."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What does a hatchability record help a duck breeder evaluate?",
+      "options": [
+        {
+          "text": "A. The pond depth",
+          "correct": false,
+          "feedback": "Review: Records help identify where reproductive or incubation performance changes."
+        },
+        {
+          "text": "B. Fertility, egg handling and incubation outcomes",
+          "correct": true,
+          "feedback": "Correct. Records help identify where reproductive or incubation performance changes."
+        },
+        {
+          "text": "C. The weight of every adult male",
+          "correct": false,
+          "feedback": "Review: Records help identify where reproductive or incubation performance changes."
+        },
+        {
+          "text": "D. The price of bedding",
+          "correct": false,
+          "feedback": "Review: Records help identify where reproductive or incubation performance changes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should new ducks be kept separate while health status is assessed?",
+      "options": [
+        {
+          "text": "A. To reduce the risk of introducing infection to the resident flock",
+          "correct": true,
+          "feedback": "Correct. Quarantine and observation are important biosecurity steps."
+        },
+        {
+          "text": "B. To prevent them learning to eat",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are important biosecurity steps."
+        },
+        {
+          "text": "C. To remove the need for identification",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are important biosecurity steps."
+        },
+        {
+          "text": "D. To make them lose body condition",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are important biosecurity steps."
+        }
+      ],
+      "part": 4
     }
   ]
 }
