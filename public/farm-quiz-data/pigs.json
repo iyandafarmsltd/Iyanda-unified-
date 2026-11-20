@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It predicts market weight",
           "correct": false,
           "feedback": "Review: Clear labels improve stock control and traceability."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should piglets be checked for adequate colostrum intake within the first hours?",
+      "options": [
+        {
+          "text": "A. It prevents every infection",
+          "correct": false,
+          "feedback": "Review: Early colostrum intake is vital for newborn piglets."
+        },
+        {
+          "text": "B. It replaces warmth",
+          "correct": false,
+          "feedback": "Review: Early colostrum intake is vital for newborn piglets."
+        },
+        {
+          "text": "C. It determines litter sex",
+          "correct": false,
+          "feedback": "Review: Early colostrum intake is vital for newborn piglets."
+        },
+        {
+          "text": "D. Colostrum provides energy and antibodies when piglets are most vulnerable",
+          "correct": true,
+          "feedback": "Correct. Early colostrum intake is vital for newborn piglets."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of keeping a pig house's temperature records?",
+      "options": [
+        {
+          "text": "A. They replace ventilation checks",
+          "correct": false,
+          "feedback": "Review: Temperature trends help guide housing management."
+        },
+        {
+          "text": "B. They determine carcass price",
+          "correct": false,
+          "feedback": "Review: Temperature trends help guide housing management."
+        },
+        {
+          "text": "C. They help detect conditions that may affect comfort and feed intake",
+          "correct": true,
+          "feedback": "Correct. Temperature trends help guide housing management."
+        },
+        {
+          "text": "D. They predict litter size",
+          "correct": false,
+          "feedback": "Review: Temperature trends help guide housing management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should pigs have access to enough drinker points?",
+      "options": [
+        {
+          "text": "A. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Adequate drinker access is essential for welfare and production."
+        },
+        {
+          "text": "B. Competition or limited access can reduce water intake",
+          "correct": true,
+          "feedback": "Correct. Adequate drinker access is essential for welfare and production."
+        },
+        {
+          "text": "C. It prevents all fighting",
+          "correct": false,
+          "feedback": "Review: Adequate drinker access is essential for welfare and production."
+        },
+        {
+          "text": "D. It replaces water quality checks",
+          "correct": false,
+          "feedback": "Review: Adequate drinker access is essential for welfare and production."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What should be reviewed if a group of pigs develops skin lesions?",
+      "options": [
+        {
+          "text": "A. Pen surfaces, fighting, parasites and possible infectious causes",
+          "correct": true,
+          "feedback": "Correct. Lesions have multiple causes and need proper assessment."
+        },
+        {
+          "text": "B. Only feed price",
+          "correct": false,
+          "feedback": "Review: Lesions have multiple causes and need proper assessment."
+        },
+        {
+          "text": "C. Whether the pigs are the same colour",
+          "correct": false,
+          "feedback": "Review: Lesions have multiple causes and need proper assessment."
+        },
+        {
+          "text": "D. Nothing if they still eat",
+          "correct": false,
+          "feedback": "Review: Lesions have multiple causes and need proper assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why is a clean loading ramp important for pig transport?",
+      "options": [
+        {
+          "text": "A. It determines meat quality",
+          "correct": false,
+          "feedback": "Review: Safe ramps and calm handling reduce transport injuries."
+        },
+        {
+          "text": "B. It increases transport speed automatically",
+          "correct": false,
+          "feedback": "Review: Safe ramps and calm handling reduce transport injuries."
+        },
+        {
+          "text": "C. It replaces vehicle cleaning",
+          "correct": false,
+          "feedback": "Review: Safe ramps and calm handling reduce transport injuries."
+        },
+        {
+          "text": "D. It improves footing and reduces slips and injuries",
+          "correct": true,
+          "feedback": "Correct. Safe ramps and calm handling reduce transport injuries."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of recording piglet birth weights?",
+      "options": [
+        {
+          "text": "A. It replaces sow records",
+          "correct": false,
+          "feedback": "Review: Birth weight data can inform care and performance review."
+        },
+        {
+          "text": "B. It predicts exact adult weight",
+          "correct": false,
+          "feedback": "Review: Birth weight data can inform care and performance review."
+        },
+        {
+          "text": "C. It helps assess early growth and identify vulnerable piglets",
+          "correct": true,
+          "feedback": "Correct. Birth weight data can inform care and performance review."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Birth weight data can inform care and performance review."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should a pig farm have a plan for extreme heat?",
+      "options": [
+        {
+          "text": "A. Pigs cool themselves by sweating efficiently",
+          "correct": false,
+          "feedback": "Review: Provide water, airflow and cooling appropriate to the system."
+        },
+        {
+          "text": "B. Heat stress can reduce feed intake and threaten animal health",
+          "correct": true,
+          "feedback": "Correct. Provide water, airflow and cooling appropriate to the system."
+        },
+        {
+          "text": "C. Heat stress improves growth",
+          "correct": false,
+          "feedback": "Review: Provide water, airflow and cooling appropriate to the system."
+        },
+        {
+          "text": "D. Shade is never useful",
+          "correct": false,
+          "feedback": "Review: Provide water, airflow and cooling appropriate to the system."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What can repeated coughing in a pig group indicate?",
+      "options": [
+        {
+          "text": "A. Respiratory disease, dust or poor ventilation",
+          "correct": true,
+          "feedback": "Correct. Assess health and environment, and seek veterinary advice."
+        },
+        {
+          "text": "B. A sign of good feed conversion",
+          "correct": false,
+          "feedback": "Review: Assess health and environment, and seek veterinary advice."
+        },
+        {
+          "text": "C. Proof of pregnancy",
+          "correct": false,
+          "feedback": "Review: Assess health and environment, and seek veterinary advice."
+        },
+        {
+          "text": "D. A reason to reduce airflow",
+          "correct": false,
+          "feedback": "Review: Assess health and environment, and seek veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should pig feed be checked for rancid smell or unusual appearance?",
+      "options": [
+        {
+          "text": "A. It replaces feed analysis",
+          "correct": false,
+          "feedback": "Review: Reject suspect feed and investigate storage."
+        },
+        {
+          "text": "B. Rancid feed increases vitamins",
+          "correct": false,
+          "feedback": "Review: Reject suspect feed and investigate storage."
+        },
+        {
+          "text": "C. Appearance never matters",
+          "correct": false,
+          "feedback": "Review: Reject suspect feed and investigate storage."
+        },
+        {
+          "text": "D. Spoilage or oxidation can reduce quality and harm performance",
+          "correct": true,
+          "feedback": "Correct. Reject suspect feed and investigate storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is a reason to keep sick pigs' equipment separate?",
+      "options": [
+        {
+          "text": "A. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Dedicated equipment supports isolation and biosecurity."
+        },
+        {
+          "text": "B. It improves appetite automatically",
+          "correct": false,
+          "feedback": "Review: Dedicated equipment supports isolation and biosecurity."
+        },
+        {
+          "text": "C. It reduces transfer of pathogens between pens",
+          "correct": true,
+          "feedback": "Correct. Dedicated equipment supports isolation and biosecurity."
+        },
+        {
+          "text": "D. It guarantees recovery",
+          "correct": false,
+          "feedback": "Review: Dedicated equipment supports isolation and biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should breeding gilts be selected for sound legs and feet?",
+      "options": [
+        {
+          "text": "A. It determines litter colour",
+          "correct": false,
+          "feedback": "Review: Selection should include mobility and overall health."
+        },
+        {
+          "text": "B. Structural soundness supports longevity and reproductive performance",
+          "correct": true,
+          "feedback": "Correct. Selection should include mobility and overall health."
+        },
+        {
+          "text": "C. It replaces health screening",
+          "correct": false,
+          "feedback": "Review: Selection should include mobility and overall health."
+        },
+        {
+          "text": "D. It guarantees large litters",
+          "correct": false,
+          "feedback": "Review: Selection should include mobility and overall health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What does a herd's farrowing rate describe?",
+      "options": [
+        {
+          "text": "A. The proportion of bred females that farrow",
+          "correct": true,
+          "feedback": "Correct. Farrowing rate is a reproductive measure based on consistent records."
+        },
+        {
+          "text": "B. The average piglet weight",
+          "correct": false,
+          "feedback": "Review: Farrowing rate is a reproductive measure based on consistent records."
+        },
+        {
+          "text": "C. Feed intake per sow",
+          "correct": false,
+          "feedback": "Review: Farrowing rate is a reproductive measure based on consistent records."
+        },
+        {
+          "text": "D. The number of market pigs sold",
+          "correct": false,
+          "feedback": "Review: Farrowing rate is a reproductive measure based on consistent records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should pig manure be kept away from wells and watercourses?",
+      "options": [
+        {
+          "text": "A. Distance affects only smell",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and follow local environmental requirements."
+        },
+        {
+          "text": "B. Manure disinfects water",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and follow local environmental requirements."
+        },
+        {
+          "text": "C. Runoff improves water quality",
+          "correct": false,
+          "feedback": "Review: Prevent runoff and follow local environmental requirements."
+        },
+        {
+          "text": "D. It can contaminate water with nutrients and pathogens",
+          "correct": true,
+          "feedback": "Correct. Prevent runoff and follow local environmental requirements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What should be done if a pig is unable to rise?",
+      "options": [
+        {
+          "text": "A. Leave it without water",
+          "correct": false,
+          "feedback": "Review: Inability to rise is a serious welfare and health concern."
+        },
+        {
+          "text": "B. Drag it by the legs",
+          "correct": false,
+          "feedback": "Review: Inability to rise is a serious welfare and health concern."
+        },
+        {
+          "text": "C. Provide safe support and seek urgent veterinary assessment",
+          "correct": true,
+          "feedback": "Correct. Inability to rise is a serious welfare and health concern."
+        },
+        {
+          "text": "D. Force it to stand repeatedly",
+          "correct": false,
+          "feedback": "Review: Inability to rise is a serious welfare and health concern."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should piglets be monitored after weaning for feed intake and diarrhoea?",
+      "options": [
+        {
+          "text": "A. Weaning prevents all disease",
+          "correct": false,
+          "feedback": "Review: Close monitoring helps detect problems early."
+        },
+        {
+          "text": "B. Weaning stress can affect digestion and growth",
+          "correct": true,
+          "feedback": "Correct. Close monitoring helps detect problems early."
+        },
+        {
+          "text": "C. Feed intake is irrelevant",
+          "correct": false,
+          "feedback": "Review: Close monitoring helps detect problems early."
+        },
+        {
+          "text": "D. Diarrhoea improves adaptation",
+          "correct": false,
+          "feedback": "Review: Close monitoring helps detect problems early."
         }
       ],
       "part": 4
