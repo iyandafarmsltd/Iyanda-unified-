@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why is alkalinity monitored in a fish pond?",
+      "options": [
+        {
+          "text": "A. It shows the exact amount of feed eaten",
+          "correct": false,
+          "feedback": "Review: Alkalinity helps stabilise pH and supports pond productivity."
+        },
+        {
+          "text": "B. It measures fish length",
+          "correct": false,
+          "feedback": "Review: Alkalinity helps stabilise pH and supports pond productivity."
+        },
+        {
+          "text": "C. It replaces oxygen testing",
+          "correct": false,
+          "feedback": "Review: Alkalinity helps stabilise pH and supports pond productivity."
+        },
+        {
+          "text": "D. It indicates the water's capacity to buffer changes in pH",
+          "correct": true,
+          "feedback": "Correct. Alkalinity helps stabilise pH and supports pond productivity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of a seine net sample in pond management?",
+      "options": [
+        {
+          "text": "A. To aerate the entire pond",
+          "correct": false,
+          "feedback": "Review: Representative sampling helps monitor fish performance."
+        },
+        {
+          "text": "B. To measure rainfall",
+          "correct": false,
+          "feedback": "Review: Representative sampling helps monitor fish performance."
+        },
+        {
+          "text": "C. To sample fish for growth, condition or health checks",
+          "correct": true,
+          "feedback": "Correct. Representative sampling helps monitor fish performance."
+        },
+        {
+          "text": "D. To test feed protein",
+          "correct": false,
+          "feedback": "Review: Representative sampling helps monitor fish performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should fish transport bags or tanks have adequate oxygen?",
+      "options": [
+        {
+          "text": "A. Fish stop respiring during transport",
+          "correct": false,
+          "feedback": "Review: Adequate oxygen and suitable water conditions reduce transport stress."
+        },
+        {
+          "text": "B. Handling and transport can increase fish oxygen demand",
+          "correct": true,
+          "feedback": "Correct. Adequate oxygen and suitable water conditions reduce transport stress."
+        },
+        {
+          "text": "C. Oxygen prevents all temperature change",
+          "correct": false,
+          "feedback": "Review: Adequate oxygen and suitable water conditions reduce transport stress."
+        },
+        {
+          "text": "D. It replaces water quality management",
+          "correct": false,
+          "feedback": "Review: Adequate oxygen and suitable water conditions reduce transport stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What is a sensible response to fish gulping at the surface before dawn?",
+      "options": [
+        {
+          "text": "A. Check dissolved oxygen promptly and activate aeration if needed",
+          "correct": true,
+          "feedback": "Correct. Dissolved oxygen often reaches its daily low near dawn."
+        },
+        {
+          "text": "B. Increase feeding immediately",
+          "correct": false,
+          "feedback": "Review: Dissolved oxygen often reaches its daily low near dawn."
+        },
+        {
+          "text": "C. Stop all water movement",
+          "correct": false,
+          "feedback": "Review: Dissolved oxygen often reaches its daily low near dawn."
+        },
+        {
+          "text": "D. Assume the behaviour is normal",
+          "correct": false,
+          "feedback": "Review: Dissolved oxygen often reaches its daily low near dawn."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why is pond water exchange not automatically the answer to every water-quality problem?",
+      "options": [
+        {
+          "text": "A. Pond water chemistry never changes",
+          "correct": false,
+          "feedback": "Review: Assess source water and the specific problem before exchanging water."
+        },
+        {
+          "text": "B. Water exchange always removes all risks",
+          "correct": false,
+          "feedback": "Review: Assess source water and the specific problem before exchanging water."
+        },
+        {
+          "text": "C. Fish do not respond to source water",
+          "correct": false,
+          "feedback": "Review: Assess source water and the specific problem before exchanging water."
+        },
+        {
+          "text": "D. Incoming water may also have poor quality or introduce pathogens",
+          "correct": true,
+          "feedback": "Correct. Assess source water and the specific problem before exchanging water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What does a fish feed pellet's water stability affect?",
+      "options": [
+        {
+          "text": "A. The pond's exact depth",
+          "correct": false,
+          "feedback": "Review: Water stability affects nutrient loss and waste from uneaten feed."
+        },
+        {
+          "text": "B. The fish species' genetic code",
+          "correct": false,
+          "feedback": "Review: Water stability affects nutrient loss and waste from uneaten feed."
+        },
+        {
+          "text": "C. How long the pellet remains intact before leaching",
+          "correct": true,
+          "feedback": "Correct. Water stability affects nutrient loss and waste from uneaten feed."
+        },
+        {
+          "text": "D. The number of fingerlings stocked",
+          "correct": false,
+          "feedback": "Review: Water stability affects nutrient loss and waste from uneaten feed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should fingerlings be counted or estimated accurately at stocking?",
+      "options": [
+        {
+          "text": "A. It determines pond colour",
+          "correct": false,
+          "feedback": "Review: Reliable stocking records support production planning."
+        },
+        {
+          "text": "B. Stocking numbers support biomass, feed and survival calculations",
+          "correct": true,
+          "feedback": "Correct. Reliable stocking records support production planning."
+        },
+        {
+          "text": "C. It removes the need for mortality records",
+          "correct": false,
+          "feedback": "Review: Reliable stocking records support production planning."
+        },
+        {
+          "text": "D. It guarantees a uniform harvest size",
+          "correct": false,
+          "feedback": "Review: Reliable stocking records support production planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What can excessive phytoplankton die-off cause in a fish pond?",
+      "options": [
+        {
+          "text": "A. A rise in decomposition and oxygen depletion",
+          "correct": true,
+          "feedback": "Correct. Algal die-offs can cause rapid oxygen demand and fish stress."
+        },
+        {
+          "text": "B. Permanent sterilisation of water",
+          "correct": false,
+          "feedback": "Review: Algal die-offs can cause rapid oxygen demand and fish stress."
+        },
+        {
+          "text": "C. An increase in dissolved oxygen in all cases",
+          "correct": false,
+          "feedback": "Review: Algal die-offs can cause rapid oxygen demand and fish stress."
+        },
+        {
+          "text": "D. Removal of organic waste",
+          "correct": false,
+          "feedback": "Review: Algal die-offs can cause rapid oxygen demand and fish stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should a farm keep a backup power plan for aerators?",
+      "options": [
+        {
+          "text": "A. Backup power replaces pond testing",
+          "correct": false,
+          "feedback": "Review: A tested backup plan is critical where fish depend on mechanical aeration."
+        },
+        {
+          "text": "B. Aerators are only decorative",
+          "correct": false,
+          "feedback": "Review: A tested backup plan is critical where fish depend on mechanical aeration."
+        },
+        {
+          "text": "C. Fish need less oxygen during outages",
+          "correct": false,
+          "feedback": "Review: A tested backup plan is critical where fish depend on mechanical aeration."
+        },
+        {
+          "text": "D. Power failure can quickly create dangerous low-oxygen conditions",
+          "correct": true,
+          "feedback": "Correct. A tested backup plan is critical where fish depend on mechanical aeration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is the purpose of grading fish by size?",
+      "options": [
+        {
+          "text": "A. To sterilise pond water",
+          "correct": false,
+          "feedback": "Review: Grading can improve uniformity but should be done with careful handling."
+        },
+        {
+          "text": "B. To change their species",
+          "correct": false,
+          "feedback": "Review: Grading can improve uniformity but should be done with careful handling."
+        },
+        {
+          "text": "C. To reduce size variation and sometimes limit cannibalism or competition",
+          "correct": true,
+          "feedback": "Correct. Grading can improve uniformity but should be done with careful handling."
+        },
+        {
+          "text": "D. To eliminate all handling stress",
+          "correct": false,
+          "feedback": "Review: Grading can improve uniformity but should be done with careful handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should fish farmers avoid overfeeding during cloudy weather or low-oxygen risk?",
+      "options": [
+        {
+          "text": "A. Clouds remove all dissolved oxygen instantly",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and water conditions."
+        },
+        {
+          "text": "B. Fish may eat less while uneaten feed increases pond oxygen demand",
+          "correct": true,
+          "feedback": "Correct. Adjust feeding to appetite and water conditions."
+        },
+        {
+          "text": "C. Feed is a substitute for aeration",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and water conditions."
+        },
+        {
+          "text": "D. Overfeeding prevents ammonia formation",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and water conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What is ammonia toxicity in fish ponds influenced by?",
+      "options": [
+        {
+          "text": "A. Total ammonia, pH and temperature",
+          "correct": true,
+          "feedback": "Correct. The un-ionised ammonia fraction becomes more important at higher pH and temperature."
+        },
+        {
+          "text": "B. Only pond colour",
+          "correct": false,
+          "feedback": "Review: The un-ionised ammonia fraction becomes more important at higher pH and temperature."
+        },
+        {
+          "text": "C. Fish scale pattern",
+          "correct": false,
+          "feedback": "Review: The un-ionised ammonia fraction becomes more important at higher pH and temperature."
+        },
+        {
+          "text": "D. The size of the harvest net",
+          "correct": false,
+          "feedback": "Review: The un-ionised ammonia fraction becomes more important at higher pH and temperature."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why is a quarantine tank useful for newly purchased broodstock?",
+      "options": [
+        {
+          "text": "A. It guarantees genetic quality",
+          "correct": false,
+          "feedback": "Review: Separate observation reduces the chance of bringing pathogens into the main system."
+        },
+        {
+          "text": "B. It increases fish growth by itself",
+          "correct": false,
+          "feedback": "Review: Separate observation reduces the chance of bringing pathogens into the main system."
+        },
+        {
+          "text": "C. It eliminates the need for water testing",
+          "correct": false,
+          "feedback": "Review: Separate observation reduces the chance of bringing pathogens into the main system."
+        },
+        {
+          "text": "D. It allows observation and health checks before mixing",
+          "correct": true,
+          "feedback": "Correct. Separate observation reduces the chance of bringing pathogens into the main system."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is the purpose of keeping a feed conversion record?",
+      "options": [
+        {
+          "text": "A. To calculate water transparency",
+          "correct": false,
+          "feedback": "Review: FCR supports evaluation of feeding efficiency when measurements are accurate."
+        },
+        {
+          "text": "B. To measure alkalinity",
+          "correct": false,
+          "feedback": "Review: FCR supports evaluation of feeding efficiency when measurements are accurate."
+        },
+        {
+          "text": "C. To compare feed input with biomass gain over a defined period",
+          "correct": true,
+          "feedback": "Correct. FCR supports evaluation of feeding efficiency when measurements are accurate."
+        },
+        {
+          "text": "D. To identify fish sex",
+          "correct": false,
+          "feedback": "Review: FCR supports evaluation of feeding efficiency when measurements are accurate."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should pond sludge be managed rather than allowed to accumulate indefinitely?",
+      "options": [
+        {
+          "text": "A. Sludge always increases oxygen",
+          "correct": false,
+          "feedback": "Review: Sludge removal or management helps control organic loading."
+        },
+        {
+          "text": "B. Excess organic deposits can worsen oxygen demand and water quality",
+          "correct": true,
+          "feedback": "Correct. Sludge removal or management helps control organic loading."
+        },
+        {
+          "text": "C. It sterilises the pond bottom",
+          "correct": false,
+          "feedback": "Review: Sludge removal or management helps control organic loading."
+        },
+        {
+          "text": "D. It replaces the need for pond preparation",
+          "correct": false,
+          "feedback": "Review: Sludge removal or management helps control organic loading."
+        }
+      ],
+      "part": 4
     }
   ]
 }
