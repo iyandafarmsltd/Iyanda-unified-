@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should guinea-fowl breeders be selected using health and production records?",
+      "options": [
+        {
+          "text": "A. Feather spots alone prove fertility",
+          "correct": false,
+          "feedback": "Review: Selection is more reliable when based on multiple recorded traits."
+        },
+        {
+          "text": "B. Records help identify birds with useful reproductive and survival performance",
+          "correct": true,
+          "feedback": "Correct. Selection is more reliable when based on multiple recorded traits."
+        },
+        {
+          "text": "C. Records make incubation unnecessary",
+          "correct": false,
+          "feedback": "Review: Selection is more reliable when based on multiple recorded traits."
+        },
+        {
+          "text": "D. It guarantees every keet survives",
+          "correct": false,
+          "feedback": "Review: Selection is more reliable when based on multiple recorded traits."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the benefit of providing elevated roosts for adult guinea fowl?",
+      "options": [
+        {
+          "text": "A. They allow natural perching behaviour in a secure shelter",
+          "correct": true,
+          "feedback": "Correct. Suitable roosts support normal behaviour and safe night housing."
+        },
+        {
+          "text": "B. They replace nesting areas",
+          "correct": false,
+          "feedback": "Review: Suitable roosts support normal behaviour and safe night housing."
+        },
+        {
+          "text": "C. They stop birds needing feed",
+          "correct": false,
+          "feedback": "Review: Suitable roosts support normal behaviour and safe night housing."
+        },
+        {
+          "text": "D. They eliminate predator risk",
+          "correct": false,
+          "feedback": "Review: Suitable roosts support normal behaviour and safe night housing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should keets be protected from damp bedding?",
+      "options": [
+        {
+          "text": "A. Keets cannot be affected by wet litter",
+          "correct": false,
+          "feedback": "Review: Dry bedding and suitable brooding reduce health and welfare risks."
+        },
+        {
+          "text": "B. Damp bedding improves insulation",
+          "correct": false,
+          "feedback": "Review: Dry bedding and suitable brooding reduce health and welfare risks."
+        },
+        {
+          "text": "C. It replaces brooder heat",
+          "correct": false,
+          "feedback": "Review: Dry bedding and suitable brooding reduce health and welfare risks."
+        },
+        {
+          "text": "D. Wet conditions can chill young birds and increase pathogen exposure",
+          "correct": true,
+          "feedback": "Correct. Dry bedding and suitable brooding reduce health and welfare risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What should a farmer check if guinea fowl suddenly stop using their usual roost?",
+      "options": [
+        {
+          "text": "A. The pond pH",
+          "correct": false,
+          "feedback": "Review: Changes in roosting behaviour can signal a security or environmental issue."
+        },
+        {
+          "text": "B. Only the market price of eggs",
+          "correct": false,
+          "feedback": "Review: Changes in roosting behaviour can signal a security or environmental issue."
+        },
+        {
+          "text": "C. Possible disturbance, predator presence or changes in housing access",
+          "correct": true,
+          "feedback": "Correct. Changes in roosting behaviour can signal a security or environmental issue."
+        },
+        {
+          "text": "D. The colour of feed sacks",
+          "correct": false,
+          "feedback": "Review: Changes in roosting behaviour can signal a security or environmental issue."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why is a reliable evening feeding routine useful when training guinea fowl to return to housing?",
+      "options": [
+        {
+          "text": "A. It makes fencing unnecessary",
+          "correct": false,
+          "feedback": "Review: Consistent routines can support flock management, though secure housing remains important."
+        },
+        {
+          "text": "B. It can help establish a predictable return-to-roost habit",
+          "correct": true,
+          "feedback": "Correct. Consistent routines can support flock management, though secure housing remains important."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Consistent routines can support flock management, though secure housing remains important."
+        },
+        {
+          "text": "D. It removes their need for daytime forage",
+          "correct": false,
+          "feedback": "Review: Consistent routines can support flock management, though secure housing remains important."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is a sensible way to reduce injury during guinea-fowl capture?",
+      "options": [
+        {
+          "text": "A. Use calm handling and suitable low-stress equipment",
+          "correct": true,
+          "feedback": "Correct. Calm capture reduces panic and physical injury."
+        },
+        {
+          "text": "B. Chase birds into hard obstacles",
+          "correct": false,
+          "feedback": "Review: Calm capture reduces panic and physical injury."
+        },
+        {
+          "text": "C. Grab birds by one wing",
+          "correct": false,
+          "feedback": "Review: Calm capture reduces panic and physical injury."
+        },
+        {
+          "text": "D. Use loud sudden movements",
+          "correct": false,
+          "feedback": "Review: Calm capture reduces panic and physical injury."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should guinea-fowl eggs be stored with the pointed end down when following common hatchery practice?",
+      "options": [
+        {
+          "text": "A. It increases egg weight",
+          "correct": false,
+          "feedback": "Review: Correct orientation is part of careful egg storage; follow the hatchery's protocol."
+        },
+        {
+          "text": "B. It changes the sex of the embryo",
+          "correct": false,
+          "feedback": "Review: Correct orientation is part of careful egg storage; follow the hatchery's protocol."
+        },
+        {
+          "text": "C. It removes shell bacteria",
+          "correct": false,
+          "feedback": "Review: Correct orientation is part of careful egg storage; follow the hatchery's protocol."
+        },
+        {
+          "text": "D. It helps maintain the air cell position during storage",
+          "correct": true,
+          "feedback": "Correct. Correct orientation is part of careful egg storage; follow the hatchery's protocol."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What is the purpose of keeping a record of egg collection times?",
+      "options": [
+        {
+          "text": "A. It determines feed protein",
+          "correct": false,
+          "feedback": "Review: Collection records support egg quality and incubation management."
+        },
+        {
+          "text": "B. It measures bird body temperature",
+          "correct": false,
+          "feedback": "Review: Collection records support egg quality and incubation management."
+        },
+        {
+          "text": "C. It helps track freshness, storage duration and laying patterns",
+          "correct": true,
+          "feedback": "Correct. Collection records support egg quality and incubation management."
+        },
+        {
+          "text": "D. It replaces egg sanitation",
+          "correct": false,
+          "feedback": "Review: Collection records support egg quality and incubation management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should guinea-fowl feed troughs be designed to reduce spillage?",
+      "options": [
+        {
+          "text": "A. Spilled feed improves litter quality",
+          "correct": false,
+          "feedback": "Review: Appropriate trough design helps limit waste and pest access."
+        },
+        {
+          "text": "B. Feed waste attracts pests and increases cost and contamination",
+          "correct": true,
+          "feedback": "Correct. Appropriate trough design helps limit waste and pest access."
+        },
+        {
+          "text": "C. Waste feed increases nutrient intake",
+          "correct": false,
+          "feedback": "Review: Appropriate trough design helps limit waste and pest access."
+        },
+        {
+          "text": "D. Trough design does not affect hygiene",
+          "correct": false,
+          "feedback": "Review: Appropriate trough design helps limit waste and pest access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What may repeated sneezing in a guinea-fowl flock indicate?",
+      "options": [
+        {
+          "text": "A. Dust, poor air quality or a respiratory health problem",
+          "correct": true,
+          "feedback": "Correct. Assess the environment and seek veterinary advice if signs persist or spread."
+        },
+        {
+          "text": "B. A sign of successful incubation",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if signs persist or spread."
+        },
+        {
+          "text": "C. Proof that feed is balanced",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if signs persist or spread."
+        },
+        {
+          "text": "D. A normal behaviour needing no observation",
+          "correct": false,
+          "feedback": "Review: Assess the environment and seek veterinary advice if signs persist or spread."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why is clean water especially important during hot weather?",
+      "options": [
+        {
+          "text": "A. Dirty water cools birds safely",
+          "correct": false,
+          "feedback": "Review: Provide ample clean water and monitor drinker function in hot conditions."
+        },
+        {
+          "text": "B. Water demand always falls in heat",
+          "correct": false,
+          "feedback": "Review: Provide ample clean water and monitor drinker function in hot conditions."
+        },
+        {
+          "text": "C. Water replaces shade",
+          "correct": false,
+          "feedback": "Review: Provide ample clean water and monitor drinker function in hot conditions."
+        },
+        {
+          "text": "D. Birds may increase water intake to support temperature regulation",
+          "correct": true,
+          "feedback": "Correct. Provide ample clean water and monitor drinker function in hot conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What should be considered when selecting a site for guinea-fowl housing?",
+      "options": [
+        {
+          "text": "A. Distance from all feed stores regardless of access",
+          "correct": false,
+          "feedback": "Review: A well-sited house supports hygiene, welfare and daily management."
+        },
+        {
+          "text": "B. Only the colour of the soil",
+          "correct": false,
+          "feedback": "Review: A well-sited house supports hygiene, welfare and daily management."
+        },
+        {
+          "text": "C. Drainage, ventilation, security and access to clean water",
+          "correct": true,
+          "feedback": "Correct. A well-sited house supports hygiene, welfare and daily management."
+        },
+        {
+          "text": "D. Whether the site floods seasonally",
+          "correct": false,
+          "feedback": "Review: A well-sited house supports hygiene, welfare and daily management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should newly arrived guinea fowl be observed before joining a resident flock?",
+      "options": [
+        {
+          "text": "A. To prevent them eating",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are basic biosecurity."
+        },
+        {
+          "text": "B. To identify illness and reduce disease introduction",
+          "correct": true,
+          "feedback": "Correct. Quarantine and observation are basic biosecurity."
+        },
+        {
+          "text": "C. To avoid recording their origin",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are basic biosecurity."
+        },
+        {
+          "text": "D. To make them forget roosting",
+          "correct": false,
+          "feedback": "Review: Quarantine and observation are basic biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is the role of grit for birds when their diet requires it?",
+      "options": [
+        {
+          "text": "A. It can help mechanical grinding of feed in the gizzard",
+          "correct": true,
+          "feedback": "Correct. Appropriate insoluble grit can aid grinding; it is not a substitute for balanced feed."
+        },
+        {
+          "text": "B. It supplies all protein",
+          "correct": false,
+          "feedback": "Review: Appropriate insoluble grit can aid grinding; it is not a substitute for balanced feed."
+        },
+        {
+          "text": "C. It disinfects the intestine",
+          "correct": false,
+          "feedback": "Review: Appropriate insoluble grit can aid grinding; it is not a substitute for balanced feed."
+        },
+        {
+          "text": "D. It replaces calcium for eggshells",
+          "correct": false,
+          "feedback": "Review: Appropriate insoluble grit can aid grinding; it is not a substitute for balanced feed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should guinea-fowl nest areas be checked without excessive disturbance?",
+      "options": [
+        {
+          "text": "A. Disturbance improves fertility",
+          "correct": false,
+          "feedback": "Review: Use calm, limited checks to monitor nests while minimising disturbance."
+        },
+        {
+          "text": "B. Eggs hatch faster when handled",
+          "correct": false,
+          "feedback": "Review: Use calm, limited checks to monitor nests while minimising disturbance."
+        },
+        {
+          "text": "C. Nest checks replace incubation control",
+          "correct": false,
+          "feedback": "Review: Use calm, limited checks to monitor nests while minimising disturbance."
+        },
+        {
+          "text": "D. Repeated disturbance can cause stress or nest abandonment",
+          "correct": true,
+          "feedback": "Correct. Use calm, limited checks to monitor nests while minimising disturbance."
+        }
+      ],
+      "part": 4
     }
   ]
 }
