@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. To make them lose body condition",
           "correct": false,
           "feedback": "Review: Quarantine and observation are important biosecurity steps."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should ducklings be observed for straight, coordinated walking?",
+      "options": [
+        {
+          "text": "A. It replaces feed checks",
+          "correct": false,
+          "feedback": "Review: Early mobility checks can identify problems needing assessment."
+        },
+        {
+          "text": "B. Gait predicts egg colour",
+          "correct": false,
+          "feedback": "Review: Early mobility checks can identify problems needing assessment."
+        },
+        {
+          "text": "C. Abnormal gait can indicate leg, nutrition or health problems",
+          "correct": true,
+          "feedback": "Correct. Early mobility checks can identify problems needing assessment."
+        },
+        {
+          "text": "D. All ducklings walk identically from hatch",
+          "correct": false,
+          "feedback": "Review: Early mobility checks can identify problems needing assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of removing spoiled feed from duck troughs?",
+      "options": [
+        {
+          "text": "A. It increases appetite automatically",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct storage or trough issues."
+        },
+        {
+          "text": "B. Spoiled feed may harbour mould and bacteria",
+          "correct": true,
+          "feedback": "Correct. Remove spoiled feed and correct storage or trough issues."
+        },
+        {
+          "text": "C. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct storage or trough issues."
+        },
+        {
+          "text": "D. It prevents the need for clean water",
+          "correct": false,
+          "feedback": "Review: Remove spoiled feed and correct storage or trough issues."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should a duck farm record pond mortality separately from normal flock losses?",
+      "options": [
+        {
+          "text": "A. It helps identify whether a waterbody-related event is occurring",
+          "correct": true,
+          "feedback": "Correct. Separate records can reveal patterns linked to a pond or water source."
+        },
+        {
+          "text": "B. It predicts rainfall",
+          "correct": false,
+          "feedback": "Review: Separate records can reveal patterns linked to a pond or water source."
+        },
+        {
+          "text": "C. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Separate records can reveal patterns linked to a pond or water source."
+        },
+        {
+          "text": "D. It guarantees a disease diagnosis",
+          "correct": false,
+          "feedback": "Review: Separate records can reveal patterns linked to a pond or water source."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What can algae mats around a duck pond edge cause?",
+      "options": [
+        {
+          "text": "A. They improve every water parameter",
+          "correct": false,
+          "feedback": "Review: Monitor algae and pond condition rather than assuming growth is harmless."
+        },
+        {
+          "text": "B. They guarantee clean water",
+          "correct": false,
+          "feedback": "Review: Monitor algae and pond condition rather than assuming growth is harmless."
+        },
+        {
+          "text": "C. They replace pond aeration",
+          "correct": false,
+          "feedback": "Review: Monitor algae and pond condition rather than assuming growth is harmless."
+        },
+        {
+          "text": "D. They may create unsafe footing and contribute to organic loading",
+          "correct": true,
+          "feedback": "Correct. Monitor algae and pond condition rather than assuming growth is harmless."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should ducks be protected from access to recently treated crop fields?",
+      "options": [
+        {
+          "text": "A. Ducks neutralise all chemicals",
+          "correct": false,
+          "feedback": "Review: Observe product re-entry and grazing restrictions and seek local advice."
+        },
+        {
+          "text": "B. Pesticides improve feather quality",
+          "correct": false,
+          "feedback": "Review: Observe product re-entry and grazing restrictions and seek local advice."
+        },
+        {
+          "text": "C. They may ingest pesticide residues or contaminated water",
+          "correct": true,
+          "feedback": "Correct. Observe product re-entry and grazing restrictions and seek local advice."
+        },
+        {
+          "text": "D. Field treatment has no relevance to livestock",
+          "correct": false,
+          "feedback": "Review: Observe product re-entry and grazing restrictions and seek local advice."
         }
       ],
       "part": 4
