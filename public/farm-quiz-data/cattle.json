@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 180,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4859,6 +4859,141 @@
           "text": "D. Promptly contact a veterinarian and review shared feed, water and exposure",
           "correct": true,
           "feedback": "Correct. A cluster may indicate a shared exposure or contagious disease."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should cattle be acclimated gradually when moved from pasture to a high-concentrate finishing ration?",
+      "options": [
+        {
+          "text": "A. It removes the need for roughage",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation lowers the risk of ruminal acidosis."
+        },
+        {
+          "text": "B. It prevents cattle from drinking",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation lowers the risk of ruminal acidosis."
+        },
+        {
+          "text": "C. Rumen microbes need time to adapt to the new diet",
+          "correct": true,
+          "feedback": "Correct. Gradual adaptation lowers the risk of ruminal acidosis."
+        },
+        {
+          "text": "D. It makes the ration sterile",
+          "correct": false,
+          "feedback": "Review: Gradual adaptation lowers the risk of ruminal acidosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What does a cattle lameness score help a herd manager track?",
+      "options": [
+        {
+          "text": "A. Milk protein concentration",
+          "correct": false,
+          "feedback": "Review: Consistent scoring helps monitor trends but does not replace diagnosis."
+        },
+        {
+          "text": "B. The severity and frequency of mobility problems",
+          "correct": true,
+          "feedback": "Correct. Consistent scoring helps monitor trends but does not replace diagnosis."
+        },
+        {
+          "text": "C. The age of calves",
+          "correct": false,
+          "feedback": "Review: Consistent scoring helps monitor trends but does not replace diagnosis."
+        },
+        {
+          "text": "D. The exact cause of every hoof lesion",
+          "correct": false,
+          "feedback": "Review: Consistent scoring helps monitor trends but does not replace diagnosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should calf pens be arranged to allow easy cleaning between occupants?",
+      "options": [
+        {
+          "text": "A. Cleaning and drying reduce pathogen carryover",
+          "correct": true,
+          "feedback": "Correct. Cleanable pens support hygiene between calves."
+        },
+        {
+          "text": "B. It increases calf stocking density",
+          "correct": false,
+          "feedback": "Review: Cleanable pens support hygiene between calves."
+        },
+        {
+          "text": "C. It removes the need for colostrum",
+          "correct": false,
+          "feedback": "Review: Cleanable pens support hygiene between calves."
+        },
+        {
+          "text": "D. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Review: Cleanable pens support hygiene between calves."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is the purpose of checking silage face management?",
+      "options": [
+        {
+          "text": "A. To reduce forage intake",
+          "correct": false,
+          "feedback": "Review: A tidy face and suitable feed-out rate help limit spoilage."
+        },
+        {
+          "text": "B. To add oxygen to the whole clamp",
+          "correct": false,
+          "feedback": "Review: A tidy face and suitable feed-out rate help limit spoilage."
+        },
+        {
+          "text": "C. To increase mould formation",
+          "correct": false,
+          "feedback": "Review: A tidy face and suitable feed-out rate help limit spoilage."
+        },
+        {
+          "text": "D. To limit air exposure and heating during feed-out",
+          "correct": true,
+          "feedback": "Correct. A tidy face and suitable feed-out rate help limit spoilage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should cattle be checked for heat stress during humid weather?",
+      "options": [
+        {
+          "text": "A. Cattle stop producing body heat",
+          "correct": false,
+          "feedback": "Review: Heat stress risk depends on temperature, humidity, airflow and animal factors."
+        },
+        {
+          "text": "B. Humidity always improves cooling",
+          "correct": false,
+          "feedback": "Review: Heat stress risk depends on temperature, humidity, airflow and animal factors."
+        },
+        {
+          "text": "C. High humidity limits evaporative cooling",
+          "correct": true,
+          "feedback": "Correct. Heat stress risk depends on temperature, humidity, airflow and animal factors."
+        },
+        {
+          "text": "D. Shade increases heat load",
+          "correct": false,
+          "feedback": "Review: Heat stress risk depends on temperature, humidity, airflow and animal factors."
         }
       ],
       "part": 4
