@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It limits contamination and pests",
           "correct": true,
           "feedback": "Correct. Clean and dry nest boxes between use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should guinea-fowl be observed for signs of eye injury after fighting?",
+      "options": [
+        {
+          "text": "A. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Inspect injuries and seek veterinary attention when needed."
+        },
+        {
+          "text": "B. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Inspect injuries and seek veterinary attention when needed."
+        },
+        {
+          "text": "C. Eye damage can impair vision and cause pain",
+          "correct": true,
+          "feedback": "Correct. Inspect injuries and seek veterinary attention when needed."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Inspect injuries and seek veterinary attention when needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of keeping guinea-fowl waterers shaded in hot weather?",
+      "options": [
+        {
+          "text": "A. It sterilises water",
+          "correct": false,
+          "feedback": "Review: Maintain clean water and shade where practical."
+        },
+        {
+          "text": "B. It helps keep drinking water cooler and more acceptable",
+          "correct": true,
+          "feedback": "Correct. Maintain clean water and shade where practical."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Maintain clean water and shade where practical."
+        },
+        {
+          "text": "D. It determines egg size",
+          "correct": false,
+          "feedback": "Review: Maintain clean water and shade where practical."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should guinea-fowl eggs be collected before they become chilled or overheated outdoors?",
+      "options": [
+        {
+          "text": "A. Temperature extremes can reduce embryo viability",
+          "correct": true,
+          "feedback": "Correct. Collect regularly and store under suitable conditions."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Collect regularly and store under suitable conditions."
+        },
+        {
+          "text": "C. It changes shell thickness",
+          "correct": false,
+          "feedback": "Review: Collect regularly and store under suitable conditions."
+        },
+        {
+          "text": "D. It replaces storage",
+          "correct": false,
+          "feedback": "Review: Collect regularly and store under suitable conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a guinea-fowl flock's repeated alarm calls near housing prompt a farmer to inspect?",
+      "options": [
+        {
+          "text": "A. Egg shell colour",
+          "correct": false,
+          "feedback": "Review: Check security and the surrounding range."
+        },
+        {
+          "text": "B. Only feed protein",
+          "correct": false,
+          "feedback": "Review: Check security and the surrounding range."
+        },
+        {
+          "text": "C. The pond depth",
+          "correct": false,
+          "feedback": "Review: Check security and the surrounding range."
+        },
+        {
+          "text": "D. Possible predator activity or disturbance",
+          "correct": true,
+          "feedback": "Correct. Check security and the surrounding range."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should guinea-fowl be introduced to new feed in a measured transition?",
+      "options": [
+        {
+          "text": "A. It replaces clean water",
+          "correct": false,
+          "feedback": "Review: Transition feed gradually and monitor response."
+        },
+        {
+          "text": "B. It guarantees egg production",
+          "correct": false,
+          "feedback": "Review: Transition feed gradually and monitor response."
+        },
+        {
+          "text": "C. A gradual change helps maintain intake and digestive adaptation",
+          "correct": true,
+          "feedback": "Correct. Transition feed gradually and monitor response."
+        },
+        {
+          "text": "D. It changes breed",
+          "correct": false,
+          "feedback": "Review: Transition feed gradually and monitor response."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of checking the brooder floor for wet spots?",
+      "options": [
+        {
+          "text": "A. It increases warmth",
+          "correct": false,
+          "feedback": "Review: Correct leaks and keep bedding dry."
+        },
+        {
+          "text": "B. Wet areas can chill keets and increase infection risk",
+          "correct": true,
+          "feedback": "Correct. Correct leaks and keep bedding dry."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Review: Correct leaks and keep bedding dry."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Correct leaks and keep bedding dry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should guinea-fowl nest boxes be checked for mites or other pests?",
+      "options": [
+        {
+          "text": "A. Pests can irritate birds and affect nesting behaviour",
+          "correct": true,
+          "feedback": "Correct. Inspect nest material and manage pests safely."
+        },
+        {
+          "text": "B. They improve hatchability",
+          "correct": false,
+          "feedback": "Review: Inspect nest material and manage pests safely."
+        },
+        {
+          "text": "C. It determines egg weight",
+          "correct": false,
+          "feedback": "Review: Inspect nest material and manage pests safely."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Inspect nest material and manage pests safely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can a keet that repeatedly falls or cannot perch normally indicate?",
+      "options": [
+        {
+          "text": "A. It measures feed quality",
+          "correct": false,
+          "feedback": "Review: Separate for assessment and seek veterinary advice."
+        },
+        {
+          "text": "B. It predicts adult colour",
+          "correct": false,
+          "feedback": "Review: Separate for assessment and seek veterinary advice."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Separate for assessment and seek veterinary advice."
+        },
+        {
+          "text": "D. Possible weakness, injury or developmental problem",
+          "correct": true,
+          "feedback": "Correct. Separate for assessment and seek veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should guinea-fowl range fencing be inspected after storms?",
+      "options": [
+        {
+          "text": "A. It replaces roosting",
+          "correct": false,
+          "feedback": "Review: Repair damage promptly and secure the flock."
+        },
+        {
+          "text": "B. It increases feed intake",
+          "correct": false,
+          "feedback": "Review: Repair damage promptly and secure the flock."
+        },
+        {
+          "text": "C. Storms can damage barriers and create escape routes",
+          "correct": true,
+          "feedback": "Correct. Repair damage promptly and secure the flock."
+        },
+        {
+          "text": "D. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Repair damage promptly and secure the flock."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of recording guinea-fowl egg production by week?",
+      "options": [
+        {
+          "text": "A. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Use consistent records to guide investigation."
+        },
+        {
+          "text": "B. It helps identify laying trends and sudden changes",
+          "correct": true,
+          "feedback": "Correct. Use consistent records to guide investigation."
+        },
+        {
+          "text": "C. It replaces breeder health checks",
+          "correct": false,
+          "feedback": "Review: Use consistent records to guide investigation."
+        },
+        {
+          "text": "D. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Use consistent records to guide investigation."
         }
       ],
       "part": 4
