@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. It removes the need for hoof checks",
           "correct": false,
           "feedback": "Review: Maintain appropriate condition and monitor locomotion and reproductive health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should piglets be checked for diarrhoea soon after farrowing?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Prompt assessment is important because piglets can deteriorate quickly."
+        },
+        {
+          "text": "B. Diarrhoea improves growth",
+          "correct": false,
+          "feedback": "Review: Prompt assessment is important because piglets can deteriorate quickly."
+        },
+        {
+          "text": "C. Young piglets can become dehydrated rapidly",
+          "correct": true,
+          "feedback": "Correct. Prompt assessment is important because piglets can deteriorate quickly."
+        },
+        {
+          "text": "D. It replaces temperature checks",
+          "correct": false,
+          "feedback": "Review: Prompt assessment is important because piglets can deteriorate quickly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of providing adequate feeder space for growing pigs?",
+      "options": [
+        {
+          "text": "A. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Feeder access is important for intake and group uniformity."
+        },
+        {
+          "text": "B. It reduces competition and supports more even feed access",
+          "correct": true,
+          "feedback": "Correct. Feeder access is important for intake and group uniformity."
+        },
+        {
+          "text": "C. It prevents the need for water",
+          "correct": false,
+          "feedback": "Review: Feeder access is important for intake and group uniformity."
+        },
+        {
+          "text": "D. It guarantees identical growth",
+          "correct": false,
+          "feedback": "Review: Feeder access is important for intake and group uniformity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should a pig farm inspect ventilation fans and alarms routinely?",
+      "options": [
+        {
+          "text": "A. Ventilation failure can rapidly create dangerous housing conditions",
+          "correct": true,
+          "feedback": "Correct. Routine checks and backup plans protect pig welfare."
+        },
+        {
+          "text": "B. Fans only affect noise",
+          "correct": false,
+          "feedback": "Review: Routine checks and backup plans protect pig welfare."
+        },
+        {
+          "text": "C. Alarms replace maintenance",
+          "correct": false,
+          "feedback": "Review: Routine checks and backup plans protect pig welfare."
+        },
+        {
+          "text": "D. Pigs do not respond to temperature",
+          "correct": false,
+          "feedback": "Review: Routine checks and backup plans protect pig welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What should be done if a sow has difficulty standing after farrowing?",
+      "options": [
+        {
+          "text": "A. Assume it is normal",
+          "correct": false,
+          "feedback": "Review: Post-farrowing weakness or inability to rise is a serious warning sign."
+        },
+        {
+          "text": "B. Force her to walk repeatedly",
+          "correct": false,
+          "feedback": "Review: Post-farrowing weakness or inability to rise is a serious warning sign."
+        },
+        {
+          "text": "C. Remove water",
+          "correct": false,
+          "feedback": "Review: Post-farrowing weakness or inability to rise is a serious warning sign."
+        },
+        {
+          "text": "D. Arrange prompt veterinary assessment and check for injury or illness",
+          "correct": true,
+          "feedback": "Correct. Post-farrowing weakness or inability to rise is a serious warning sign."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should feed bins be labelled with ingredient or batch information?",
+      "options": [
+        {
+          "text": "A. It replaces feed testing",
+          "correct": false,
+          "feedback": "Review: Clear labels improve stock control and traceability."
+        },
+        {
+          "text": "B. It changes feed nutrient content",
+          "correct": false,
+          "feedback": "Review: Clear labels improve stock control and traceability."
+        },
+        {
+          "text": "C. It supports traceability and helps prevent feeding errors",
+          "correct": true,
+          "feedback": "Correct. Clear labels improve stock control and traceability."
+        },
+        {
+          "text": "D. It predicts market weight",
+          "correct": false,
+          "feedback": "Review: Clear labels improve stock control and traceability."
         }
       ],
       "part": 4
