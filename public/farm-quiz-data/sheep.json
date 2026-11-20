@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It guarantees immunity",
           "correct": false,
           "feedback": "Review: Accurate records support herd health management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should sheep be monitored for signs of foot abscess?",
+      "options": [
+        {
+          "text": "A. It replaces vaccination",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and appropriate treatment."
+        },
+        {
+          "text": "B. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and appropriate treatment."
+        },
+        {
+          "text": "C. It is harmless",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary assessment and appropriate treatment."
+        },
+        {
+          "text": "D. Foot abscess can cause severe pain and lameness",
+          "correct": true,
+          "feedback": "Correct. Seek prompt veterinary assessment and appropriate treatment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of checking ewes for adequate milk after lambing?",
+      "options": [
+        {
+          "text": "A. It replaces pregnancy scanning",
+          "correct": false,
+          "feedback": "Review: Observe nursing and lamb growth."
+        },
+        {
+          "text": "B. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Observe nursing and lamb growth."
+        },
+        {
+          "text": "C. It helps identify lambs at risk of undernutrition",
+          "correct": true,
+          "feedback": "Correct. Observe nursing and lamb growth."
+        },
+        {
+          "text": "D. It predicts fleece grade",
+          "correct": false,
+          "feedback": "Review: Observe nursing and lamb growth."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should sheep not be allowed to graze on pasture contaminated by industrial waste?",
+      "options": [
+        {
+          "text": "A. Sheep neutralise heavy metals",
+          "correct": false,
+          "feedback": "Review: Prevent access and assess contaminated land before grazing."
+        },
+        {
+          "text": "B. Toxic substances may enter the food chain and harm animals",
+          "correct": true,
+          "feedback": "Correct. Prevent access and assess contaminated land before grazing."
+        },
+        {
+          "text": "C. Waste improves forage",
+          "correct": false,
+          "feedback": "Review: Prevent access and assess contaminated land before grazing."
+        },
+        {
+          "text": "D. It replaces mineral supplementation",
+          "correct": false,
+          "feedback": "Review: Prevent access and assess contaminated land before grazing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a ewe's repeated isolation from the flock during lambing indicate?",
+      "options": [
+        {
+          "text": "A. Possible labour difficulty, pain or illness",
+          "correct": true,
+          "feedback": "Correct. Observe closely and seek assistance if labour is abnormal."
+        },
+        {
+          "text": "B. It guarantees twins",
+          "correct": false,
+          "feedback": "Review: Observe closely and seek assistance if labour is abnormal."
+        },
+        {
+          "text": "C. It predicts wool yield",
+          "correct": false,
+          "feedback": "Review: Observe closely and seek assistance if labour is abnormal."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Observe closely and seek assistance if labour is abnormal."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should lambs be monitored for signs of starvation in large litters?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Check each lamb's nursing and growth."
+        },
+        {
+          "text": "B. Large litters always grow evenly",
+          "correct": false,
+          "feedback": "Review: Check each lamb's nursing and growth."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Check each lamb's nursing and growth."
+        },
+        {
+          "text": "D. Some lambs may not receive enough milk",
+          "correct": true,
+          "feedback": "Correct. Check each lamb's nursing and growth."
         }
       ],
       "part": 4
