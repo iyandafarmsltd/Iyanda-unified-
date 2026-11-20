@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It guarantees survival",
           "correct": false,
           "feedback": "Review: Condition scoring supports forward feed planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should sheep be checked for signs of pregnancy toxaemia when carrying multiple lambs?",
+      "options": [
+        {
+          "text": "A. It affects only rams",
+          "correct": false,
+          "feedback": "Review: Recognise early signs and seek urgent veterinary care."
+        },
+        {
+          "text": "B. High energy demand can exceed intake in late pregnancy",
+          "correct": true,
+          "feedback": "Correct. Recognise early signs and seek urgent veterinary care."
+        },
+        {
+          "text": "C. It is caused by excess water",
+          "correct": false,
+          "feedback": "Review: Recognise early signs and seek urgent veterinary care."
+        },
+        {
+          "text": "D. It improves lamb survival",
+          "correct": false,
+          "feedback": "Review: Recognise early signs and seek urgent veterinary care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking lambs for normal tail and limb movement after birth?",
+      "options": [
+        {
+          "text": "A. It can reveal injury or developmental problems",
+          "correct": true,
+          "feedback": "Correct. Observe newborn lambs and seek help for abnormal movement."
+        },
+        {
+          "text": "B. It predicts fleece quality",
+          "correct": false,
+          "feedback": "Review: Observe newborn lambs and seek help for abnormal movement."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Observe newborn lambs and seek help for abnormal movement."
+        },
+        {
+          "text": "D. It replaces suckling checks",
+          "correct": false,
+          "feedback": "Review: Observe newborn lambs and seek help for abnormal movement."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should sheep be protected from sudden access to grain stores?",
+      "options": [
+        {
+          "text": "A. It replaces forage",
+          "correct": false,
+          "feedback": "Review: Secure feed stores and treat suspected grain overload as urgent."
+        },
+        {
+          "text": "B. Grain cannot ferment in sheep",
+          "correct": false,
+          "feedback": "Review: Secure feed stores and treat suspected grain overload as urgent."
+        },
+        {
+          "text": "C. It improves rumen pH",
+          "correct": false,
+          "feedback": "Review: Secure feed stores and treat suspected grain overload as urgent."
+        },
+        {
+          "text": "D. Rapid grain consumption can cause severe rumen acidosis",
+          "correct": true,
+          "feedback": "Correct. Secure feed stores and treat suspected grain overload as urgent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a ewe's reduced interest in her lamb indicate?",
+      "options": [
+        {
+          "text": "A. It predicts wool yield",
+          "correct": false,
+          "feedback": "Review: Observe bonding and nursing and intervene appropriately."
+        },
+        {
+          "text": "B. A guaranteed healthy litter",
+          "correct": false,
+          "feedback": "Review: Observe bonding and nursing and intervene appropriately."
+        },
+        {
+          "text": "C. Maternal, health or lambing-related problems",
+          "correct": true,
+          "feedback": "Correct. Observe bonding and nursing and intervene appropriately."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Observe bonding and nursing and intervene appropriately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should sheep vaccination records be linked to individual or group identity?",
+      "options": [
+        {
+          "text": "A. It predicts lamb sex",
+          "correct": false,
+          "feedback": "Review: Accurate records support herd health management."
+        },
+        {
+          "text": "B. It helps confirm which animals received the planned programme",
+          "correct": true,
+          "feedback": "Correct. Accurate records support herd health management."
+        },
+        {
+          "text": "C. It replaces vaccine storage",
+          "correct": false,
+          "feedback": "Review: Accurate records support herd health management."
+        },
+        {
+          "text": "D. It guarantees immunity",
+          "correct": false,
+          "feedback": "Review: Accurate records support herd health management."
         }
       ],
       "part": 4
