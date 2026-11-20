@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. Records support welfare, traceability and transport planning",
           "correct": true,
           "feedback": "Correct. Maintain transport records and follow applicable requirements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should piglets be checked for adequate milk access in large litters?",
+      "options": [
+        {
+          "text": "A. It replaces sow nutrition",
+          "correct": false,
+          "feedback": "Review: Observe nursing and support smaller piglets appropriately."
+        },
+        {
+          "text": "B. Large litters always grow evenly",
+          "correct": false,
+          "feedback": "Review: Observe nursing and support smaller piglets appropriately."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Observe nursing and support smaller piglets appropriately."
+        },
+        {
+          "text": "D. Some piglets may be outcompeted and fail to receive enough milk",
+          "correct": true,
+          "feedback": "Correct. Observe nursing and support smaller piglets appropriately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of monitoring pig pen temperature at piglet height?",
+      "options": [
+        {
+          "text": "A. It predicts carcass grade",
+          "correct": false,
+          "feedback": "Review: Use animal-level measurements and behaviour."
+        },
+        {
+          "text": "B. It determines feed protein",
+          "correct": false,
+          "feedback": "Review: Use animal-level measurements and behaviour."
+        },
+        {
+          "text": "C. It measures the conditions the animals actually experience",
+          "correct": true,
+          "feedback": "Correct. Use animal-level measurements and behaviour."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Use animal-level measurements and behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should pigs be protected from access to spoiled food waste?",
+      "options": [
+        {
+          "text": "A. Waste always improves nutrition",
+          "correct": false,
+          "feedback": "Review: Use only safe, legally permitted feed ingredients."
+        },
+        {
+          "text": "B. It can carry pathogens, toxins or prohibited animal proteins",
+          "correct": true,
+          "feedback": "Correct. Use only safe, legally permitted feed ingredients."
+        },
+        {
+          "text": "C. Cooking removes every hazard",
+          "correct": false,
+          "feedback": "Review: Use only safe, legally permitted feed ingredients."
+        },
+        {
+          "text": "D. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Review: Use only safe, legally permitted feed ingredients."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a pig's sudden skin redness and elevated temperature indicate?",
+      "options": [
+        {
+          "text": "A. Possible fever or systemic illness requiring assessment",
+          "correct": true,
+          "feedback": "Correct. Check the animal and contact a veterinarian promptly."
+        },
+        {
+          "text": "B. A sign of high growth",
+          "correct": false,
+          "feedback": "Review: Check the animal and contact a veterinarian promptly."
+        },
+        {
+          "text": "C. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Check the animal and contact a veterinarian promptly."
+        },
+        {
+          "text": "D. It is always caused by sun",
+          "correct": false,
+          "feedback": "Review: Check the animal and contact a veterinarian promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should pig farm floors have suitable drainage?",
+      "options": [
+        {
+          "text": "A. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Good drainage supports hygiene and welfare."
+        },
+        {
+          "text": "B. It replaces manure management",
+          "correct": false,
+          "feedback": "Review: Good drainage supports hygiene and welfare."
+        },
+        {
+          "text": "C. It increases humidity",
+          "correct": false,
+          "feedback": "Review: Good drainage supports hygiene and welfare."
+        },
+        {
+          "text": "D. It helps control wetness and maintain safe footing",
+          "correct": true,
+          "feedback": "Correct. Good drainage supports hygiene and welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of recording sow parity?",
+      "options": [
+        {
+          "text": "A. It predicts piglet colour",
+          "correct": false,
+          "feedback": "Review: Parity records support reproductive and herd management."
+        },
+        {
+          "text": "B. It measures milk protein",
+          "correct": false,
+          "feedback": "Review: Parity records support reproductive and herd management."
+        },
+        {
+          "text": "C. It identifies the number of litters a sow has had",
+          "correct": true,
+          "feedback": "Correct. Parity records support reproductive and herd management."
+        },
+        {
+          "text": "D. It replaces breeding dates",
+          "correct": false,
+          "feedback": "Review: Parity records support reproductive and herd management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should pigs be monitored after vaccination?",
+      "options": [
+        {
+          "text": "A. It proves the vaccine is effective",
+          "correct": false,
+          "feedback": "Review: Observe animals and document any adverse events."
+        },
+        {
+          "text": "B. It allows observation for reactions and normal recovery",
+          "correct": true,
+          "feedback": "Correct. Observe animals and document any adverse events."
+        },
+        {
+          "text": "C. It replaces batch records",
+          "correct": false,
+          "feedback": "Review: Observe animals and document any adverse events."
+        },
+        {
+          "text": "D. It removes the need for water",
+          "correct": false,
+          "feedback": "Review: Observe animals and document any adverse events."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can repeated piglet shivering indicate?",
+      "options": [
+        {
+          "text": "A. Chilling, illness or inadequate energy intake",
+          "correct": true,
+          "feedback": "Correct. Check warmth, nursing and health."
+        },
+        {
+          "text": "B. A sign of good growth",
+          "correct": false,
+          "feedback": "Review: Check warmth, nursing and health."
+        },
+        {
+          "text": "C. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Check warmth, nursing and health."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check warmth, nursing and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should pig feed delivery augers be inspected?",
+      "options": [
+        {
+          "text": "A. It improves genetics",
+          "correct": false,
+          "feedback": "Review: Maintain equipment to ensure consistent feed access."
+        },
+        {
+          "text": "B. They determine feed protein",
+          "correct": false,
+          "feedback": "Review: Maintain equipment to ensure consistent feed access."
+        },
+        {
+          "text": "C. It replaces storage checks",
+          "correct": false,
+          "feedback": "Review: Maintain equipment to ensure consistent feed access."
+        },
+        {
+          "text": "D. Blockages or breakdowns can interrupt feed supply",
+          "correct": true,
+          "feedback": "Correct. Maintain equipment to ensure consistent feed access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of keeping a pig herd's medication inventory?",
+      "options": [
+        {
+          "text": "A. It replaces treatment records",
+          "correct": false,
+          "feedback": "Review: Maintain accurate inventory and follow product directions."
+        },
+        {
+          "text": "B. It predicts disease outbreaks",
+          "correct": false,
+          "feedback": "Review: Maintain accurate inventory and follow product directions."
+        },
+        {
+          "text": "C. It supports stock control, expiry checks and responsible use",
+          "correct": true,
+          "feedback": "Correct. Maintain accurate inventory and follow product directions."
+        },
+        {
+          "text": "D. It guarantees correct diagnosis",
+          "correct": false,
+          "feedback": "Review: Maintain accurate inventory and follow product directions."
         }
       ],
       "part": 4
