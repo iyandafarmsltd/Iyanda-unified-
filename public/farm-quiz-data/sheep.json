@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should ewes' udders be checked before lambing?",
+      "options": [
+        {
+          "text": "A. To identify abnormalities that may affect nursing",
+          "correct": true,
+          "feedback": "Correct. Udder assessment helps identify problems that could impair milk access."
+        },
+        {
+          "text": "B. To estimate wool fibre diameter",
+          "correct": false,
+          "feedback": "Review: Udder assessment helps identify problems that could impair milk access."
+        },
+        {
+          "text": "C. To determine lamb sex",
+          "correct": false,
+          "feedback": "Review: Udder assessment helps identify problems that could impair milk access."
+        },
+        {
+          "text": "D. To replace colostrum checks",
+          "correct": false,
+          "feedback": "Review: Udder assessment helps identify problems that could impair milk access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of flushing ewes before mating when appropriate?",
+      "options": [
+        {
+          "text": "A. It prevents all pregnancy loss",
+          "correct": false,
+          "feedback": "Review: Flushing may improve reproductive performance in some flocks; it is not suitable for every ewe."
+        },
+        {
+          "text": "B. It guarantees twins in every ewe",
+          "correct": false,
+          "feedback": "Review: Flushing may improve reproductive performance in some flocks; it is not suitable for every ewe."
+        },
+        {
+          "text": "C. It replaces ram fertility checks",
+          "correct": false,
+          "feedback": "Review: Flushing may improve reproductive performance in some flocks; it is not suitable for every ewe."
+        },
+        {
+          "text": "D. Improved nutrition can support ovulation in suitable low-condition ewes",
+          "correct": true,
+          "feedback": "Correct. Flushing may improve reproductive performance in some flocks; it is not suitable for every ewe."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should sheep shearing equipment be cleaned between flocks?",
+      "options": [
+        {
+          "text": "A. To increase fleece weight",
+          "correct": false,
+          "feedback": "Review: Clean equipment supports flock biosecurity."
+        },
+        {
+          "text": "B. To improve wool colour",
+          "correct": false,
+          "feedback": "Review: Clean equipment supports flock biosecurity."
+        },
+        {
+          "text": "C. To reduce transfer of skin infections and contamination",
+          "correct": true,
+          "feedback": "Correct. Clean equipment supports flock biosecurity."
+        },
+        {
+          "text": "D. To remove the need for animal inspection",
+          "correct": false,
+          "feedback": "Review: Clean equipment supports flock biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What can sudden lameness in several sheep suggest?",
+      "options": [
+        {
+          "text": "A. A normal seasonal behaviour",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and seek veterinary advice for flock-level lameness."
+        },
+        {
+          "text": "B. A contagious foot problem or shared environmental hazard",
+          "correct": true,
+          "feedback": "Correct. Investigate the cause and seek veterinary advice for flock-level lameness."
+        },
+        {
+          "text": "C. A sign of good body condition",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and seek veterinary advice for flock-level lameness."
+        },
+        {
+          "text": "D. Proof that all sheep need more grain",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and seek veterinary advice for flock-level lameness."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why is ram fertility checked before the breeding season?",
+      "options": [
+        {
+          "text": "A. A subfertile ram can reduce the number of ewes that conceive",
+          "correct": true,
+          "feedback": "Correct. Pre-breeding checks help identify physical or reproductive limitations."
+        },
+        {
+          "text": "B. It predicts lamb fleece colour",
+          "correct": false,
+          "feedback": "Review: Pre-breeding checks help identify physical or reproductive limitations."
+        },
+        {
+          "text": "C. It replaces ewe nutrition",
+          "correct": false,
+          "feedback": "Review: Pre-breeding checks help identify physical or reproductive limitations."
+        },
+        {
+          "text": "D. It guarantees a specific lambing date",
+          "correct": false,
+          "feedback": "Review: Pre-breeding checks help identify physical or reproductive limitations."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the purpose of creep grazing for lambs?",
+      "options": [
+        {
+          "text": "A. It keeps ewes from grazing",
+          "correct": false,
+          "feedback": "Review: Creep grazing can support lamb growth when managed appropriately."
+        },
+        {
+          "text": "B. It prevents lambs from drinking milk",
+          "correct": false,
+          "feedback": "Review: Creep grazing can support lamb growth when managed appropriately."
+        },
+        {
+          "text": "C. It replaces parasite monitoring",
+          "correct": false,
+          "feedback": "Review: Creep grazing can support lamb growth when managed appropriately."
+        },
+        {
+          "text": "D. It gives lambs access to higher-quality forage away from adult competition",
+          "correct": true,
+          "feedback": "Correct. Creep grazing can support lamb growth when managed appropriately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should sheep be monitored for flystrike during warm, humid periods?",
+      "options": [
+        {
+          "text": "A. Flystrike is harmless in adult sheep",
+          "correct": false,
+          "feedback": "Review: Regular inspection and prompt treatment are important in flystrike-risk conditions."
+        },
+        {
+          "text": "B. Flies improve fleece condition",
+          "correct": false,
+          "feedback": "Review: Regular inspection and prompt treatment are important in flystrike-risk conditions."
+        },
+        {
+          "text": "C. Fly larvae can damage tissue and cause severe suffering",
+          "correct": true,
+          "feedback": "Correct. Regular inspection and prompt treatment are important in flystrike-risk conditions."
+        },
+        {
+          "text": "D. Only lambs can be affected",
+          "correct": false,
+          "feedback": "Review: Regular inspection and prompt treatment are important in flystrike-risk conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What does a lambing percentage measure in flock records?",
+      "options": [
+        {
+          "text": "A. Average fleece length",
+          "correct": false,
+          "feedback": "Review: Define the calculation consistently when comparing flock reproductive performance."
+        },
+        {
+          "text": "B. Lambs born relative to the number of ewes put to the ram or lambing",
+          "correct": true,
+          "feedback": "Correct. Define the calculation consistently when comparing flock reproductive performance."
+        },
+        {
+          "text": "C. The number of grazing paddocks",
+          "correct": false,
+          "feedback": "Review: Define the calculation consistently when comparing flock reproductive performance."
+        },
+        {
+          "text": "D. The weight of a single ram",
+          "correct": false,
+          "feedback": "Review: Define the calculation consistently when comparing flock reproductive performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should sheep be shorn before heavy fleece contamination becomes a welfare issue?",
+      "options": [
+        {
+          "text": "A. Excessively dirty or heavy fleece can affect comfort and hygiene",
+          "correct": true,
+          "feedback": "Correct. Plan shearing based on fleece condition, weather and animal needs."
+        },
+        {
+          "text": "B. Wool prevents all parasites",
+          "correct": false,
+          "feedback": "Review: Plan shearing based on fleece condition, weather and animal needs."
+        },
+        {
+          "text": "C. Shearing removes the need for shelter",
+          "correct": false,
+          "feedback": "Review: Plan shearing based on fleece condition, weather and animal needs."
+        },
+        {
+          "text": "D. Fleece condition never affects welfare",
+          "correct": false,
+          "feedback": "Review: Plan shearing based on fleece condition, weather and animal needs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is a sensible way to reduce stress when drafting sheep?",
+      "options": [
+        {
+          "text": "A. Separate lambs by pulling their tails",
+          "correct": false,
+          "feedback": "Review: Calm stockmanship and suitable facilities improve safety."
+        },
+        {
+          "text": "B. Use repeated shouting and chasing",
+          "correct": false,
+          "feedback": "Review: Calm stockmanship and suitable facilities improve safety."
+        },
+        {
+          "text": "C. Overfill the race",
+          "correct": false,
+          "feedback": "Review: Calm stockmanship and suitable facilities improve safety."
+        },
+        {
+          "text": "D. Use quiet movement and well-designed handling facilities",
+          "correct": true,
+          "feedback": "Correct. Calm stockmanship and suitable facilities improve safety."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why is pasture contamination by sheep faeces relevant to parasite control?",
+      "options": [
+        {
+          "text": "A. Parasites cannot survive outdoors",
+          "correct": false,
+          "feedback": "Review: Grazing management and targeted parasite control help reduce exposure."
+        },
+        {
+          "text": "B. Faeces sterilise grass",
+          "correct": false,
+          "feedback": "Review: Grazing management and targeted parasite control help reduce exposure."
+        },
+        {
+          "text": "C. Some internal parasite larvae develop on pasture and are ingested during grazing",
+          "correct": true,
+          "feedback": "Correct. Grazing management and targeted parasite control help reduce exposure."
+        },
+        {
+          "text": "D. Pasture height has no relationship to exposure",
+          "correct": false,
+          "feedback": "Review: Grazing management and targeted parasite control help reduce exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What should be checked if lambs are not gaining weight as expected?",
+      "options": [
+        {
+          "text": "A. Only the colour of their ear tags",
+          "correct": false,
+          "feedback": "Review: Poor growth has multiple possible causes and needs a structured assessment."
+        },
+        {
+          "text": "B. Milk supply, parasite burden, feed access and disease signs",
+          "correct": true,
+          "feedback": "Correct. Poor growth has multiple possible causes and needs a structured assessment."
+        },
+        {
+          "text": "C. The price of wool",
+          "correct": false,
+          "feedback": "Review: Poor growth has multiple possible causes and needs a structured assessment."
+        },
+        {
+          "text": "D. Nothing until weaning",
+          "correct": false,
+          "feedback": "Review: Poor growth has multiple possible causes and needs a structured assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should sheep mineral supplementation consider copper sensitivity?",
+      "options": [
+        {
+          "text": "A. Some sheep breeds and systems are vulnerable to copper toxicity",
+          "correct": true,
+          "feedback": "Correct. Use sheep-specific supplements and avoid cattle minerals unless confirmed safe."
+        },
+        {
+          "text": "B. Copper is never toxic to sheep",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific supplements and avoid cattle minerals unless confirmed safe."
+        },
+        {
+          "text": "C. All species need identical copper levels",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific supplements and avoid cattle minerals unless confirmed safe."
+        },
+        {
+          "text": "D. More copper always improves wool",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific supplements and avoid cattle minerals unless confirmed safe."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is the purpose of scanning ewes during pregnancy?",
+      "options": [
+        {
+          "text": "A. To guarantee lamb survival",
+          "correct": false,
+          "feedback": "Review: Pregnancy scanning helps tailor feeding and management to litter size."
+        },
+        {
+          "text": "B. To determine fleece colour",
+          "correct": false,
+          "feedback": "Review: Pregnancy scanning helps tailor feeding and management to litter size."
+        },
+        {
+          "text": "C. To replace ram records",
+          "correct": false,
+          "feedback": "Review: Pregnancy scanning helps tailor feeding and management to litter size."
+        },
+        {
+          "text": "D. To estimate litter size and plan nutrition and lambing care",
+          "correct": true,
+          "feedback": "Correct. Pregnancy scanning helps tailor feeding and management to litter size."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should sheep have access to shade during heat stress conditions?",
+      "options": [
+        {
+          "text": "A. Heat stress occurs only in winter",
+          "correct": false,
+          "feedback": "Review: Provide shade, water and suitable handling times during hot weather."
+        },
+        {
+          "text": "B. Shade replaces drinking water",
+          "correct": false,
+          "feedback": "Review: Provide shade, water and suitable handling times during hot weather."
+        },
+        {
+          "text": "C. Shade helps reduce heat load and support welfare",
+          "correct": true,
+          "feedback": "Correct. Provide shade, water and suitable handling times during hot weather."
+        },
+        {
+          "text": "D. Shade prevents all infectious disease",
+          "correct": false,
+          "feedback": "Review: Provide shade, water and suitable handling times during hot weather."
+        }
+      ],
+      "part": 4
     }
   ]
 }
