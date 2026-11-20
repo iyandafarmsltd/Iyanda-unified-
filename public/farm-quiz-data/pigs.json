@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why is sow body condition monitored during gestation?",
+      "options": [
+        {
+          "text": "A. It replaces pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Review: Body condition monitoring supports appropriate feeding through gestation."
+        },
+        {
+          "text": "B. It determines litter sex ratio",
+          "correct": false,
+          "feedback": "Review: Body condition monitoring supports appropriate feeding through gestation."
+        },
+        {
+          "text": "C. It helps guide feeding and prepare the sow for lactation",
+          "correct": true,
+          "feedback": "Correct. Body condition monitoring supports appropriate feeding through gestation."
+        },
+        {
+          "text": "D. It guarantees no farrowing problems",
+          "correct": false,
+          "feedback": "Review: Body condition monitoring supports appropriate feeding through gestation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of providing a suitable farrowing area before the sow gives birth?",
+      "options": [
+        {
+          "text": "A. It prevents the need to monitor farrowing",
+          "correct": false,
+          "feedback": "Review: Preparation supports hygiene and timely care around farrowing."
+        },
+        {
+          "text": "B. It allows time for cleaning, preparation and safe accommodation",
+          "correct": true,
+          "feedback": "Correct. Preparation supports hygiene and timely care around farrowing."
+        },
+        {
+          "text": "C. It removes piglets' need for warmth",
+          "correct": false,
+          "feedback": "Review: Preparation supports hygiene and timely care around farrowing."
+        },
+        {
+          "text": "D. It guarantees a fixed litter size",
+          "correct": false,
+          "feedback": "Review: Preparation supports hygiene and timely care around farrowing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should piglets have access to a warm creep area?",
+      "options": [
+        {
+          "text": "A. It gives them a comfortable zone away from the sow's cooler resting space",
+          "correct": true,
+          "feedback": "Correct. A suitable creep area supports piglet comfort and survival."
+        },
+        {
+          "text": "B. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: A suitable creep area supports piglet comfort and survival."
+        },
+        {
+          "text": "C. It prevents all crushing",
+          "correct": false,
+          "feedback": "Review: A suitable creep area supports piglet comfort and survival."
+        },
+        {
+          "text": "D. It makes the sow stop lactating",
+          "correct": false,
+          "feedback": "Review: A suitable creep area supports piglet comfort and survival."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What can tail biting in pigs signal?",
+      "options": [
+        {
+          "text": "A. A reason to remove all enrichment",
+          "correct": false,
+          "feedback": "Review: Investigate environment, feed, health, stocking and enrichment factors."
+        },
+        {
+          "text": "B. Normal behaviour that never needs action",
+          "correct": false,
+          "feedback": "Review: Investigate environment, feed, health, stocking and enrichment factors."
+        },
+        {
+          "text": "C. Proof that protein is excessive",
+          "correct": false,
+          "feedback": "Review: Investigate environment, feed, health, stocking and enrichment factors."
+        },
+        {
+          "text": "D. A welfare or management problem requiring investigation",
+          "correct": true,
+          "feedback": "Correct. Investigate environment, feed, health, stocking and enrichment factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why should pigs be weighed or weight-estimated at key stages?",
+      "options": [
+        {
+          "text": "A. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Growth records support management and sales planning."
+        },
+        {
+          "text": "B. It predicts exact carcass grade",
+          "correct": false,
+          "feedback": "Review: Growth records support management and sales planning."
+        },
+        {
+          "text": "C. It helps assess growth and plan feed and marketing",
+          "correct": true,
+          "feedback": "Correct. Growth records support management and sales planning."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Growth records support management and sales planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the purpose of a quarantine period for replacement gilts?",
+      "options": [
+        {
+          "text": "A. To prevent them from reaching puberty",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary planning protect herd health."
+        },
+        {
+          "text": "B. To assess health and manage disease risk before herd entry",
+          "correct": true,
+          "feedback": "Correct. Quarantine and veterinary planning protect herd health."
+        },
+        {
+          "text": "C. To eliminate the need for vaccination plans",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary planning protect herd health."
+        },
+        {
+          "text": "D. To guarantee breeding success",
+          "correct": false,
+          "feedback": "Review: Quarantine and veterinary planning protect herd health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should pig drinking nipples be checked for flow rate?",
+      "options": [
+        {
+          "text": "A. Poor flow can limit water intake while excessive flow wastes water",
+          "correct": true,
+          "feedback": "Correct. Correct drinker flow supports hydration and reduces wet floors."
+        },
+        {
+          "text": "B. Flow rate determines sex",
+          "correct": false,
+          "feedback": "Review: Correct drinker flow supports hydration and reduces wet floors."
+        },
+        {
+          "text": "C. Pigs should drink only at feeding time",
+          "correct": false,
+          "feedback": "Review: Correct drinker flow supports hydration and reduces wet floors."
+        },
+        {
+          "text": "D. Water access has no effect on feed intake",
+          "correct": false,
+          "feedback": "Review: Correct drinker flow supports hydration and reduces wet floors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What does a sow's return to oestrus after mating suggest may have happened?",
+      "options": [
+        {
+          "text": "A. It proves a disease-free herd",
+          "correct": false,
+          "feedback": "Review: Return-to-heat monitoring helps identify possible reproductive failure."
+        },
+        {
+          "text": "B. She is certainly carrying a large litter",
+          "correct": false,
+          "feedback": "Review: Return-to-heat monitoring helps identify possible reproductive failure."
+        },
+        {
+          "text": "C. The mating date is irrelevant",
+          "correct": false,
+          "feedback": "Review: Return-to-heat monitoring helps identify possible reproductive failure."
+        },
+        {
+          "text": "D. Pregnancy may not have been established or maintained",
+          "correct": true,
+          "feedback": "Correct. Return-to-heat monitoring helps identify possible reproductive failure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why should pig transport vehicles be cleaned between loads?",
+      "options": [
+        {
+          "text": "A. To improve feed conversion during transport",
+          "correct": false,
+          "feedback": "Review: Vehicle hygiene is an important biosecurity measure."
+        },
+        {
+          "text": "B. To make pigs grow faster",
+          "correct": false,
+          "feedback": "Review: Vehicle hygiene is an important biosecurity measure."
+        },
+        {
+          "text": "C. To reduce transfer of pathogens and contamination",
+          "correct": true,
+          "feedback": "Correct. Vehicle hygiene is an important biosecurity measure."
+        },
+        {
+          "text": "D. To replace loading ramps",
+          "correct": false,
+          "feedback": "Review: Vehicle hygiene is an important biosecurity measure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is the purpose of checking feed bins for bridging or blockages?",
+      "options": [
+        {
+          "text": "A. To increase feed spoilage",
+          "correct": false,
+          "feedback": "Review: Feed delivery problems can cause uneven intake and growth."
+        },
+        {
+          "text": "B. To ensure pigs receive the intended ration consistently",
+          "correct": true,
+          "feedback": "Correct. Feed delivery problems can cause uneven intake and growth."
+        },
+        {
+          "text": "C. To stop all feed movement",
+          "correct": false,
+          "feedback": "Review: Feed delivery problems can cause uneven intake and growth."
+        },
+        {
+          "text": "D. To measure water pH",
+          "correct": false,
+          "feedback": "Review: Feed delivery problems can cause uneven intake and growth."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should piglets be handled gently during routine procedures?",
+      "options": [
+        {
+          "text": "A. Gentle handling reduces pain, stress and injury",
+          "correct": true,
+          "feedback": "Correct. Use humane, legally compliant procedures and appropriate pain management."
+        },
+        {
+          "text": "B. Stress improves immunity",
+          "correct": false,
+          "feedback": "Review: Use humane, legally compliant procedures and appropriate pain management."
+        },
+        {
+          "text": "C. Rough handling prevents infection",
+          "correct": false,
+          "feedback": "Review: Use humane, legally compliant procedures and appropriate pain management."
+        },
+        {
+          "text": "D. Piglets do not feel pain",
+          "correct": false,
+          "feedback": "Review: Use humane, legally compliant procedures and appropriate pain management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What is a sensible response to sudden abortion events in a sow herd?",
+      "options": [
+        {
+          "text": "A. Assume it is caused by weather alone",
+          "correct": false,
+          "feedback": "Review: Abortion clusters require prompt veterinary investigation and biosecurity."
+        },
+        {
+          "text": "B. Dispose of records",
+          "correct": false,
+          "feedback": "Review: Abortion clusters require prompt veterinary investigation and biosecurity."
+        },
+        {
+          "text": "C. Move all pregnant sows together",
+          "correct": false,
+          "feedback": "Review: Abortion clusters require prompt veterinary investigation and biosecurity."
+        },
+        {
+          "text": "D. Contact a veterinarian and investigate infectious and management causes",
+          "correct": true,
+          "feedback": "Correct. Abortion clusters require prompt veterinary investigation and biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why is manure management important around pig housing?",
+      "options": [
+        {
+          "text": "A. It increases pathogen spread intentionally",
+          "correct": false,
+          "feedback": "Review: Good manure handling protects animal, worker and environmental health."
+        },
+        {
+          "text": "B. It removes the need for cleaning pens",
+          "correct": false,
+          "feedback": "Review: Good manure handling protects animal, worker and environmental health."
+        },
+        {
+          "text": "C. It reduces odour, flies, runoff and environmental contamination",
+          "correct": true,
+          "feedback": "Correct. Good manure handling protects animal, worker and environmental health."
+        },
+        {
+          "text": "D. It makes water treatment unnecessary",
+          "correct": false,
+          "feedback": "Review: Good manure handling protects animal, worker and environmental health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What should a farmer check if pigs are not eating normally?",
+      "options": [
+        {
+          "text": "A. Only the paint colour of the pen",
+          "correct": false,
+          "feedback": "Review: Reduced appetite can have several causes and warrants systematic checks."
+        },
+        {
+          "text": "B. Water supply, feed quality, temperature and health signs",
+          "correct": true,
+          "feedback": "Correct. Reduced appetite can have several causes and warrants systematic checks."
+        },
+        {
+          "text": "C. The number of trees outside",
+          "correct": false,
+          "feedback": "Review: Reduced appetite can have several causes and warrants systematic checks."
+        },
+        {
+          "text": "D. Nothing until the next market day",
+          "correct": false,
+          "feedback": "Review: Reduced appetite can have several causes and warrants systematic checks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should boars be managed to avoid excessive body condition?",
+      "options": [
+        {
+          "text": "A. Overconditioning can affect mobility, health and breeding performance",
+          "correct": true,
+          "feedback": "Correct. Maintain appropriate condition and monitor locomotion and reproductive health."
+        },
+        {
+          "text": "B. Body condition has no impact on boars",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate condition and monitor locomotion and reproductive health."
+        },
+        {
+          "text": "C. Fatness guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate condition and monitor locomotion and reproductive health."
+        },
+        {
+          "text": "D. It removes the need for hoof checks",
+          "correct": false,
+          "feedback": "Review: Maintain appropriate condition and monitor locomotion and reproductive health."
+        }
+      ],
+      "part": 4
     }
   ]
 }
