@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. Wild birds can contaminate feed and introduce pathogens",
           "correct": true,
           "feedback": "Correct. Secure storage and pest exclusion reduce contamination and biosecurity risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should eggs be stored away from strong odours before incubation?",
+      "options": [
+        {
+          "text": "A. Eggshells are porous and can absorb odours or contaminants",
+          "correct": true,
+          "feedback": "Correct. Clean, suitable storage protects egg quality."
+        },
+        {
+          "text": "B. Odours determine chick sex",
+          "correct": false,
+          "feedback": "Review: Clean, suitable storage protects egg quality."
+        },
+        {
+          "text": "C. It increases shell thickness",
+          "correct": false,
+          "feedback": "Review: Clean, suitable storage protects egg quality."
+        },
+        {
+          "text": "D. It replaces temperature control",
+          "correct": false,
+          "feedback": "Review: Clean, suitable storage protects egg quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is the purpose of checking nipple drinker height as broilers grow?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Adjust drinker height and pressure to bird size and system guidance."
+        },
+        {
+          "text": "B. It determines feed protein",
+          "correct": false,
+          "feedback": "Review: Adjust drinker height and pressure to bird size and system guidance."
+        },
+        {
+          "text": "C. It replaces water pressure checks",
+          "correct": false,
+          "feedback": "Review: Adjust drinker height and pressure to bird size and system guidance."
+        },
+        {
+          "text": "D. Birds must reach drinkers comfortably without excessive spillage",
+          "correct": true,
+          "feedback": "Correct. Adjust drinker height and pressure to bird size and system guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should poultry feed be protected from rain during delivery?",
+      "options": [
+        {
+          "text": "A. Wet feed stores longer",
+          "correct": false,
+          "feedback": "Review: Keep feed dry from delivery through storage and use."
+        },
+        {
+          "text": "B. Rain increases nutrient density",
+          "correct": false,
+          "feedback": "Review: Keep feed dry from delivery through storage and use."
+        },
+        {
+          "text": "C. Moisture can cause spoilage and mould growth",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry from delivery through storage and use."
+        },
+        {
+          "text": "D. Moisture sterilises feed",
+          "correct": false,
+          "feedback": "Review: Keep feed dry from delivery through storage and use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What is a benefit of monitoring egg shell breakage rates?",
+      "options": [
+        {
+          "text": "A. It measures hen body temperature",
+          "correct": false,
+          "feedback": "Review: Breakage trends can point to shell quality or collection issues."
+        },
+        {
+          "text": "B. It can reveal nutrition, handling or housing problems",
+          "correct": true,
+          "feedback": "Correct. Breakage trends can point to shell quality or collection issues."
+        },
+        {
+          "text": "C. It predicts hatchery sex ratios",
+          "correct": false,
+          "feedback": "Review: Breakage trends can point to shell quality or collection issues."
+        },
+        {
+          "text": "D. It replaces egg counts",
+          "correct": false,
+          "feedback": "Review: Breakage trends can point to shell quality or collection issues."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should poultry workers change footwear between clean and dirty zones?",
+      "options": [
+        {
+          "text": "A. It reduces movement of contamination between areas",
+          "correct": true,
+          "feedback": "Correct. Zone-specific footwear is one part of biosecurity."
+        },
+        {
+          "text": "B. It increases bird feed intake",
+          "correct": false,
+          "feedback": "Review: Zone-specific footwear is one part of biosecurity."
+        },
+        {
+          "text": "C. It replaces handwashing",
+          "correct": false,
+          "feedback": "Review: Zone-specific footwear is one part of biosecurity."
+        },
+        {
+          "text": "D. It guarantees no pathogens enter",
+          "correct": false,
+          "feedback": "Review: Zone-specific footwear is one part of biosecurity."
         }
       ],
       "part": 4
