@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 150,
+  "total": 165,
   "questions": [
     {
       "number": 1,
@@ -4052,6 +4052,411 @@
         }
       ],
       "part": 3
+    },
+    {
+      "number": 151,
+      "question": "Why should pregnant does be monitored for changes in appetite near kidding?",
+      "options": [
+        {
+          "text": "A. Reduced intake can signal illness or complications needing assessment",
+          "correct": true,
+          "feedback": "Correct. Appetite changes near kidding should be interpreted with other signs and veterinary guidance."
+        },
+        {
+          "text": "B. It proves kidding is complete",
+          "correct": false,
+          "feedback": "Review: Appetite changes near kidding should be interpreted with other signs and veterinary guidance."
+        },
+        {
+          "text": "C. It means water should be removed",
+          "correct": false,
+          "feedback": "Review: Appetite changes near kidding should be interpreted with other signs and veterinary guidance."
+        },
+        {
+          "text": "D. It always indicates twins",
+          "correct": false,
+          "feedback": "Review: Appetite changes near kidding should be interpreted with other signs and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 152,
+      "question": "What is the purpose of a creep area for goat kids?",
+      "options": [
+        {
+          "text": "A. It keeps adult goats from drinking",
+          "correct": false,
+          "feedback": "Review: A creep area supports gradual feed intake and kid growth."
+        },
+        {
+          "text": "B. It prevents kids from drinking milk",
+          "correct": false,
+          "feedback": "Review: A creep area supports gradual feed intake and kid growth."
+        },
+        {
+          "text": "C. It replaces clean bedding",
+          "correct": false,
+          "feedback": "Review: A creep area supports gradual feed intake and kid growth."
+        },
+        {
+          "text": "D. It gives kids access to suitable feed while limiting adult competition",
+          "correct": true,
+          "feedback": "Correct. A creep area supports gradual feed intake and kid growth."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 153,
+      "question": "Why should goats be protected from sudden heavy grain intake?",
+      "options": [
+        {
+          "text": "A. It improves rumen pH in every case",
+          "correct": false,
+          "feedback": "Review: Introduce concentrates gradually and maintain adequate fibre."
+        },
+        {
+          "text": "B. Grain cannot ferment in goats",
+          "correct": false,
+          "feedback": "Review: Introduce concentrates gradually and maintain adequate fibre."
+        },
+        {
+          "text": "C. Rapid fermentable carbohydrate intake can cause ruminal acidosis",
+          "correct": true,
+          "feedback": "Correct. Introduce concentrates gradually and maintain adequate fibre."
+        },
+        {
+          "text": "D. It removes the need for forage",
+          "correct": false,
+          "feedback": "Review: Introduce concentrates gradually and maintain adequate fibre."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 154,
+      "question": "What does a faecal egg count help a goat farmer assess?",
+      "options": [
+        {
+          "text": "A. The exact number of worms in the stomach",
+          "correct": false,
+          "feedback": "Review: Faecal egg counts support parasite monitoring but must be interpreted with clinical signs."
+        },
+        {
+          "text": "B. The level of parasite egg shedding in sampled animals",
+          "correct": true,
+          "feedback": "Correct. Faecal egg counts support parasite monitoring but must be interpreted with clinical signs."
+        },
+        {
+          "text": "C. The goat's blood group",
+          "correct": false,
+          "feedback": "Review: Faecal egg counts support parasite monitoring but must be interpreted with clinical signs."
+        },
+        {
+          "text": "D. The quality of drinking water",
+          "correct": false,
+          "feedback": "Review: Faecal egg counts support parasite monitoring but must be interpreted with clinical signs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 155,
+      "question": "Why should a goat shelter have a dry floor and good drainage?",
+      "options": [
+        {
+          "text": "A. Damp conditions can increase foot and parasite problems",
+          "correct": true,
+          "feedback": "Correct. Dry housing improves comfort and hygiene."
+        },
+        {
+          "text": "B. Wet floors improve hoof health",
+          "correct": false,
+          "feedback": "Review: Dry housing improves comfort and hygiene."
+        },
+        {
+          "text": "C. Drainage replaces bedding",
+          "correct": false,
+          "feedback": "Review: Dry housing improves comfort and hygiene."
+        },
+        {
+          "text": "D. Dry floors stop goats needing water",
+          "correct": false,
+          "feedback": "Review: Dry housing improves comfort and hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 156,
+      "question": "What is the purpose of selecting replacement doelings from healthy dams?",
+      "options": [
+        {
+          "text": "A. It prevents all inherited conditions",
+          "correct": false,
+          "feedback": "Review: Selection based on records supports gradual genetic and health improvement."
+        },
+        {
+          "text": "B. It guarantees identical offspring",
+          "correct": false,
+          "feedback": "Review: Selection based on records supports gradual genetic and health improvement."
+        },
+        {
+          "text": "C. It removes the need for buck selection",
+          "correct": false,
+          "feedback": "Review: Selection based on records supports gradual genetic and health improvement."
+        },
+        {
+          "text": "D. It can improve herd health and desired production traits over time",
+          "correct": true,
+          "feedback": "Correct. Selection based on records supports gradual genetic and health improvement."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 157,
+      "question": "Why should goat kids be identified soon after birth?",
+      "options": [
+        {
+          "text": "A. It replaces colostrum feeding",
+          "correct": false,
+          "feedback": "Review: Early identification supports accurate breeding and health records."
+        },
+        {
+          "text": "B. It determines exact adult weight",
+          "correct": false,
+          "feedback": "Review: Early identification supports accurate breeding and health records."
+        },
+        {
+          "text": "C. It links each kid to its dam and health records",
+          "correct": true,
+          "feedback": "Correct. Early identification supports accurate breeding and health records."
+        },
+        {
+          "text": "D. It prevents predators",
+          "correct": false,
+          "feedback": "Review: Early identification supports accurate breeding and health records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 158,
+      "question": "What should be checked when a goat repeatedly rubs its body against objects?",
+      "options": [
+        {
+          "text": "A. Only its feed conversion ratio",
+          "correct": false,
+          "feedback": "Review: Persistent rubbing warrants skin and parasite assessment."
+        },
+        {
+          "text": "B. Possible external parasites, skin irritation or other discomfort",
+          "correct": true,
+          "feedback": "Correct. Persistent rubbing warrants skin and parasite assessment."
+        },
+        {
+          "text": "C. Whether its horns are symmetrical",
+          "correct": false,
+          "feedback": "Review: Persistent rubbing warrants skin and parasite assessment."
+        },
+        {
+          "text": "D. The pH of the drinking trough",
+          "correct": false,
+          "feedback": "Review: Persistent rubbing warrants skin and parasite assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 159,
+      "question": "Why is browse diversity useful only when plant species are known to be safe?",
+      "options": [
+        {
+          "text": "A. Some browse plants contain toxins harmful to goats",
+          "correct": true,
+          "feedback": "Correct. Identify local plants and prevent access to toxic species."
+        },
+        {
+          "text": "B. All wild plants are nutritious",
+          "correct": false,
+          "feedback": "Review: Identify local plants and prevent access to toxic species."
+        },
+        {
+          "text": "C. Goats can neutralise every plant toxin",
+          "correct": false,
+          "feedback": "Review: Identify local plants and prevent access to toxic species."
+        },
+        {
+          "text": "D. Plant identity has no relevance",
+          "correct": false,
+          "feedback": "Review: Identify local plants and prevent access to toxic species."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 160,
+      "question": "What is a key benefit of maintaining a breeding calendar?",
+      "options": [
+        {
+          "text": "A. It guarantees conception",
+          "correct": false,
+          "feedback": "Review: Breeding records support preparation and management."
+        },
+        {
+          "text": "B. It predicts the sex of every kid",
+          "correct": false,
+          "feedback": "Review: Breeding records support preparation and management."
+        },
+        {
+          "text": "C. It removes the need for pregnancy checks",
+          "correct": false,
+          "feedback": "Review: Breeding records support preparation and management."
+        },
+        {
+          "text": "D. It helps plan kidding dates, nutrition and labour",
+          "correct": true,
+          "feedback": "Correct. Breeding records support preparation and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 161,
+      "question": "Why should a goat with a suspected fracture be handled carefully?",
+      "options": [
+        {
+          "text": "A. The animal should be chased to test it",
+          "correct": false,
+          "feedback": "Review: Restrict unnecessary movement and obtain veterinary help."
+        },
+        {
+          "text": "B. Walking repairs broken bones",
+          "correct": false,
+          "feedback": "Review: Restrict unnecessary movement and obtain veterinary help."
+        },
+        {
+          "text": "C. Movement can worsen pain and injury",
+          "correct": true,
+          "feedback": "Correct. Restrict unnecessary movement and obtain veterinary help."
+        },
+        {
+          "text": "D. A fracture is not painful in goats",
+          "correct": false,
+          "feedback": "Review: Restrict unnecessary movement and obtain veterinary help."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 162,
+      "question": "What does milk somatic cell count help indicate?",
+      "options": [
+        {
+          "text": "A. The milk's exact butterfat percentage",
+          "correct": false,
+          "feedback": "Review: Somatic cell count is a useful udder-health indicator but requires interpretation."
+        },
+        {
+          "text": "B. Inflammation in the udder, often associated with mastitis",
+          "correct": true,
+          "feedback": "Correct. Somatic cell count is a useful udder-health indicator but requires interpretation."
+        },
+        {
+          "text": "C. The goat's age",
+          "correct": false,
+          "feedback": "Review: Somatic cell count is a useful udder-health indicator but requires interpretation."
+        },
+        {
+          "text": "D. The amount of feed eaten",
+          "correct": false,
+          "feedback": "Review: Somatic cell count is a useful udder-health indicator but requires interpretation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 163,
+      "question": "Why should bucks be given a suitable recovery period after intensive breeding?",
+      "options": [
+        {
+          "text": "A. Maintaining body condition supports health and future breeding ability",
+          "correct": true,
+          "feedback": "Correct. Monitor buck condition and manage breeding workload."
+        },
+        {
+          "text": "B. Bucks never become fatigued",
+          "correct": false,
+          "feedback": "Review: Monitor buck condition and manage breeding workload."
+        },
+        {
+          "text": "C. It prevents the need for feed",
+          "correct": false,
+          "feedback": "Review: Monitor buck condition and manage breeding workload."
+        },
+        {
+          "text": "D. It guarantees more female kids",
+          "correct": false,
+          "feedback": "Review: Monitor buck condition and manage breeding workload."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 164,
+      "question": "What is the purpose of checking fences for gaps near the ground?",
+      "options": [
+        {
+          "text": "A. It increases forage protein",
+          "correct": false,
+          "feedback": "Review: Secure fencing helps contain goats and protect them from hazards."
+        },
+        {
+          "text": "B. It improves milk composition",
+          "correct": false,
+          "feedback": "Review: Secure fencing helps contain goats and protect them from hazards."
+        },
+        {
+          "text": "C. It prevents internal parasites",
+          "correct": false,
+          "feedback": "Review: Secure fencing helps contain goats and protect them from hazards."
+        },
+        {
+          "text": "D. Goats may squeeze through or exploit weak points",
+          "correct": true,
+          "feedback": "Correct. Secure fencing helps contain goats and protect them from hazards."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 165,
+      "question": "Why should goat feed be tested or evaluated when production drops?",
+      "options": [
+        {
+          "text": "A. Testing determines offspring sex",
+          "correct": false,
+          "feedback": "Review: Feed assessment is one part of investigating reduced production."
+        },
+        {
+          "text": "B. Feed quality cannot affect milk yield",
+          "correct": false,
+          "feedback": "Review: Feed assessment is one part of investigating reduced production."
+        },
+        {
+          "text": "C. Nutrient deficiencies or spoilage may be affecting intake and performance",
+          "correct": true,
+          "feedback": "Correct. Feed assessment is one part of investigating reduced production."
+        },
+        {
+          "text": "D. It replaces veterinary examination",
+          "correct": false,
+          "feedback": "Review: Feed assessment is one part of investigating reduced production."
+        }
+      ],
+      "part": 4
     }
   ]
 }
