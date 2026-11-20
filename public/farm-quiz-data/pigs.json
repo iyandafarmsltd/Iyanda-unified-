@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. Overcrowding can increase stress, aggression and competition",
           "correct": true,
           "feedback": "Correct. Space and resource access are important welfare factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should piglets be checked for navel bleeding after birth?",
+      "options": [
+        {
+          "text": "A. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Check newborns and obtain veterinary help for significant bleeding."
+        },
+        {
+          "text": "B. It improves immunity",
+          "correct": false,
+          "feedback": "Review: Check newborns and obtain veterinary help for significant bleeding."
+        },
+        {
+          "text": "C. Uncontrolled bleeding can cause serious blood loss",
+          "correct": true,
+          "feedback": "Correct. Check newborns and obtain veterinary help for significant bleeding."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check newborns and obtain veterinary help for significant bleeding."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of providing a suitable lying temperature for weaned pigs?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Temperature needs vary with age, weight and group conditions."
+        },
+        {
+          "text": "B. It supports comfort, intake and growth",
+          "correct": true,
+          "feedback": "Correct. Temperature needs vary with age, weight and group conditions."
+        },
+        {
+          "text": "C. It replaces clean water",
+          "correct": false,
+          "feedback": "Review: Temperature needs vary with age, weight and group conditions."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Temperature needs vary with age, weight and group conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should pig farms monitor feed wastage?",
+      "options": [
+        {
+          "text": "A. Wastage increases cost and may worsen pen hygiene",
+          "correct": true,
+          "feedback": "Correct. Review feeder adjustment and feeding behaviour."
+        },
+        {
+          "text": "B. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Review feeder adjustment and feeding behaviour."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Review feeder adjustment and feeding behaviour."
+        },
+        {
+          "text": "D. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Review feeder adjustment and feeding behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a sow's poor appetite after farrowing indicate?",
+      "options": [
+        {
+          "text": "A. A reason to remove water",
+          "correct": false,
+          "feedback": "Review: Monitor closely and seek veterinary assessment if persistent."
+        },
+        {
+          "text": "B. A guaranteed large litter",
+          "correct": false,
+          "feedback": "Review: Monitor closely and seek veterinary assessment if persistent."
+        },
+        {
+          "text": "C. A normal condition that never needs attention",
+          "correct": false,
+          "feedback": "Review: Monitor closely and seek veterinary assessment if persistent."
+        },
+        {
+          "text": "D. Pain, illness, heat stress or feeding problems",
+          "correct": true,
+          "feedback": "Correct. Monitor closely and seek veterinary assessment if persistent."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should pigs be checked for shoulder sores?",
+      "options": [
+        {
+          "text": "A. They are always genetic",
+          "correct": false,
+          "feedback": "Review: Improve lying surfaces and investigate affected animals."
+        },
+        {
+          "text": "B. They predict meat colour",
+          "correct": false,
+          "feedback": "Review: Improve lying surfaces and investigate affected animals."
+        },
+        {
+          "text": "C. Pressure and inadequate resting conditions can cause skin damage",
+          "correct": true,
+          "feedback": "Correct. Improve lying surfaces and investigate affected animals."
+        },
+        {
+          "text": "D. They measure feed intake",
+          "correct": false,
+          "feedback": "Review: Improve lying surfaces and investigate affected animals."
         }
       ],
       "part": 4
