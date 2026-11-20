@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It replaces drainage",
           "correct": false,
           "feedback": "Review: Repair leaks and restore dry resting areas."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should goat kids be monitored for signs of hypothermia after wet weather?",
+      "options": [
+        {
+          "text": "A. Wet coats improve insulation",
+          "correct": false,
+          "feedback": "Review: Dry, warm care and timely assessment are important."
+        },
+        {
+          "text": "B. Wet newborns can lose body heat rapidly",
+          "correct": true,
+          "feedback": "Correct. Dry, warm care and timely assessment are important."
+        },
+        {
+          "text": "C. It is normal for all kids",
+          "correct": false,
+          "feedback": "Review: Dry, warm care and timely assessment are important."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Dry, warm care and timely assessment are important."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of checking a doe's udder before and after kidding?",
+      "options": [
+        {
+          "text": "A. It can reveal swelling, injury or mastitis affecting nursing",
+          "correct": true,
+          "feedback": "Correct. Udder checks support early identification of problems."
+        },
+        {
+          "text": "B. It predicts kid sex",
+          "correct": false,
+          "feedback": "Review: Udder checks support early identification of problems."
+        },
+        {
+          "text": "C. It replaces milk records",
+          "correct": false,
+          "feedback": "Review: Udder checks support early identification of problems."
+        },
+        {
+          "text": "D. It guarantees high yield",
+          "correct": false,
+          "feedback": "Review: Udder checks support early identification of problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should goats be prevented from eating mouldy stored forage?",
+      "options": [
+        {
+          "text": "A. It replaces mineral supplements",
+          "correct": false,
+          "feedback": "Review: Discard suspect feed and improve storage."
+        },
+        {
+          "text": "B. Mould increases protein",
+          "correct": false,
+          "feedback": "Review: Discard suspect feed and improve storage."
+        },
+        {
+          "text": "C. It improves rumen function",
+          "correct": false,
+          "feedback": "Review: Discard suspect feed and improve storage."
+        },
+        {
+          "text": "D. Mould may produce toxins and reduce feed safety",
+          "correct": true,
+          "feedback": "Correct. Discard suspect feed and improve storage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a buck's sudden loss of appetite during breeding season indicate?",
+      "options": [
+        {
+          "text": "A. Proof that mating is complete",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and check body condition."
+        },
+        {
+          "text": "B. A normal sign of fertility",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and check body condition."
+        },
+        {
+          "text": "C. Illness, injury, heat stress or another health problem",
+          "correct": true,
+          "feedback": "Correct. Investigate promptly and check body condition."
+        },
+        {
+          "text": "D. A reason to remove water",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and check body condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should goat pens have enough feeder space for subordinate animals?",
+      "options": [
+        {
+          "text": "A. It increases aggression",
+          "correct": false,
+          "feedback": "Review: Observe feeding behaviour and provide adequate access."
+        },
+        {
+          "text": "B. It helps prevent dominant goats excluding others from feed",
+          "correct": true,
+          "feedback": "Correct. Observe feeding behaviour and provide adequate access."
+        },
+        {
+          "text": "C. It replaces ration balancing",
+          "correct": false,
+          "feedback": "Review: Observe feeding behaviour and provide adequate access."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Observe feeding behaviour and provide adequate access."
         }
       ],
       "part": 4
