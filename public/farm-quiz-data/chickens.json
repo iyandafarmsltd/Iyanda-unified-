@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It replaces cleaning",
           "correct": false,
           "feedback": "Review: Use appropriate age-group separation and all-in/all-out where practical."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should poultry houses be checked for drinker leaks at the end of each day?",
+      "options": [
+        {
+          "text": "A. Small leaks can create wet litter and ammonia problems",
+          "correct": true,
+          "feedback": "Correct. Repair leaks promptly and keep litter dry."
+        },
+        {
+          "text": "B. Leaks improve hydration safely",
+          "correct": false,
+          "feedback": "Review: Repair leaks promptly and keep litter dry."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Repair leaks promptly and keep litter dry."
+        },
+        {
+          "text": "D. It increases shell quality",
+          "correct": false,
+          "feedback": "Review: Repair leaks promptly and keep litter dry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of tracking poultry body weight against age targets?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Compare representative weights with the appropriate breed or production guide."
+        },
+        {
+          "text": "B. It predicts disease exactly",
+          "correct": false,
+          "feedback": "Review: Compare representative weights with the appropriate breed or production guide."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Compare representative weights with the appropriate breed or production guide."
+        },
+        {
+          "text": "D. It helps identify growth deviations early",
+          "correct": true,
+          "feedback": "Correct. Compare representative weights with the appropriate breed or production guide."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should layer hens be monitored for changes in comb colour and condition?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Observe alongside appetite, activity and production."
+        },
+        {
+          "text": "B. It determines egg shell strength exactly",
+          "correct": false,
+          "feedback": "Review: Observe alongside appetite, activity and production."
+        },
+        {
+          "text": "C. Changes can accompany health, stress or reproductive changes",
+          "correct": true,
+          "feedback": "Correct. Observe alongside appetite, activity and production."
+        },
+        {
+          "text": "D. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Observe alongside appetite, activity and production."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a sudden increase in poultry feed wastage indicate?",
+      "options": [
+        {
+          "text": "A. It proves better growth",
+          "correct": false,
+          "feedback": "Review: Inspect feeder height, settings and flock behaviour."
+        },
+        {
+          "text": "B. Feeder adjustment, feed form or bird behaviour may need review",
+          "correct": true,
+          "feedback": "Correct. Inspect feeder height, settings and flock behaviour."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Inspect feeder height, settings and flock behaviour."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Inspect feeder height, settings and flock behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should poultry litter be checked for caking near house walls?",
+      "options": [
+        {
+          "text": "A. Poor airflow or water ingress may cause localised wet litter",
+          "correct": true,
+          "feedback": "Correct. Check ventilation, leaks and litter management."
+        },
+        {
+          "text": "B. Caking improves foot health",
+          "correct": false,
+          "feedback": "Review: Check ventilation, leaks and litter management."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Check ventilation, leaks and litter management."
+        },
+        {
+          "text": "D. It increases oxygen",
+          "correct": false,
+          "feedback": "Review: Check ventilation, leaks and litter management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of maintaining a poultry vaccination log by flock?",
+      "options": [
+        {
+          "text": "A. It predicts egg weight",
+          "correct": false,
+          "feedback": "Review: Record product, batch, date and administration details."
+        },
+        {
+          "text": "B. It guarantees immunity",
+          "correct": false,
+          "feedback": "Review: Record product, batch, date and administration details."
+        },
+        {
+          "text": "C. It replaces cold-chain management",
+          "correct": false,
+          "feedback": "Review: Record product, batch, date and administration details."
+        },
+        {
+          "text": "D. It documents which birds received which vaccine and when",
+          "correct": true,
+          "feedback": "Correct. Record product, batch, date and administration details."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should poultry workers avoid sharing unclean equipment between houses?",
+      "options": [
+        {
+          "text": "A. It replaces footbaths",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect shared equipment appropriately."
+        },
+        {
+          "text": "B. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect shared equipment appropriately."
+        },
+        {
+          "text": "C. Equipment can transfer infectious material",
+          "correct": true,
+          "feedback": "Correct. Clean and disinfect shared equipment appropriately."
+        },
+        {
+          "text": "D. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect shared equipment appropriately."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can persistent sneezing in a poultry house prompt a manager to check?",
+      "options": [
+        {
+          "text": "A. Only egg size",
+          "correct": false,
+          "feedback": "Review: Investigate environmental and health causes."
+        },
+        {
+          "text": "B. Dust, ammonia, ventilation and respiratory health",
+          "correct": true,
+          "feedback": "Correct. Investigate environmental and health causes."
+        },
+        {
+          "text": "C. The price of feed",
+          "correct": false,
+          "feedback": "Review: Investigate environmental and health causes."
+        },
+        {
+          "text": "D. The colour of feeders",
+          "correct": false,
+          "feedback": "Review: Investigate environmental and health causes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should poultry eggs be protected from temperature extremes after collection?",
+      "options": [
+        {
+          "text": "A. Temperature abuse can reduce quality and hatchability",
+          "correct": true,
+          "feedback": "Correct. Use appropriate storage for table or hatching eggs."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Use appropriate storage for table or hatching eggs."
+        },
+        {
+          "text": "C. It increases shell thickness",
+          "correct": false,
+          "feedback": "Review: Use appropriate storage for table or hatching eggs."
+        },
+        {
+          "text": "D. It replaces clean trays",
+          "correct": false,
+          "feedback": "Review: Use appropriate storage for table or hatching eggs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of checking poultry house curtains for tears?",
+      "options": [
+        {
+          "text": "A. It replaces fan maintenance",
+          "correct": false,
+          "feedback": "Review: Repair damage and verify airflow."
+        },
+        {
+          "text": "B. It measures humidity",
+          "correct": false,
+          "feedback": "Review: Repair damage and verify airflow."
+        },
+        {
+          "text": "C. It predicts mortality",
+          "correct": false,
+          "feedback": "Review: Repair damage and verify airflow."
+        },
+        {
+          "text": "D. Damaged curtains can cause drafts and poor environmental control",
+          "correct": true,
+          "feedback": "Correct. Repair damage and verify airflow."
         }
       ],
       "part": 4
