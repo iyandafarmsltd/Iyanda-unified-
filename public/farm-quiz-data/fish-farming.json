@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It replaces biomass records",
           "correct": false,
           "feedback": "Review: Use consistent sampling and grading records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should fish farmers monitor pond water colour changes over several days?",
+      "options": [
+        {
+          "text": "A. It guarantees water quality",
+          "correct": false,
+          "feedback": "Review: Use colour as an observation alongside water testing."
+        },
+        {
+          "text": "B. Colour determines fish sex",
+          "correct": false,
+          "feedback": "Review: Use colour as an observation alongside water testing."
+        },
+        {
+          "text": "C. It replaces oxygen testing",
+          "correct": false,
+          "feedback": "Review: Use colour as an observation alongside water testing."
+        },
+        {
+          "text": "D. Trends may indicate changes in plankton or suspended material",
+          "correct": true,
+          "feedback": "Correct. Use colour as an observation alongside water testing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking fish for fin erosion?",
+      "options": [
+        {
+          "text": "A. It determines species",
+          "correct": false,
+          "feedback": "Review: Record findings and investigate environmental and health causes."
+        },
+        {
+          "text": "B. It predicts harvest weight",
+          "correct": false,
+          "feedback": "Review: Record findings and investigate environmental and health causes."
+        },
+        {
+          "text": "C. It can indicate poor water quality, aggression or infection",
+          "correct": true,
+          "feedback": "Correct. Record findings and investigate environmental and health causes."
+        },
+        {
+          "text": "D. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Record findings and investigate environmental and health causes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should fish ponds have a controlled drainage outlet?",
+      "options": [
+        {
+          "text": "A. It improves fish genetics",
+          "correct": false,
+          "feedback": "Review: Use suitable screens and manage discharge safely."
+        },
+        {
+          "text": "B. It allows safe water-level management and reduces stock escape",
+          "correct": true,
+          "feedback": "Correct. Use suitable screens and manage discharge safely."
+        },
+        {
+          "text": "C. It replaces screening",
+          "correct": false,
+          "feedback": "Review: Use suitable screens and manage discharge safely."
+        },
+        {
+          "text": "D. It determines alkalinity",
+          "correct": false,
+          "feedback": "Review: Use suitable screens and manage discharge safely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a sudden increase in fish feed consumption followed by poor growth suggest?",
+      "options": [
+        {
+          "text": "A. Feed quality, disease or inaccurate biomass estimates may be involved",
+          "correct": true,
+          "feedback": "Correct. Review feed records, fish health and sampling accuracy."
+        },
+        {
+          "text": "B. It proves carrying capacity is high",
+          "correct": false,
+          "feedback": "Review: Review feed records, fish health and sampling accuracy."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Review feed records, fish health and sampling accuracy."
+        },
+        {
+          "text": "D. It means oxygen is unlimited",
+          "correct": false,
+          "feedback": "Review: Review feed records, fish health and sampling accuracy."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should fish farmers avoid using nets with rough or damaged mesh?",
+      "options": [
+        {
+          "text": "A. It determines market size",
+          "correct": false,
+          "feedback": "Review: Inspect and repair equipment before use."
+        },
+        {
+          "text": "B. They improve scale growth",
+          "correct": false,
+          "feedback": "Review: Inspect and repair equipment before use."
+        },
+        {
+          "text": "C. It replaces water treatment",
+          "correct": false,
+          "feedback": "Review: Inspect and repair equipment before use."
+        },
+        {
+          "text": "D. They can injure fish during sampling or harvest",
+          "correct": true,
+          "feedback": "Correct. Inspect and repair equipment before use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of measuring water temperature at different pond depths?",
+      "options": [
+        {
+          "text": "A. It replaces oxygen profiles",
+          "correct": false,
+          "feedback": "Review: Check depth profiles where pond conditions warrant it."
+        },
+        {
+          "text": "B. It determines feed protein",
+          "correct": false,
+          "feedback": "Review: Check depth profiles where pond conditions warrant it."
+        },
+        {
+          "text": "C. Stratification can create different conditions for fish",
+          "correct": true,
+          "feedback": "Correct. Check depth profiles where pond conditions warrant it."
+        },
+        {
+          "text": "D. It predicts exact harvest",
+          "correct": false,
+          "feedback": "Review: Check depth profiles where pond conditions warrant it."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should fish farmers isolate equipment used in a pond with disease concerns?",
+      "options": [
+        {
+          "text": "A. It guarantees fish recovery",
+          "correct": false,
+          "feedback": "Review: Use dedicated or properly disinfected equipment."
+        },
+        {
+          "text": "B. It reduces the risk of spreading pathogens to other ponds",
+          "correct": true,
+          "feedback": "Correct. Use dedicated or properly disinfected equipment."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Use dedicated or properly disinfected equipment."
+        },
+        {
+          "text": "D. It increases growth",
+          "correct": false,
+          "feedback": "Review: Use dedicated or properly disinfected equipment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can a rapid change in fish appetite after a storm indicate?",
+      "options": [
+        {
+          "text": "A. Water quality, temperature or oxygen may have changed",
+          "correct": true,
+          "feedback": "Correct. Check key water parameters and observe fish."
+        },
+        {
+          "text": "B. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Check key water parameters and observe fish."
+        },
+        {
+          "text": "C. It proves the pond is clean",
+          "correct": false,
+          "feedback": "Review: Check key water parameters and observe fish."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check key water parameters and observe fish."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should fish farmers record the amount of feed offered and leftovers?",
+      "options": [
+        {
+          "text": "A. It replaces biomass sampling",
+          "correct": false,
+          "feedback": "Review: Keep daily feeding records."
+        },
+        {
+          "text": "B. It measures water depth",
+          "correct": false,
+          "feedback": "Review: Keep daily feeding records."
+        },
+        {
+          "text": "C. It determines species",
+          "correct": false,
+          "feedback": "Review: Keep daily feeding records."
+        },
+        {
+          "text": "D. It supports feeding efficiency and early detection of appetite changes",
+          "correct": true,
+          "feedback": "Correct. Keep daily feeding records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of a fish farm's biosecurity boundary?",
+      "options": [
+        {
+          "text": "A. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Combine access controls with quarantine and hygiene."
+        },
+        {
+          "text": "B. It guarantees no disease",
+          "correct": false,
+          "feedback": "Review: Combine access controls with quarantine and hygiene."
+        },
+        {
+          "text": "C. It helps control movement of people, equipment and stock",
+          "correct": true,
+          "feedback": "Correct. Combine access controls with quarantine and hygiene."
+        },
+        {
+          "text": "D. It increases pond oxygen",
+          "correct": false,
+          "feedback": "Review: Combine access controls with quarantine and hygiene."
         }
       ],
       "part": 4
