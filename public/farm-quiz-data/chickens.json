@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 200,
+  "total": 205,
   "questions": [
     {
       "number": 1,
@@ -5399,6 +5399,141 @@
           "text": "D. Incorrect chemicals or residues can harm birds and affect water safety",
           "correct": true,
           "feedback": "Correct. Use approved products and follow label directions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 201,
+      "question": "Why should broiler houses be checked for dead zones with little air movement?",
+      "options": [
+        {
+          "text": "A. Poor air distribution can allow moisture and gases to accumulate",
+          "correct": true,
+          "feedback": "Correct. Assess airflow across the full house."
+        },
+        {
+          "text": "B. It improves bird uniformity",
+          "correct": false,
+          "feedback": "Review: Assess airflow across the full house."
+        },
+        {
+          "text": "C. It replaces litter management",
+          "correct": false,
+          "feedback": "Review: Assess airflow across the full house."
+        },
+        {
+          "text": "D. It guarantees lower ammonia",
+          "correct": false,
+          "feedback": "Review: Assess airflow across the full house."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 202,
+      "question": "What is the purpose of checking layer hens for keel bone damage?",
+      "options": [
+        {
+          "text": "A. It replaces shell quality checks",
+          "correct": false,
+          "feedback": "Review: Keel health should be monitored and contributing risks reviewed."
+        },
+        {
+          "text": "B. It measures egg protein",
+          "correct": false,
+          "feedback": "Review: Keel health should be monitored and contributing risks reviewed."
+        },
+        {
+          "text": "C. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Keel health should be monitored and contributing risks reviewed."
+        },
+        {
+          "text": "D. It is an important welfare indicator and may relate to housing or handling",
+          "correct": true,
+          "feedback": "Correct. Keel health should be monitored and contributing risks reviewed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 203,
+      "question": "Why should poultry feed be sampled from multiple points in a delivery?",
+      "options": [
+        {
+          "text": "A. It replaces supplier records",
+          "correct": false,
+          "feedback": "Review: Representative sampling improves feed quality assessment."
+        },
+        {
+          "text": "B. It determines bird age",
+          "correct": false,
+          "feedback": "Review: Representative sampling improves feed quality assessment."
+        },
+        {
+          "text": "C. It can reveal variation or segregation within the load",
+          "correct": true,
+          "feedback": "Correct. Representative sampling improves feed quality assessment."
+        },
+        {
+          "text": "D. It guarantees nutrient balance",
+          "correct": false,
+          "feedback": "Review: Representative sampling improves feed quality assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 204,
+      "question": "What can a sudden rise in poultry water-to-feed ratio indicate?",
+      "options": [
+        {
+          "text": "A. It proves birds are growing faster",
+          "correct": false,
+          "feedback": "Review: Review equipment, weather and flock condition."
+        },
+        {
+          "text": "B. Leakage, heat stress, feed intake changes or disease",
+          "correct": true,
+          "feedback": "Correct. Review equipment, weather and flock condition."
+        },
+        {
+          "text": "C. It identifies the exact disease",
+          "correct": false,
+          "feedback": "Review: Review equipment, weather and flock condition."
+        },
+        {
+          "text": "D. It means drinkers should be closed",
+          "correct": false,
+          "feedback": "Review: Review equipment, weather and flock condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 205,
+      "question": "Why should poultry houses be dried thoroughly after washing?",
+      "options": [
+        {
+          "text": "A. Residual moisture can support microbial growth and wet litter",
+          "correct": true,
+          "feedback": "Correct. Allow adequate drying before restocking."
+        },
+        {
+          "text": "B. Wet surfaces sterilise the house",
+          "correct": false,
+          "feedback": "Review: Allow adequate drying before restocking."
+        },
+        {
+          "text": "C. Drying is unnecessary after disinfection",
+          "correct": false,
+          "feedback": "Review: Allow adequate drying before restocking."
+        },
+        {
+          "text": "D. It increases ammonia",
+          "correct": false,
+          "feedback": "Review: Allow adequate drying before restocking."
         }
       ],
       "part": 4
