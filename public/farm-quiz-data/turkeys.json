@@ -1,7 +1,7 @@
 {
   "category": "turkeys",
   "title": "turkeys",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It guarantees sterile meat",
           "correct": false,
           "feedback": "Review: Maintain clean workflow and food-safety controls."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should turkey poults be checked for signs of pasty vent after a temperature adjustment?",
+      "options": [
+        {
+          "text": "A. Stress or unsuitable brooding can contribute to the problem",
+          "correct": true,
+          "feedback": "Correct. Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "B. It predicts adult size",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "C. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check affected birds and review brooding conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of monitoring turkey house humidity?",
+      "options": [
+        {
+          "text": "A. It measures feed conversion",
+          "correct": false,
+          "feedback": "Review: Track humidity alongside temperature and litter condition."
+        },
+        {
+          "text": "B. It determines egg sex",
+          "correct": false,
+          "feedback": "Review: Track humidity alongside temperature and litter condition."
+        },
+        {
+          "text": "C. It replaces ventilation checks",
+          "correct": false,
+          "feedback": "Review: Track humidity alongside temperature and litter condition."
+        },
+        {
+          "text": "D. Humidity influences litter moisture and bird comfort",
+          "correct": true,
+          "feedback": "Correct. Track humidity alongside temperature and litter condition."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should turkey farms keep a record of feed changes by date?",
+      "options": [
+        {
+          "text": "A. It replaces feed testing",
+          "correct": false,
+          "feedback": "Review: Dated records support troubleshooting."
+        },
+        {
+          "text": "B. It predicts weather",
+          "correct": false,
+          "feedback": "Review: Dated records support troubleshooting."
+        },
+        {
+          "text": "C. It helps connect performance changes with ration changes",
+          "correct": true,
+          "feedback": "Correct. Dated records support troubleshooting."
+        },
+        {
+          "text": "D. It determines breeder age",
+          "correct": false,
+          "feedback": "Review: Dated records support troubleshooting."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can turkey birds with swollen footpads require?",
+      "options": [
+        {
+          "text": "A. A routine lighting change only",
+          "correct": false,
+          "feedback": "Review: Footpad swelling or lesions need attention."
+        },
+        {
+          "text": "B. Assessment of litter condition, infection and mobility",
+          "correct": true,
+          "feedback": "Correct. Footpad swelling or lesions need attention."
+        },
+        {
+          "text": "C. No action if eating",
+          "correct": false,
+          "feedback": "Review: Footpad swelling or lesions need attention."
+        },
+        {
+          "text": "D. A change in egg storage",
+          "correct": false,
+          "feedback": "Review: Footpad swelling or lesions need attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should turkey breeders be protected from excessive disturbance during laying?",
+      "options": [
+        {
+          "text": "A. Stress can affect behaviour and production",
+          "correct": true,
+          "feedback": "Correct. Maintain a calm environment and consistent routines."
+        },
+        {
+          "text": "B. It determines egg sex",
+          "correct": false,
+          "feedback": "Review: Maintain a calm environment and consistent routines."
+        },
+        {
+          "text": "C. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Maintain a calm environment and consistent routines."
+        },
+        {
+          "text": "D. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Review: Maintain a calm environment and consistent routines."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of checking turkey egg shell cleanliness before incubation?",
+      "options": [
+        {
+          "text": "A. It replaces egg storage",
+          "correct": false,
+          "feedback": "Review: Select and handle eggs hygienically."
+        },
+        {
+          "text": "B. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Select and handle eggs hygienically."
+        },
+        {
+          "text": "C. It increases hatchability automatically",
+          "correct": false,
+          "feedback": "Review: Select and handle eggs hygienically."
+        },
+        {
+          "text": "D. Dirty shells can carry contaminants into the incubator",
+          "correct": true,
+          "feedback": "Correct. Select and handle eggs hygienically."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should turkey houses have adequate feeder space during rapid growth?",
+      "options": [
+        {
+          "text": "A. It replaces water access",
+          "correct": false,
+          "feedback": "Review: Review feeder space and distribution as birds grow."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Review feeder space and distribution as birds grow."
+        },
+        {
+          "text": "C. Larger birds need sufficient access to feed",
+          "correct": true,
+          "feedback": "Correct. Review feeder space and distribution as birds grow."
+        },
+        {
+          "text": "D. It guarantees equal weights",
+          "correct": false,
+          "feedback": "Review: Review feeder space and distribution as birds grow."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can sudden turkey feed refusal in one pen but not others suggest?",
+      "options": [
+        {
+          "text": "A. A flock-wide genetic change",
+          "correct": false,
+          "feedback": "Review: Compare pen conditions and investigate the affected group."
+        },
+        {
+          "text": "B. A local equipment, feed delivery or health issue",
+          "correct": true,
+          "feedback": "Correct. Compare pen conditions and investigate the affected group."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Compare pen conditions and investigate the affected group."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Compare pen conditions and investigate the affected group."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should turkey water systems be checked for biofilm?",
+      "options": [
+        {
+          "text": "A. Biofilm can harbour microbes and affect water hygiene",
+          "correct": true,
+          "feedback": "Correct. Maintain lines using appropriate cleaning procedures."
+        },
+        {
+          "text": "B. It improves water quality",
+          "correct": false,
+          "feedback": "Review: Maintain lines using appropriate cleaning procedures."
+        },
+        {
+          "text": "C. It replaces flushing",
+          "correct": false,
+          "feedback": "Review: Maintain lines using appropriate cleaning procedures."
+        },
+        {
+          "text": "D. It determines egg production",
+          "correct": false,
+          "feedback": "Review: Maintain lines using appropriate cleaning procedures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of reviewing turkey mortality after each flock cycle?",
+      "options": [
+        {
+          "text": "A. It determines breed",
+          "correct": false,
+          "feedback": "Review: Use mortality trends with health and environmental records."
+        },
+        {
+          "text": "B. It predicts market price",
+          "correct": false,
+          "feedback": "Review: Use mortality trends with health and environmental records."
+        },
+        {
+          "text": "C. It replaces daily records",
+          "correct": false,
+          "feedback": "Review: Use mortality trends with health and environmental records."
+        },
+        {
+          "text": "D. It helps identify recurring risks and improve management",
+          "correct": true,
+          "feedback": "Correct. Use mortality trends with health and environmental records."
         }
       ],
       "part": 4
