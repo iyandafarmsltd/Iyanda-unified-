@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. Repeated disturbance can cause stress or nest abandonment",
           "correct": true,
           "feedback": "Correct. Use calm, limited checks to monitor nests while minimising disturbance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should guinea-fowl water containers be placed where litter cannot easily fall into them?",
+      "options": [
+        {
+          "text": "A. It reduces contamination and helps keep drinking water clean",
+          "correct": true,
+          "feedback": "Correct. Good placement and cleaning improve water hygiene."
+        },
+        {
+          "text": "B. It increases water temperature",
+          "correct": false,
+          "feedback": "Review: Good placement and cleaning improve water hygiene."
+        },
+        {
+          "text": "C. It replaces daily cleaning",
+          "correct": false,
+          "feedback": "Review: Good placement and cleaning improve water hygiene."
+        },
+        {
+          "text": "D. It makes birds drink less",
+          "correct": false,
+          "feedback": "Review: Good placement and cleaning improve water hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What is a reason to avoid overcrowding guinea-fowl nest sites?",
+      "options": [
+        {
+          "text": "A. Nest space has no effect",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest access and minimise disturbance."
+        },
+        {
+          "text": "B. Crowding improves fertility",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest access and minimise disturbance."
+        },
+        {
+          "text": "C. It makes eggs hatch sooner",
+          "correct": false,
+          "feedback": "Review: Provide suitable nest access and minimise disturbance."
+        },
+        {
+          "text": "D. Competition and disturbance can increase egg damage or nest abandonment",
+          "correct": true,
+          "feedback": "Correct. Provide suitable nest access and minimise disturbance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should keets be monitored for pasty vents?",
+      "options": [
+        {
+          "text": "A. It determines adult plumage",
+          "correct": false,
+          "feedback": "Review: Check affected keets promptly and review brooding conditions."
+        },
+        {
+          "text": "B. It is proof of strong growth",
+          "correct": false,
+          "feedback": "Review: Check affected keets promptly and review brooding conditions."
+        },
+        {
+          "text": "C. Droppings can obstruct the vent and may indicate brooding or health problems",
+          "correct": true,
+          "feedback": "Correct. Check affected keets promptly and review brooding conditions."
+        },
+        {
+          "text": "D. It measures feed conversion",
+          "correct": false,
+          "feedback": "Review: Check affected keets promptly and review brooding conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What is the purpose of checking feed labels when buying guinea-fowl ration?",
+      "options": [
+        {
+          "text": "A. It predicts egg shell colour",
+          "correct": false,
+          "feedback": "Review: Read species, stage, ingredients and feeding directions."
+        },
+        {
+          "text": "B. It helps confirm the feed suits the birds' age and purpose",
+          "correct": true,
+          "feedback": "Correct. Read species, stage, ingredients and feeding directions."
+        },
+        {
+          "text": "C. It guarantees zero disease",
+          "correct": false,
+          "feedback": "Review: Read species, stage, ingredients and feeding directions."
+        },
+        {
+          "text": "D. It replaces storage checks",
+          "correct": false,
+          "feedback": "Review: Read species, stage, ingredients and feeding directions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should guinea-fowl range areas be inspected for discarded wire or sharp debris?",
+      "options": [
+        {
+          "text": "A. Birds can injure feet and legs on hidden hazards",
+          "correct": true,
+          "feedback": "Correct. Remove hazards and keep outdoor areas safe."
+        },
+        {
+          "text": "B. Debris improves foraging",
+          "correct": false,
+          "feedback": "Review: Remove hazards and keep outdoor areas safe."
+        },
+        {
+          "text": "C. It prevents parasites",
+          "correct": false,
+          "feedback": "Review: Remove hazards and keep outdoor areas safe."
+        },
+        {
+          "text": "D. It increases egg production",
+          "correct": false,
+          "feedback": "Review: Remove hazards and keep outdoor areas safe."
         }
       ],
       "part": 4
