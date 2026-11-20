@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It replaces egg collection",
           "correct": false,
           "feedback": "Review: Provide suitable nest locations and collect eggs routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should guinea-fowl flock water use be monitored in dry season?",
+      "options": [
+        {
+          "text": "A. Water demand and supply reliability may change with heat",
+          "correct": true,
+          "feedback": "Correct. Check supply capacity and bird access daily."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Check supply capacity and bird access daily."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Check supply capacity and bird access daily."
+        },
+        {
+          "text": "D. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Check supply capacity and bird access daily."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of providing guinea-fowl with a protected dust-bathing area?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Suitable dust baths support welfare and should be kept clean."
+        },
+        {
+          "text": "B. It replaces parasite treatment",
+          "correct": false,
+          "feedback": "Review: Suitable dust baths support welfare and should be kept clean."
+        },
+        {
+          "text": "C. It supplies dietary protein",
+          "correct": false,
+          "feedback": "Review: Suitable dust baths support welfare and should be kept clean."
+        },
+        {
+          "text": "D. It supports natural grooming behaviour while limiting contamination",
+          "correct": true,
+          "feedback": "Correct. Suitable dust baths support welfare and should be kept clean."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should incubator humidity be monitored rather than set by guesswork?",
+      "options": [
+        {
+          "text": "A. It replaces temperature checks",
+          "correct": false,
+          "feedback": "Review: Follow species-specific hatchery guidance and monitor results."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Follow species-specific hatchery guidance and monitor results."
+        },
+        {
+          "text": "C. Humidity affects egg water loss and embryo development",
+          "correct": true,
+          "feedback": "Correct. Follow species-specific hatchery guidance and monitor results."
+        },
+        {
+          "text": "D. It sterilises eggs",
+          "correct": false,
+          "feedback": "Review: Follow species-specific hatchery guidance and monitor results."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a sudden increase in broken guinea-fowl eggs indicate?",
+      "options": [
+        {
+          "text": "A. It proves better fertility",
+          "correct": false,
+          "feedback": "Review: Review nest sites, collection timing and handling."
+        },
+        {
+          "text": "B. Nest disturbance, crowding or collection and handling issues",
+          "correct": true,
+          "feedback": "Correct. Review nest sites, collection timing and handling."
+        },
+        {
+          "text": "C. It measures bird weight",
+          "correct": false,
+          "feedback": "Review: Review nest sites, collection timing and handling."
+        },
+        {
+          "text": "D. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Review: Review nest sites, collection timing and handling."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should guinea-fowl housing have secure latches?",
+      "options": [
+        {
+          "text": "A. Birds and predators may exploit poorly secured doors",
+          "correct": true,
+          "feedback": "Correct. Check doors and latches as part of daily security."
+        },
+        {
+          "text": "B. It improves egg shell thickness",
+          "correct": false,
+          "feedback": "Review: Check doors and latches as part of daily security."
+        },
+        {
+          "text": "C. It replaces fencing",
+          "correct": false,
+          "feedback": "Review: Check doors and latches as part of daily security."
+        },
+        {
+          "text": "D. It prevents all illness",
+          "correct": false,
+          "feedback": "Review: Check doors and latches as part of daily security."
         }
       ],
       "part": 4
