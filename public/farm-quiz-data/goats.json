@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. They determine fat content",
           "correct": false,
           "feedback": "Review: Clean milk-handling equipment is essential."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should goat kids be observed for a distended abdomen and discomfort?",
+      "options": [
+        {
+          "text": "A. It predicts adult height",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice if distension or distress occurs."
+        },
+        {
+          "text": "B. It may indicate bloat or another digestive problem",
+          "correct": true,
+          "feedback": "Correct. Seek prompt veterinary advice if distension or distress occurs."
+        },
+        {
+          "text": "C. It is always normal after feeding",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice if distension or distress occurs."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary advice if distension or distress occurs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking a doe's milk supply against litter size?",
+      "options": [
+        {
+          "text": "A. It helps identify kids at risk of inadequate nutrition",
+          "correct": true,
+          "feedback": "Correct. Monitor kid growth and ensure all kids can nurse."
+        },
+        {
+          "text": "B. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Monitor kid growth and ensure all kids can nurse."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Monitor kid growth and ensure all kids can nurse."
+        },
+        {
+          "text": "D. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Monitor kid growth and ensure all kids can nurse."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should goat housing be designed to prevent feed contamination by droppings?",
+      "options": [
+        {
+          "text": "A. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and keep feed off the floor."
+        },
+        {
+          "text": "B. Droppings improve feed value",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and keep feed off the floor."
+        },
+        {
+          "text": "C. It increases mineral absorption",
+          "correct": false,
+          "feedback": "Review: Use suitable feeders and keep feed off the floor."
+        },
+        {
+          "text": "D. Contaminated feed can spread parasites and pathogens",
+          "correct": true,
+          "feedback": "Correct. Use suitable feeders and keep feed off the floor."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a goat's sudden reluctance to bear weight on a foot indicate?",
+      "options": [
+        {
+          "text": "A. It predicts kidding",
+          "correct": false,
+          "feedback": "Review: Inspect safely and arrange veterinary assessment."
+        },
+        {
+          "text": "B. A sign of good body condition",
+          "correct": false,
+          "feedback": "Review: Inspect safely and arrange veterinary assessment."
+        },
+        {
+          "text": "C. Injury, hoof disease or severe pain",
+          "correct": true,
+          "feedback": "Correct. Inspect safely and arrange veterinary assessment."
+        },
+        {
+          "text": "D. It is harmless",
+          "correct": false,
+          "feedback": "Review: Inspect safely and arrange veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should goat breeders keep records of dam and sire lineage?",
+      "options": [
+        {
+          "text": "A. It guarantees superior offspring",
+          "correct": false,
+          "feedback": "Review: Pedigree records help manage genetic diversity and selection."
+        },
+        {
+          "text": "B. It supports planned mating and reduces close inbreeding",
+          "correct": true,
+          "feedback": "Correct. Pedigree records help manage genetic diversity and selection."
+        },
+        {
+          "text": "C. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Pedigree records help manage genetic diversity and selection."
+        },
+        {
+          "text": "D. It predicts birth weight exactly",
+          "correct": false,
+          "feedback": "Review: Pedigree records help manage genetic diversity and selection."
         }
       ],
       "part": 4
