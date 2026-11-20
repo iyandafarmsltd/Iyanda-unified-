@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It increases ammonia",
           "correct": false,
           "feedback": "Review: Allow adequate drying before restocking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should poultry houses have a documented cleaning checklist?",
+      "options": [
+        {
+          "text": "A. It helps ensure all areas and equipment are cleaned consistently",
+          "correct": true,
+          "feedback": "Correct. A checklist improves consistency but does not replace verification."
+        },
+        {
+          "text": "B. It guarantees no pathogens remain",
+          "correct": false,
+          "feedback": "Review: A checklist improves consistency but does not replace verification."
+        },
+        {
+          "text": "C. It replaces disinfection",
+          "correct": false,
+          "feedback": "Review: A checklist improves consistency but does not replace verification."
+        },
+        {
+          "text": "D. It predicts egg production",
+          "correct": false,
+          "feedback": "Review: A checklist improves consistency but does not replace verification."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of monitoring shell-less or soft-shelled eggs?",
+      "options": [
+        {
+          "text": "A. It is always normal",
+          "correct": false,
+          "feedback": "Review: Track the pattern and review calcium, vitamin D, flock health and management."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Track the pattern and review calcium, vitamin D, flock health and management."
+        },
+        {
+          "text": "C. It measures feed conversion",
+          "correct": false,
+          "feedback": "Review: Track the pattern and review calcium, vitamin D, flock health and management."
+        },
+        {
+          "text": "D. It can signal nutrition, stress, age or reproductive health issues",
+          "correct": true,
+          "feedback": "Correct. Track the pattern and review calcium, vitamin D, flock health and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should broiler catching be coordinated with the farm's ventilation system?",
+      "options": [
+        {
+          "text": "A. It improves feather colour",
+          "correct": false,
+          "feedback": "Review: Maintain air quality and avoid heat build-up during catching."
+        },
+        {
+          "text": "B. Ventilation is unnecessary during catching",
+          "correct": false,
+          "feedback": "Review: Maintain air quality and avoid heat build-up during catching."
+        },
+        {
+          "text": "C. Birds produce heat and handling can raise stress during loading",
+          "correct": true,
+          "feedback": "Correct. Maintain air quality and avoid heat build-up during catching."
+        },
+        {
+          "text": "D. It replaces crate checks",
+          "correct": false,
+          "feedback": "Review: Maintain air quality and avoid heat build-up during catching."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a sudden increase in poultry feed refusal indicate?",
+      "options": [
+        {
+          "text": "A. A guaranteed improvement in growth",
+          "correct": false,
+          "feedback": "Review: Inspect feed and flock behaviour promptly."
+        },
+        {
+          "text": "B. Feed quality, delivery, temperature or health problems",
+          "correct": true,
+          "feedback": "Correct. Inspect feed and flock behaviour promptly."
+        },
+        {
+          "text": "C. That all birds are full",
+          "correct": false,
+          "feedback": "Review: Inspect feed and flock behaviour promptly."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Inspect feed and flock behaviour promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should poultry houses be checked for leaking roof panels?",
+      "options": [
+        {
+          "text": "A. Leaks wet litter and can damage feed and equipment",
+          "correct": true,
+          "feedback": "Correct. Repair roof leaks and dry affected areas."
+        },
+        {
+          "text": "B. Leaks improve ventilation",
+          "correct": false,
+          "feedback": "Review: Repair roof leaks and dry affected areas."
+        },
+        {
+          "text": "C. They reduce pathogen risk",
+          "correct": false,
+          "feedback": "Review: Repair roof leaks and dry affected areas."
+        },
+        {
+          "text": "D. It replaces water-line checks",
+          "correct": false,
+          "feedback": "Review: Repair roof leaks and dry affected areas."
         }
       ],
       "part": 4
