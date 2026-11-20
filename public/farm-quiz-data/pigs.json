@@ -1,7 +1,7 @@
 {
   "category": "pigs",
   "title": "pigs",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It guarantees correct diagnosis",
           "correct": false,
           "feedback": "Review: Maintain accurate inventory and follow product directions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should pigs be checked for signs of rectal prolapse?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Seek veterinary help promptly and review contributing factors."
+        },
+        {
+          "text": "B. It can be painful and may require urgent veterinary attention",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary help promptly and review contributing factors."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Seek veterinary help promptly and review contributing factors."
+        },
+        {
+          "text": "D. It determines feed quality",
+          "correct": false,
+          "feedback": "Review: Seek veterinary help promptly and review contributing factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking piglets' teeth and mouths during routine care?",
+      "options": [
+        {
+          "text": "A. Mouth injuries can affect feeding and welfare",
+          "correct": true,
+          "feedback": "Correct. Inspect for injury and follow veterinary guidance for procedures."
+        },
+        {
+          "text": "B. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Inspect for injury and follow veterinary guidance for procedures."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Inspect for injury and follow veterinary guidance for procedures."
+        },
+        {
+          "text": "D. It measures water quality",
+          "correct": false,
+          "feedback": "Review: Inspect for injury and follow veterinary guidance for procedures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should pig farms keep replacement animals separate before herd introduction?",
+      "options": [
+        {
+          "text": "A. It prevents all future illness",
+          "correct": false,
+          "feedback": "Review: Use quarantine and a planned biosecurity process."
+        },
+        {
+          "text": "B. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Use quarantine and a planned biosecurity process."
+        },
+        {
+          "text": "C. It replaces identification",
+          "correct": false,
+          "feedback": "Review: Use quarantine and a planned biosecurity process."
+        },
+        {
+          "text": "D. It allows health observation and reduces disease introduction",
+          "correct": true,
+          "feedback": "Correct. Use quarantine and a planned biosecurity process."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a sudden increase in pig drinking with reduced feed intake indicate?",
+      "options": [
+        {
+          "text": "A. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Review environmental conditions and health."
+        },
+        {
+          "text": "B. It proves growth is improved",
+          "correct": false,
+          "feedback": "Review: Review environmental conditions and health."
+        },
+        {
+          "text": "C. Heat stress, illness or a feed-related problem",
+          "correct": true,
+          "feedback": "Correct. Review environmental conditions and health."
+        },
+        {
+          "text": "D. It means water should be restricted",
+          "correct": false,
+          "feedback": "Review: Review environmental conditions and health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should pig housing have enough space for animals to lie simultaneously?",
+      "options": [
+        {
+          "text": "A. It determines carcass grade",
+          "correct": false,
+          "feedback": "Review: Ensure adequate usable lying space."
+        },
+        {
+          "text": "B. It supports rest and reduces competition",
+          "correct": true,
+          "feedback": "Correct. Ensure adequate usable lying space."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Review: Ensure adequate usable lying space."
+        },
+        {
+          "text": "D. It guarantees no fighting",
+          "correct": false,
+          "feedback": "Review: Ensure adequate usable lying space."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of checking sow body condition at farrowing?",
+      "options": [
+        {
+          "text": "A. It helps assess whether gestation feeding was appropriate",
+          "correct": true,
+          "feedback": "Correct. Use condition scoring to refine feeding programmes."
+        },
+        {
+          "text": "B. It determines piglet sex",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to refine feeding programmes."
+        },
+        {
+          "text": "C. It replaces litter records",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to refine feeding programmes."
+        },
+        {
+          "text": "D. It predicts exact milk yield",
+          "correct": false,
+          "feedback": "Review: Use condition scoring to refine feeding programmes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should piglets be monitored for signs of dehydration during diarrhoea?",
+      "options": [
+        {
+          "text": "A. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary guidance and appropriate fluid support."
+        },
+        {
+          "text": "B. It improves immunity",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary guidance and appropriate fluid support."
+        },
+        {
+          "text": "C. It is unrelated to scours",
+          "correct": false,
+          "feedback": "Review: Seek prompt veterinary guidance and appropriate fluid support."
+        },
+        {
+          "text": "D. Fluid loss can become dangerous quickly",
+          "correct": true,
+          "feedback": "Correct. Seek prompt veterinary guidance and appropriate fluid support."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can a pig's sudden reluctance to use a feeder indicate?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Check the animal, feeder and group access."
+        },
+        {
+          "text": "B. It proves the ration is ideal",
+          "correct": false,
+          "feedback": "Review: Check the animal, feeder and group access."
+        },
+        {
+          "text": "C. Pain, feeder malfunction or social competition",
+          "correct": true,
+          "feedback": "Correct. Check the animal, feeder and group access."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Check the animal, feeder and group access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should pig transport crates be checked for sharp edges?",
+      "options": [
+        {
+          "text": "A. They improve loading speed",
+          "correct": false,
+          "feedback": "Review: Inspect and repair crates before use."
+        },
+        {
+          "text": "B. Sharp edges can cause cuts and injuries",
+          "correct": true,
+          "feedback": "Correct. Inspect and repair crates before use."
+        },
+        {
+          "text": "C. It determines meat quality",
+          "correct": false,
+          "feedback": "Review: Inspect and repair crates before use."
+        },
+        {
+          "text": "D. It replaces vehicle cleaning",
+          "correct": false,
+          "feedback": "Review: Inspect and repair crates before use."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of maintaining a pig herd vaccination calendar?",
+      "options": [
+        {
+          "text": "A. It helps coordinate preventive health measures",
+          "correct": true,
+          "feedback": "Correct. Tailor the programme to herd risks and veterinary guidance."
+        },
+        {
+          "text": "B. It guarantees disease-free status",
+          "correct": false,
+          "feedback": "Review: Tailor the programme to herd risks and veterinary guidance."
+        },
+        {
+          "text": "C. It replaces veterinary advice",
+          "correct": false,
+          "feedback": "Review: Tailor the programme to herd risks and veterinary guidance."
+        },
+        {
+          "text": "D. It predicts market weight",
+          "correct": false,
+          "feedback": "Review: Tailor the programme to herd risks and veterinary guidance."
         }
       ],
       "part": 4
