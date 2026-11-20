@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It reduces the chance of carrying contamination into clean areas",
           "correct": true,
           "feedback": "Correct. A defined workflow strengthens biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should poultry workers record the time of a sudden mortality event?",
+      "options": [
+        {
+          "text": "A. It replaces necropsy",
+          "correct": false,
+          "feedback": "Review: Time records improve investigation of unusual mortality."
+        },
+        {
+          "text": "B. It predicts egg weight",
+          "correct": false,
+          "feedback": "Review: Time records improve investigation of unusual mortality."
+        },
+        {
+          "text": "C. It can help connect losses with environmental or management changes",
+          "correct": true,
+          "feedback": "Correct. Time records improve investigation of unusual mortality."
+        },
+        {
+          "text": "D. It determines bird age",
+          "correct": false,
+          "feedback": "Review: Time records improve investigation of unusual mortality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of inspecting poultry feed silos for leaks?",
+      "options": [
+        {
+          "text": "A. It improves feed palatability",
+          "correct": false,
+          "feedback": "Review: Keep silos sealed and inspect for condensation or water entry."
+        },
+        {
+          "text": "B. Moisture entry can cause mould and feed deterioration",
+          "correct": true,
+          "feedback": "Correct. Keep silos sealed and inspect for condensation or water entry."
+        },
+        {
+          "text": "C. It raises protein levels",
+          "correct": false,
+          "feedback": "Review: Keep silos sealed and inspect for condensation or water entry."
+        },
+        {
+          "text": "D. It sterilises stored feed",
+          "correct": false,
+          "feedback": "Review: Keep silos sealed and inspect for condensation or water entry."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should layers have access to suitable nest material?",
+      "options": [
+        {
+          "text": "A. It supports nesting behaviour and can help keep eggs clean",
+          "correct": true,
+          "feedback": "Correct. Provide clean, appropriate nesting material and maintain nest hygiene."
+        },
+        {
+          "text": "B. It determines shell colour",
+          "correct": false,
+          "feedback": "Review: Provide clean, appropriate nesting material and maintain nest hygiene."
+        },
+        {
+          "text": "C. It replaces calcium",
+          "correct": false,
+          "feedback": "Review: Provide clean, appropriate nesting material and maintain nest hygiene."
+        },
+        {
+          "text": "D. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Provide clean, appropriate nesting material and maintain nest hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a high proportion of floor eggs indicate?",
+      "options": [
+        {
+          "text": "A. The flock has finished laying",
+          "correct": false,
+          "feedback": "Review: Investigate management and housing rather than assuming one cause."
+        },
+        {
+          "text": "B. All hens are infertile",
+          "correct": false,
+          "feedback": "Review: Investigate management and housing rather than assuming one cause."
+        },
+        {
+          "text": "C. The feed contains too much water",
+          "correct": false,
+          "feedback": "Review: Investigate management and housing rather than assuming one cause."
+        },
+        {
+          "text": "D. Nest access, nest design, lighting or flock training may need review",
+          "correct": true,
+          "feedback": "Correct. Investigate management and housing rather than assuming one cause."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should poultry workers avoid moving directly from sick-bird areas to healthy flocks?",
+      "options": [
+        {
+          "text": "A. It replaces vaccination",
+          "correct": false,
+          "feedback": "Review: Use controlled movement and biosecurity procedures."
+        },
+        {
+          "text": "B. It improves flock immunity",
+          "correct": false,
+          "feedback": "Review: Use controlled movement and biosecurity procedures."
+        },
+        {
+          "text": "C. They can carry pathogens on clothing, footwear or equipment",
+          "correct": true,
+          "feedback": "Correct. Use controlled movement and biosecurity procedures."
+        },
+        {
+          "text": "D. It reduces the need for cleaning",
+          "correct": false,
+          "feedback": "Review: Use controlled movement and biosecurity procedures."
         }
       ],
       "part": 4
