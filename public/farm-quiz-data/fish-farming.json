@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It determines fish age",
           "correct": false,
           "feedback": "Review: Water exchange records support system management and traceability."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should fish ponds be protected from pesticide runoff?",
+      "options": [
+        {
+          "text": "A. Runoff improves plankton",
+          "correct": false,
+          "feedback": "Review: Use buffer measures and protect water inlets from contaminated runoff."
+        },
+        {
+          "text": "B. Pesticides can be toxic to fish and aquatic organisms",
+          "correct": true,
+          "feedback": "Correct. Use buffer measures and protect water inlets from contaminated runoff."
+        },
+        {
+          "text": "C. Fish neutralise all pesticides",
+          "correct": false,
+          "feedback": "Review: Use buffer measures and protect water inlets from contaminated runoff."
+        },
+        {
+          "text": "D. It increases dissolved oxygen",
+          "correct": false,
+          "feedback": "Review: Use buffer measures and protect water inlets from contaminated runoff."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of recording fish feed batch numbers?",
+      "options": [
+        {
+          "text": "A. It helps trace potential feed-quality problems",
+          "correct": true,
+          "feedback": "Correct. Batch records support traceability if performance or health changes."
+        },
+        {
+          "text": "B. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Batch records support traceability if performance or health changes."
+        },
+        {
+          "text": "C. It replaces feed sampling",
+          "correct": false,
+          "feedback": "Review: Batch records support traceability if performance or health changes."
+        },
+        {
+          "text": "D. It measures pond depth",
+          "correct": false,
+          "feedback": "Review: Batch records support traceability if performance or health changes."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should fish farmers avoid sudden stocking density increases?",
+      "options": [
+        {
+          "text": "A. It prevents disease",
+          "correct": false,
+          "feedback": "Review: Stocking should match system capacity and management."
+        },
+        {
+          "text": "B. More fish always improve water quality",
+          "correct": false,
+          "feedback": "Review: Stocking should match system capacity and management."
+        },
+        {
+          "text": "C. Density does not affect oxygen",
+          "correct": false,
+          "feedback": "Review: Stocking should match system capacity and management."
+        },
+        {
+          "text": "D. Higher biomass raises oxygen demand and waste loading",
+          "correct": true,
+          "feedback": "Correct. Stocking should match system capacity and management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a fish pond's low morning oxygen reading indicate?",
+      "options": [
+        {
+          "text": "A. Fish have stopped respiring",
+          "correct": false,
+          "feedback": "Review: Monitor dawn oxygen and use aeration when needed."
+        },
+        {
+          "text": "B. Photosynthesis is at its daily peak",
+          "correct": false,
+          "feedback": "Review: Monitor dawn oxygen and use aeration when needed."
+        },
+        {
+          "text": "C. Night-time respiration and decomposition may be consuming oxygen",
+          "correct": true,
+          "feedback": "Correct. Monitor dawn oxygen and use aeration when needed."
+        },
+        {
+          "text": "D. The pond is sterile",
+          "correct": false,
+          "feedback": "Review: Monitor dawn oxygen and use aeration when needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should fish farmers inspect screens after heavy rain?",
+      "options": [
+        {
+          "text": "A. Rain sterilises screens",
+          "correct": false,
+          "feedback": "Review: Maintain screens and check water flow after storms."
+        },
+        {
+          "text": "B. Debris may block water flow or allow unwanted organisms through",
+          "correct": true,
+          "feedback": "Correct. Maintain screens and check water flow after storms."
+        },
+        {
+          "text": "C. Screens determine fish growth",
+          "correct": false,
+          "feedback": "Review: Maintain screens and check water flow after storms."
+        },
+        {
+          "text": "D. It replaces pond testing",
+          "correct": false,
+          "feedback": "Review: Maintain screens and check water flow after storms."
         }
       ],
       "part": 4
