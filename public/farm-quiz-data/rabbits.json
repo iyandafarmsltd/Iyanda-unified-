@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 215,
+  "total": 225,
   "questions": [
     {
       "number": 1,
@@ -5804,6 +5804,276 @@
           "text": "D. It prevents all disease",
           "correct": false,
           "feedback": "Review: Group management should support fair access and welfare."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 216,
+      "question": "Why should rabbits be protected from access to electrical cables?",
+      "options": [
+        {
+          "text": "A. It replaces enrichment",
+          "correct": false,
+          "feedback": "Review: Use protected wiring and rabbit-proof housing."
+        },
+        {
+          "text": "B. It improves tooth wear",
+          "correct": false,
+          "feedback": "Review: Use protected wiring and rabbit-proof housing."
+        },
+        {
+          "text": "C. Chewing cables can cause electric shock, burns or fire",
+          "correct": true,
+          "feedback": "Correct. Use protected wiring and rabbit-proof housing."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Use protected wiring and rabbit-proof housing."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 217,
+      "question": "What is the purpose of monitoring rabbit appetite during hot weather?",
+      "options": [
+        {
+          "text": "A. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Provide shade and ventilation and watch for reduced eating."
+        },
+        {
+          "text": "B. Heat can reduce intake and increase health risk",
+          "correct": true,
+          "feedback": "Correct. Provide shade and ventilation and watch for reduced eating."
+        },
+        {
+          "text": "C. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Provide shade and ventilation and watch for reduced eating."
+        },
+        {
+          "text": "D. It guarantees weight gain",
+          "correct": false,
+          "feedback": "Review: Provide shade and ventilation and watch for reduced eating."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 218,
+      "question": "Why should rabbit litter boxes be cleaned regularly?",
+      "options": [
+        {
+          "text": "A. Waste accumulation increases ammonia and contamination",
+          "correct": true,
+          "feedback": "Correct. Maintain clean toilet areas and suitable litter."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Maintain clean toilet areas and suitable litter."
+        },
+        {
+          "text": "C. It improves digestion",
+          "correct": false,
+          "feedback": "Review: Maintain clean toilet areas and suitable litter."
+        },
+        {
+          "text": "D. It replaces bedding",
+          "correct": false,
+          "feedback": "Review: Maintain clean toilet areas and suitable litter."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 219,
+      "question": "What can a rabbit that breathes with its mouth open indicate?",
+      "options": [
+        {
+          "text": "A. It is harmless",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help."
+        },
+        {
+          "text": "B. Normal resting behaviour",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help."
+        },
+        {
+          "text": "C. A sign of pregnancy",
+          "correct": false,
+          "feedback": "Review: Seek urgent veterinary help."
+        },
+        {
+          "text": "D. Severe respiratory distress or heat stress requiring emergency care",
+          "correct": true,
+          "feedback": "Correct. Seek urgent veterinary help."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 220,
+      "question": "Why should rabbit breeders monitor the buck's reproductive health?",
+      "options": [
+        {
+          "text": "A. It replaces pedigree records",
+          "correct": false,
+          "feedback": "Review: Assess overall condition and breeding performance."
+        },
+        {
+          "text": "B. It determines doe litter size exactly",
+          "correct": false,
+          "feedback": "Review: Assess overall condition and breeding performance."
+        },
+        {
+          "text": "C. Poor health or injury can reduce fertility",
+          "correct": true,
+          "feedback": "Correct. Assess overall condition and breeding performance."
+        },
+        {
+          "text": "D. It predicts kit colour",
+          "correct": false,
+          "feedback": "Review: Assess overall condition and breeding performance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 221,
+      "question": "What is the purpose of providing a hay rack that rabbits can reach easily?",
+      "options": [
+        {
+          "text": "A. It replaces water",
+          "correct": false,
+          "feedback": "Review: Make clean hay readily available."
+        },
+        {
+          "text": "B. It encourages regular access to fibre-rich forage",
+          "correct": true,
+          "feedback": "Correct. Make clean hay readily available."
+        },
+        {
+          "text": "C. It determines tooth colour",
+          "correct": false,
+          "feedback": "Review: Make clean hay readily available."
+        },
+        {
+          "text": "D. It prevents all digestive disease",
+          "correct": false,
+          "feedback": "Review: Make clean hay readily available."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 222,
+      "question": "Why should rabbits be protected from sudden loud fireworks or similar noise?",
+      "options": [
+        {
+          "text": "A. Fear can cause stress and injury",
+          "correct": true,
+          "feedback": "Correct. Provide a secure quiet area during disturbances."
+        },
+        {
+          "text": "B. Noise improves appetite",
+          "correct": false,
+          "feedback": "Review: Provide a secure quiet area during disturbances."
+        },
+        {
+          "text": "C. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Provide a secure quiet area during disturbances."
+        },
+        {
+          "text": "D. It replaces hiding places",
+          "correct": false,
+          "feedback": "Review: Provide a secure quiet area during disturbances."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 223,
+      "question": "What can a rabbit's sudden weight loss indicate?",
+      "options": [
+        {
+          "text": "A. It is always due to age",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and seek veterinary assessment."
+        },
+        {
+          "text": "B. A sign of good condition",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and seek veterinary assessment."
+        },
+        {
+          "text": "C. It predicts sex",
+          "correct": false,
+          "feedback": "Review: Investigate promptly and seek veterinary assessment."
+        },
+        {
+          "text": "D. Dental, digestive, infectious or other health problems",
+          "correct": true,
+          "feedback": "Correct. Investigate promptly and seek veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 224,
+      "question": "Why should rabbit enclosures have good drainage?",
+      "options": [
+        {
+          "text": "A. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Keep housing dry and well maintained."
+        },
+        {
+          "text": "B. It increases humidity",
+          "correct": false,
+          "feedback": "Review: Keep housing dry and well maintained."
+        },
+        {
+          "text": "C. It prevents damp bedding and unhealthy resting conditions",
+          "correct": true,
+          "feedback": "Correct. Keep housing dry and well maintained."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Keep housing dry and well maintained."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 225,
+      "question": "What is the purpose of checking rabbit feed labels for fibre content?",
+      "options": [
+        {
+          "text": "A. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Choose suitable feed and provide adequate forage."
+        },
+        {
+          "text": "B. Fibre is essential for digestive health",
+          "correct": true,
+          "feedback": "Correct. Choose suitable feed and provide adequate forage."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Choose suitable feed and provide adequate forage."
+        },
+        {
+          "text": "D. It replaces hay",
+          "correct": false,
+          "feedback": "Review: Choose suitable feed and provide adequate forage."
         }
       ],
       "part": 4
