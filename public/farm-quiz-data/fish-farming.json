@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. It replaces feed",
           "correct": false,
           "feedback": "Review: Base fertilisation on pond conditions and monitor water quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should fish farmers monitor the water source during nearby agricultural spraying?",
+      "options": [
+        {
+          "text": "A. Runoff or drift may contaminate incoming water",
+          "correct": true,
+          "feedback": "Correct. Protect intakes and assess potential contamination promptly."
+        },
+        {
+          "text": "B. Sprays increase dissolved oxygen",
+          "correct": false,
+          "feedback": "Review: Protect intakes and assess potential contamination promptly."
+        },
+        {
+          "text": "C. Fish are immune to pesticides",
+          "correct": false,
+          "feedback": "Review: Protect intakes and assess potential contamination promptly."
+        },
+        {
+          "text": "D. Water source risk is unchanged",
+          "correct": false,
+          "feedback": "Review: Protect intakes and assess potential contamination promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of measuring fish length as well as weight?",
+      "options": [
+        {
+          "text": "A. It measures water hardness",
+          "correct": false,
+          "feedback": "Review: Length and weight together provide useful growth information."
+        },
+        {
+          "text": "B. It identifies every disease",
+          "correct": false,
+          "feedback": "Review: Length and weight together provide useful growth information."
+        },
+        {
+          "text": "C. It replaces biomass estimates",
+          "correct": false,
+          "feedback": "Review: Length and weight together provide useful growth information."
+        },
+        {
+          "text": "D. It helps assess growth and body condition patterns",
+          "correct": true,
+          "feedback": "Correct. Length and weight together provide useful growth information."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should fish be handled with wet, suitable equipment?",
+      "options": [
+        {
+          "text": "A. It sterilises fish",
+          "correct": false,
+          "feedback": "Review: Use appropriate wet handling equipment and minimise air exposure."
+        },
+        {
+          "text": "B. It increases scale loss",
+          "correct": false,
+          "feedback": "Review: Use appropriate wet handling equipment and minimise air exposure."
+        },
+        {
+          "text": "C. It reduces damage to skin and protective mucus",
+          "correct": true,
+          "feedback": "Correct. Use appropriate wet handling equipment and minimise air exposure."
+        },
+        {
+          "text": "D. It replaces oxygenation",
+          "correct": false,
+          "feedback": "Review: Use appropriate wet handling equipment and minimise air exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a sudden increase in pond turbidity indicate?",
+      "options": [
+        {
+          "text": "A. A guaranteed rise in oxygen",
+          "correct": false,
+          "feedback": "Review: Investigate the source and check other water parameters."
+        },
+        {
+          "text": "B. Runoff, suspended solids, plankton changes or bottom disturbance",
+          "correct": true,
+          "feedback": "Correct. Investigate the source and check other water parameters."
+        },
+        {
+          "text": "C. A sign of perfect water quality",
+          "correct": false,
+          "feedback": "Review: Investigate the source and check other water parameters."
+        },
+        {
+          "text": "D. That fish are ready to harvest",
+          "correct": false,
+          "feedback": "Review: Investigate the source and check other water parameters."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should fish farmers maintain a record of pond water exchange volumes?",
+      "options": [
+        {
+          "text": "A. It helps interpret changes in water quality and production",
+          "correct": true,
+          "feedback": "Correct. Water exchange records support system management and traceability."
+        },
+        {
+          "text": "B. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Water exchange records support system management and traceability."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Water exchange records support system management and traceability."
+        },
+        {
+          "text": "D. It determines fish age",
+          "correct": false,
+          "feedback": "Review: Water exchange records support system management and traceability."
         }
       ],
       "part": 4
