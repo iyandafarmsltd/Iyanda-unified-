@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. Meat stays safe indefinitely",
           "correct": false,
           "feedback": "Review: Maintain hygienic processing and an appropriate cold chain."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should rabbit feed contain adequate long fibre?",
+      "options": [
+        {
+          "text": "A. It prevents the need for water",
+          "correct": false,
+          "feedback": "Review: A high-fibre diet based on suitable forage is essential."
+        },
+        {
+          "text": "B. It replaces all vitamins",
+          "correct": false,
+          "feedback": "Review: A high-fibre diet based on suitable forage is essential."
+        },
+        {
+          "text": "C. Long fibre supports gut movement and dental wear",
+          "correct": true,
+          "feedback": "Correct. A high-fibre diet based on suitable forage is essential."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: A high-fibre diet based on suitable forage is essential."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of checking a rabbit's nose and breathing daily?",
+      "options": [
+        {
+          "text": "A. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Respiratory signs warrant assessment and good hygiene."
+        },
+        {
+          "text": "B. Discharge or noisy breathing can signal respiratory disease",
+          "correct": true,
+          "feedback": "Correct. Respiratory signs warrant assessment and good hygiene."
+        },
+        {
+          "text": "C. It measures body condition",
+          "correct": false,
+          "feedback": "Review: Respiratory signs warrant assessment and good hygiene."
+        },
+        {
+          "text": "D. It replaces dental checks",
+          "correct": false,
+          "feedback": "Review: Respiratory signs warrant assessment and good hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should rabbit nest boxes be removed and cleaned between litters?",
+      "options": [
+        {
+          "text": "A. It reduces contamination and parasite carryover",
+          "correct": true,
+          "feedback": "Correct. Clean nest equipment supports kit health."
+        },
+        {
+          "text": "B. It guarantees more kits",
+          "correct": false,
+          "feedback": "Review: Clean nest equipment supports kit health."
+        },
+        {
+          "text": "C. It replaces doe health checks",
+          "correct": false,
+          "feedback": "Review: Clean nest equipment supports kit health."
+        },
+        {
+          "text": "D. It changes sex ratio",
+          "correct": false,
+          "feedback": "Review: Clean nest equipment supports kit health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What can a rabbit that tilts its head or loses balance need?",
+      "options": [
+        {
+          "text": "A. Immediate breeding",
+          "correct": false,
+          "feedback": "Review: Head tilt and balance changes are serious signs."
+        },
+        {
+          "text": "B. A routine diet change only",
+          "correct": false,
+          "feedback": "Review: Head tilt and balance changes are serious signs."
+        },
+        {
+          "text": "C. No attention if it eats",
+          "correct": false,
+          "feedback": "Review: Head tilt and balance changes are serious signs."
+        },
+        {
+          "text": "D. Urgent veterinary examination for possible ear, neurological or other disease",
+          "correct": true,
+          "feedback": "Correct. Head tilt and balance changes are serious signs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should rabbits be protected from flies around soiled bedding?",
+      "options": [
+        {
+          "text": "A. They are harmless to all rabbits",
+          "correct": false,
+          "feedback": "Review: Clean housing and fly control reduce risk."
+        },
+        {
+          "text": "B. Flies improve digestion",
+          "correct": false,
+          "feedback": "Review: Clean housing and fly control reduce risk."
+        },
+        {
+          "text": "C. Flies can contribute to flystrike and disease transmission",
+          "correct": true,
+          "feedback": "Correct. Clean housing and fly control reduce risk."
+        },
+        {
+          "text": "D. They replace cleaning",
+          "correct": false,
+          "feedback": "Review: Clean housing and fly control reduce risk."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of monitoring a buck's fertility over multiple matings?",
+      "options": [
+        {
+          "text": "A. It predicts kit colour",
+          "correct": false,
+          "feedback": "Review: Use breeding records and veterinary evaluation where needed."
+        },
+        {
+          "text": "B. It helps identify reproductive problems rather than relying on one result",
+          "correct": true,
+          "feedback": "Correct. Use breeding records and veterinary evaluation where needed."
+        },
+        {
+          "text": "C. It replaces health checks",
+          "correct": false,
+          "feedback": "Review: Use breeding records and veterinary evaluation where needed."
+        },
+        {
+          "text": "D. It guarantees litter size",
+          "correct": false,
+          "feedback": "Review: Use breeding records and veterinary evaluation where needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should rabbits be provided with safe materials to chew?",
+      "options": [
+        {
+          "text": "A. Chewing supports normal behaviour and helps manage continuously growing teeth",
+          "correct": true,
+          "feedback": "Correct. Provide safe enrichment alongside appropriate forage."
+        },
+        {
+          "text": "B. It replaces hay",
+          "correct": false,
+          "feedback": "Review: Provide safe enrichment alongside appropriate forage."
+        },
+        {
+          "text": "C. It prevents all dental disease",
+          "correct": false,
+          "feedback": "Review: Provide safe enrichment alongside appropriate forage."
+        },
+        {
+          "text": "D. It increases obesity",
+          "correct": false,
+          "feedback": "Review: Provide safe enrichment alongside appropriate forage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What should be checked if a rabbit drinks much more than usual?",
+      "options": [
+        {
+          "text": "A. Whether it needs less water",
+          "correct": false,
+          "feedback": "Review: Changes in thirst can be an important health sign."
+        },
+        {
+          "text": "B. Only fur length",
+          "correct": false,
+          "feedback": "Review: Changes in thirst can be an important health sign."
+        },
+        {
+          "text": "C. Nothing if it is active",
+          "correct": false,
+          "feedback": "Review: Changes in thirst can be an important health sign."
+        },
+        {
+          "text": "D. Urinary, kidney, dietary and environmental factors",
+          "correct": true,
+          "feedback": "Correct. Changes in thirst can be an important health sign."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should rabbits be transported in secure, ventilated carriers?",
+      "options": [
+        {
+          "text": "A. Carriers should be airtight",
+          "correct": false,
+          "feedback": "Review: Use suitable carriers and minimise journey stress."
+        },
+        {
+          "text": "B. Darkness prevents all stress",
+          "correct": false,
+          "feedback": "Review: Use suitable carriers and minimise journey stress."
+        },
+        {
+          "text": "C. They need protection from escape, injury and overheating",
+          "correct": true,
+          "feedback": "Correct. Use suitable carriers and minimise journey stress."
+        },
+        {
+          "text": "D. Overcrowding improves safety",
+          "correct": false,
+          "feedback": "Review: Use suitable carriers and minimise journey stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What is the value of recording kit mortality by litter?",
+      "options": [
+        {
+          "text": "A. It predicts adult fur colour",
+          "correct": false,
+          "feedback": "Review: Litter-level records help identify recurring issues."
+        },
+        {
+          "text": "B. It helps identify differences in doe performance and nest management",
+          "correct": true,
+          "feedback": "Correct. Litter-level records help identify recurring issues."
+        },
+        {
+          "text": "C. It replaces litter size records",
+          "correct": false,
+          "feedback": "Review: Litter-level records help identify recurring issues."
+        },
+        {
+          "text": "D. It measures feed protein",
+          "correct": false,
+          "feedback": "Review: Litter-level records help identify recurring issues."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should rabbit cages be inspected for urine build-up?",
+      "options": [
+        {
+          "text": "A. Accumulated urine can increase ammonia and irritate respiratory tissues",
+          "correct": true,
+          "feedback": "Correct. Clean regularly and maintain suitable flooring and drainage."
+        },
+        {
+          "text": "B. Urine sterilises the floor",
+          "correct": false,
+          "feedback": "Review: Clean regularly and maintain suitable flooring and drainage."
+        },
+        {
+          "text": "C. It improves foot health",
+          "correct": false,
+          "feedback": "Review: Clean regularly and maintain suitable flooring and drainage."
+        },
+        {
+          "text": "D. It removes need for ventilation",
+          "correct": false,
+          "feedback": "Review: Clean regularly and maintain suitable flooring and drainage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What can a rabbit that produces no droppings and refuses food be experiencing?",
+      "options": [
+        {
+          "text": "A. A reason to fast it longer",
+          "correct": false,
+          "feedback": "Review: This requires urgent veterinary attention."
+        },
+        {
+          "text": "B. Normal rest",
+          "correct": false,
+          "feedback": "Review: This requires urgent veterinary attention."
+        },
+        {
+          "text": "C. A sign of good condition",
+          "correct": false,
+          "feedback": "Review: This requires urgent veterinary attention."
+        },
+        {
+          "text": "D. A potentially life-threatening gastrointestinal problem",
+          "correct": true,
+          "feedback": "Correct. This requires urgent veterinary attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should new rabbits be quarantined before joining a breeding group?",
+      "options": [
+        {
+          "text": "A. It removes need for identification",
+          "correct": false,
+          "feedback": "Review: Quarantine and health assessment reduce introduction risks."
+        },
+        {
+          "text": "B. It guarantees genetic quality",
+          "correct": false,
+          "feedback": "Review: Quarantine and health assessment reduce introduction risks."
+        },
+        {
+          "text": "C. They may carry infectious disease or parasites",
+          "correct": true,
+          "feedback": "Correct. Quarantine and health assessment reduce introduction risks."
+        },
+        {
+          "text": "D. It prevents all future illness",
+          "correct": false,
+          "feedback": "Review: Quarantine and health assessment reduce introduction risks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What is the purpose of checking doe body condition after weaning?",
+      "options": [
+        {
+          "text": "A. It determines the buck's age",
+          "correct": false,
+          "feedback": "Review: Monitor condition and allow appropriate recovery."
+        },
+        {
+          "text": "B. It helps determine recovery and readiness for future breeding",
+          "correct": true,
+          "feedback": "Correct. Monitor condition and allow appropriate recovery."
+        },
+        {
+          "text": "C. It predicts exact litter size",
+          "correct": false,
+          "feedback": "Review: Monitor condition and allow appropriate recovery."
+        },
+        {
+          "text": "D. It replaces feed records",
+          "correct": false,
+          "feedback": "Review: Monitor condition and allow appropriate recovery."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should rabbit manure be kept from contaminating feed and water?",
+      "options": [
+        {
+          "text": "A. It can carry pathogens and parasites",
+          "correct": true,
+          "feedback": "Correct. Separate waste from feed and water and maintain hygiene."
+        },
+        {
+          "text": "B. It improves drinking water",
+          "correct": false,
+          "feedback": "Review: Separate waste from feed and water and maintain hygiene."
+        },
+        {
+          "text": "C. It sterilises feed",
+          "correct": false,
+          "feedback": "Review: Separate waste from feed and water and maintain hygiene."
+        },
+        {
+          "text": "D. It is always safe when fresh",
+          "correct": false,
+          "feedback": "Review: Separate waste from feed and water and maintain hygiene."
         }
       ],
       "part": 4
