@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. Pain limits feeding and movement and can worsen welfare",
           "correct": true,
           "feedback": "Correct. Prompt diagnosis and treatment reduce suffering and production losses."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should lambs be monitored for swollen or painful navels?",
+      "options": [
+        {
+          "text": "A. It is harmless in all lambs",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "B. It predicts fleece length",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "C. Navel infection can spread and cause serious illness",
+          "correct": true,
+          "feedback": "Correct. Navel abnormalities need prompt attention."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Navel abnormalities need prompt attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of checking sheep wool for external parasites?",
+      "options": [
+        {
+          "text": "A. It measures milk quality",
+          "correct": false,
+          "feedback": "Review: Routine inspection helps detect parasite problems."
+        },
+        {
+          "text": "B. Parasites can cause irritation, fleece damage and production loss",
+          "correct": true,
+          "feedback": "Correct. Routine inspection helps detect parasite problems."
+        },
+        {
+          "text": "C. It determines pregnancy",
+          "correct": false,
+          "feedback": "Review: Routine inspection helps detect parasite problems."
+        },
+        {
+          "text": "D. It replaces foot inspection",
+          "correct": false,
+          "feedback": "Review: Routine inspection helps detect parasite problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should ewes carrying multiple lambs receive carefully planned nutrition?",
+      "options": [
+        {
+          "text": "A. Their energy and nutrient requirements can be higher",
+          "correct": true,
+          "feedback": "Correct. Tailor feeding to condition and litter size with appropriate advice."
+        },
+        {
+          "text": "B. They need no forage",
+          "correct": false,
+          "feedback": "Review: Tailor feeding to condition and litter size with appropriate advice."
+        },
+        {
+          "text": "C. Nutrition does not affect lamb survival",
+          "correct": false,
+          "feedback": "Review: Tailor feeding to condition and litter size with appropriate advice."
+        },
+        {
+          "text": "D. It guarantees triplets",
+          "correct": false,
+          "feedback": "Review: Tailor feeding to condition and litter size with appropriate advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can a sudden increase in sheep lameness after rain suggest?",
+      "options": [
+        {
+          "text": "A. Lameness is unrelated to ground",
+          "correct": false,
+          "feedback": "Review: Inspect feet, pasture and handling areas and seek veterinary advice."
+        },
+        {
+          "text": "B. Rain cures foot disease",
+          "correct": false,
+          "feedback": "Review: Inspect feet, pasture and handling areas and seek veterinary advice."
+        },
+        {
+          "text": "C. It proves all sheep need grain",
+          "correct": false,
+          "feedback": "Review: Inspect feet, pasture and handling areas and seek veterinary advice."
+        },
+        {
+          "text": "D. Wet ground may worsen foot problems or expose a shared hazard",
+          "correct": true,
+          "feedback": "Correct. Inspect feet, pasture and handling areas and seek veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should lambs be monitored for signs of navel infection after marking?",
+      "options": [
+        {
+          "text": "A. It prevents the need for hygiene",
+          "correct": false,
+          "feedback": "Review: Use hygienic procedures and monitor healing."
+        },
+        {
+          "text": "B. It predicts wool grade",
+          "correct": false,
+          "feedback": "Review: Use hygienic procedures and monitor healing."
+        },
+        {
+          "text": "C. Procedures and wounds can create routes for infection",
+          "correct": true,
+          "feedback": "Correct. Use hygienic procedures and monitor healing."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Use hygienic procedures and monitor healing."
         }
       ],
       "part": 4
