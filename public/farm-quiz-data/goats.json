@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It determines litter size",
           "correct": false,
           "feedback": "Review: Observe feeding behaviour and provide adequate access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should goat kids be monitored for normal urination after birth?",
+      "options": [
+        {
+          "text": "A. Difficulty urinating can indicate a congenital or health problem",
+          "correct": true,
+          "feedback": "Correct. Abnormal urination warrants veterinary attention."
+        },
+        {
+          "text": "B. It predicts adult size",
+          "correct": false,
+          "feedback": "Review: Abnormal urination warrants veterinary attention."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Abnormal urination warrants veterinary attention."
+        },
+        {
+          "text": "D. It replaces feeding checks",
+          "correct": false,
+          "feedback": "Review: Abnormal urination warrants veterinary attention."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of checking goat teeth during routine health assessments?",
+      "options": [
+        {
+          "text": "A. It replaces parasite monitoring",
+          "correct": false,
+          "feedback": "Review: Dental health affects condition and productivity."
+        },
+        {
+          "text": "B. It determines pregnancy",
+          "correct": false,
+          "feedback": "Review: Dental health affects condition and productivity."
+        },
+        {
+          "text": "C. It predicts horn shape",
+          "correct": false,
+          "feedback": "Review: Dental health affects condition and productivity."
+        },
+        {
+          "text": "D. Dental wear or damage can reduce feed intake",
+          "correct": true,
+          "feedback": "Correct. Dental health affects condition and productivity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should goats not be allowed to drink from stagnant puddles near manure?",
+      "options": [
+        {
+          "text": "A. Manure disinfects water",
+          "correct": false,
+          "feedback": "Review: Provide clean water and prevent access to contaminated sources."
+        },
+        {
+          "text": "B. Puddles provide all required minerals",
+          "correct": false,
+          "feedback": "Review: Provide clean water and prevent access to contaminated sources."
+        },
+        {
+          "text": "C. The water may contain pathogens or parasites",
+          "correct": true,
+          "feedback": "Correct. Provide clean water and prevent access to contaminated sources."
+        },
+        {
+          "text": "D. Goats are immune to contaminated water",
+          "correct": false,
+          "feedback": "Review: Provide clean water and prevent access to contaminated sources."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a sudden increase in goat abortions indicate?",
+      "options": [
+        {
+          "text": "A. A normal seasonal pattern in all herds",
+          "correct": false,
+          "feedback": "Review: Contact a veterinarian promptly and follow biosecurity guidance."
+        },
+        {
+          "text": "B. A possible infectious or environmental herd problem",
+          "correct": true,
+          "feedback": "Correct. Contact a veterinarian promptly and follow biosecurity guidance."
+        },
+        {
+          "text": "C. Proof of high fertility",
+          "correct": false,
+          "feedback": "Review: Contact a veterinarian promptly and follow biosecurity guidance."
+        },
+        {
+          "text": "D. A need to stop feeding",
+          "correct": false,
+          "feedback": "Review: Contact a veterinarian promptly and follow biosecurity guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should goats be identified before hoof treatment?",
+      "options": [
+        {
+          "text": "A. It ensures treatment and follow-up are recorded for the correct animal",
+          "correct": true,
+          "feedback": "Correct. Accurate identification supports health records."
+        },
+        {
+          "text": "B. It improves hoof growth",
+          "correct": false,
+          "feedback": "Review: Accurate identification supports health records."
+        },
+        {
+          "text": "C. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Review: Accurate identification supports health records."
+        },
+        {
+          "text": "D. It predicts milk yield",
+          "correct": false,
+          "feedback": "Review: Accurate identification supports health records."
         }
       ],
       "part": 4
