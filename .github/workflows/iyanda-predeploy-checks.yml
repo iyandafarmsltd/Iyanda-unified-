@@ -121,6 +121,15 @@ jobs:
           ids = re.findall(r'\bid="([^"]+)"', source)
           # Ignore IDs assembled inside JavaScript template strings; those are per-record runtime IDs.
           literal_ids = [value for value in ids if not any(token in value for token in ("+", "${", "}", "$"))]
+          # This ID is intentionally reused in two mutually exclusive innerHTML
+          # states of loadCustomerOrders(): the error retry button and success
+          # refresh button replace the same container and cannot coexist in the DOM.
+          # Keep the exception narrow and assert the exact expected source count.
+          known_replaced_template_ids = {"refreshCustomerOrders": 2}
+          for known_id, expected_count in known_replaced_template_ids.items():
+              if literal_ids.count(known_id) != expected_count:
+                  raise SystemExit(f"Unexpected reuse count for replaced template ID {known_id}")
+          literal_ids = [value for value in literal_ids if value not in known_replaced_template_ids]
           counts = Counter(literal_ids)
           duplicates = sorted(key for key, count in counts.items() if count > 1)
           if duplicates:
