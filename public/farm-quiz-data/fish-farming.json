@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 165,
+  "total": 170,
   "questions": [
     {
       "number": 1,
@@ -4454,6 +4454,141 @@
           "text": "D. It replaces the need for pond preparation",
           "correct": false,
           "feedback": "Review: Sludge removal or management helps control organic loading."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 166,
+      "question": "Why should a fish pond be checked for dead fish at least daily?",
+      "options": [
+        {
+          "text": "A. Early removal and records help detect mortality trends and limit contamination",
+          "correct": true,
+          "feedback": "Correct. Daily checks support prompt investigation and hygiene."
+        },
+        {
+          "text": "B. Dead fish improve water quality",
+          "correct": false,
+          "feedback": "Review: Daily checks support prompt investigation and hygiene."
+        },
+        {
+          "text": "C. It replaces oxygen testing",
+          "correct": false,
+          "feedback": "Review: Daily checks support prompt investigation and hygiene."
+        },
+        {
+          "text": "D. It predicts harvest price",
+          "correct": false,
+          "feedback": "Review: Daily checks support prompt investigation and hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 167,
+      "question": "What does a pH reading outside the preferred range tell a fish farmer?",
+      "options": [
+        {
+          "text": "A. Feed protein is too low",
+          "correct": false,
+          "feedback": "Review: Interpret pH with species needs, alkalinity and other water measurements."
+        },
+        {
+          "text": "B. Fish are definitely infected",
+          "correct": false,
+          "feedback": "Review: Interpret pH with species needs, alkalinity and other water measurements."
+        },
+        {
+          "text": "C. The pond is ready to harvest",
+          "correct": false,
+          "feedback": "Review: Interpret pH with species needs, alkalinity and other water measurements."
+        },
+        {
+          "text": "D. Water chemistry may be stressing fish and needs investigation",
+          "correct": true,
+          "feedback": "Correct. Interpret pH with species needs, alkalinity and other water measurements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 168,
+      "question": "Why should fingerlings be acclimated before release into pond water?",
+      "options": [
+        {
+          "text": "A. It changes their sex",
+          "correct": false,
+          "feedback": "Review: Acclimation reduces abrupt environmental stress."
+        },
+        {
+          "text": "B. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Acclimation reduces abrupt environmental stress."
+        },
+        {
+          "text": "C. It reduces shock from temperature and water-chemistry differences",
+          "correct": true,
+          "feedback": "Correct. Acclimation reduces abrupt environmental stress."
+        },
+        {
+          "text": "D. It removes the need for quarantine",
+          "correct": false,
+          "feedback": "Review: Acclimation reduces abrupt environmental stress."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 169,
+      "question": "What is a practical reason to keep separate nets for different ponds?",
+      "options": [
+        {
+          "text": "A. It increases fish growth directly",
+          "correct": false,
+          "feedback": "Review: Dedicated or properly disinfected equipment supports biosecurity."
+        },
+        {
+          "text": "B. It reduces transfer of pathogens and unwanted organisms",
+          "correct": true,
+          "feedback": "Correct. Dedicated or properly disinfected equipment supports biosecurity."
+        },
+        {
+          "text": "C. It replaces pond disinfection",
+          "correct": false,
+          "feedback": "Review: Dedicated or properly disinfected equipment supports biosecurity."
+        },
+        {
+          "text": "D. It makes water tests unnecessary",
+          "correct": false,
+          "feedback": "Review: Dedicated or properly disinfected equipment supports biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 170,
+      "question": "Why should uneaten feed be investigated rather than simply increasing the next feeding?",
+      "options": [
+        {
+          "text": "A. It may indicate poor appetite, overfeeding or water-quality stress",
+          "correct": true,
+          "feedback": "Correct. Adjust feeding to appetite and investigate changes in behaviour."
+        },
+        {
+          "text": "B. Fish always eat more after leftovers",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and investigate changes in behaviour."
+        },
+        {
+          "text": "C. Uneaten feed improves oxygen",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and investigate changes in behaviour."
+        },
+        {
+          "text": "D. It proves the feed is high quality",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to appetite and investigate changes in behaviour."
         }
       ],
       "part": 4
