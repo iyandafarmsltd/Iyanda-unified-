@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. Damaged curtains can cause drafts and poor environmental control",
           "correct": true,
           "feedback": "Correct. Repair damage and verify airflow."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should poultry workers inspect the underside of drinker lines for leaks?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Check the full line and correct leaks."
+        },
+        {
+          "text": "B. Leaks improve bird comfort",
+          "correct": false,
+          "feedback": "Review: Check the full line and correct leaks."
+        },
+        {
+          "text": "C. It replaces litter checks",
+          "correct": false,
+          "feedback": "Review: Check the full line and correct leaks."
+        },
+        {
+          "text": "D. Small leaks may go unnoticed and create wet litter",
+          "correct": true,
+          "feedback": "Correct. Check the full line and correct leaks."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of monitoring layer hen body weight during rearing?",
+      "options": [
+        {
+          "text": "A. It replaces lighting plans",
+          "correct": false,
+          "feedback": "Review: Use age-appropriate targets and representative samples."
+        },
+        {
+          "text": "B. It determines egg colour",
+          "correct": false,
+          "feedback": "Review: Use age-appropriate targets and representative samples."
+        },
+        {
+          "text": "C. It helps assess growth and readiness for production",
+          "correct": true,
+          "feedback": "Correct. Use age-appropriate targets and representative samples."
+        },
+        {
+          "text": "D. It guarantees peak lay",
+          "correct": false,
+          "feedback": "Review: Use age-appropriate targets and representative samples."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should poultry farms keep feed samples from each batch?",
+      "options": [
+        {
+          "text": "A. They replace laboratory testing",
+          "correct": false,
+          "feedback": "Review: Retain labelled samples where practical."
+        },
+        {
+          "text": "B. They help investigate suspected quality or contamination issues",
+          "correct": true,
+          "feedback": "Correct. Retain labelled samples where practical."
+        },
+        {
+          "text": "C. They determine bird sex",
+          "correct": false,
+          "feedback": "Review: Retain labelled samples where practical."
+        },
+        {
+          "text": "D. They guarantee nutrient balance",
+          "correct": false,
+          "feedback": "Review: Retain labelled samples where practical."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a rise in poultry mortality after a ventilation failure indicate?",
+      "options": [
+        {
+          "text": "A. Environmental stress or disease may have affected the flock",
+          "correct": true,
+          "feedback": "Correct. Record the event and seek veterinary investigation."
+        },
+        {
+          "text": "B. It proves the feed is safe",
+          "correct": false,
+          "feedback": "Review: Record the event and seek veterinary investigation."
+        },
+        {
+          "text": "C. It predicts egg size",
+          "correct": false,
+          "feedback": "Review: Record the event and seek veterinary investigation."
+        },
+        {
+          "text": "D. It is unrelated to house conditions",
+          "correct": false,
+          "feedback": "Review: Record the event and seek veterinary investigation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should poultry houses be checked for rodent burrows near foundations?",
+      "options": [
+        {
+          "text": "A. They determine flock size",
+          "correct": false,
+          "feedback": "Review: Seal entry points and use safe pest management."
+        },
+        {
+          "text": "B. Burrows improve drainage",
+          "correct": false,
+          "feedback": "Review: Seal entry points and use safe pest management."
+        },
+        {
+          "text": "C. They prevent disease",
+          "correct": false,
+          "feedback": "Review: Seal entry points and use safe pest management."
+        },
+        {
+          "text": "D. Rodents can enter houses and damage structures or contaminate feed",
+          "correct": true,
+          "feedback": "Correct. Seal entry points and use safe pest management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of monitoring egg production by hen-day percentage?",
+      "options": [
+        {
+          "text": "A. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Use consistent definitions and accurate hen counts."
+        },
+        {
+          "text": "B. It measures shell thickness",
+          "correct": false,
+          "feedback": "Review: Use consistent definitions and accurate hen counts."
+        },
+        {
+          "text": "C. It expresses daily egg output relative to live hens",
+          "correct": true,
+          "feedback": "Correct. Use consistent definitions and accurate hen counts."
+        },
+        {
+          "text": "D. It replaces egg weight records",
+          "correct": false,
+          "feedback": "Review: Use consistent definitions and accurate hen counts."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should chicks be protected from direct contact with disinfectant residues?",
+      "options": [
+        {
+          "text": "A. Disinfectants improve immunity when ingested",
+          "correct": false,
+          "feedback": "Review: Follow product directions and allow appropriate drying and ventilation."
+        },
+        {
+          "text": "B. Residues may irritate or harm young birds",
+          "correct": true,
+          "feedback": "Correct. Follow product directions and allow appropriate drying and ventilation."
+        },
+        {
+          "text": "C. It replaces brooding",
+          "correct": false,
+          "feedback": "Review: Follow product directions and allow appropriate drying and ventilation."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Follow product directions and allow appropriate drying and ventilation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can an increase in poultry huddling near a wall indicate?",
+      "options": [
+        {
+          "text": "A. A draft, temperature gradient or other environmental issue",
+          "correct": true,
+          "feedback": "Correct. Assess airflow and bird-level temperature."
+        },
+        {
+          "text": "B. It proves the house is comfortable",
+          "correct": false,
+          "feedback": "Review: Assess airflow and bird-level temperature."
+        },
+        {
+          "text": "C. It determines egg quality",
+          "correct": false,
+          "feedback": "Review: Assess airflow and bird-level temperature."
+        },
+        {
+          "text": "D. It is always normal",
+          "correct": false,
+          "feedback": "Review: Assess airflow and bird-level temperature."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should poultry feed be rotated using first-in, first-out?",
+      "options": [
+        {
+          "text": "A. It replaces checking feed condition",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed regularly."
+        },
+        {
+          "text": "B. It increases protein",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed regularly."
+        },
+        {
+          "text": "C. It eliminates pests",
+          "correct": false,
+          "feedback": "Review: Rotate stock and inspect feed regularly."
+        },
+        {
+          "text": "D. It reduces the chance of older feed deteriorating in storage",
+          "correct": true,
+          "feedback": "Correct. Rotate stock and inspect feed regularly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of checking poultry scales with known weights?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Check scales routinely and record calibration."
+        },
+        {
+          "text": "B. It changes bird growth",
+          "correct": false,
+          "feedback": "Review: Check scales routinely and record calibration."
+        },
+        {
+          "text": "C. It verifies that readings are accurate",
+          "correct": true,
+          "feedback": "Correct. Check scales routinely and record calibration."
+        },
+        {
+          "text": "D. It replaces sampling",
+          "correct": false,
+          "feedback": "Review: Check scales routinely and record calibration."
         }
       ],
       "part": 4
