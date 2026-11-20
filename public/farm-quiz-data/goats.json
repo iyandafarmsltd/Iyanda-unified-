@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It predicts birth weight exactly",
           "correct": false,
           "feedback": "Review: Pedigree records help manage genetic diversity and selection."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should goat kids be monitored for signs of coccidiosis after weaning?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and growth and seek veterinary diagnosis."
+        },
+        {
+          "text": "B. It affects only adult bucks",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and growth and seek veterinary diagnosis."
+        },
+        {
+          "text": "C. It improves growth",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and growth and seek veterinary diagnosis."
+        },
+        {
+          "text": "D. Stress and exposure can contribute to clinical disease",
+          "correct": true,
+          "feedback": "Correct. Monitor droppings and growth and seek veterinary diagnosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of a goat herd's kidding pen cleaning protocol?",
+      "options": [
+        {
+          "text": "A. It replaces colostrum",
+          "correct": false,
+          "feedback": "Review: Clean and dry pens between occupants."
+        },
+        {
+          "text": "B. It guarantees no kidding complications",
+          "correct": false,
+          "feedback": "Review: Clean and dry pens between occupants."
+        },
+        {
+          "text": "C. It reduces pathogen exposure for newborn kids and does",
+          "correct": true,
+          "feedback": "Correct. Clean and dry pens between occupants."
+        },
+        {
+          "text": "D. It determines litter size",
+          "correct": false,
+          "feedback": "Review: Clean and dry pens between occupants."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should goats have access to roughage when receiving concentrate?",
+      "options": [
+        {
+          "text": "A. Roughage prevents drinking",
+          "correct": false,
+          "feedback": "Review: Maintain a balanced ration with adequate effective fibre."
+        },
+        {
+          "text": "B. Fibre supports rumen function and reduces digestive upset risk",
+          "correct": true,
+          "feedback": "Correct. Maintain a balanced ration with adequate effective fibre."
+        },
+        {
+          "text": "C. It replaces protein entirely",
+          "correct": false,
+          "feedback": "Review: Maintain a balanced ration with adequate effective fibre."
+        },
+        {
+          "text": "D. It stops rumen fermentation",
+          "correct": false,
+          "feedback": "Review: Maintain a balanced ration with adequate effective fibre."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a goat with pale eyelids require?",
+      "options": [
+        {
+          "text": "A. Assessment for anaemia and possible parasite burden or other illness",
+          "correct": true,
+          "feedback": "Correct. Pale membranes warrant assessment and diagnosis."
+        },
+        {
+          "text": "B. A routine change in shelter only",
+          "correct": false,
+          "feedback": "Review: Pale membranes warrant assessment and diagnosis."
+        },
+        {
+          "text": "C. No action if it eats",
+          "correct": false,
+          "feedback": "Review: Pale membranes warrant assessment and diagnosis."
+        },
+        {
+          "text": "D. A mineral lick alone",
+          "correct": false,
+          "feedback": "Review: Pale membranes warrant assessment and diagnosis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should goat milk be handled with clean containers and promptly cooled?",
+      "options": [
+        {
+          "text": "A. It replaces udder hygiene",
+          "correct": false,
+          "feedback": "Review: Use hygienic milking and cold storage."
+        },
+        {
+          "text": "B. It sterilises milk completely",
+          "correct": false,
+          "feedback": "Review: Use hygienic milking and cold storage."
+        },
+        {
+          "text": "C. It increases volume",
+          "correct": false,
+          "feedback": "Review: Use hygienic milking and cold storage."
+        },
+        {
+          "text": "D. It reduces bacterial growth and protects milk quality",
+          "correct": true,
+          "feedback": "Correct. Use hygienic milking and cold storage."
         }
       ],
       "part": 4
