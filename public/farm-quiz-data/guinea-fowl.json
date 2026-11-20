@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. It replaces observing keet behaviour",
           "correct": false,
           "feedback": "Review: Measure conditions at bird height and use behaviour as a cross-check."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should guinea-fowl be checked for injuries after a predator scare?",
+      "options": [
+        {
+          "text": "A. It predicts egg fertility",
+          "correct": false,
+          "feedback": "Review: Inspect birds and housing after disturbance."
+        },
+        {
+          "text": "B. Predator scares improve immunity",
+          "correct": false,
+          "feedback": "Review: Inspect birds and housing after disturbance."
+        },
+        {
+          "text": "C. Injuries are always obvious",
+          "correct": false,
+          "feedback": "Review: Inspect birds and housing after disturbance."
+        },
+        {
+          "text": "D. Panic and collisions can cause hidden wounds or fractures",
+          "correct": true,
+          "feedback": "Correct. Inspect birds and housing after disturbance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of separating feed storage from fuel and disinfectants?",
+      "options": [
+        {
+          "text": "A. It makes labels unnecessary",
+          "correct": false,
+          "feedback": "Review: Store feed in a clean, dedicated area."
+        },
+        {
+          "text": "B. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Store feed in a clean, dedicated area."
+        },
+        {
+          "text": "C. It prevents accidental chemical contamination",
+          "correct": true,
+          "feedback": "Correct. Store feed in a clean, dedicated area."
+        },
+        {
+          "text": "D. It increases feed moisture",
+          "correct": false,
+          "feedback": "Review: Store feed in a clean, dedicated area."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should guinea-fowl eggs be turned during incubation according to hatchery instructions?",
+      "options": [
+        {
+          "text": "A. It determines chick sex",
+          "correct": false,
+          "feedback": "Review: Follow species-appropriate turning schedules."
+        },
+        {
+          "text": "B. Turning helps prevent the embryo from adhering to shell membranes",
+          "correct": true,
+          "feedback": "Correct. Follow species-appropriate turning schedules."
+        },
+        {
+          "text": "C. It sterilises the egg",
+          "correct": false,
+          "feedback": "Review: Follow species-appropriate turning schedules."
+        },
+        {
+          "text": "D. It replaces humidity control",
+          "correct": false,
+          "feedback": "Review: Follow species-appropriate turning schedules."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a sudden reduction in keet activity suggest?",
+      "options": [
+        {
+          "text": "A. Brooder discomfort, dehydration or illness",
+          "correct": true,
+          "feedback": "Correct. Check temperature, water, feed and health promptly."
+        },
+        {
+          "text": "B. It proves the birds are fully grown",
+          "correct": false,
+          "feedback": "Review: Check temperature, water, feed and health promptly."
+        },
+        {
+          "text": "C. It predicts egg production",
+          "correct": false,
+          "feedback": "Review: Check temperature, water, feed and health promptly."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check temperature, water, feed and health promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should outdoor guinea-fowl feed stations be moved periodically if ground becomes contaminated?",
+      "options": [
+        {
+          "text": "A. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Relocation and cleaning can improve hygiene."
+        },
+        {
+          "text": "B. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Relocation and cleaning can improve hygiene."
+        },
+        {
+          "text": "C. It changes bird genetics",
+          "correct": false,
+          "feedback": "Review: Relocation and cleaning can improve hygiene."
+        },
+        {
+          "text": "D. It reduces repeated fouling and pest attraction",
+          "correct": true,
+          "feedback": "Correct. Relocation and cleaning can improve hygiene."
         }
       ],
       "part": 4
