@@ -1,7 +1,7 @@
 {
   "category": "guinea-fowl",
   "title": "guinea fowl",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It prevents all illness",
           "correct": false,
           "feedback": "Review: Check doors and latches as part of daily security."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should guinea-fowl keets be protected from cold floors?",
+      "options": [
+        {
+          "text": "A. It improves feather growth",
+          "correct": false,
+          "feedback": "Review: Provide dry, suitable flooring and monitor bird behaviour."
+        },
+        {
+          "text": "B. Cold surfaces can chill young birds and affect comfort",
+          "correct": true,
+          "feedback": "Correct. Provide dry, suitable flooring and monitor bird behaviour."
+        },
+        {
+          "text": "C. It replaces brooder heat",
+          "correct": false,
+          "feedback": "Review: Provide dry, suitable flooring and monitor bird behaviour."
+        },
+        {
+          "text": "D. It prevents all infections",
+          "correct": false,
+          "feedback": "Review: Provide dry, suitable flooring and monitor bird behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of checking guinea-fowl feed for insect infestation?",
+      "options": [
+        {
+          "text": "A. Insects can contaminate feed and reduce quality",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "B. They improve nutrition",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        },
+        {
+          "text": "D. It replaces storage",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and pest-resistant."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should adult guinea-fowl have access to clean roosting surfaces?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Clean roosts support hygiene."
+        },
+        {
+          "text": "B. It replaces nest boxes",
+          "correct": false,
+          "feedback": "Review: Clean roosts support hygiene."
+        },
+        {
+          "text": "C. It guarantees fertility",
+          "correct": false,
+          "feedback": "Review: Clean roosts support hygiene."
+        },
+        {
+          "text": "D. Dirty surfaces can contribute to foot and feather contamination",
+          "correct": true,
+          "feedback": "Correct. Clean roosts support hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a reduction in egg collection from a guinea-fowl flock prompt a farmer to inspect?",
+      "options": [
+        {
+          "text": "A. The colour of the roof",
+          "correct": false,
+          "feedback": "Review: Investigate laying behaviour and management records."
+        },
+        {
+          "text": "B. Only water pH",
+          "correct": false,
+          "feedback": "Review: Investigate laying behaviour and management records."
+        },
+        {
+          "text": "C. Nest locations, predator disturbance, nutrition and health",
+          "correct": true,
+          "feedback": "Correct. Investigate laying behaviour and management records."
+        },
+        {
+          "text": "D. Fish pond depth",
+          "correct": false,
+          "feedback": "Review: Investigate laying behaviour and management records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should guinea-fowl be introduced to new housing before nightfall where practical?",
+      "options": [
+        {
+          "text": "A. It guarantees no predation",
+          "correct": false,
+          "feedback": "Review: Allow supervised adjustment and maintain secure housing."
+        },
+        {
+          "text": "B. It gives birds time to locate shelter and roosting areas",
+          "correct": true,
+          "feedback": "Correct. Allow supervised adjustment and maintain secure housing."
+        },
+        {
+          "text": "C. It replaces secure latches",
+          "correct": false,
+          "feedback": "Review: Allow supervised adjustment and maintain secure housing."
+        },
+        {
+          "text": "D. It determines egg size",
+          "correct": false,
+          "feedback": "Review: Allow supervised adjustment and maintain secure housing."
         }
       ],
       "part": 4
