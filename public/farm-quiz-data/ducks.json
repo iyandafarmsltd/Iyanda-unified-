@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 185,
+  "total": 190,
   "questions": [
     {
       "number": 1,
@@ -4994,6 +4994,141 @@
           "text": "D. Foraging replaces clean water",
           "correct": false,
           "feedback": "Review: A balanced diet should meet the flock's production-stage needs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 186,
+      "question": "Why should ducks be observed for nasal discharge or laboured breathing?",
+      "options": [
+        {
+          "text": "A. These can be signs of respiratory irritation or disease",
+          "correct": true,
+          "feedback": "Correct. Persistent or flock-wide signs warrant veterinary assessment."
+        },
+        {
+          "text": "B. They predict egg fertility",
+          "correct": false,
+          "feedback": "Review: Persistent or flock-wide signs warrant veterinary assessment."
+        },
+        {
+          "text": "C. They are normal after every meal",
+          "correct": false,
+          "feedback": "Review: Persistent or flock-wide signs warrant veterinary assessment."
+        },
+        {
+          "text": "D. They measure pond oxygen",
+          "correct": false,
+          "feedback": "Review: Persistent or flock-wide signs warrant veterinary assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 187,
+      "question": "What is the purpose of keeping duck feed troughs at a suitable height?",
+      "options": [
+        {
+          "text": "A. It prevents all wet litter",
+          "correct": false,
+          "feedback": "Review: Adjust troughs to bird size and observe feeding behaviour."
+        },
+        {
+          "text": "B. It determines duck sex",
+          "correct": false,
+          "feedback": "Review: Adjust troughs to bird size and observe feeding behaviour."
+        },
+        {
+          "text": "C. It replaces ration balancing",
+          "correct": false,
+          "feedback": "Review: Adjust troughs to bird size and observe feeding behaviour."
+        },
+        {
+          "text": "D. It improves access and can reduce contamination and wastage",
+          "correct": true,
+          "feedback": "Correct. Adjust troughs to bird size and observe feeding behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 188,
+      "question": "Why should a duck farm avoid overcrowding around a single pond entry?",
+      "options": [
+        {
+          "text": "A. It prevents aggression",
+          "correct": false,
+          "feedback": "Review: Provide adequate access points and manage stocking."
+        },
+        {
+          "text": "B. It improves water quality",
+          "correct": false,
+          "feedback": "Review: Provide adequate access points and manage stocking."
+        },
+        {
+          "text": "C. Crowding can cause injuries and restrict access",
+          "correct": true,
+          "feedback": "Correct. Provide adequate access points and manage stocking."
+        },
+        {
+          "text": "D. It increases feed protein",
+          "correct": false,
+          "feedback": "Review: Provide adequate access points and manage stocking."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 189,
+      "question": "What can unusually dirty eggs from nesting ducks indicate?",
+      "options": [
+        {
+          "text": "A. Eggs are more fertile",
+          "correct": false,
+          "feedback": "Review: Review nest cleanliness and egg collection practices."
+        },
+        {
+          "text": "B. Nest hygiene, bedding or collection frequency may need improvement",
+          "correct": true,
+          "feedback": "Correct. Review nest cleanliness and egg collection practices."
+        },
+        {
+          "text": "C. It proves the ducks are ill",
+          "correct": false,
+          "feedback": "Review: Review nest cleanliness and egg collection practices."
+        },
+        {
+          "text": "D. It determines hatchling sex",
+          "correct": false,
+          "feedback": "Review: Review nest cleanliness and egg collection practices."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 190,
+      "question": "Why should ducks be monitored for signs of heat stress around ponds?",
+      "options": [
+        {
+          "text": "A. Water access alone does not eliminate heat stress risk",
+          "correct": true,
+          "feedback": "Correct. Provide shade, airflow and clean water, and watch flock behaviour."
+        },
+        {
+          "text": "B. Ponds guarantee ideal body temperature",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water, and watch flock behaviour."
+        },
+        {
+          "text": "C. Ducks cannot overheat",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water, and watch flock behaviour."
+        },
+        {
+          "text": "D. Shade is harmful",
+          "correct": false,
+          "feedback": "Review: Provide shade, airflow and clean water, and watch flock behaviour."
         }
       ],
       "part": 4
