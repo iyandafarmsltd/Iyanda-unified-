@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 190,
+  "total": 195,
   "questions": [
     {
       "number": 1,
@@ -5129,6 +5129,141 @@
           "text": "D. Shade is harmful",
           "correct": false,
           "feedback": "Review: Provide shade, airflow and clean water, and watch flock behaviour."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 191,
+      "question": "Why should duck housing be checked for sharp wire or broken mesh?",
+      "options": [
+        {
+          "text": "A. It increases egg production",
+          "correct": false,
+          "feedback": "Review: Repair damaged housing promptly."
+        },
+        {
+          "text": "B. It improves feather growth",
+          "correct": false,
+          "feedback": "Review: Repair damaged housing promptly."
+        },
+        {
+          "text": "C. It replaces predator control",
+          "correct": false,
+          "feedback": "Review: Repair damaged housing promptly."
+        },
+        {
+          "text": "D. It can cause cuts and entanglement injuries",
+          "correct": true,
+          "feedback": "Correct. Repair damaged housing promptly."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 192,
+      "question": "What is the purpose of keeping duck feed away from pond splash zones?",
+      "options": [
+        {
+          "text": "A. It improves egg fertility",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and protected from contamination."
+        },
+        {
+          "text": "B. It increases water intake",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and protected from contamination."
+        },
+        {
+          "text": "C. It prevents feed becoming wet and spoiling",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and protected from contamination."
+        },
+        {
+          "text": "D. It replaces feed storage",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and protected from contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 193,
+      "question": "Why should ducklings be checked for full crops after feeding?",
+      "options": [
+        {
+          "text": "A. It predicts adult size exactly",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        },
+        {
+          "text": "B. It helps show whether they are finding and consuming feed",
+          "correct": true,
+          "feedback": "Correct. Crop checks can help assess early feed access."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        },
+        {
+          "text": "D. It replaces water checks",
+          "correct": false,
+          "feedback": "Review: Crop checks can help assess early feed access."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 194,
+      "question": "What can a persistent drop in duck egg production prompt a farmer to review?",
+      "options": [
+        {
+          "text": "A. Nutrition, lighting, health, water access and stress",
+          "correct": true,
+          "feedback": "Correct. Review several potential factors using records."
+        },
+        {
+          "text": "B. Only pond depth",
+          "correct": false,
+          "feedback": "Review: Review several potential factors using records."
+        },
+        {
+          "text": "C. The colour of nest boxes",
+          "correct": false,
+          "feedback": "Review: Review several potential factors using records."
+        },
+        {
+          "text": "D. The farm's land area",
+          "correct": false,
+          "feedback": "Review: Review several potential factors using records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 195,
+      "question": "Why should a duck flock's pond water be monitored after heavy rainfall?",
+      "options": [
+        {
+          "text": "A. It replaces pond maintenance",
+          "correct": false,
+          "feedback": "Review: Check for runoff, turbidity and changes in water quality."
+        },
+        {
+          "text": "B. Rain always sterilises ponds",
+          "correct": false,
+          "feedback": "Review: Check for runoff, turbidity and changes in water quality."
+        },
+        {
+          "text": "C. It guarantees more oxygen",
+          "correct": false,
+          "feedback": "Review: Check for runoff, turbidity and changes in water quality."
+        },
+        {
+          "text": "D. Runoff can change water quality and introduce contaminants",
+          "correct": true,
+          "feedback": "Correct. Check for runoff, turbidity and changes in water quality."
         }
       ],
       "part": 4
