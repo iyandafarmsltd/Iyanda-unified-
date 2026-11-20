@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 195,
+  "total": 200,
   "questions": [
     {
       "number": 1,
@@ -5264,6 +5264,141 @@
           "text": "D. They prevent parasites",
           "correct": false,
           "feedback": "Review: Remove hazards before moving animals through the facility."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 196,
+      "question": "Why should ewes be checked for signs of prolapse risk before lambing?",
+      "options": [
+        {
+          "text": "A. Some conditions and management factors increase the risk of vaginal prolapse",
+          "correct": true,
+          "feedback": "Correct. Seek veterinary advice for risk management and any suspected prolapse."
+        },
+        {
+          "text": "B. It predicts fleece colour",
+          "correct": false,
+          "feedback": "Review: Seek veterinary advice for risk management and any suspected prolapse."
+        },
+        {
+          "text": "C. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Seek veterinary advice for risk management and any suspected prolapse."
+        },
+        {
+          "text": "D. It replaces nutrition",
+          "correct": false,
+          "feedback": "Review: Seek veterinary advice for risk management and any suspected prolapse."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 197,
+      "question": "What is the purpose of checking lambs' mouths for lesions?",
+      "options": [
+        {
+          "text": "A. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Mouth abnormalities need assessment, especially if feeding is affected."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Mouth abnormalities need assessment, especially if feeding is affected."
+        },
+        {
+          "text": "C. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Mouth abnormalities need assessment, especially if feeding is affected."
+        },
+        {
+          "text": "D. Mouth lesions can interfere with suckling and may indicate infection",
+          "correct": true,
+          "feedback": "Correct. Mouth abnormalities need assessment, especially if feeding is affected."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 198,
+      "question": "Why should sheep be monitored for signs of copper toxicity when diets change?",
+      "options": [
+        {
+          "text": "A. It improves all breeds",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific feeds and veterinary advice."
+        },
+        {
+          "text": "B. Copper is never harmful",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific feeds and veterinary advice."
+        },
+        {
+          "text": "C. Some feeds or supplements may contain excessive copper for sheep",
+          "correct": true,
+          "feedback": "Correct. Use sheep-specific feeds and veterinary advice."
+        },
+        {
+          "text": "D. It affects only cattle",
+          "correct": false,
+          "feedback": "Review: Use sheep-specific feeds and veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 199,
+      "question": "What can a sudden fall in ewe body condition during lactation indicate?",
+      "options": [
+        {
+          "text": "A. It proves lambs are growing well",
+          "correct": false,
+          "feedback": "Review: Review pasture, supplementation, parasites and udder health."
+        },
+        {
+          "text": "B. Milk demand may exceed nutrient intake or health may be affected",
+          "correct": true,
+          "feedback": "Correct. Review pasture, supplementation, parasites and udder health."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Review pasture, supplementation, parasites and udder health."
+        },
+        {
+          "text": "D. It means feed should stop",
+          "correct": false,
+          "feedback": "Review: Review pasture, supplementation, parasites and udder health."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 200,
+      "question": "Why should sheep handling races have solid sides where suitable?",
+      "options": [
+        {
+          "text": "A. They can reduce distraction and encourage steady forward movement",
+          "correct": true,
+          "feedback": "Correct. Good race design supports calm, safe movement."
+        },
+        {
+          "text": "B. They improve wool growth",
+          "correct": false,
+          "feedback": "Review: Good race design supports calm, safe movement."
+        },
+        {
+          "text": "C. They replace trained handlers",
+          "correct": false,
+          "feedback": "Review: Good race design supports calm, safe movement."
+        },
+        {
+          "text": "D. They prevent all injury",
+          "correct": false,
+          "feedback": "Review: Good race design supports calm, safe movement."
         }
       ],
       "part": 4
