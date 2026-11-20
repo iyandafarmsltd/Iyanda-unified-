@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 170,
+  "total": 185,
   "questions": [
     {
       "number": 1,
@@ -4589,6 +4589,411 @@
           "text": "D. It guarantees no pathogens enter",
           "correct": false,
           "feedback": "Review: Zone-specific footwear is one part of biosecurity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 171,
+      "question": "Why should poultry houses be checked for condensation on ceilings?",
+      "options": [
+        {
+          "text": "A. Condensation can indicate excess moisture and inadequate ventilation",
+          "correct": true,
+          "feedback": "Correct. Condensation is a useful warning sign to investigate ventilation and moisture."
+        },
+        {
+          "text": "B. It proves the litter is dry",
+          "correct": false,
+          "feedback": "Review: Condensation is a useful warning sign to investigate ventilation and moisture."
+        },
+        {
+          "text": "C. It increases oxygen concentration",
+          "correct": false,
+          "feedback": "Review: Condensation is a useful warning sign to investigate ventilation and moisture."
+        },
+        {
+          "text": "D. It replaces humidity measurement",
+          "correct": false,
+          "feedback": "Review: Condensation is a useful warning sign to investigate ventilation and moisture."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 172,
+      "question": "What is the purpose of checking the crop of a sample of newly placed chicks?",
+      "options": [
+        {
+          "text": "A. It replaces brooder temperature checks",
+          "correct": false,
+          "feedback": "Review: Crop-fill checks can help evaluate early access to feed and water."
+        },
+        {
+          "text": "B. It predicts adult body weight exactly",
+          "correct": false,
+          "feedback": "Review: Crop-fill checks can help evaluate early access to feed and water."
+        },
+        {
+          "text": "C. It identifies their sex",
+          "correct": false,
+          "feedback": "Review: Crop-fill checks can help evaluate early access to feed and water."
+        },
+        {
+          "text": "D. It helps assess whether chicks have found feed and water",
+          "correct": true,
+          "feedback": "Correct. Crop-fill checks can help evaluate early access to feed and water."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 173,
+      "question": "Why should layer feed be protected from contamination by rodent droppings?",
+      "options": [
+        {
+          "text": "A. Contamination improves egg quality",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest control protect feed hygiene."
+        },
+        {
+          "text": "B. Rodent droppings add useful minerals",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest control protect feed hygiene."
+        },
+        {
+          "text": "C. Contamination can spread pathogens and reduce feed safety",
+          "correct": true,
+          "feedback": "Correct. Secure storage and pest control protect feed hygiene."
+        },
+        {
+          "text": "D. Feed is unaffected by pests",
+          "correct": false,
+          "feedback": "Review: Secure storage and pest control protect feed hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 174,
+      "question": "What can uneven feathering in a broiler flock prompt a farmer to review?",
+      "options": [
+        {
+          "text": "A. Only the colour of drinkers",
+          "correct": false,
+          "feedback": "Review: Feather condition can reflect several management factors."
+        },
+        {
+          "text": "B. Temperature, nutrition, stocking and health conditions",
+          "correct": true,
+          "feedback": "Correct. Feather condition can reflect several management factors."
+        },
+        {
+          "text": "C. The farm's land title",
+          "correct": false,
+          "feedback": "Review: Feather condition can reflect several management factors."
+        },
+        {
+          "text": "D. Egg incubation humidity",
+          "correct": false,
+          "feedback": "Review: Feather condition can reflect several management factors."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 175,
+      "question": "Why should eggs be collected using clean trays?",
+      "options": [
+        {
+          "text": "A. Clean trays reduce contamination and protect shell quality",
+          "correct": true,
+          "feedback": "Correct. Clean equipment helps maintain egg hygiene."
+        },
+        {
+          "text": "B. Tray cleanliness changes egg sex",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps maintain egg hygiene."
+        },
+        {
+          "text": "C. Dirty trays improve hatchability",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps maintain egg hygiene."
+        },
+        {
+          "text": "D. It replaces nest management",
+          "correct": false,
+          "feedback": "Review: Clean equipment helps maintain egg hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 176,
+      "question": "What is the purpose of a poultry house downtime period between flocks?",
+      "options": [
+        {
+          "text": "A. It increases stocking density",
+          "correct": false,
+          "feedback": "Review: Downtime supports effective cleaning and interruption of infection cycles."
+        },
+        {
+          "text": "B. It guarantees no future disease",
+          "correct": false,
+          "feedback": "Review: Downtime supports effective cleaning and interruption of infection cycles."
+        },
+        {
+          "text": "C. It replaces vaccination programmes",
+          "correct": false,
+          "feedback": "Review: Downtime supports effective cleaning and interruption of infection cycles."
+        },
+        {
+          "text": "D. It allows cleaning, disinfection and drying before restocking",
+          "correct": true,
+          "feedback": "Correct. Downtime supports effective cleaning and interruption of infection cycles."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 177,
+      "question": "Why should poultry workers wash hands after handling sick birds?",
+      "options": [
+        {
+          "text": "A. It improves feed conversion",
+          "correct": false,
+          "feedback": "Review: Hand hygiene is a basic biosecurity measure."
+        },
+        {
+          "text": "B. It replaces footwear controls",
+          "correct": false,
+          "feedback": "Review: Hand hygiene is a basic biosecurity measure."
+        },
+        {
+          "text": "C. It reduces transfer of infectious material to other birds and surfaces",
+          "correct": true,
+          "feedback": "Correct. Hand hygiene is a basic biosecurity measure."
+        },
+        {
+          "text": "D. It prevents all disease automatically",
+          "correct": false,
+          "feedback": "Review: Hand hygiene is a basic biosecurity measure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 178,
+      "question": "What is a key reason to calibrate poultry weighing equipment?",
+      "options": [
+        {
+          "text": "A. Calibration changes bird growth",
+          "correct": false,
+          "feedback": "Review: Reliable scales make performance records more useful."
+        },
+        {
+          "text": "B. Accurate weights are needed for reliable growth monitoring",
+          "correct": true,
+          "feedback": "Correct. Reliable scales make performance records more useful."
+        },
+        {
+          "text": "C. It determines feed ingredients",
+          "correct": false,
+          "feedback": "Review: Reliable scales make performance records more useful."
+        },
+        {
+          "text": "D. It replaces sampling",
+          "correct": false,
+          "feedback": "Review: Reliable scales make performance records more useful."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 179,
+      "question": "Why should the farm track feed intake per flock over time?",
+      "options": [
+        {
+          "text": "A. Changes can signal health, water or environmental problems",
+          "correct": true,
+          "feedback": "Correct. Feed intake trends are useful early-warning information."
+        },
+        {
+          "text": "B. It identifies the exact pathogen",
+          "correct": false,
+          "feedback": "Review: Feed intake trends are useful early-warning information."
+        },
+        {
+          "text": "C. It predicts rainfall",
+          "correct": false,
+          "feedback": "Review: Feed intake trends are useful early-warning information."
+        },
+        {
+          "text": "D. It replaces mortality records",
+          "correct": false,
+          "feedback": "Review: Feed intake trends are useful early-warning information."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 180,
+      "question": "What can birds panting with wings held away from the body indicate?",
+      "options": [
+        {
+          "text": "A. A sign of high calcium",
+          "correct": false,
+          "feedback": "Review: Panting and wing spreading are common heat-stress signs."
+        },
+        {
+          "text": "B. Cold stress only",
+          "correct": false,
+          "feedback": "Review: Panting and wing spreading are common heat-stress signs."
+        },
+        {
+          "text": "C. Normal feeding behaviour",
+          "correct": false,
+          "feedback": "Review: Panting and wing spreading are common heat-stress signs."
+        },
+        {
+          "text": "D. Heat stress",
+          "correct": true,
+          "feedback": "Correct. Panting and wing spreading are common heat-stress signs."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 181,
+      "question": "Why should poultry vaccination programmes be planned with veterinary advice?",
+      "options": [
+        {
+          "text": "A. Vaccines can be mixed without instructions",
+          "correct": false,
+          "feedback": "Review: Vaccination should be tailored and correctly administered."
+        },
+        {
+          "text": "B. Every farm needs identical vaccines",
+          "correct": false,
+          "feedback": "Review: Vaccination should be tailored and correctly administered."
+        },
+        {
+          "text": "C. The right programme depends on local disease risks and flock circumstances",
+          "correct": true,
+          "feedback": "Correct. Vaccination should be tailored and correctly administered."
+        },
+        {
+          "text": "D. Vaccination removes biosecurity needs",
+          "correct": false,
+          "feedback": "Review: Vaccination should be tailored and correctly administered."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 182,
+      "question": "What is the purpose of checking egg weights by sample during lay?",
+      "options": [
+        {
+          "text": "A. It measures shell bacteria",
+          "correct": false,
+          "feedback": "Review: Egg weight trends can inform feeding and flock management."
+        },
+        {
+          "text": "B. It helps track egg size trends and flock performance",
+          "correct": true,
+          "feedback": "Correct. Egg weight trends can inform feeding and flock management."
+        },
+        {
+          "text": "C. It predicts chick sex",
+          "correct": false,
+          "feedback": "Review: Egg weight trends can inform feeding and flock management."
+        },
+        {
+          "text": "D. It replaces egg counts",
+          "correct": false,
+          "feedback": "Review: Egg weight trends can inform feeding and flock management."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 183,
+      "question": "Why should poultry litter be removed or managed before it becomes heavily compacted?",
+      "options": [
+        {
+          "text": "A. Compacted wet litter can worsen air quality and foot health",
+          "correct": true,
+          "feedback": "Correct. Litter condition affects welfare and house environment."
+        },
+        {
+          "text": "B. Compaction increases ventilation",
+          "correct": false,
+          "feedback": "Review: Litter condition affects welfare and house environment."
+        },
+        {
+          "text": "C. It sterilises pathogens",
+          "correct": false,
+          "feedback": "Review: Litter condition affects welfare and house environment."
+        },
+        {
+          "text": "D. It improves bird comfort",
+          "correct": false,
+          "feedback": "Review: Litter condition affects welfare and house environment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 184,
+      "question": "What should be checked when birds crowd near one side of a poultry house?",
+      "options": [
+        {
+          "text": "A. Nothing if birds are quiet",
+          "correct": false,
+          "feedback": "Review: Uneven distribution can indicate environmental or resource problems."
+        },
+        {
+          "text": "B. Only the feed price",
+          "correct": false,
+          "feedback": "Review: Uneven distribution can indicate environmental or resource problems."
+        },
+        {
+          "text": "C. Whether eggs are fertile",
+          "correct": false,
+          "feedback": "Review: Uneven distribution can indicate environmental or resource problems."
+        },
+        {
+          "text": "D. Possible drafts, temperature gradients, light or equipment problems",
+          "correct": true,
+          "feedback": "Correct. Uneven distribution can indicate environmental or resource problems."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 185,
+      "question": "Why should poultry medication withdrawal dates be recorded?",
+      "options": [
+        {
+          "text": "A. To improve feed protein",
+          "correct": false,
+          "feedback": "Review: Withdrawal compliance protects consumers and meets product requirements."
+        },
+        {
+          "text": "B. To calculate hatch rate",
+          "correct": false,
+          "feedback": "Review: Withdrawal compliance protects consumers and meets product requirements."
+        },
+        {
+          "text": "C. To avoid marketing eggs or meat before the required withdrawal period ends",
+          "correct": true,
+          "feedback": "Correct. Withdrawal compliance protects consumers and meets product requirements."
+        },
+        {
+          "text": "D. To determine bird age",
+          "correct": false,
+          "feedback": "Review: Withdrawal compliance protects consumers and meets product requirements."
         }
       ],
       "part": 4
