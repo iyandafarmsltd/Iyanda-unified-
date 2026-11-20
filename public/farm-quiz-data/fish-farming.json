@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 205,
+  "total": 210,
   "questions": [
     {
       "number": 1,
@@ -5534,6 +5534,141 @@
           "text": "D. It guarantees water is safe",
           "correct": false,
           "feedback": "Review: Use only appropriate products as directed and keep records."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 206,
+      "question": "Why should fish ponds have an emergency response plan for algal blooms?",
+      "options": [
+        {
+          "text": "A. It replaces water testing",
+          "correct": false,
+          "feedback": "Review: Monitor water and prepare aeration and other response measures."
+        },
+        {
+          "text": "B. Algae always improve oxygen",
+          "correct": false,
+          "feedback": "Review: Monitor water and prepare aeration and other response measures."
+        },
+        {
+          "text": "C. Rapid bloom changes or die-offs can cause oxygen depletion",
+          "correct": true,
+          "feedback": "Correct. Monitor water and prepare aeration and other response measures."
+        },
+        {
+          "text": "D. It guarantees higher yield",
+          "correct": false,
+          "feedback": "Review: Monitor water and prepare aeration and other response measures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 207,
+      "question": "What is the purpose of checking fish feed storage temperature and humidity?",
+      "options": [
+        {
+          "text": "A. It determines fish sex",
+          "correct": false,
+          "feedback": "Review: Store feed in dry, cool conditions and rotate stock."
+        },
+        {
+          "text": "B. Poor conditions can cause mould, rancidity and nutrient deterioration",
+          "correct": true,
+          "feedback": "Correct. Store feed in dry, cool conditions and rotate stock."
+        },
+        {
+          "text": "C. It improves pellet stability automatically",
+          "correct": false,
+          "feedback": "Review: Store feed in dry, cool conditions and rotate stock."
+        },
+        {
+          "text": "D. It replaces stock rotation",
+          "correct": false,
+          "feedback": "Review: Store feed in dry, cool conditions and rotate stock."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 208,
+      "question": "Why should fish farmers avoid releasing untreated pond water into natural streams?",
+      "options": [
+        {
+          "text": "A. It may spread pathogens, invasive organisms or excess nutrients",
+          "correct": true,
+          "feedback": "Correct. Manage discharge to protect the environment and comply with local rules."
+        },
+        {
+          "text": "B. Pond water is always sterile",
+          "correct": false,
+          "feedback": "Review: Manage discharge to protect the environment and comply with local rules."
+        },
+        {
+          "text": "C. It improves river quality",
+          "correct": false,
+          "feedback": "Review: Manage discharge to protect the environment and comply with local rules."
+        },
+        {
+          "text": "D. It replaces effluent rules",
+          "correct": false,
+          "feedback": "Review: Manage discharge to protect the environment and comply with local rules."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 209,
+      "question": "What can a fish pond's rising pH during sunny afternoons be associated with?",
+      "options": [
+        {
+          "text": "A. It proves contamination",
+          "correct": false,
+          "feedback": "Review: Daily pH swings can occur; monitor trends and related parameters."
+        },
+        {
+          "text": "B. Fish stop respiring",
+          "correct": false,
+          "feedback": "Review: Daily pH swings can occur; monitor trends and related parameters."
+        },
+        {
+          "text": "C. Alkalinity becomes zero",
+          "correct": false,
+          "feedback": "Review: Daily pH swings can occur; monitor trends and related parameters."
+        },
+        {
+          "text": "D. Photosynthesis removing carbon dioxide from the water",
+          "correct": true,
+          "feedback": "Correct. Daily pH swings can occur; monitor trends and related parameters."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 210,
+      "question": "Why should fish farmers keep a record of fish grading dates?",
+      "options": [
+        {
+          "text": "A. It predicts exact harvest price",
+          "correct": false,
+          "feedback": "Review: Date records support production analysis."
+        },
+        {
+          "text": "B. It determines pond ownership",
+          "correct": false,
+          "feedback": "Review: Date records support production analysis."
+        },
+        {
+          "text": "C. It helps track growth, handling events and subsequent performance",
+          "correct": true,
+          "feedback": "Correct. Date records support production analysis."
+        },
+        {
+          "text": "D. It replaces mortality records",
+          "correct": false,
+          "feedback": "Review: Date records support production analysis."
         }
       ],
       "part": 4
