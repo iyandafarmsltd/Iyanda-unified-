@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 210,
+  "total": 215,
   "questions": [
     {
       "number": 1,
@@ -5669,6 +5669,141 @@
           "text": "D. It replaces mortality records",
           "correct": false,
           "feedback": "Review: Date records support production analysis."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 211,
+      "question": "Why should fish farmers monitor water temperature before feeding?",
+      "options": [
+        {
+          "text": "A. It determines fish sex",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to species needs and environmental conditions."
+        },
+        {
+          "text": "B. Temperature influences metabolism and feeding activity",
+          "correct": true,
+          "feedback": "Correct. Adjust feeding to species needs and environmental conditions."
+        },
+        {
+          "text": "C. It replaces dissolved oxygen",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to species needs and environmental conditions."
+        },
+        {
+          "text": "D. It measures fish length",
+          "correct": false,
+          "feedback": "Review: Adjust feeding to species needs and environmental conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 212,
+      "question": "What is the purpose of keeping a pond inlet free of weeds and debris?",
+      "options": [
+        {
+          "text": "A. It maintains water flow and reduces blockage",
+          "correct": true,
+          "feedback": "Correct. Inspect inlets regularly and maintain screens."
+        },
+        {
+          "text": "B. It improves fish genetics",
+          "correct": false,
+          "feedback": "Review: Inspect inlets regularly and maintain screens."
+        },
+        {
+          "text": "C. It replaces pond preparation",
+          "correct": false,
+          "feedback": "Review: Inspect inlets regularly and maintain screens."
+        },
+        {
+          "text": "D. It determines alkalinity",
+          "correct": false,
+          "feedback": "Review: Inspect inlets regularly and maintain screens."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 213,
+      "question": "Why should fish farmers avoid feeding during a suspected oxygen emergency?",
+      "options": [
+        {
+          "text": "A. It increases water clarity",
+          "correct": false,
+          "feedback": "Review: Restore oxygen and monitor fish before resuming feeding."
+        },
+        {
+          "text": "B. Feed creates oxygen",
+          "correct": false,
+          "feedback": "Review: Restore oxygen and monitor fish before resuming feeding."
+        },
+        {
+          "text": "C. It cures stress",
+          "correct": false,
+          "feedback": "Review: Restore oxygen and monitor fish before resuming feeding."
+        },
+        {
+          "text": "D. Fish may be unable to feed and uneaten feed adds oxygen demand",
+          "correct": true,
+          "feedback": "Correct. Restore oxygen and monitor fish before resuming feeding."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 214,
+      "question": "What can a fish pond's sudden drop in water level indicate?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and maintain safe depth."
+        },
+        {
+          "text": "B. A guaranteed increase in fish growth",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and maintain safe depth."
+        },
+        {
+          "text": "C. Leakage, seepage or unusual evaporation",
+          "correct": true,
+          "feedback": "Correct. Investigate the cause and maintain safe depth."
+        },
+        {
+          "text": "D. It replaces rainfall records",
+          "correct": false,
+          "feedback": "Review: Investigate the cause and maintain safe depth."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 215,
+      "question": "Why should fish farmers use species-appropriate stocking recommendations?",
+      "options": [
+        {
+          "text": "A. All fish have identical requirements",
+          "correct": false,
+          "feedback": "Review: Match stocking to the system's carrying capacity."
+        },
+        {
+          "text": "B. Different species and systems have different oxygen and space needs",
+          "correct": true,
+          "feedback": "Correct. Match stocking to the system's carrying capacity."
+        },
+        {
+          "text": "C. Stocking density does not affect health",
+          "correct": false,
+          "feedback": "Review: Match stocking to the system's carrying capacity."
+        },
+        {
+          "text": "D. It replaces water quality testing",
+          "correct": false,
+          "feedback": "Review: Match stocking to the system's carrying capacity."
         }
       ],
       "part": 4
