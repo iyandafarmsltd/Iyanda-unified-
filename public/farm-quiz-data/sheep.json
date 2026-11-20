@@ -1,7 +1,7 @@
 {
   "category": "sheep",
   "title": "sheep",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It prevents all future illness",
           "correct": false,
           "feedback": "Review: Use isolation and veterinary guidance."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should sheep be monitored for signs of urinary calculi in wethers?",
+      "options": [
+        {
+          "text": "A. It predicts fleece grade",
+          "correct": false,
+          "feedback": "Review: Straining or inability to urinate requires urgent veterinary care."
+        },
+        {
+          "text": "B. Urinary obstruction can be life-threatening",
+          "correct": true,
+          "feedback": "Correct. Straining or inability to urinate requires urgent veterinary care."
+        },
+        {
+          "text": "C. It is harmless",
+          "correct": false,
+          "feedback": "Review: Straining or inability to urinate requires urgent veterinary care."
+        },
+        {
+          "text": "D. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Straining or inability to urinate requires urgent veterinary care."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of checking lambs' ears for tags or injuries after identification?",
+      "options": [
+        {
+          "text": "A. It helps detect infection, swelling or poor healing",
+          "correct": true,
+          "feedback": "Correct. Monitor healing and use hygienic identification practices."
+        },
+        {
+          "text": "B. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Monitor healing and use hygienic identification practices."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Monitor healing and use hygienic identification practices."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Monitor healing and use hygienic identification practices."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should sheep be protected from sudden access to lush clover pasture?",
+      "options": [
+        {
+          "text": "A. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Introduce pasture carefully and monitor animals."
+        },
+        {
+          "text": "B. Clover never causes bloat",
+          "correct": false,
+          "feedback": "Review: Introduce pasture carefully and monitor animals."
+        },
+        {
+          "text": "C. It replaces forage",
+          "correct": false,
+          "feedback": "Review: Introduce pasture carefully and monitor animals."
+        },
+        {
+          "text": "D. Some clovers can contribute to bloat risk",
+          "correct": true,
+          "feedback": "Correct. Introduce pasture carefully and monitor animals."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can a ewe's repeated teeth grinding indicate?",
+      "options": [
+        {
+          "text": "A. It is always normal",
+          "correct": false,
+          "feedback": "Review: Pain signs need prompt assessment."
+        },
+        {
+          "text": "B. A sign of high milk yield",
+          "correct": false,
+          "feedback": "Review: Pain signs need prompt assessment."
+        },
+        {
+          "text": "C. Pain or significant discomfort",
+          "correct": true,
+          "feedback": "Correct. Pain signs need prompt assessment."
+        },
+        {
+          "text": "D. It determines fleece quality",
+          "correct": false,
+          "feedback": "Review: Pain signs need prompt assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should sheep water sources be protected from algal contamination?",
+      "options": [
+        {
+          "text": "A. Algae always improve water quality",
+          "correct": false,
+          "feedback": "Review: Prevent access to suspect water and seek advice."
+        },
+        {
+          "text": "B. Some algal blooms can produce toxins",
+          "correct": true,
+          "feedback": "Correct. Prevent access to suspect water and seek advice."
+        },
+        {
+          "text": "C. It determines wool length",
+          "correct": false,
+          "feedback": "Review: Prevent access to suspect water and seek advice."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Prevent access to suspect water and seek advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of monitoring lambs after castration or tail docking?",
+      "options": [
+        {
+          "text": "A. It helps identify bleeding, infection or other complications",
+          "correct": true,
+          "feedback": "Correct. Use appropriate welfare procedures and monitor recovery."
+        },
+        {
+          "text": "B. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Use appropriate welfare procedures and monitor recovery."
+        },
+        {
+          "text": "C. It replaces hygiene",
+          "correct": false,
+          "feedback": "Review: Use appropriate welfare procedures and monitor recovery."
+        },
+        {
+          "text": "D. It determines fleece colour",
+          "correct": false,
+          "feedback": "Review: Use appropriate welfare procedures and monitor recovery."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should sheep be grouped by nutritional needs during late pregnancy?",
+      "options": [
+        {
+          "text": "A. It replaces forage",
+          "correct": false,
+          "feedback": "Review: Group feeding can help meet differing requirements."
+        },
+        {
+          "text": "B. It determines lamb sex",
+          "correct": false,
+          "feedback": "Review: Group feeding can help meet differing requirements."
+        },
+        {
+          "text": "C. It guarantees easy lambing",
+          "correct": false,
+          "feedback": "Review: Group feeding can help meet differing requirements."
+        },
+        {
+          "text": "D. Different litter sizes and body conditions may require different feeding",
+          "correct": true,
+          "feedback": "Correct. Group feeding can help meet differing requirements."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can an increase in sheep coughing after bedding change indicate?",
+      "options": [
+        {
+          "text": "A. It predicts lambing date",
+          "correct": false,
+          "feedback": "Review: Check bedding quality and ventilation."
+        },
+        {
+          "text": "B. It proves bedding is better",
+          "correct": false,
+          "feedback": "Review: Check bedding quality and ventilation."
+        },
+        {
+          "text": "C. Dust or mould in bedding may be irritating the respiratory tract",
+          "correct": true,
+          "feedback": "Correct. Check bedding quality and ventilation."
+        },
+        {
+          "text": "D. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Check bedding quality and ventilation."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should sheep be checked for adequate hoof wear on hard ground?",
+      "options": [
+        {
+          "text": "A. It predicts wool quality",
+          "correct": false,
+          "feedback": "Review: Inspect hooves and adjust grazing or movement where needed."
+        },
+        {
+          "text": "B. Excessive wear can cause soreness and lameness",
+          "correct": true,
+          "feedback": "Correct. Inspect hooves and adjust grazing or movement where needed."
+        },
+        {
+          "text": "C. It replaces trimming",
+          "correct": false,
+          "feedback": "Review: Inspect hooves and adjust grazing or movement where needed."
+        },
+        {
+          "text": "D. It determines fertility",
+          "correct": false,
+          "feedback": "Review: Inspect hooves and adjust grazing or movement where needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of keeping sheep parasite treatment records?",
+      "options": [
+        {
+          "text": "A. It supports targeted control and resistance monitoring",
+          "correct": true,
+          "feedback": "Correct. Record product, date, animals treated and outcome."
+        },
+        {
+          "text": "B. It predicts lamb colour",
+          "correct": false,
+          "feedback": "Review: Record product, date, animals treated and outcome."
+        },
+        {
+          "text": "C. It replaces faecal testing",
+          "correct": false,
+          "feedback": "Review: Record product, date, animals treated and outcome."
+        },
+        {
+          "text": "D. It guarantees eradication",
+          "correct": false,
+          "feedback": "Review: Record product, date, animals treated and outcome."
         }
       ],
       "part": 4
