@@ -1,7 +1,7 @@
 {
   "category": "rabbits",
   "title": "rabbits",
-  "total": 225,
+  "total": 235,
   "questions": [
     {
       "number": 1,
@@ -6074,6 +6074,276 @@
           "text": "D. It replaces hay",
           "correct": false,
           "feedback": "Review: Choose suitable feed and provide adequate forage."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 226,
+      "question": "Why should rabbit enclosures be checked for loose wire ends?",
+      "options": [
+        {
+          "text": "A. They can cause cuts and foot injuries",
+          "correct": true,
+          "feedback": "Correct. Repair hazards and inspect housing routinely."
+        },
+        {
+          "text": "B. It improves claw wear",
+          "correct": false,
+          "feedback": "Review: Repair hazards and inspect housing routinely."
+        },
+        {
+          "text": "C. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Repair hazards and inspect housing routinely."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Review: Repair hazards and inspect housing routinely."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 227,
+      "question": "What is the purpose of checking a rabbit's body temperature when illness is suspected?",
+      "options": [
+        {
+          "text": "A. It replaces examination",
+          "correct": false,
+          "feedback": "Review: Temperature is one part of a full health assessment."
+        },
+        {
+          "text": "B. It determines breed",
+          "correct": false,
+          "feedback": "Review: Temperature is one part of a full health assessment."
+        },
+        {
+          "text": "C. It predicts coat colour",
+          "correct": false,
+          "feedback": "Review: Temperature is one part of a full health assessment."
+        },
+        {
+          "text": "D. It provides useful clinical information for veterinary assessment",
+          "correct": true,
+          "feedback": "Correct. Temperature is one part of a full health assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 228,
+      "question": "Why should rabbits be protected from direct contact with insecticide-treated surfaces until safe?",
+      "options": [
+        {
+          "text": "A. Rabbits neutralise all chemicals",
+          "correct": false,
+          "feedback": "Review: Follow product directions and prevent animal exposure."
+        },
+        {
+          "text": "B. Insecticides improve coat quality",
+          "correct": false,
+          "feedback": "Review: Follow product directions and prevent animal exposure."
+        },
+        {
+          "text": "C. Chemical residues may be harmful if contacted or ingested",
+          "correct": true,
+          "feedback": "Correct. Follow product directions and prevent animal exposure."
+        },
+        {
+          "text": "D. It replaces pest management",
+          "correct": false,
+          "feedback": "Review: Follow product directions and prevent animal exposure."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 229,
+      "question": "What can a rabbit that repeatedly presses its abdomen to the floor indicate?",
+      "options": [
+        {
+          "text": "A. A normal sleeping posture in every case",
+          "correct": false,
+          "feedback": "Review: Pain behaviour warrants prompt assessment."
+        },
+        {
+          "text": "B. Possible abdominal pain or discomfort",
+          "correct": true,
+          "feedback": "Correct. Pain behaviour warrants prompt assessment."
+        },
+        {
+          "text": "C. It predicts pregnancy",
+          "correct": false,
+          "feedback": "Review: Pain behaviour warrants prompt assessment."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Pain behaviour warrants prompt assessment."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 230,
+      "question": "Why should rabbit kits be checked for clean, dry nest bedding?",
+      "options": [
+        {
+          "text": "A. Wet or dirty bedding increases chilling and infection risk",
+          "correct": true,
+          "feedback": "Correct. Keep nests dry and hygienic."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and hygienic."
+        },
+        {
+          "text": "C. It replaces doe feeding",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and hygienic."
+        },
+        {
+          "text": "D. It improves litter size",
+          "correct": false,
+          "feedback": "Review: Keep nests dry and hygienic."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 231,
+      "question": "What is the purpose of providing rabbits with more than one hay access point in group housing?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Review: Ensure all rabbits can reach clean hay."
+        },
+        {
+          "text": "B. It determines adult weight",
+          "correct": false,
+          "feedback": "Review: Ensure all rabbits can reach clean hay."
+        },
+        {
+          "text": "C. It replaces water",
+          "correct": false,
+          "feedback": "Review: Ensure all rabbits can reach clean hay."
+        },
+        {
+          "text": "D. It can reduce competition for essential forage",
+          "correct": true,
+          "feedback": "Correct. Ensure all rabbits can reach clean hay."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 232,
+      "question": "Why should rabbit feed be stored away from direct sunlight?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Review: Store feed in cool, dry conditions."
+        },
+        {
+          "text": "B. It changes pellet size",
+          "correct": false,
+          "feedback": "Review: Store feed in cool, dry conditions."
+        },
+        {
+          "text": "C. Heat and light can contribute to nutrient deterioration",
+          "correct": true,
+          "feedback": "Correct. Store feed in cool, dry conditions."
+        },
+        {
+          "text": "D. It sterilises feed",
+          "correct": false,
+          "feedback": "Review: Store feed in cool, dry conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 233,
+      "question": "What can a rabbit that stops grooming itself indicate?",
+      "options": [
+        {
+          "text": "A. It predicts litter size",
+          "correct": false,
+          "feedback": "Review: Assess the animal and seek veterinary advice."
+        },
+        {
+          "text": "B. Pain, illness, obesity or reduced mobility",
+          "correct": true,
+          "feedback": "Correct. Assess the animal and seek veterinary advice."
+        },
+        {
+          "text": "C. It is always normal",
+          "correct": false,
+          "feedback": "Review: Assess the animal and seek veterinary advice."
+        },
+        {
+          "text": "D. It determines coat colour",
+          "correct": false,
+          "feedback": "Review: Assess the animal and seek veterinary advice."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 234,
+      "question": "Why should rabbit breeding records include the date of mating?",
+      "options": [
+        {
+          "text": "A. It helps estimate kindling dates and manage pregnancy checks",
+          "correct": true,
+          "feedback": "Correct. Accurate mating dates support reproductive planning."
+        },
+        {
+          "text": "B. It predicts kit colour",
+          "correct": false,
+          "feedback": "Review: Accurate mating dates support reproductive planning."
+        },
+        {
+          "text": "C. It replaces identification",
+          "correct": false,
+          "feedback": "Review: Accurate mating dates support reproductive planning."
+        },
+        {
+          "text": "D. It measures feed intake",
+          "correct": false,
+          "feedback": "Review: Accurate mating dates support reproductive planning."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 235,
+      "question": "What is the purpose of checking rabbit manure for changes in shape and size?",
+      "options": [
+        {
+          "text": "A. It replaces examination",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and appetite together."
+        },
+        {
+          "text": "B. It determines sex",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and appetite together."
+        },
+        {
+          "text": "C. It predicts adult weight",
+          "correct": false,
+          "feedback": "Review: Monitor droppings and appetite together."
+        },
+        {
+          "text": "D. Dropping changes can indicate altered intake or digestive health",
+          "correct": true,
+          "feedback": "Correct. Monitor droppings and appetite together."
         }
       ],
       "part": 4
