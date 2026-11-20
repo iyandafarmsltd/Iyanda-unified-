@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 235,
+  "total": 245,
   "questions": [
     {
       "number": 1,
@@ -6344,6 +6344,276 @@
           "text": "D. It increases pond oxygen",
           "correct": false,
           "feedback": "Review: Combine access controls with quarantine and hygiene."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 236,
+      "question": "Why should fish farmers inspect pond water after a nearby chemical spill?",
+      "options": [
+        {
+          "text": "A. It improves pond fertility",
+          "correct": false,
+          "feedback": "Review: Protect the water source and seek expert advice on contamination."
+        },
+        {
+          "text": "B. Fish neutralise chemicals",
+          "correct": false,
+          "feedback": "Review: Protect the water source and seek expert advice on contamination."
+        },
+        {
+          "text": "C. Contaminants may enter through runoff or inflow",
+          "correct": true,
+          "feedback": "Correct. Protect the water source and seek expert advice on contamination."
+        },
+        {
+          "text": "D. It replaces mortality checks",
+          "correct": false,
+          "feedback": "Review: Protect the water source and seek expert advice on contamination."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 237,
+      "question": "What is the purpose of recording fish sampling methods?",
+      "options": [
+        {
+          "text": "A. It determines species",
+          "correct": false,
+          "feedback": "Review: Use consistent gear, sample size and handling procedures."
+        },
+        {
+          "text": "B. It makes growth comparisons more consistent and interpretable",
+          "correct": true,
+          "feedback": "Correct. Use consistent gear, sample size and handling procedures."
+        },
+        {
+          "text": "C. It replaces weighing",
+          "correct": false,
+          "feedback": "Review: Use consistent gear, sample size and handling procedures."
+        },
+        {
+          "text": "D. It predicts water temperature",
+          "correct": false,
+          "feedback": "Review: Use consistent gear, sample size and handling procedures."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 238,
+      "question": "Why should fish ponds have adequate emergency overflow capacity?",
+      "options": [
+        {
+          "text": "A. Heavy rain can cause flooding and fish escape",
+          "correct": true,
+          "feedback": "Correct. Maintain safe overflow routes and screens."
+        },
+        {
+          "text": "B. It determines feed conversion",
+          "correct": false,
+          "feedback": "Review: Maintain safe overflow routes and screens."
+        },
+        {
+          "text": "C. It replaces bank maintenance",
+          "correct": false,
+          "feedback": "Review: Maintain safe overflow routes and screens."
+        },
+        {
+          "text": "D. It increases stocking density",
+          "correct": false,
+          "feedback": "Review: Maintain safe overflow routes and screens."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 239,
+      "question": "What can fish with damaged fins and missing scales indicate?",
+      "options": [
+        {
+          "text": "A. It is always harmless",
+          "correct": false,
+          "feedback": "Review: Investigate stocking, handling and water conditions."
+        },
+        {
+          "text": "B. It proves rapid growth",
+          "correct": false,
+          "feedback": "Review: Investigate stocking, handling and water conditions."
+        },
+        {
+          "text": "C. It determines sex",
+          "correct": false,
+          "feedback": "Review: Investigate stocking, handling and water conditions."
+        },
+        {
+          "text": "D. Handling injury, aggression or water-quality stress",
+          "correct": true,
+          "feedback": "Correct. Investigate stocking, handling and water conditions."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 240,
+      "question": "Why should fish farmers monitor pH at both dawn and afternoon when swings are suspected?",
+      "options": [
+        {
+          "text": "A. It determines fish length",
+          "correct": false,
+          "feedback": "Review: Compare readings over time and interpret with alkalinity."
+        },
+        {
+          "text": "B. pH is constant all day",
+          "correct": false,
+          "feedback": "Review: Compare readings over time and interpret with alkalinity."
+        },
+        {
+          "text": "C. Photosynthesis and respiration can cause daily pH variation",
+          "correct": true,
+          "feedback": "Correct. Compare readings over time and interpret with alkalinity."
+        },
+        {
+          "text": "D. It replaces alkalinity",
+          "correct": false,
+          "feedback": "Review: Compare readings over time and interpret with alkalinity."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 241,
+      "question": "What is the purpose of a fish pond harvest plan?",
+      "options": [
+        {
+          "text": "A. It predicts fish sex",
+          "correct": false,
+          "feedback": "Review: Plan harvest to minimise stress and maintain quality."
+        },
+        {
+          "text": "B. It coordinates labour, equipment, market and fish handling",
+          "correct": true,
+          "feedback": "Correct. Plan harvest to minimise stress and maintain quality."
+        },
+        {
+          "text": "C. It replaces water tests",
+          "correct": false,
+          "feedback": "Review: Plan harvest to minimise stress and maintain quality."
+        },
+        {
+          "text": "D. It determines pond ownership",
+          "correct": false,
+          "feedback": "Review: Plan harvest to minimise stress and maintain quality."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 242,
+      "question": "Why should fish feed be kept away from direct contact with pond water before use?",
+      "options": [
+        {
+          "text": "A. Moisture can cause spoilage and nutrient loss",
+          "correct": true,
+          "feedback": "Correct. Keep feed dry and dispense only what is needed."
+        },
+        {
+          "text": "B. It increases pellet stability",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and dispense only what is needed."
+        },
+        {
+          "text": "C. It determines fish age",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and dispense only what is needed."
+        },
+        {
+          "text": "D. It replaces storage",
+          "correct": false,
+          "feedback": "Review: Keep feed dry and dispense only what is needed."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 243,
+      "question": "What can a fish farmer infer from repeated low dissolved oxygen readings at dawn?",
+      "options": [
+        {
+          "text": "A. It proves water is sterile",
+          "correct": false,
+          "feedback": "Review: Review biomass, organic loading and aeration."
+        },
+        {
+          "text": "B. The pond is over-aerated",
+          "correct": false,
+          "feedback": "Review: Review biomass, organic loading and aeration."
+        },
+        {
+          "text": "C. Fish have stopped respiring",
+          "correct": false,
+          "feedback": "Review: Review biomass, organic loading and aeration."
+        },
+        {
+          "text": "D. Night-time oxygen demand may exceed supply",
+          "correct": true,
+          "feedback": "Correct. Review biomass, organic loading and aeration."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 244,
+      "question": "Why should fish farmers avoid using untreated equipment between hatchery and grow-out units?",
+      "options": [
+        {
+          "text": "A. It replaces quarantine",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment between units."
+        },
+        {
+          "text": "B. It improves growth",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment between units."
+        },
+        {
+          "text": "C. It can transfer pathogens between production stages",
+          "correct": true,
+          "feedback": "Correct. Clean and disinfect equipment between units."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Review: Clean and disinfect equipment between units."
+        }
+      ],
+      "part": 4
+    },
+    {
+      "number": 245,
+      "question": "What is the purpose of checking fish feed labels for species and life stage?",
+      "options": [
+        {
+          "text": "A. It determines pond colour",
+          "correct": false,
+          "feedback": "Review: Use a feed formulated for the cultured species and stage."
+        },
+        {
+          "text": "B. Nutrient requirements differ among species and growth stages",
+          "correct": true,
+          "feedback": "Correct. Use a feed formulated for the cultured species and stage."
+        },
+        {
+          "text": "C. It replaces feed sampling",
+          "correct": false,
+          "feedback": "Review: Use a feed formulated for the cultured species and stage."
+        },
+        {
+          "text": "D. It guarantees survival",
+          "correct": false,
+          "feedback": "Review: Use a feed formulated for the cultured species and stage."
         }
       ],
       "part": 4
