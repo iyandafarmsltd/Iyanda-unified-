@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 370,
+  "total": 390,
   "questions": [
     {
       "number": 1,
@@ -9989,6 +9989,546 @@
           "text": "D. It determines the feed conversion ratio",
           "correct": false,
           "feedback": "Not quite. The correct answer is It helps staff apply important preventive steps consistently and verify completion."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "Why should poultry feed be sampled for laboratory analysis when quality is in doubt?",
+      "options": [
+        {
+          "text": "A. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Analysis can help identify nutrient variation, spoilage or contaminants."
+        },
+        {
+          "text": "B. Analysis can help identify nutrient variation, spoilage or contaminants",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Analysis can help identify nutrient variation, spoilage or contaminants."
+        },
+        {
+          "text": "C. It replaces feed storage controls",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Analysis can help identify nutrient variation, spoilage or contaminants."
+        },
+        {
+          "text": "D. It guarantees a higher egg price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Analysis can help identify nutrient variation, spoilage or contaminants."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "What is a mycotoxin in poultry feed?",
+      "options": [
+        {
+          "text": "A. A toxic substance produced by certain moulds that can harm animal health or performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A toxic substance produced by certain moulds that can harm animal health or performance."
+        },
+        {
+          "text": "B. A vitamin made by healthy grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A toxic substance produced by certain moulds that can harm animal health or performance."
+        },
+        {
+          "text": "C. A harmless feed colourant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A toxic substance produced by certain moulds that can harm animal health or performance."
+        },
+        {
+          "text": "D. A type of poultry vaccine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A toxic substance produced by certain moulds that can harm animal health or performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "Why should visibly mouldy poultry feed not be fed to a flock?",
+      "options": [
+        {
+          "text": "A. Mould always increases protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth may be associated with mycotoxins and reduced feed quality."
+        },
+        {
+          "text": "B. Mould sterilises feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth may be associated with mycotoxins and reduced feed quality."
+        },
+        {
+          "text": "C. It improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth may be associated with mycotoxins and reduced feed quality."
+        },
+        {
+          "text": "D. Mould growth may be associated with mycotoxins and reduced feed quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mould growth may be associated with mycotoxins and reduced feed quality."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "What is the purpose of checking the moisture content of stored poultry grain?",
+      "options": [
+        {
+          "text": "A. Moisture determines the bird's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture can encourage mould growth, heating and storage losses."
+        },
+        {
+          "text": "B. It replaces pest control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture can encourage mould growth, heating and storage losses."
+        },
+        {
+          "text": "C. Excess moisture can encourage mould growth, heating and storage losses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess moisture can encourage mould growth, heating and storage losses."
+        },
+        {
+          "text": "D. High moisture always improves storage life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture can encourage mould growth, heating and storage losses."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "Why should feed ingredients be stored separately and clearly labelled?",
+      "options": [
+        {
+          "text": "A. Labels determine nutrient content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces mix-ups and helps preserve traceability and correct formulation."
+        },
+        {
+          "text": "B. It reduces mix-ups and helps preserve traceability and correct formulation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces mix-ups and helps preserve traceability and correct formulation."
+        },
+        {
+          "text": "C. It replaces weighing ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces mix-ups and helps preserve traceability and correct formulation."
+        },
+        {
+          "text": "D. It guarantees ingredients never spoil",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces mix-ups and helps preserve traceability and correct formulation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "What is the purpose of calibrating a poultry feed scale?",
+      "options": [
+        {
+          "text": "A. Accurate weighing helps maintain the intended nutrient formulation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accurate weighing helps maintain the intended nutrient formulation."
+        },
+        {
+          "text": "B. It determines the birds' age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate weighing helps maintain the intended nutrient formulation."
+        },
+        {
+          "text": "C. It replaces feed analysis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate weighing helps maintain the intended nutrient formulation."
+        },
+        {
+          "text": "D. It increases the feed's energy content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate weighing helps maintain the intended nutrient formulation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "Why should poultry feed mixers be checked for mixing uniformity?",
+      "options": [
+        {
+          "text": "A. It changes the ingredients' origin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven mixing can cause birds to receive inconsistent nutrient levels."
+        },
+        {
+          "text": "B. It guarantees every bird eats the same quantity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven mixing can cause birds to receive inconsistent nutrient levels."
+        },
+        {
+          "text": "C. It replaces ingredient weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven mixing can cause birds to receive inconsistent nutrient levels."
+        },
+        {
+          "text": "D. Uneven mixing can cause birds to receive inconsistent nutrient levels",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uneven mixing can cause birds to receive inconsistent nutrient levels."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "What can excessive feed fines in a poultry ration cause?",
+      "options": [
+        {
+          "text": "A. It guarantees improved growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reduce feed intake or increase dust and handling problems, depending on the ration."
+        },
+        {
+          "text": "B. It eliminates selective feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reduce feed intake or increase dust and handling problems, depending on the ration."
+        },
+        {
+          "text": "C. It may reduce feed intake or increase dust and handling problems, depending on the ration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may reduce feed intake or increase dust and handling problems, depending on the ration."
+        },
+        {
+          "text": "D. It replaces water sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reduce feed intake or increase dust and handling problems, depending on the ration."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "Why should particle size be appropriate for the age and type of poultry?",
+      "options": [
+        {
+          "text": "A. Particle size determines the bird's sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birds need feed forms they can readily consume, and particle size affects intake and digestion."
+        },
+        {
+          "text": "B. Birds need feed forms they can readily consume, and particle size affects intake and digestion",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Birds need feed forms they can readily consume, and particle size affects intake and digestion."
+        },
+        {
+          "text": "C. All birds prefer identical particle size at every age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birds need feed forms they can readily consume, and particle size affects intake and digestion."
+        },
+        {
+          "text": "D. It replaces nutrient formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birds need feed forms they can readily consume, and particle size affects intake and digestion."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "What is one reason to monitor feed intake in laying hens?",
+      "options": [
+        {
+          "text": "A. Changes can signal health, environmental or feed-quality problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes can signal health, environmental or feed-quality problems."
+        },
+        {
+          "text": "B. It determines shell colour exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can signal health, environmental or feed-quality problems."
+        },
+        {
+          "text": "C. It replaces egg production records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can signal health, environmental or feed-quality problems."
+        },
+        {
+          "text": "D. It guarantees a particular bodyweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can signal health, environmental or feed-quality problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "Why can a sudden decline in water consumption be an early warning sign in poultry?",
+      "options": [
+        {
+          "text": "A. It always means birds are drinking enough",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may indicate a water-system failure, poor water quality or flock-health issue."
+        },
+        {
+          "text": "B. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may indicate a water-system failure, poor water quality or flock-health issue."
+        },
+        {
+          "text": "C. It proves feed quality is ideal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may indicate a water-system failure, poor water quality or flock-health issue."
+        },
+        {
+          "text": "D. It may indicate a water-system failure, poor water quality or flock-health issue",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may indicate a water-system failure, poor water quality or flock-health issue."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "What should be checked if poultry water consumption rises unexpectedly?",
+      "options": [
+        {
+          "text": "A. Only the egg tray colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, leaks, drinker operation, water quality and flock condition."
+        },
+        {
+          "text": "B. The breed of the nearest rooster",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, leaks, drinker operation, water quality and flock condition."
+        },
+        {
+          "text": "C. Temperature, leaks, drinker operation, water quality and flock condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Temperature, leaks, drinker operation, water quality and flock condition."
+        },
+        {
+          "text": "D. Whether the feed bags are stacked evenly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, leaks, drinker operation, water quality and flock condition."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why should poultry water tanks be covered and cleaned as recommended?",
+      "options": [
+        {
+          "text": "A. It increases mineral concentration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering and cleaning help limit contamination from dust, pests and organic matter."
+        },
+        {
+          "text": "B. Covering and cleaning help limit contamination from dust, pests and organic matter",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Covering and cleaning help limit contamination from dust, pests and organic matter."
+        },
+        {
+          "text": "C. It replaces testing when needed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering and cleaning help limit contamination from dust, pests and organic matter."
+        },
+        {
+          "text": "D. It guarantees water is sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering and cleaning help limit contamination from dust, pests and organic matter."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "What is the purpose of maintaining a water-treatment system according to its instructions?",
+      "options": [
+        {
+          "text": "A. Correct operation helps keep water quality within the intended control range",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct operation helps keep water quality within the intended control range."
+        },
+        {
+          "text": "B. It makes all water sources identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct operation helps keep water quality within the intended control range."
+        },
+        {
+          "text": "C. It replaces checking bird intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct operation helps keep water quality within the intended control range."
+        },
+        {
+          "text": "D. It guarantees no biofilm can form",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct operation helps keep water quality within the intended control range."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "Why should water medications or supplements be mixed according to product directions?",
+      "options": [
+        {
+          "text": "A. Doubling concentration always improves results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct preparation helps avoid incorrect concentrations and unintended exposure."
+        },
+        {
+          "text": "B. Products can be combined freely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct preparation helps avoid incorrect concentrations and unintended exposure."
+        },
+        {
+          "text": "C. It replaces veterinary advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct preparation helps avoid incorrect concentrations and unintended exposure."
+        },
+        {
+          "text": "D. Correct preparation helps avoid incorrect concentrations and unintended exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct preparation helps avoid incorrect concentrations and unintended exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 386,
+      "question": "What should be done if a poultry water line becomes blocked?",
+      "options": [
+        {
+          "text": "A. Wait until birds stop eating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore flow promptly and check that affected birds can access clean water."
+        },
+        {
+          "text": "B. Increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore flow promptly and check that affected birds can access clean water."
+        },
+        {
+          "text": "C. Restore flow promptly and check that affected birds can access clean water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Restore flow promptly and check that affected birds can access clean water."
+        },
+        {
+          "text": "D. Remove all drinkers from the house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore flow promptly and check that affected birds can access clean water."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "Why should poultry feed bins be emptied and inspected between batches when appropriate?",
+      "options": [
+        {
+          "text": "A. It changes the birds' genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify bridging, residues, pests and feed deterioration."
+        },
+        {
+          "text": "B. It helps identify bridging, residues, pests and feed deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify bridging, residues, pests and feed deterioration."
+        },
+        {
+          "text": "C. It guarantees the next feed batch is balanced",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify bridging, residues, pests and feed deterioration."
+        },
+        {
+          "text": "D. It replaces cleaning the delivery system",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify bridging, residues, pests and feed deterioration."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "What is feed bridging in a poultry silo?",
+      "options": [
+        {
+          "text": "A. Feed forms an arch or blockage and stops flowing normally",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed forms an arch or blockage and stops flowing normally."
+        },
+        {
+          "text": "B. Feed absorbs extra nutrients from air",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed forms an arch or blockage and stops flowing normally."
+        },
+        {
+          "text": "C. Birds refuse to lay eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed forms an arch or blockage and stops flowing normally."
+        },
+        {
+          "text": "D. A vaccination reaction",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed forms an arch or blockage and stops flowing normally."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "Why should feed delivery augers and pans be inspected regularly?",
+      "options": [
+        {
+          "text": "A. It determines the flock's sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wear or faults can cause uneven feed distribution and reduce access."
+        },
+        {
+          "text": "B. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wear or faults can cause uneven feed distribution and reduce access."
+        },
+        {
+          "text": "C. It guarantees that no feed is wasted",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wear or faults can cause uneven feed distribution and reduce access."
+        },
+        {
+          "text": "D. Wear or faults can cause uneven feed distribution and reduce access",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wear or faults can cause uneven feed distribution and reduce access."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "What is the purpose of checking feed pan height as broilers grow?",
+      "options": [
+        {
+          "text": "A. It determines final carcass grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate adjustment helps birds access feed while limiting spillage and contamination."
+        },
+        {
+          "text": "B. It replaces weighing birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate adjustment helps birds access feed while limiting spillage and contamination."
+        },
+        {
+          "text": "C. Appropriate adjustment helps birds access feed while limiting spillage and contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate adjustment helps birds access feed while limiting spillage and contamination."
+        },
+        {
+          "text": "D. It makes feeder cleaning unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate adjustment helps birds access feed while limiting spillage and contamination."
         }
       ],
       "part": 8
