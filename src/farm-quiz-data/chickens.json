@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 270,
+  "total": 290,
   "questions": [
     {
       "number": 1,
@@ -7289,6 +7289,546 @@
           "text": "D. Moisture, caking, dustiness and odour together give a better indication of litter condition",
           "correct": true,
           "feedback": "Well done! Correct answer: Moisture, caking, dustiness and odour together give a better indication of litter condition."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "Why should a broiler flock be weighed using a consistent sampling method each week?",
+      "options": [
+        {
+          "text": "A. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth trends and compare performance fairly."
+        },
+        {
+          "text": "B. It replaces feed intake records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth trends and compare performance fairly."
+        },
+        {
+          "text": "C. Consistent sampling helps track growth trends and compare performance fairly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent sampling helps track growth trends and compare performance fairly."
+        },
+        {
+          "text": "D. It guarantees every bird has the same weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth trends and compare performance fairly."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "What can a sudden rise in broiler mortality require the manager to do first?",
+      "options": [
+        {
+          "text": "A. Wait until the end of the production cycle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check the flock, housing, feed and water, and seek veterinary investigation promptly."
+        },
+        {
+          "text": "B. Remove mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check the flock, housing, feed and water, and seek veterinary investigation promptly."
+        },
+        {
+          "text": "C. Increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check the flock, housing, feed and water, and seek veterinary investigation promptly."
+        },
+        {
+          "text": "D. Check the flock, housing, feed and water, and seek veterinary investigation promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check the flock, housing, feed and water, and seek veterinary investigation promptly."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "Why should chicks be checked for access to feed and water soon after placement?",
+      "options": [
+        {
+          "text": "A. Early access supports hydration, feeding and a successful start",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early access supports hydration, feeding and a successful start."
+        },
+        {
+          "text": "B. It makes brooding temperature irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration, feeding and a successful start."
+        },
+        {
+          "text": "C. It replaces chick-quality checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration, feeding and a successful start."
+        },
+        {
+          "text": "D. It prevents every infectious disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration, feeding and a successful start."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "What is the purpose of preheating a broiler house before chick placement?",
+      "options": [
+        {
+          "text": "A. It sterilises the house without cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps provide suitable floor and air conditions when chicks arrive."
+        },
+        {
+          "text": "B. It helps provide suitable floor and air conditions when chicks arrive",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps provide suitable floor and air conditions when chicks arrive."
+        },
+        {
+          "text": "C. It removes the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps provide suitable floor and air conditions when chicks arrive."
+        },
+        {
+          "text": "D. It guarantees equal growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps provide suitable floor and air conditions when chicks arrive."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "Why should brooder temperature be assessed at chick level as well as by a wall thermometer?",
+      "options": [
+        {
+          "text": "A. Wall thermometers measure feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird-level conditions may differ from readings taken elsewhere in the house."
+        },
+        {
+          "text": "B. Chicks regulate house temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird-level conditions may differ from readings taken elsewhere in the house."
+        },
+        {
+          "text": "C. Bird-level conditions may differ from readings taken elsewhere in the house",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Bird-level conditions may differ from readings taken elsewhere in the house."
+        },
+        {
+          "text": "D. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird-level conditions may differ from readings taken elsewhere in the house."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "What does chick behaviour commonly indicate about brooding comfort?",
+      "options": [
+        {
+          "text": "A. Behaviour gives an exact humidity reading",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chick distribution and activity can help reveal whether conditions are too hot, cold or uneven."
+        },
+        {
+          "text": "B. All chicks should remain silent and motionless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chick distribution and activity can help reveal whether conditions are too hot, cold or uneven."
+        },
+        {
+          "text": "C. It replaces temperature monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chick distribution and activity can help reveal whether conditions are too hot, cold or uneven."
+        },
+        {
+          "text": "D. Chick distribution and activity can help reveal whether conditions are too hot, cold or uneven",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Chick distribution and activity can help reveal whether conditions are too hot, cold or uneven."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "Why should broiler drinker height be adjusted as birds grow?",
+      "options": [
+        {
+          "text": "A. Appropriate height helps birds drink comfortably while reducing spillage and contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate height helps birds drink comfortably while reducing spillage and contamination."
+        },
+        {
+          "text": "B. It changes the birds' genetic growth potential",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably while reducing spillage and contamination."
+        },
+        {
+          "text": "C. It makes water sanitation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably while reducing spillage and contamination."
+        },
+        {
+          "text": "D. It prevents feed wastage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably while reducing spillage and contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "What is a practical reason to flush poultry water lines periodically?",
+      "options": [
+        {
+          "text": "A. It increases the salt content of water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flushing helps remove sediment and biofilm that can affect water quality."
+        },
+        {
+          "text": "B. Flushing helps remove sediment and biofilm that can affect water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Flushing helps remove sediment and biofilm that can affect water quality."
+        },
+        {
+          "text": "C. It replaces cleaning the storage tank",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flushing helps remove sediment and biofilm that can affect water quality."
+        },
+        {
+          "text": "D. It guarantees water is pathogen-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flushing helps remove sediment and biofilm that can affect water quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "Why should poultry water be tested when birds show unexplained performance problems?",
+      "options": [
+        {
+          "text": "A. Water quality affects only egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality problems can reduce intake or contribute to health issues."
+        },
+        {
+          "text": "B. Clear water is always microbiologically safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality problems can reduce intake or contribute to health issues."
+        },
+        {
+          "text": "C. Water quality problems can reduce intake or contribute to health issues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water quality problems can reduce intake or contribute to health issues."
+        },
+        {
+          "text": "D. Testing replaces veterinary examination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality problems can reduce intake or contribute to health issues."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "What can wet litter under poultry drinkers suggest?",
+      "options": [
+        {
+          "text": "A. The litter is ideal for bird health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaking or poorly adjusted drinkers, excessive pressure or ventilation problems."
+        },
+        {
+          "text": "B. It proves feed protein is too high",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaking or poorly adjusted drinkers, excessive pressure or ventilation problems."
+        },
+        {
+          "text": "C. It indicates that birds are not drinking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaking or poorly adjusted drinkers, excessive pressure or ventilation problems."
+        },
+        {
+          "text": "D. Leaking or poorly adjusted drinkers, excessive pressure or ventilation problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaking or poorly adjusted drinkers, excessive pressure or ventilation problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "Why is dry, friable litter important in broiler housing?",
+      "options": [
+        {
+          "text": "A. It supports foot health and helps limit ammonia and pathogen pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports foot health and helps limit ammonia and pathogen pressure."
+        },
+        {
+          "text": "B. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports foot health and helps limit ammonia and pathogen pressure."
+        },
+        {
+          "text": "C. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports foot health and helps limit ammonia and pathogen pressure."
+        },
+        {
+          "text": "D. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports foot health and helps limit ammonia and pathogen pressure."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "What can a strong ammonia smell in a poultry house indicate?",
+      "options": [
+        {
+          "text": "A. Excessive egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter condition or ventilation that needs corrective attention."
+        },
+        {
+          "text": "B. Poor litter condition or ventilation that needs corrective attention",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor litter condition or ventilation that needs corrective attention."
+        },
+        {
+          "text": "C. A shortage of feed labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter condition or ventilation that needs corrective attention."
+        },
+        {
+          "text": "D. A normal sign of high hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter condition or ventilation that needs corrective attention."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "Why should ventilation continue during cold weather?",
+      "options": [
+        {
+          "text": "A. Ventilation is needed only in hot weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Minimum ventilation removes moisture and harmful gases while managing heat loss."
+        },
+        {
+          "text": "B. Closing all inlets always improves air quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Minimum ventilation removes moisture and harmful gases while managing heat loss."
+        },
+        {
+          "text": "C. Minimum ventilation removes moisture and harmful gases while managing heat loss",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Minimum ventilation removes moisture and harmful gases while managing heat loss."
+        },
+        {
+          "text": "D. It replaces litter management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Minimum ventilation removes moisture and harmful gases while managing heat loss."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "What is the purpose of checking air inlets and fans before a flock arrives?",
+      "options": [
+        {
+          "text": "A. It determines the vaccination strain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Working equipment helps deliver planned air exchange and temperature control."
+        },
+        {
+          "text": "B. It replaces house disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Working equipment helps deliver planned air exchange and temperature control."
+        },
+        {
+          "text": "C. It guarantees the birds will not be stressed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Working equipment helps deliver planned air exchange and temperature control."
+        },
+        {
+          "text": "D. Working equipment helps deliver planned air exchange and temperature control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Working equipment helps deliver planned air exchange and temperature control."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "Why should broiler feed be formulated for the birds' growth stage?",
+      "options": [
+        {
+          "text": "A. Nutrient requirements change as birds develop",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient requirements change as birds develop."
+        },
+        {
+          "text": "B. All ages need identical nutrient density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change as birds develop."
+        },
+        {
+          "text": "C. Feed stage affects only feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change as birds develop."
+        },
+        {
+          "text": "D. It eliminates the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change as birds develop."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 286,
+      "question": "What is the purpose of monitoring feed conversion ratio in broilers?",
+      "options": [
+        {
+          "text": "A. It measures egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates feed consumed to weight gained and helps assess production efficiency."
+        },
+        {
+          "text": "B. It relates feed consumed to weight gained and helps assess production efficiency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It relates feed consumed to weight gained and helps assess production efficiency."
+        },
+        {
+          "text": "C. It determines the sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates feed consumed to weight gained and helps assess production efficiency."
+        },
+        {
+          "text": "D. It replaces mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates feed consumed to weight gained and helps assess production efficiency."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Why should feed bins be protected from moisture and pests?",
+      "options": [
+        {
+          "text": "A. They improve feed digestibility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture and pests can contaminate feed and reduce its quality."
+        },
+        {
+          "text": "B. They increase vitamin stability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture and pests can contaminate feed and reduce its quality."
+        },
+        {
+          "text": "C. Moisture and pests can contaminate feed and reduce its quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture and pests can contaminate feed and reduce its quality."
+        },
+        {
+          "text": "D. They make mycotoxin testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture and pests can contaminate feed and reduce its quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "What should be done if feed delivery is interrupted during a broiler cycle?",
+      "options": [
+        {
+          "text": "A. Leave birds without feed until the next cycle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore safe feed supply promptly and monitor birds for effects on intake and uniformity."
+        },
+        {
+          "text": "B. Mix spoiled feed into remaining stock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore safe feed supply promptly and monitor birds for effects on intake and uniformity."
+        },
+        {
+          "text": "C. Increase water medication without advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restore safe feed supply promptly and monitor birds for effects on intake and uniformity."
+        },
+        {
+          "text": "D. Restore safe feed supply promptly and monitor birds for effects on intake and uniformity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Restore safe feed supply promptly and monitor birds for effects on intake and uniformity."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "Why should broilers be inspected for gait and footpad condition?",
+      "options": [
+        {
+          "text": "A. Lameness and footpad lesions can indicate welfare and litter-management problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lameness and footpad lesions can indicate welfare and litter-management problems."
+        },
+        {
+          "text": "B. They determine the birds' hatch date",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness and footpad lesions can indicate welfare and litter-management problems."
+        },
+        {
+          "text": "C. They replace weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness and footpad lesions can indicate welfare and litter-management problems."
+        },
+        {
+          "text": "D. They are unrelated to housing conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness and footpad lesions can indicate welfare and litter-management problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "What is the purpose of removing dead birds promptly and recording them?",
+      "options": [
+        {
+          "text": "A. It improves litter moisture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports hygiene, mortality monitoring and early recognition of flock-health changes."
+        },
+        {
+          "text": "B. It supports hygiene, mortality monitoring and early recognition of flock-health changes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports hygiene, mortality monitoring and early recognition of flock-health changes."
+        },
+        {
+          "text": "C. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports hygiene, mortality monitoring and early recognition of flock-health changes."
+        },
+        {
+          "text": "D. It guarantees that disease cannot spread",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports hygiene, mortality monitoring and early recognition of flock-health changes."
         }
       ],
       "part": 6
