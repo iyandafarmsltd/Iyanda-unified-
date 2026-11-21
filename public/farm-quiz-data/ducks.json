@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 365,
+  "total": 385,
   "questions": [
     {
       "number": 1,
@@ -9854,6 +9854,546 @@
           "text": "D. It guarantees no residues occur",
           "correct": false,
           "feedback": "Not quite. The correct answer is It supports safe-use checks, environmental protection and investigation of exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "Why should duck carcasses be chilled promptly after hygienic processing?",
+      "options": [
+        {
+          "text": "A. It sterilises meat completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows microbial growth and helps maintain product safety."
+        },
+        {
+          "text": "B. Prompt chilling slows microbial growth and helps maintain product safety",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt chilling slows microbial growth and helps maintain product safety."
+        },
+        {
+          "text": "C. It replaces inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows microbial growth and helps maintain product safety."
+        },
+        {
+          "text": "D. It improves liveweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows microbial growth and helps maintain product safety."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "Why should duck meat be kept separate from ready-to-eat foods during storage?",
+      "options": [
+        {
+          "text": "A. Separation helps prevent cross-contamination by microorganisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation helps prevent cross-contamination by microorganisms."
+        },
+        {
+          "text": "B. It improves feather quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by microorganisms."
+        },
+        {
+          "text": "C. It replaces cooking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by microorganisms."
+        },
+        {
+          "text": "D. It determines meat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by microorganisms."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "What is the purpose of cleaning and sanitising duck-processing equipment between batches?",
+      "options": [
+        {
+          "text": "A. It changes meat protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination from residues and microorganisms."
+        },
+        {
+          "text": "B. It guarantees complete sterility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination from residues and microorganisms."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination from residues and microorganisms."
+        },
+        {
+          "text": "D. It reduces contamination from residues and microorganisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces contamination from residues and microorganisms."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "Why should workers use separate tools for raw duck meat and cooked products?",
+      "options": [
+        {
+          "text": "A. It increases egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce the chance of transferring pathogens to cooked food."
+        },
+        {
+          "text": "B. It determines carcass weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce the chance of transferring pathogens to cooked food."
+        },
+        {
+          "text": "C. Separate tools reduce the chance of transferring pathogens to cooked food",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separate tools reduce the chance of transferring pathogens to cooked food."
+        },
+        {
+          "text": "D. It replaces handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce the chance of transferring pathogens to cooked food."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "What should be checked when receiving chilled duck meat from a supplier?",
+      "options": [
+        {
+          "text": "A. Only the colour of the delivery vehicle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Packaging integrity, product temperature, dates and traceability information."
+        },
+        {
+          "text": "B. Packaging integrity, product temperature, dates and traceability information",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Packaging integrity, product temperature, dates and traceability information."
+        },
+        {
+          "text": "C. The supplier's farm size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Packaging integrity, product temperature, dates and traceability information."
+        },
+        {
+          "text": "D. Whether the ducks could swim",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Packaging integrity, product temperature, dates and traceability information."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "Why should duck meat not be left at room temperature for extended periods?",
+      "options": [
+        {
+          "text": "A. Warm conditions can allow foodborne microorganisms to multiply",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Warm conditions can allow foodborne microorganisms to multiply."
+        },
+        {
+          "text": "B. Room temperature sterilises meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warm conditions can allow foodborne microorganisms to multiply."
+        },
+        {
+          "text": "C. It improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warm conditions can allow foodborne microorganisms to multiply."
+        },
+        {
+          "text": "D. It replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warm conditions can allow foodborne microorganisms to multiply."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "What is the purpose of maintaining a cold-chain record for duck products?",
+      "options": [
+        {
+          "text": "A. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that required storage temperatures were maintained."
+        },
+        {
+          "text": "B. It replaces product labelling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that required storage temperatures were maintained."
+        },
+        {
+          "text": "C. It guarantees no power outage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that required storage temperatures were maintained."
+        },
+        {
+          "text": "D. It helps verify that required storage temperatures were maintained",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps verify that required storage temperatures were maintained."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "Why should thawed duck meat not be refrozen unless food-safety guidance confirms it is safe?",
+      "options": [
+        {
+          "text": "A. Refreezing always sterilises meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper thawing and refreezing can increase food-safety and quality risks."
+        },
+        {
+          "text": "B. It improves texture in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper thawing and refreezing can increase food-safety and quality risks."
+        },
+        {
+          "text": "C. Improper thawing and refreezing can increase food-safety and quality risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Improper thawing and refreezing can increase food-safety and quality risks."
+        },
+        {
+          "text": "D. It replaces date marking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper thawing and refreezing can increase food-safety and quality risks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "Why should duck eggs and meat be labelled with appropriate batch information?",
+      "options": [
+        {
+          "text": "A. Labels determine nutrient content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps identify product origin and manage a food-safety issue."
+        },
+        {
+          "text": "B. Traceability helps identify product origin and manage a food-safety issue",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Traceability helps identify product origin and manage a food-safety issue."
+        },
+        {
+          "text": "C. It replaces safe handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps identify product origin and manage a food-safety issue."
+        },
+        {
+          "text": "D. It guarantees a fixed selling price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps identify product origin and manage a food-safety issue."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "What is the purpose of monitoring customer complaints about duck products?",
+      "options": [
+        {
+          "text": "A. Complaints may reveal recurring handling, quality or food-safety problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Complaints may reveal recurring handling, quality or food-safety problems."
+        },
+        {
+          "text": "B. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Complaints may reveal recurring handling, quality or food-safety problems."
+        },
+        {
+          "text": "C. It replaces product inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Complaints may reveal recurring handling, quality or food-safety problems."
+        },
+        {
+          "text": "D. It guarantees the complaint is valid",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Complaints may reveal recurring handling, quality or food-safety problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "Why should duck farm workers avoid eating or drinking in animal and processing areas?",
+      "options": [
+        {
+          "text": "A. It improves flock fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of contamination and accidental exposure."
+        },
+        {
+          "text": "B. It replaces protective clothing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of contamination and accidental exposure."
+        },
+        {
+          "text": "C. It determines feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of contamination and accidental exposure."
+        },
+        {
+          "text": "D. It reduces the risk of contamination and accidental exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the risk of contamination and accidental exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "What is one reason to wash hands after handling duck eggs, manure or birds?",
+      "options": [
+        {
+          "text": "A. It guarantees sterile hands all day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handwashing helps reduce transfer of microorganisms between animals, people and food."
+        },
+        {
+          "text": "B. It replaces cleaning tools",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handwashing helps reduce transfer of microorganisms between animals, people and food."
+        },
+        {
+          "text": "C. Handwashing helps reduce transfer of microorganisms between animals, people and food",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Handwashing helps reduce transfer of microorganisms between animals, people and food."
+        },
+        {
+          "text": "D. It determines egg weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handwashing helps reduce transfer of microorganisms between animals, people and food."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "Why should duck processing waste be contained and removed appropriately?",
+      "options": [
+        {
+          "text": "A. It improves pond water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unmanaged waste can attract pests, create odours and contaminate the environment."
+        },
+        {
+          "text": "B. Unmanaged waste can attract pests, create odours and contaminate the environment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unmanaged waste can attract pests, create odours and contaminate the environment."
+        },
+        {
+          "text": "C. It replaces carcass inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unmanaged waste can attract pests, create odours and contaminate the environment."
+        },
+        {
+          "text": "D. It guarantees no pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unmanaged waste can attract pests, create odours and contaminate the environment."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "What should be done with duck processing wastewater?",
+      "options": [
+        {
+          "text": "A. Manage it through an approved system that prevents uncontrolled environmental discharge",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Manage it through an approved system that prevents uncontrolled environmental discharge."
+        },
+        {
+          "text": "B. Release it directly into streams",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage it through an approved system that prevents uncontrolled environmental discharge."
+        },
+        {
+          "text": "C. Use it as drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage it through an approved system that prevents uncontrolled environmental discharge."
+        },
+        {
+          "text": "D. Allow it to collect beside feed stores",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage it through an approved system that prevents uncontrolled environmental discharge."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "Why should duck slaughter areas have effective drainage?",
+      "options": [
+        {
+          "text": "A. Standing water improves hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drainage helps prevent standing contaminated water and supports hygienic cleaning."
+        },
+        {
+          "text": "B. It determines meat tenderness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drainage helps prevent standing contaminated water and supports hygienic cleaning."
+        },
+        {
+          "text": "C. It replaces sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drainage helps prevent standing contaminated water and supports hygienic cleaning."
+        },
+        {
+          "text": "D. Drainage helps prevent standing contaminated water and supports hygienic cleaning",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Drainage helps prevent standing contaminated water and supports hygienic cleaning."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "What is the purpose of inspecting duck slaughter equipment before use?",
+      "options": [
+        {
+          "text": "A. It determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify damage, contamination or faults that could affect safety and welfare."
+        },
+        {
+          "text": "B. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify damage, contamination or faults that could affect safety and welfare."
+        },
+        {
+          "text": "C. It helps identify damage, contamination or faults that could affect safety and welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify damage, contamination or faults that could affect safety and welfare."
+        },
+        {
+          "text": "D. It guarantees a higher price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify damage, contamination or faults that could affect safety and welfare."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "Why should ducks be handled calmly before slaughter?",
+      "options": [
+        {
+          "text": "A. Stress improves meat quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces avoidable stress, injury and welfare problems."
+        },
+        {
+          "text": "B. Calm handling reduces avoidable stress, injury and welfare problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Calm handling reduces avoidable stress, injury and welfare problems."
+        },
+        {
+          "text": "C. It replaces stunning requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces avoidable stress, injury and welfare problems."
+        },
+        {
+          "text": "D. It guarantees no bruising",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces avoidable stress, injury and welfare problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why should slaughter operations follow applicable animal-welfare and food-safety rules?",
+      "options": [
+        {
+          "text": "A. Rules establish minimum safeguards for humane handling and safe products",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rules establish minimum safeguards for humane handling and safe products."
+        },
+        {
+          "text": "B. Rules apply only to large farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rules establish minimum safeguards for humane handling and safe products."
+        },
+        {
+          "text": "C. It replaces veterinary oversight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rules establish minimum safeguards for humane handling and safe products."
+        },
+        {
+          "text": "D. It guarantees zero contamination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rules establish minimum safeguards for humane handling and safe products."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "What is the purpose of recording the number of ducks processed and the batch identifier?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production accounting and traceability."
+        },
+        {
+          "text": "B. It replaces cleaning logs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production accounting and traceability."
+        },
+        {
+          "text": "C. It guarantees every carcass passes inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production accounting and traceability."
+        },
+        {
+          "text": "D. It supports production accounting and traceability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports production accounting and traceability."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "Why should duck product recalls be supported by accurate distribution records?",
+      "options": [
+        {
+          "text": "A. It improves the flavour of meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify where affected batches were sent and support timely action."
+        },
+        {
+          "text": "B. It replaces cold storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify where affected batches were sent and support timely action."
+        },
+        {
+          "text": "C. Records help identify where affected batches were sent and support timely action",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records help identify where affected batches were sent and support timely action."
+        },
+        {
+          "text": "D. It guarantees a recall is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify where affected batches were sent and support timely action."
         }
       ],
       "part": 8
