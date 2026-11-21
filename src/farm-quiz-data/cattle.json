@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 480,
+  "total": 500,
   "questions": [
     {
       "number": 1,
@@ -12959,6 +12959,546 @@
           "text": "D. The number of trees without considering feed",
           "correct": false,
           "feedback": "Not quite. The correct answer is Stocking rate, body condition, feed reserves, water supply and contingency options."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 481,
+      "question": "Why should a farm assess the impact of cattle grazing on streamside vegetation?",
+      "options": [
+        {
+          "text": "A. Grazing always improves stream banks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy grazing can damage banks, reduce vegetation cover and increase erosion or runoff."
+        },
+        {
+          "text": "B. Heavy grazing can damage banks, reduce vegetation cover and increase erosion or runoff",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Heavy grazing can damage banks, reduce vegetation cover and increase erosion or runoff."
+        },
+        {
+          "text": "C. Vegetation has no role in water protection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy grazing can damage banks, reduce vegetation cover and increase erosion or runoff."
+        },
+        {
+          "text": "D. It determines the cattle's milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy grazing can damage banks, reduce vegetation cover and increase erosion or runoff."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 482,
+      "question": "What is a useful practice for protecting watercourses on cattle farms?",
+      "options": [
+        {
+          "text": "A. Maintain vegetated buffer areas and manage livestock access to reduce bank damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Maintain vegetated buffer areas and manage livestock access to reduce bank damage."
+        },
+        {
+          "text": "B. Allow unrestricted access to all banks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintain vegetated buffer areas and manage livestock access to reduce bank damage."
+        },
+        {
+          "text": "C. Store manure beside the stream",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintain vegetated buffer areas and manage livestock access to reduce bank damage."
+        },
+        {
+          "text": "D. Direct yard runoff into the watercourse",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintain vegetated buffer areas and manage livestock access to reduce bank damage."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 483,
+      "question": "Why should cattle yards have a runoff-control system?",
+      "options": [
+        {
+          "text": "A. It increases contamination of clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent manure and contaminated water from reaching surrounding land and waterways."
+        },
+        {
+          "text": "B. It replaces manure handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent manure and contaminated water from reaching surrounding land and waterways."
+        },
+        {
+          "text": "C. It guarantees no rainfall enters the yard",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent manure and contaminated water from reaching surrounding land and waterways."
+        },
+        {
+          "text": "D. It helps prevent manure and contaminated water from reaching surrounding land and waterways",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent manure and contaminated water from reaching surrounding land and waterways."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 484,
+      "question": "What is the purpose of separating clean stormwater from contaminated yard runoff?",
+      "options": [
+        {
+          "text": "A. It makes all runoff safe to discharge",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the volume of dirty water requiring collection and treatment."
+        },
+        {
+          "text": "B. It increases the spread of manure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the volume of dirty water requiring collection and treatment."
+        },
+        {
+          "text": "C. It reduces the volume of dirty water requiring collection and treatment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the volume of dirty water requiring collection and treatment."
+        },
+        {
+          "text": "D. It eliminates the need for drainage maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the volume of dirty water requiring collection and treatment."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 485,
+      "question": "Why should a cattle farm maintain a record of water use during dry periods?",
+      "options": [
+        {
+          "text": "A. It determines the cattle's genetic merit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unusual consumption, leaks and whether supply meets herd needs."
+        },
+        {
+          "text": "B. It helps identify unusual consumption, leaks and whether supply meets herd needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify unusual consumption, leaks and whether supply meets herd needs."
+        },
+        {
+          "text": "C. It replaces water-quality testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unusual consumption, leaks and whether supply meets herd needs."
+        },
+        {
+          "text": "D. It guarantees rainfall next month",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unusual consumption, leaks and whether supply meets herd needs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 486,
+      "question": "What is one reason to maintain a written feed-supply contingency plan?",
+      "options": [
+        {
+          "text": "A. It prepares the farm to respond to drought, transport disruption or unexpected shortages",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prepares the farm to respond to drought, transport disruption or unexpected shortages."
+        },
+        {
+          "text": "B. It guarantees feed will never run out",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prepares the farm to respond to drought, transport disruption or unexpected shortages."
+        },
+        {
+          "text": "C. It removes the need to monitor stocks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prepares the farm to respond to drought, transport disruption or unexpected shortages."
+        },
+        {
+          "text": "D. It fixes market prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prepares the farm to respond to drought, transport disruption or unexpected shortages."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 487,
+      "question": "Why should a farmer review the cost and quality of alternative feed ingredients before using them?",
+      "options": [
+        {
+          "text": "A. All by-products have identical nutrient value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alternative ingredients can differ in nutrient content, safety and suitability for cattle."
+        },
+        {
+          "text": "B. Cheaper ingredients are always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alternative ingredients can differ in nutrient content, safety and suitability for cattle."
+        },
+        {
+          "text": "C. Ingredient quality does not affect ration balance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alternative ingredients can differ in nutrient content, safety and suitability for cattle."
+        },
+        {
+          "text": "D. Alternative ingredients can differ in nutrient content, safety and suitability for cattle",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Alternative ingredients can differ in nutrient content, safety and suitability for cattle."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 488,
+      "question": "What is a risk of feeding cattle an unfamiliar agricultural by-product without checking its composition?",
+      "options": [
+        {
+          "text": "A. It always improves rumen function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain unsuitable nutrient levels, contaminants or anti-nutritional factors."
+        },
+        {
+          "text": "B. It guarantees a lower feed cost per gain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain unsuitable nutrient levels, contaminants or anti-nutritional factors."
+        },
+        {
+          "text": "C. It may contain unsuitable nutrient levels, contaminants or anti-nutritional factors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may contain unsuitable nutrient levels, contaminants or anti-nutritional factors."
+        },
+        {
+          "text": "D. It replaces forage testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain unsuitable nutrient levels, contaminants or anti-nutritional factors."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 489,
+      "question": "Why should feed formulation account for the stage of production of each cattle group?",
+      "options": [
+        {
+          "text": "A. All cattle require exactly the same ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintenance, growth, pregnancy and lactation have different nutrient demands."
+        },
+        {
+          "text": "B. Maintenance, growth, pregnancy and lactation have different nutrient demands",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Maintenance, growth, pregnancy and lactation have different nutrient demands."
+        },
+        {
+          "text": "C. Production stage affects only coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintenance, growth, pregnancy and lactation have different nutrient demands."
+        },
+        {
+          "text": "D. It makes body condition monitoring unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintenance, growth, pregnancy and lactation have different nutrient demands."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 490,
+      "question": "What is the purpose of reviewing cattle performance against the farm's production goals?",
+      "options": [
+        {
+          "text": "A. It helps determine whether current breeding, feeding and management practices are effective",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps determine whether current breeding, feeding and management practices are effective."
+        },
+        {
+          "text": "B. It guarantees that targets are always achieved",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps determine whether current breeding, feeding and management practices are effective."
+        },
+        {
+          "text": "C. It removes the need to keep records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps determine whether current breeding, feeding and management practices are effective."
+        },
+        {
+          "text": "D. It determines the weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps determine whether current breeding, feeding and management practices are effective."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 491,
+      "question": "Why should farm workers be trained to recognise abnormal cattle behaviour?",
+      "options": [
+        {
+          "text": "A. Training guarantees that no animal becomes ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt timely reporting and care."
+        },
+        {
+          "text": "B. Behaviour cannot indicate discomfort",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt timely reporting and care."
+        },
+        {
+          "text": "C. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt timely reporting and care."
+        },
+        {
+          "text": "D. Early recognition can prompt timely reporting and care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early recognition can prompt timely reporting and care."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 492,
+      "question": "What should a worker do after noticing an animal with an unusual wound or swelling?",
+      "options": [
+        {
+          "text": "A. Ignore it unless milk yield changes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Report it promptly and arrange appropriate assessment and care."
+        },
+        {
+          "text": "B. Apply any chemical available",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Report it promptly and arrange appropriate assessment and care."
+        },
+        {
+          "text": "C. Report it promptly and arrange appropriate assessment and care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Report it promptly and arrange appropriate assessment and care."
+        },
+        {
+          "text": "D. Wait until other animals develop the same sign",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Report it promptly and arrange appropriate assessment and care."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 493,
+      "question": "Why should emergency medicines and equipment be stored securely but remain accessible to authorised staff?",
+      "options": [
+        {
+          "text": "A. It allows untrained visitors to administer medicines",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage protects product integrity while allowing responsible emergency use."
+        },
+        {
+          "text": "B. Proper storage protects product integrity while allowing responsible emergency use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper storage protects product integrity while allowing responsible emergency use."
+        },
+        {
+          "text": "C. It makes expiry dates irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage protects product integrity while allowing responsible emergency use."
+        },
+        {
+          "text": "D. It replaces medicine inventory checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage protects product integrity while allowing responsible emergency use."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 494,
+      "question": "What is the purpose of checking medicine expiry dates before use?",
+      "options": [
+        {
+          "text": "A. Expired products may not retain the quality or effectiveness specified by the manufacturer",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Expired products may not retain the quality or effectiveness specified by the manufacturer."
+        },
+        {
+          "text": "B. Expiry dates determine the animal's age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expired products may not retain the quality or effectiveness specified by the manufacturer."
+        },
+        {
+          "text": "C. Expired products become stronger",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expired products may not retain the quality or effectiveness specified by the manufacturer."
+        },
+        {
+          "text": "D. It replaces checking the product label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expired products may not retain the quality or effectiveness specified by the manufacturer."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 495,
+      "question": "Why should veterinary medicines be kept according to their storage instructions?",
+      "options": [
+        {
+          "text": "A. Storage conditions never affect medicines",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, light and handling can affect product stability."
+        },
+        {
+          "text": "B. All medicines should be frozen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, light and handling can affect product stability."
+        },
+        {
+          "text": "C. It guarantees that withdrawal periods are unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, light and handling can affect product stability."
+        },
+        {
+          "text": "D. Temperature, light and handling can affect product stability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Temperature, light and handling can affect product stability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 496,
+      "question": "What should a farm do with unused veterinary medicines and empty containers?",
+      "options": [
+        {
+          "text": "A. Reuse containers for drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of them according to product instructions and local environmental rules."
+        },
+        {
+          "text": "B. Pour medicines into drains",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of them according to product instructions and local environmental rules."
+        },
+        {
+          "text": "C. Dispose of them according to product instructions and local environmental rules",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dispose of them according to product instructions and local environmental rules."
+        },
+        {
+          "text": "D. Leave them where animals can reach them",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of them according to product instructions and local environmental rules."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 497,
+      "question": "Why should a farm review its animal-welfare procedures regularly?",
+      "options": [
+        {
+          "text": "A. Welfare standards never change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Regular review helps identify changing risks and improve handling, housing and care."
+        },
+        {
+          "text": "B. Regular review helps identify changing risks and improve handling, housing and care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Regular review helps identify changing risks and improve handling, housing and care."
+        },
+        {
+          "text": "C. It guarantees animals will never be injured",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Regular review helps identify changing risks and improve handling, housing and care."
+        },
+        {
+          "text": "D. It replaces daily observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Regular review helps identify changing risks and improve handling, housing and care."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 498,
+      "question": "What is the purpose of documenting staff training in cattle handling and care?",
+      "options": [
+        {
+          "text": "A. It helps verify that workers have received relevant instruction and identify further training needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps verify that workers have received relevant instruction and identify further training needs."
+        },
+        {
+          "text": "B. It replaces practical competence",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that workers have received relevant instruction and identify further training needs."
+        },
+        {
+          "text": "C. It determines the cattle's market value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that workers have received relevant instruction and identify further training needs."
+        },
+        {
+          "text": "D. It guarantees that procedures are always followed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that workers have received relevant instruction and identify further training needs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 499,
+      "question": "Why should a farm have a clear procedure for reporting animal abuse or neglect?",
+      "options": [
+        {
+          "text": "A. It makes routine care unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports animal protection and appropriate investigation."
+        },
+        {
+          "text": "B. It guarantees that every report is false",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports animal protection and appropriate investigation."
+        },
+        {
+          "text": "C. It replaces emergency veterinary treatment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports animal protection and appropriate investigation."
+        },
+        {
+          "text": "D. Prompt reporting supports animal protection and appropriate investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt reporting supports animal protection and appropriate investigation."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 500,
+      "question": "What is the purpose of a final review before closing a cattle production cycle or marketing group?",
+      "options": [
+        {
+          "text": "A. It deletes the need for future records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reconcile animal numbers, health records, performance results and outstanding obligations."
+        },
+        {
+          "text": "B. It guarantees a particular sale price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reconcile animal numbers, health records, performance results and outstanding obligations."
+        },
+        {
+          "text": "C. It helps reconcile animal numbers, health records, performance results and outstanding obligations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reconcile animal numbers, health records, performance results and outstanding obligations."
+        },
+        {
+          "text": "D. It determines the breed of the next calf",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reconcile animal numbers, health records, performance results and outstanding obligations."
         }
       ],
       "part": 10
