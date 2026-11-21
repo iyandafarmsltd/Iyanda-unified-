@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 460,
+  "total": 480,
   "questions": [
     {
       "number": 1,
@@ -12419,6 +12419,546 @@
           "text": "D. They determine the cattle's feed ration",
           "correct": false,
           "feedback": "Not quite. The correct answer is They provide handling, exposure, first-aid and safe-use instructions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 461,
+      "question": "Why should cattle be provided with suitable shelter during prolonged heavy rain?",
+      "options": [
+        {
+          "text": "A. It prevents cattle from needing feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter helps reduce exposure, chilling and prolonged wet conditions."
+        },
+        {
+          "text": "B. It guarantees no hoof problems",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter helps reduce exposure, chilling and prolonged wet conditions."
+        },
+        {
+          "text": "C. Shelter helps reduce exposure, chilling and prolonged wet conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shelter helps reduce exposure, chilling and prolonged wet conditions."
+        },
+        {
+          "text": "D. It replaces drainage in the pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter helps reduce exposure, chilling and prolonged wet conditions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 462,
+      "question": "What is a practical benefit of windbreaks in exposed cattle paddocks?",
+      "options": [
+        {
+          "text": "A. They replace all water sources",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce wind chill and provide more comfortable resting areas."
+        },
+        {
+          "text": "B. They guarantee parasite control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce wind chill and provide more comfortable resting areas."
+        },
+        {
+          "text": "C. They increase the pasture's mineral content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce wind chill and provide more comfortable resting areas."
+        },
+        {
+          "text": "D. They can reduce wind chill and provide more comfortable resting areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can reduce wind chill and provide more comfortable resting areas."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 463,
+      "question": "Why should shade structures be large enough for the number of cattle using them?",
+      "options": [
+        {
+          "text": "A. Insufficient shade can lead to crowding and leave some animals exposed to heat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Insufficient shade can lead to crowding and leave some animals exposed to heat."
+        },
+        {
+          "text": "B. Shade is only needed by calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insufficient shade can lead to crowding and leave some animals exposed to heat."
+        },
+        {
+          "text": "C. Crowding improves heat loss",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insufficient shade can lead to crowding and leave some animals exposed to heat."
+        },
+        {
+          "text": "D. It prevents cattle from grazing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insufficient shade can lead to crowding and leave some animals exposed to heat."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 464,
+      "question": "What is one reason to inspect shade structures for stability and sharp edges?",
+      "options": [
+        {
+          "text": "A. It determines cattle fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damaged structures can collapse or injure animals."
+        },
+        {
+          "text": "B. Damaged structures can collapse or injure animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Damaged structures can collapse or injure animals."
+        },
+        {
+          "text": "C. It improves milk protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damaged structures can collapse or injure animals."
+        },
+        {
+          "text": "D. It replaces routine pasture checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damaged structures can collapse or injure animals."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 465,
+      "question": "Why should cattle be monitored during abrupt seasonal feed changes?",
+      "options": [
+        {
+          "text": "A. Seasonal changes never affect forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in forage quantity and quality can affect intake, condition and rumen health."
+        },
+        {
+          "text": "B. It guarantees constant growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in forage quantity and quality can affect intake, condition and rumen health."
+        },
+        {
+          "text": "C. Changes in forage quantity and quality can affect intake, condition and rumen health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes in forage quantity and quality can affect intake, condition and rumen health."
+        },
+        {
+          "text": "D. It removes the need for feed reserves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in forage quantity and quality can affect intake, condition and rumen health."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 466,
+      "question": "What is the purpose of preparing conserved forage before the dry season?",
+      "options": [
+        {
+          "text": "A. It eliminates all feed costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a planned feed reserve when pasture availability declines."
+        },
+        {
+          "text": "B. It guarantees identical nutrient quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a planned feed reserve when pasture availability declines."
+        },
+        {
+          "text": "C. It replaces water storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a planned feed reserve when pasture availability declines."
+        },
+        {
+          "text": "D. It provides a planned feed reserve when pasture availability declines",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides a planned feed reserve when pasture availability declines."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 467,
+      "question": "Why should stored hay be protected from rain and ground moisture?",
+      "options": [
+        {
+          "text": "A. Moisture can encourage mould, heating and deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture can encourage mould, heating and deterioration."
+        },
+        {
+          "text": "B. Moisture increases hay's energy content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can encourage mould, heating and deterioration."
+        },
+        {
+          "text": "C. Wet hay cannot develop mould",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can encourage mould, heating and deterioration."
+        },
+        {
+          "text": "D. It makes feed testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can encourage mould, heating and deterioration."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 468,
+      "question": "What is a key sign that hay may have been damaged by excessive heating during storage?",
+      "options": [
+        {
+          "text": "A. A consistent fresh smell and dry texture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unusual discolouration, musty odour or evidence of heating and spoilage."
+        },
+        {
+          "text": "B. Unusual discolouration, musty odour or evidence of heating and spoilage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unusual discolouration, musty odour or evidence of heating and spoilage."
+        },
+        {
+          "text": "C. The presence of a bale string",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unusual discolouration, musty odour or evidence of heating and spoilage."
+        },
+        {
+          "text": "D. A change in the farm's fencing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unusual discolouration, musty odour or evidence of heating and spoilage."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 469,
+      "question": "Why should hay bales be stacked to allow safe handling and stable storage?",
+      "options": [
+        {
+          "text": "A. It increases the number of cattle per paddock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stable stacking reduces collapse hazards and damage to the forage."
+        },
+        {
+          "text": "B. It replaces moisture control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stable stacking reduces collapse hazards and damage to the forage."
+        },
+        {
+          "text": "C. Stable stacking reduces collapse hazards and damage to the forage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stable stacking reduces collapse hazards and damage to the forage."
+        },
+        {
+          "text": "D. It guarantees freedom from rodents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stable stacking reduces collapse hazards and damage to the forage."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 470,
+      "question": "What is the purpose of checking stored feed inventories regularly?",
+      "options": [
+        {
+          "text": "A. It determines the herd's genetic merit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect shortages, spoilage and the need to arrange replacement supplies."
+        },
+        {
+          "text": "B. It replaces ration formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect shortages, spoilage and the need to arrange replacement supplies."
+        },
+        {
+          "text": "C. It guarantees feed prices will fall",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect shortages, spoilage and the need to arrange replacement supplies."
+        },
+        {
+          "text": "D. It helps detect shortages, spoilage and the need to arrange replacement supplies",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps detect shortages, spoilage and the need to arrange replacement supplies."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 471,
+      "question": "Why should a farmer consider water demand when planning cattle numbers for a paddock?",
+      "options": [
+        {
+          "text": "A. The water system must supply enough clean water for the herd under expected conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The water system must supply enough clean water for the herd under expected conditions."
+        },
+        {
+          "text": "B. Water demand is fixed regardless of weather or production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The water system must supply enough clean water for the herd under expected conditions."
+        },
+        {
+          "text": "C. Cattle can safely share any stagnant source",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The water system must supply enough clean water for the herd under expected conditions."
+        },
+        {
+          "text": "D. Water planning affects only young calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The water system must supply enough clean water for the herd under expected conditions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 472,
+      "question": "What can algae growth in an open cattle water trough indicate?",
+      "options": [
+        {
+          "text": "A. The water is automatically safe to drink",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The trough may need cleaning and better management of sunlight and water quality."
+        },
+        {
+          "text": "B. The trough may need cleaning and better management of sunlight and water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The trough may need cleaning and better management of sunlight and water quality."
+        },
+        {
+          "text": "C. Algae provide a complete mineral supplement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The trough may need cleaning and better management of sunlight and water quality."
+        },
+        {
+          "text": "D. It proves that the trough is too cold",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The trough may need cleaning and better management of sunlight and water quality."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 473,
+      "question": "Why should cattle troughs be checked for leaks?",
+      "options": [
+        {
+          "text": "A. Leaks improve water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks waste water and can create muddy areas around the drinking point."
+        },
+        {
+          "text": "B. They increase pasture carrying capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks waste water and can create muddy areas around the drinking point."
+        },
+        {
+          "text": "C. Leaks waste water and can create muddy areas around the drinking point",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaks waste water and can create muddy areas around the drinking point."
+        },
+        {
+          "text": "D. They prevent water contamination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks waste water and can create muddy areas around the drinking point."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 474,
+      "question": "What should be done if a water sample from a cattle supply fails a relevant safety test?",
+      "options": [
+        {
+          "text": "A. Continue using it without restriction",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use an alternative safe source and investigate treatment or remediation with competent guidance."
+        },
+        {
+          "text": "B. Add feed to mask the taste",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use an alternative safe source and investigate treatment or remediation with competent guidance."
+        },
+        {
+          "text": "C. Assume clear water is always safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use an alternative safe source and investigate treatment or remediation with competent guidance."
+        },
+        {
+          "text": "D. Use an alternative safe source and investigate treatment or remediation with competent guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Use an alternative safe source and investigate treatment or remediation with competent guidance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 475,
+      "question": "Why should cattle be prevented from entering waste lagoons or slurry storage areas?",
+      "options": [
+        {
+          "text": "A. These areas can pose drowning, toxic-gas and contamination hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These areas can pose drowning, toxic-gas and contamination hazards."
+        },
+        {
+          "text": "B. Slurry lagoons are ideal drinking points",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can pose drowning, toxic-gas and contamination hazards."
+        },
+        {
+          "text": "C. They improve hoof strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can pose drowning, toxic-gas and contamination hazards."
+        },
+        {
+          "text": "D. They replace the need for pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can pose drowning, toxic-gas and contamination hazards."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 476,
+      "question": "What is the purpose of fencing cattle away from steep unstable banks?",
+      "options": [
+        {
+          "text": "A. It improves the animals' appetite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of falls, erosion and access to unsafe water edges."
+        },
+        {
+          "text": "B. It reduces the risk of falls, erosion and access to unsafe water edges",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the risk of falls, erosion and access to unsafe water edges."
+        },
+        {
+          "text": "C. It determines their breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of falls, erosion and access to unsafe water edges."
+        },
+        {
+          "text": "D. It makes all water troughs unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of falls, erosion and access to unsafe water edges."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 477,
+      "question": "Why should cattle tracks be maintained to reduce deep mud and sharp stones?",
+      "options": [
+        {
+          "text": "A. Tracks determine milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe tracks support comfortable movement and reduce foot injuries."
+        },
+        {
+          "text": "B. Mud sterilises hooves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe tracks support comfortable movement and reduce foot injuries."
+        },
+        {
+          "text": "C. Safe tracks support comfortable movement and reduce foot injuries",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Safe tracks support comfortable movement and reduce foot injuries."
+        },
+        {
+          "text": "D. Stones improve hoof trimming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe tracks support comfortable movement and reduce foot injuries."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 478,
+      "question": "What is one reason to inspect pasture for holes, wire and discarded objects?",
+      "options": [
+        {
+          "text": "A. They improve grazing efficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hidden hazards can cause injuries or become ingested foreign material."
+        },
+        {
+          "text": "B. They are needed for rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hidden hazards can cause injuries or become ingested foreign material."
+        },
+        {
+          "text": "C. They identify the animal's age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hidden hazards can cause injuries or become ingested foreign material."
+        },
+        {
+          "text": "D. Hidden hazards can cause injuries or become ingested foreign material",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Hidden hazards can cause injuries or become ingested foreign material."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 479,
+      "question": "Why should cattle be kept away from recently burned land until it is safe to graze?",
+      "options": [
+        {
+          "text": "A. Hot ash, sharp debris, toxic regrowth or other hazards may remain after a fire",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Hot ash, sharp debris, toxic regrowth or other hazards may remain after a fire."
+        },
+        {
+          "text": "B. Burned land is always immediately safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hot ash, sharp debris, toxic regrowth or other hazards may remain after a fire."
+        },
+        {
+          "text": "C. Fire guarantees improved forage quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hot ash, sharp debris, toxic regrowth or other hazards may remain after a fire."
+        },
+        {
+          "text": "D. It removes the need to inspect water sources",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hot ash, sharp debris, toxic regrowth or other hazards may remain after a fire."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 480,
+      "question": "What should a cattle manager review after drought reduces pasture availability?",
+      "options": [
+        {
+          "text": "A. Only the colour of the cattle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stocking rate, body condition, feed reserves, water supply and contingency options."
+        },
+        {
+          "text": "B. Stocking rate, body condition, feed reserves, water supply and contingency options",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stocking rate, body condition, feed reserves, water supply and contingency options."
+        },
+        {
+          "text": "C. Whether to stop checking animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stocking rate, body condition, feed reserves, water supply and contingency options."
+        },
+        {
+          "text": "D. The number of trees without considering feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stocking rate, body condition, feed reserves, water supply and contingency options."
         }
       ],
       "part": 10
