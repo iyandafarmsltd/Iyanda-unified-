@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 285,
+  "total": 305,
   "questions": [
     {
       "number": 1,
@@ -7697,6 +7697,546 @@
         }
       ],
       "part": 6
+    },
+    {
+      "number": 286,
+      "question": "Why should duck houses be protected from wild waterfowl entering feed and water areas?",
+      "options": [
+        {
+          "text": "A. Wild birds improve duck immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce infectious agents and contaminate farm resources."
+        },
+        {
+          "text": "B. It guarantees higher egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce infectious agents and contaminate farm resources."
+        },
+        {
+          "text": "C. Wild birds can introduce infectious agents and contaminate farm resources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wild birds can introduce infectious agents and contaminate farm resources."
+        },
+        {
+          "text": "D. It replaces cleaning the duck house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce infectious agents and contaminate farm resources."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Why should ducks not share untreated surface water with newly arrived birds without assessing disease risks?",
+      "options": [
+        {
+          "text": "A. Surface water is always sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared water can provide a route for infectious agents to move between groups."
+        },
+        {
+          "text": "B. It prevents all parasite exposure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared water can provide a route for infectious agents to move between groups."
+        },
+        {
+          "text": "C. It determines the ducks' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared water can provide a route for infectious agents to move between groups."
+        },
+        {
+          "text": "D. Shared water can provide a route for infectious agents to move between groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shared water can provide a route for infectious agents to move between groups."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "What is the purpose of cleaning drinkers before disinfecting them?",
+      "options": [
+        {
+          "text": "A. Organic material can reduce the effectiveness of many disinfectants",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Organic material can reduce the effectiveness of many disinfectants."
+        },
+        {
+          "text": "B. Cleaning makes disinfectant unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce the effectiveness of many disinfectants."
+        },
+        {
+          "text": "C. Dirt improves disinfectant action",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce the effectiveness of many disinfectants."
+        },
+        {
+          "text": "D. It changes the water's mineral content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce the effectiveness of many disinfectants."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "Why should disinfectants be used at the label concentration and contact time?",
+      "options": [
+        {
+          "text": "A. Stronger mixtures are always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified conditions are needed for the product to work as intended."
+        },
+        {
+          "text": "B. The specified conditions are needed for the product to work as intended",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The specified conditions are needed for the product to work as intended."
+        },
+        {
+          "text": "C. Contact time has no effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified conditions are needed for the product to work as intended."
+        },
+        {
+          "text": "D. It guarantees sterilisation of every surface",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified conditions are needed for the product to work as intended."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "What should be checked before applying a disinfectant to duck-house equipment?",
+      "options": [
+        {
+          "text": "A. Only the product colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Surface compatibility, cleaning status, product directions and worker safety requirements."
+        },
+        {
+          "text": "B. Whether ducks can drink the concentrate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Surface compatibility, cleaning status, product directions and worker safety requirements."
+        },
+        {
+          "text": "C. Surface compatibility, cleaning status, product directions and worker safety requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Surface compatibility, cleaning status, product directions and worker safety requirements."
+        },
+        {
+          "text": "D. The age of the equipment operator",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Surface compatibility, cleaning status, product directions and worker safety requirements."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 291,
+      "question": "Why should footbaths be maintained and replaced when dirty?",
+      "options": [
+        {
+          "text": "A. Dirty footbaths are more effective",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter and dilution can reduce their effectiveness."
+        },
+        {
+          "text": "B. They replace boot cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter and dilution can reduce their effectiveness."
+        },
+        {
+          "text": "C. They prevent every pathogen from entering",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter and dilution can reduce their effectiveness."
+        },
+        {
+          "text": "D. Organic matter and dilution can reduce their effectiveness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Organic matter and dilution can reduce their effectiveness."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "What is the purpose of dedicated footwear for different duck-house zones?",
+      "options": [
+        {
+          "text": "A. It reduces the transfer of contamination between areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the transfer of contamination between areas."
+        },
+        {
+          "text": "B. It improves duck growth directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between areas."
+        },
+        {
+          "text": "C. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between areas."
+        },
+        {
+          "text": "D. It guarantees that footwear stays sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between areas."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "Why should visitors report recent contact with other poultry or waterfowl farms?",
+      "options": [
+        {
+          "text": "A. It determines visitor age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recent animal contact may create a biosecurity risk that needs to be managed."
+        },
+        {
+          "text": "B. Recent animal contact may create a biosecurity risk that needs to be managed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Recent animal contact may create a biosecurity risk that needs to be managed."
+        },
+        {
+          "text": "C. It replaces visitor registration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recent animal contact may create a biosecurity risk that needs to be managed."
+        },
+        {
+          "text": "D. It guarantees visitors carry disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recent animal contact may create a biosecurity risk that needs to be managed."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "What information belongs in a duck-farm visitor log?",
+      "options": [
+        {
+          "text": "A. Only the visitor's favourite food",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor identity, date, purpose and relevant movement or biosecurity details."
+        },
+        {
+          "text": "B. The duck flock's egg weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor identity, date, purpose and relevant movement or biosecurity details."
+        },
+        {
+          "text": "C. Visitor identity, date, purpose and relevant movement or biosecurity details",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Visitor identity, date, purpose and relevant movement or biosecurity details."
+        },
+        {
+          "text": "D. The pond's depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor identity, date, purpose and relevant movement or biosecurity details."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 295,
+      "question": "Why should feed deliveries be kept away from areas where wild birds congregate?",
+      "options": [
+        {
+          "text": "A. Wild birds improve feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps reduce contamination of feed and delivery equipment."
+        },
+        {
+          "text": "B. It increases feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps reduce contamination of feed and delivery equipment."
+        },
+        {
+          "text": "C. It replaces feed-bin covers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps reduce contamination of feed and delivery equipment."
+        },
+        {
+          "text": "D. This helps reduce contamination of feed and delivery equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This helps reduce contamination of feed and delivery equipment."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 296,
+      "question": "What can algae growth in duck drinking or bathing water indicate?",
+      "options": [
+        {
+          "text": "A. Nutrient enrichment, sunlight and water conditions that may need management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient enrichment, sunlight and water conditions that may need management."
+        },
+        {
+          "text": "B. The water is automatically safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient enrichment, sunlight and water conditions that may need management."
+        },
+        {
+          "text": "C. It proves oxygen is always high",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient enrichment, sunlight and water conditions that may need management."
+        },
+        {
+          "text": "D. It guarantees no harmful organisms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient enrichment, sunlight and water conditions that may need management."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 297,
+      "question": "Why should dead fish or other wildlife be removed promptly from a duck pond?",
+      "options": [
+        {
+          "text": "A. They improve pond hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Decomposing animals can worsen water quality and attract scavengers."
+        },
+        {
+          "text": "B. Decomposing animals can worsen water quality and attract scavengers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Decomposing animals can worsen water quality and attract scavengers."
+        },
+        {
+          "text": "C. They provide a reliable duck vaccine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Decomposing animals can worsen water quality and attract scavengers."
+        },
+        {
+          "text": "D. They replace water-quality monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Decomposing animals can worsen water quality and attract scavengers."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 298,
+      "question": "What is one reason to keep duck ponds from becoming stagnant and overloaded with organic waste?",
+      "options": [
+        {
+          "text": "A. Stagnation guarantees clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can harm bird health and the surrounding environment."
+        },
+        {
+          "text": "B. Organic waste always increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can harm bird health and the surrounding environment."
+        },
+        {
+          "text": "C. Poor water conditions can harm bird health and the surrounding environment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor water conditions can harm bird health and the surrounding environment."
+        },
+        {
+          "text": "D. It eliminates the need for drainage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can harm bird health and the surrounding environment."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 299,
+      "question": "Why should pond water quality be assessed when ducks show reduced activity or appetite?",
+      "options": [
+        {
+          "text": "A. Water quality never affects ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsuitable water conditions may contribute to stress or health problems."
+        },
+        {
+          "text": "B. It determines the birds' feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsuitable water conditions may contribute to stress or health problems."
+        },
+        {
+          "text": "C. It replaces veterinary assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsuitable water conditions may contribute to stress or health problems."
+        },
+        {
+          "text": "D. Unsuitable water conditions may contribute to stress or health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unsuitable water conditions may contribute to stress or health problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 300,
+      "question": "What should a farmer do if several ducks develop similar signs of illness over a short period?",
+      "options": [
+        {
+          "text": "A. Seek veterinary advice promptly and record signs, numbers affected and recent changes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek veterinary advice promptly and record signs, numbers affected and recent changes."
+        },
+        {
+          "text": "B. Wait until the entire flock is affected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek veterinary advice promptly and record signs, numbers affected and recent changes."
+        },
+        {
+          "text": "C. Move the birds to a neighbour's pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek veterinary advice promptly and record signs, numbers affected and recent changes."
+        },
+        {
+          "text": "D. Treat with leftover medicines without diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek veterinary advice promptly and record signs, numbers affected and recent changes."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 301,
+      "question": "Why should duck medicines be recorded with dose, route, date and treated group?",
+      "options": [
+        {
+          "text": "A. They determine the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate records support treatment oversight, traceability and withdrawal compliance."
+        },
+        {
+          "text": "B. Accurate records support treatment oversight, traceability and withdrawal compliance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accurate records support treatment oversight, traceability and withdrawal compliance."
+        },
+        {
+          "text": "C. They replace veterinary instructions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate records support treatment oversight, traceability and withdrawal compliance."
+        },
+        {
+          "text": "D. They guarantee every bird responds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate records support treatment oversight, traceability and withdrawal compliance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 302,
+      "question": "Why should a duck flock's treatment withdrawal period be checked before eggs or meat are sold?",
+      "options": [
+        {
+          "text": "A. Withdrawal periods increase egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some veterinary medicines require a defined period before products can enter the food chain."
+        },
+        {
+          "text": "B. They apply only to feed ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some veterinary medicines require a defined period before products can enter the food chain."
+        },
+        {
+          "text": "C. Some veterinary medicines require a defined period before products can enter the food chain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some veterinary medicines require a defined period before products can enter the food chain."
+        },
+        {
+          "text": "D. They guarantee the flock is disease-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some veterinary medicines require a defined period before products can enter the food chain."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 303,
+      "question": "What is a sensible approach when a duck does not respond to a prescribed treatment?",
+      "options": [
+        {
+          "text": "A. Increase the dose without advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the veterinarian to reassess the diagnosis and treatment plan."
+        },
+        {
+          "text": "B. Combine several medicines at random",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the veterinarian to reassess the diagnosis and treatment plan."
+        },
+        {
+          "text": "C. Stop recording the case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the veterinarian to reassess the diagnosis and treatment plan."
+        },
+        {
+          "text": "D. Contact the veterinarian to reassess the diagnosis and treatment plan",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contact the veterinarian to reassess the diagnosis and treatment plan."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 304,
+      "question": "Why should ducks with suspected contagious disease not be moved between ponds or groups casually?",
+      "options": [
+        {
+          "text": "A. Movement can spread infection to other birds and locations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Movement can spread infection to other birds and locations."
+        },
+        {
+          "text": "B. Movement always improves recovery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement can spread infection to other birds and locations."
+        },
+        {
+          "text": "C. It makes isolation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement can spread infection to other birds and locations."
+        },
+        {
+          "text": "D. It prevents transmission through water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement can spread infection to other birds and locations."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 305,
+      "question": "What is the purpose of keeping a separate sick-bird observation area where practical?",
+      "options": [
+        {
+          "text": "A. It guarantees a diagnosis without testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports closer monitoring and reduces contact with healthy ducks."
+        },
+        {
+          "text": "B. It supports closer monitoring and reduces contact with healthy ducks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports closer monitoring and reduces contact with healthy ducks."
+        },
+        {
+          "text": "C. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports closer monitoring and reduces contact with healthy ducks."
+        },
+        {
+          "text": "D. It improves pond water quality automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports closer monitoring and reduces contact with healthy ducks."
+        }
+      ],
+      "part": 7
     }
   ]
 }
