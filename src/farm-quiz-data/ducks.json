@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 385,
+  "total": 405,
   "questions": [
     {
       "number": 1,
@@ -10397,6 +10397,546 @@
         }
       ],
       "part": 8
+    },
+    {
+      "number": 386,
+      "question": "Why should duck flock records distinguish between mortality and birds removed by culling?",
+      "options": [
+        {
+          "text": "A. They always mean exactly the same thing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two measures have different causes and are useful for interpreting flock health and performance."
+        },
+        {
+          "text": "B. It determines the pond's depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two measures have different causes and are useful for interpreting flock health and performance."
+        },
+        {
+          "text": "C. It replaces daily counts",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two measures have different causes and are useful for interpreting flock health and performance."
+        },
+        {
+          "text": "D. The two measures have different causes and are useful for interpreting flock health and performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The two measures have different causes and are useful for interpreting flock health and performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "What is the purpose of calculating average daily gain in growing ducks?",
+      "options": [
+        {
+          "text": "A. It measures egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates the rate at which bodyweight increases over a defined period."
+        },
+        {
+          "text": "B. It determines the sex of each bird",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates the rate at which bodyweight increases over a defined period."
+        },
+        {
+          "text": "C. It estimates the rate at which bodyweight increases over a defined period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It estimates the rate at which bodyweight increases over a defined period."
+        },
+        {
+          "text": "D. It replaces feed intake records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates the rate at which bodyweight increases over a defined period."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "Why should duck weights be sampled using a consistent method?",
+      "options": [
+        {
+          "text": "A. It guarantees identical weights",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling makes growth comparisons over time more meaningful."
+        },
+        {
+          "text": "B. Consistent sampling makes growth comparisons over time more meaningful",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent sampling makes growth comparisons over time more meaningful."
+        },
+        {
+          "text": "C. It changes the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling makes growth comparisons over time more meaningful."
+        },
+        {
+          "text": "D. It replaces flock observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling makes growth comparisons over time more meaningful."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "What can a decline in growth rate across a duck flock indicate?",
+      "options": [
+        {
+          "text": "A. Feed quality, water access, disease, stocking or environmental conditions may need investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed quality, water access, disease, stocking or environmental conditions may need investigation."
+        },
+        {
+          "text": "B. It always indicates normal maturity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quality, water access, disease, stocking or environmental conditions may need investigation."
+        },
+        {
+          "text": "C. It proves the ration is ideal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quality, water access, disease, stocking or environmental conditions may need investigation."
+        },
+        {
+          "text": "D. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quality, water access, disease, stocking or environmental conditions may need investigation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "Why should feed conversion be interpreted alongside mortality and growth data?",
+      "options": [
+        {
+          "text": "A. Feed conversion measures only egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock's feed efficiency figures are more useful when considered with survival and output."
+        },
+        {
+          "text": "B. Mortality has no effect on flock output",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock's feed efficiency figures are more useful when considered with survival and output."
+        },
+        {
+          "text": "C. It replaces feed cost records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock's feed efficiency figures are more useful when considered with survival and output."
+        },
+        {
+          "text": "D. A flock's feed efficiency figures are more useful when considered with survival and output",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A flock's feed efficiency figures are more useful when considered with survival and output."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 391,
+      "question": "What is the purpose of weighing feed delivered to a duck house?",
+      "options": [
+        {
+          "text": "A. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare feed use with flock size and expected performance."
+        },
+        {
+          "text": "B. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare feed use with flock size and expected performance."
+        },
+        {
+          "text": "C. It helps compare feed use with flock size and expected performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps compare feed use with flock size and expected performance."
+        },
+        {
+          "text": "D. It guarantees every bird eats equally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare feed use with flock size and expected performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 392,
+      "question": "Why should feed be protected from rain and condensation in duck farms?",
+      "options": [
+        {
+          "text": "A. Wet feed is always more nutritious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can promote mould, spoilage and nutrient deterioration."
+        },
+        {
+          "text": "B. Moisture can promote mould, spoilage and nutrient deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture can promote mould, spoilage and nutrient deterioration."
+        },
+        {
+          "text": "C. It prevents rodent activity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can promote mould, spoilage and nutrient deterioration."
+        },
+        {
+          "text": "D. It replaces feed-bin inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can promote mould, spoilage and nutrient deterioration."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 393,
+      "question": "What can caked feed inside a storage bin indicate?",
+      "options": [
+        {
+          "text": "A. Moisture entry, condensation or poor flow conditions may be present",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture entry, condensation or poor flow conditions may be present."
+        },
+        {
+          "text": "B. The feed has become sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture entry, condensation or poor flow conditions may be present."
+        },
+        {
+          "text": "C. It guarantees improved feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture entry, condensation or poor flow conditions may be present."
+        },
+        {
+          "text": "D. It determines the duck breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture entry, condensation or poor flow conditions may be present."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 394,
+      "question": "Why should duck feed be rotated using a first-in, first-out approach where appropriate?",
+      "options": [
+        {
+          "text": "A. It increases nutrient concentration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent older stock remaining in storage beyond its intended shelf life."
+        },
+        {
+          "text": "B. It replaces expiry checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent older stock remaining in storage beyond its intended shelf life."
+        },
+        {
+          "text": "C. It guarantees no mould growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent older stock remaining in storage beyond its intended shelf life."
+        },
+        {
+          "text": "D. It helps prevent older stock remaining in storage beyond its intended shelf life",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent older stock remaining in storage beyond its intended shelf life."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 395,
+      "question": "What is the purpose of checking feed delivery documents against the order?",
+      "options": [
+        {
+          "text": "A. It determines pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps confirm the correct ingredient or ration and quantity were supplied."
+        },
+        {
+          "text": "B. It replaces sampling when quality is in doubt",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps confirm the correct ingredient or ration and quantity were supplied."
+        },
+        {
+          "text": "C. It helps confirm the correct ingredient or ration and quantity were supplied",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps confirm the correct ingredient or ration and quantity were supplied."
+        },
+        {
+          "text": "D. It guarantees the feed is free from contaminants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps confirm the correct ingredient or ration and quantity were supplied."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 396,
+      "question": "Why should duck farmers avoid sudden, unnecessary changes in ration?",
+      "options": [
+        {
+          "text": "A. All feed changes improve growth immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feed acceptance and digestive adaptation."
+        },
+        {
+          "text": "B. Abrupt changes can disrupt feed acceptance and digestive adaptation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Abrupt changes can disrupt feed acceptance and digestive adaptation."
+        },
+        {
+          "text": "C. It determines egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feed acceptance and digestive adaptation."
+        },
+        {
+          "text": "D. It replaces monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feed acceptance and digestive adaptation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 397,
+      "question": "How should a planned change between duck feed formulations generally be managed?",
+      "options": [
+        {
+          "text": "A. Follow a suitable transition plan based on the birds and advice from a qualified nutrition professional",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow a suitable transition plan based on the birds and advice from a qualified nutrition professional."
+        },
+        {
+          "text": "B. Change every ingredient at once without observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow a suitable transition plan based on the birds and advice from a qualified nutrition professional."
+        },
+        {
+          "text": "C. Withhold water during the change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow a suitable transition plan based on the birds and advice from a qualified nutrition professional."
+        },
+        {
+          "text": "D. Double the new feed concentration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow a suitable transition plan based on the birds and advice from a qualified nutrition professional."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 398,
+      "question": "Why should ducks have consistent access to feed during the appropriate feeding period?",
+      "options": [
+        {
+          "text": "A. It determines the hatchery temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable access helps support intake and reduces competition."
+        },
+        {
+          "text": "B. It guarantees equal growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable access helps support intake and reduces competition."
+        },
+        {
+          "text": "C. It replaces water access",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable access helps support intake and reduces competition."
+        },
+        {
+          "text": "D. Reliable access helps support intake and reduces competition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reliable access helps support intake and reduces competition."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 399,
+      "question": "What should be investigated if one section of a duck flock consistently eats less than another?",
+      "options": [
+        {
+          "text": "A. Only the colour of the roof",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feeder access, distribution, health, bird competition and local environmental conditions."
+        },
+        {
+          "text": "B. The age of the farm manager",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feeder access, distribution, health, bird competition and local environmental conditions."
+        },
+        {
+          "text": "C. Feeder access, distribution, health, bird competition and local environmental conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feeder access, distribution, health, bird competition and local environmental conditions."
+        },
+        {
+          "text": "D. Whether eggs are sold by weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feeder access, distribution, health, bird competition and local environmental conditions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 400,
+      "question": "Why should duck feeders be positioned to reduce contamination by droppings and pond splash?",
+      "options": [
+        {
+          "text": "A. Contamination improves palatability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cleaner feed helps maintain feed hygiene and reduce disease exposure."
+        },
+        {
+          "text": "B. Cleaner feed helps maintain feed hygiene and reduce disease exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cleaner feed helps maintain feed hygiene and reduce disease exposure."
+        },
+        {
+          "text": "C. It replaces water sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cleaner feed helps maintain feed hygiene and reduce disease exposure."
+        },
+        {
+          "text": "D. It determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cleaner feed helps maintain feed hygiene and reduce disease exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 401,
+      "question": "What is the purpose of removing spoiled or contaminated feed from duck feeders?",
+      "options": [
+        {
+          "text": "A. It prevents birds from continuing to consume feed that may be unsafe",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prevents birds from continuing to consume feed that may be unsafe."
+        },
+        {
+          "text": "B. It improves nutrient balance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents birds from continuing to consume feed that may be unsafe."
+        },
+        {
+          "text": "C. It guarantees that the next batch is sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents birds from continuing to consume feed that may be unsafe."
+        },
+        {
+          "text": "D. It replaces feed storage control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents birds from continuing to consume feed that may be unsafe."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 402,
+      "question": "Why should duck feed samples be labelled with supplier, delivery date and batch?",
+      "options": [
+        {
+          "text": "A. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labelling supports traceability if a quality or health issue arises."
+        },
+        {
+          "text": "B. It replaces laboratory analysis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labelling supports traceability if a quality or health issue arises."
+        },
+        {
+          "text": "C. It guarantees the supplier's product is perfect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labelling supports traceability if a quality or health issue arises."
+        },
+        {
+          "text": "D. Labelling supports traceability if a quality or health issue arises",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Labelling supports traceability if a quality or health issue arises."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 403,
+      "question": "What should be done if feed is suspected of containing a harmful contaminant?",
+      "options": [
+        {
+          "text": "A. Mix it with clean feed to hide the issue",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch, preserve traceability and seek qualified advice or testing."
+        },
+        {
+          "text": "B. Feed it only to the weakest ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch, preserve traceability and seek qualified advice or testing."
+        },
+        {
+          "text": "C. Stop using the suspect batch, preserve traceability and seek qualified advice or testing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stop using the suspect batch, preserve traceability and seek qualified advice or testing."
+        },
+        {
+          "text": "D. Discard all records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch, preserve traceability and seek qualified advice or testing."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 404,
+      "question": "Why should ducks' access to feed be checked after a power failure affecting automatic equipment?",
+      "options": [
+        {
+          "text": "A. Power failures improve feed distribution",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed delivery may have stopped even if birds and feeders appear normal."
+        },
+        {
+          "text": "B. Feed delivery may have stopped even if birds and feeders appear normal",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed delivery may have stopped even if birds and feeders appear normal."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed delivery may have stopped even if birds and feeders appear normal."
+        },
+        {
+          "text": "D. It replaces checking water systems",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed delivery may have stopped even if birds and feeders appear normal."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 405,
+      "question": "What is the benefit of keeping a daily feed inventory balance?",
+      "options": [
+        {
+          "text": "A. It helps identify unexpected consumption, delivery or storage losses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify unexpected consumption, delivery or storage losses."
+        },
+        {
+          "text": "B. It determines pond pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unexpected consumption, delivery or storage losses."
+        },
+        {
+          "text": "C. It replaces flock records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unexpected consumption, delivery or storage losses."
+        },
+        {
+          "text": "D. It guarantees a lower feed price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify unexpected consumption, delivery or storage losses."
+        }
+      ],
+      "part": 9
     }
   ]
 }
