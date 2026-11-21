@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 345,
+  "total": 365,
   "questions": [
     {
       "number": 1,
@@ -9317,6 +9317,546 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 346,
+      "question": "Why should ducks be provided with shade during hot weather?",
+      "options": [
+        {
+          "text": "A. Shade increases heat stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shade offers relief from direct solar heat and supports thermal comfort."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shade offers relief from direct solar heat and supports thermal comfort."
+        },
+        {
+          "text": "C. Shade offers relief from direct solar heat and supports thermal comfort",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shade offers relief from direct solar heat and supports thermal comfort."
+        },
+        {
+          "text": "D. It replaces drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shade offers relief from direct solar heat and supports thermal comfort."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 347,
+      "question": "What is the purpose of providing adequate cool drinking water during hot weather?",
+      "options": [
+        {
+          "text": "A. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and helps birds cope with heat load."
+        },
+        {
+          "text": "B. It guarantees no heat stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and helps birds cope with heat load."
+        },
+        {
+          "text": "C. It determines feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and helps birds cope with heat load."
+        },
+        {
+          "text": "D. Water supports hydration and helps birds cope with heat load",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water supports hydration and helps birds cope with heat load."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 348,
+      "question": "Why should ducks not be crowded around a single water point during hot conditions?",
+      "options": [
+        {
+          "text": "A. Competition can restrict access to water when birds need it most",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Competition can restrict access to water when birds need it most."
+        },
+        {
+          "text": "B. Crowding improves hydration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can restrict access to water when birds need it most."
+        },
+        {
+          "text": "C. It increases pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can restrict access to water when birds need it most."
+        },
+        {
+          "text": "D. It replaces additional drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can restrict access to water when birds need it most."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 349,
+      "question": "What should be monitored during a heatwave in a duck flock?",
+      "options": [
+        {
+          "text": "A. Only the colour of the sky",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird behaviour, water supply, ventilation, mortality and environmental conditions."
+        },
+        {
+          "text": "B. Bird behaviour, water supply, ventilation, mortality and environmental conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Bird behaviour, water supply, ventilation, mortality and environmental conditions."
+        },
+        {
+          "text": "C. The farm's annual feed bill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird behaviour, water supply, ventilation, mortality and environmental conditions."
+        },
+        {
+          "text": "D. The number of eggs in storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Bird behaviour, water supply, ventilation, mortality and environmental conditions."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 350,
+      "question": "Why should ducks be protected from cold, wet and windy conditions?",
+      "options": [
+        {
+          "text": "A. It improves feather growth in all cases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combined exposure can increase heat loss and stress."
+        },
+        {
+          "text": "B. It replaces dry resting areas",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combined exposure can increase heat loss and stress."
+        },
+        {
+          "text": "C. Combined exposure can increase heat loss and stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Combined exposure can increase heat loss and stress."
+        },
+        {
+          "text": "D. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combined exposure can increase heat loss and stress."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 351,
+      "question": "What is the purpose of windbreaks around outdoor duck areas where appropriate?",
+      "options": [
+        {
+          "text": "A. They eliminate the need for shelter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce exposure to strong winds while maintaining suitable air quality."
+        },
+        {
+          "text": "B. They determine pond pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce exposure to strong winds while maintaining suitable air quality."
+        },
+        {
+          "text": "C. They replace fencing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can reduce exposure to strong winds while maintaining suitable air quality."
+        },
+        {
+          "text": "D. They can reduce exposure to strong winds while maintaining suitable air quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can reduce exposure to strong winds while maintaining suitable air quality."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "Why should duck houses have adequate roof drainage?",
+      "options": [
+        {
+          "text": "A. Poor drainage can cause leaks, wet bedding and muddy areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor drainage can cause leaks, wet bedding and muddy areas."
+        },
+        {
+          "text": "B. It increases water contamination intentionally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor drainage can cause leaks, wet bedding and muddy areas."
+        },
+        {
+          "text": "C. It replaces drinker cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor drainage can cause leaks, wet bedding and muddy areas."
+        },
+        {
+          "text": "D. It determines egg weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor drainage can cause leaks, wet bedding and muddy areas."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "What can muddy, heavily trampled ground around duck water points lead to?",
+      "options": [
+        {
+          "text": "A. Guaranteed improved foot health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor footing, dirty plumage and increased contamination pressure."
+        },
+        {
+          "text": "B. Poor footing, dirty plumage and increased contamination pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor footing, dirty plumage and increased contamination pressure."
+        },
+        {
+          "text": "C. Higher hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor footing, dirty plumage and increased contamination pressure."
+        },
+        {
+          "text": "D. It replaces pond maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor footing, dirty plumage and increased contamination pressure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "Why should duck outdoor runs be rotated or rested when practical?",
+      "options": [
+        {
+          "text": "A. Rotation guarantees that parasites disappear",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resting areas can help manage ground damage, parasite pressure and vegetation recovery."
+        },
+        {
+          "text": "B. It changes the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resting areas can help manage ground damage, parasite pressure and vegetation recovery."
+        },
+        {
+          "text": "C. Resting areas can help manage ground damage, parasite pressure and vegetation recovery",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Resting areas can help manage ground damage, parasite pressure and vegetation recovery."
+        },
+        {
+          "text": "D. It replaces cleaning of indoor housing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resting areas can help manage ground damage, parasite pressure and vegetation recovery."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "What is the purpose of fencing outdoor duck areas securely?",
+      "options": [
+        {
+          "text": "A. It determines feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps contain birds and reduces access by predators and unwanted animals."
+        },
+        {
+          "text": "B. It replaces health monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps contain birds and reduces access by predators and unwanted animals."
+        },
+        {
+          "text": "C. It guarantees that wild birds cannot fly overhead",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps contain birds and reduces access by predators and unwanted animals."
+        },
+        {
+          "text": "D. It helps contain birds and reduces access by predators and unwanted animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps contain birds and reduces access by predators and unwanted animals."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "Why should ducks have access to shelter from predators and severe weather?",
+      "options": [
+        {
+          "text": "A. Shelter supports safety, comfort and protection from environmental exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shelter supports safety, comfort and protection from environmental exposure."
+        },
+        {
+          "text": "B. It prevents the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter supports safety, comfort and protection from environmental exposure."
+        },
+        {
+          "text": "C. It determines egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter supports safety, comfort and protection from environmental exposure."
+        },
+        {
+          "text": "D. It guarantees no disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shelter supports safety, comfort and protection from environmental exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "What should be checked if ducks avoid using an outdoor area?",
+      "options": [
+        {
+          "text": "A. Only the colour of the gate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predator disturbance, surface condition, shelter, access and environmental comfort."
+        },
+        {
+          "text": "B. Predator disturbance, surface condition, shelter, access and environmental comfort",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Predator disturbance, surface condition, shelter, access and environmental comfort."
+        },
+        {
+          "text": "C. The size of the egg trays",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predator disturbance, surface condition, shelter, access and environmental comfort."
+        },
+        {
+          "text": "D. The farm's feed supplier",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predator disturbance, surface condition, shelter, access and environmental comfort."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "Why should duck flock size be matched to available pond and land resources?",
+      "options": [
+        {
+          "text": "A. More ducks always improve pond quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overuse can damage vegetation and worsen water and ground conditions."
+        },
+        {
+          "text": "B. It guarantees faster growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overuse can damage vegetation and worsen water and ground conditions."
+        },
+        {
+          "text": "C. Overuse can damage vegetation and worsen water and ground conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Overuse can damage vegetation and worsen water and ground conditions."
+        },
+        {
+          "text": "D. It replaces waste management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overuse can damage vegetation and worsen water and ground conditions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "What is one reason to prevent wild birds from nesting in duck-house roofs or rafters?",
+      "options": [
+        {
+          "text": "A. Wild birds improve flock immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nesting wildlife can introduce contamination and create pest or biosecurity risks."
+        },
+        {
+          "text": "B. It determines duck egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nesting wildlife can introduce contamination and create pest or biosecurity risks."
+        },
+        {
+          "text": "C. It replaces roof repairs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nesting wildlife can introduce contamination and create pest or biosecurity risks."
+        },
+        {
+          "text": "D. Nesting wildlife can introduce contamination and create pest or biosecurity risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nesting wildlife can introduce contamination and create pest or biosecurity risks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "Why should spilled feed be cleaned up around duck houses?",
+      "options": [
+        {
+          "text": "A. Spilled feed can attract rodents and wild birds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Spilled feed can attract rodents and wild birds."
+        },
+        {
+          "text": "B. Spilled feed improves biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds."
+        },
+        {
+          "text": "C. It replaces feed storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds."
+        },
+        {
+          "text": "D. It guarantees lower feed costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "What is the purpose of monitoring rodents around duck feed stores?",
+      "options": [
+        {
+          "text": "A. Rodents improve feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and carry disease."
+        },
+        {
+          "text": "B. Rodents can contaminate feed and carry disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rodents can contaminate feed and carry disease."
+        },
+        {
+          "text": "C. It determines duck fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and carry disease."
+        },
+        {
+          "text": "D. It replaces pest control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and carry disease."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "Why should rodent bait stations be secured and used according to label directions?",
+      "options": [
+        {
+          "text": "A. Bait should be scattered openly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental access by ducks, wildlife, children and other non-target animals."
+        },
+        {
+          "text": "B. It guarantees that no rodent will enter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental access by ducks, wildlife, children and other non-target animals."
+        },
+        {
+          "text": "C. This reduces accidental access by ducks, wildlife, children and other non-target animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This reduces accidental access by ducks, wildlife, children and other non-target animals."
+        },
+        {
+          "text": "D. It replaces sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental access by ducks, wildlife, children and other non-target animals."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "What should be done if ducks gain access to a chemical or pesticide spill?",
+      "options": [
+        {
+          "text": "A. Wait for symptoms before acting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prevent further access and obtain urgent product-specific veterinary or poison-control guidance."
+        },
+        {
+          "text": "B. Feed the ducks more grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prevent further access and obtain urgent product-specific veterinary or poison-control guidance."
+        },
+        {
+          "text": "C. Wash the chemical into the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prevent further access and obtain urgent product-specific veterinary or poison-control guidance."
+        },
+        {
+          "text": "D. Prevent further access and obtain urgent product-specific veterinary or poison-control guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prevent further access and obtain urgent product-specific veterinary or poison-control guidance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "Why should farm chemicals be stored away from duck feed and water equipment?",
+      "options": [
+        {
+          "text": "A. Separation reduces the risk of accidental contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation reduces the risk of accidental contamination."
+        },
+        {
+          "text": "B. It improves chemical potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation reduces the risk of accidental contamination."
+        },
+        {
+          "text": "C. It determines the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation reduces the risk of accidental contamination."
+        },
+        {
+          "text": "D. It replaces container labelling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation reduces the risk of accidental contamination."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "What is the purpose of maintaining a record of pesticide use around duck housing and ponds?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports safe-use checks, environmental protection and investigation of exposure."
+        },
+        {
+          "text": "B. It supports safe-use checks, environmental protection and investigation of exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports safe-use checks, environmental protection and investigation of exposure."
+        },
+        {
+          "text": "C. It replaces product instructions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports safe-use checks, environmental protection and investigation of exposure."
+        },
+        {
+          "text": "D. It guarantees no residues occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports safe-use checks, environmental protection and investigation of exposure."
+        }
+      ],
+      "part": 8
     }
   ]
 }
