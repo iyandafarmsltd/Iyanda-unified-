@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 280,
+  "total": 300,
   "questions": [
     {
       "number": 1,
@@ -7559,6 +7559,546 @@
           "text": "D. They may point to nutritional, metabolic, infectious or management issues",
           "correct": true,
           "feedback": "Well done! Correct answer: They may point to nutritional, metabolic, infectious or management issues."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "Why is a clean, dry calving area important?",
+      "options": [
+        {
+          "text": "A. It lowers exposure of the cow and newborn calf to environmental contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It lowers exposure of the cow and newborn calf to environmental contamination."
+        },
+        {
+          "text": "B. It removes the need to observe calving",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers exposure of the cow and newborn calf to environmental contamination."
+        },
+        {
+          "text": "C. It guarantees an easy birth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers exposure of the cow and newborn calf to environmental contamination."
+        },
+        {
+          "text": "D. It replaces colostrum",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers exposure of the cow and newborn calf to environmental contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "What is the main reason to examine a calf's navel soon after birth?",
+      "options": [
+        {
+          "text": "A. To estimate its future milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To check for swelling, bleeding or signs of infection."
+        },
+        {
+          "text": "B. To determine its exact adult weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To check for swelling, bleeding or signs of infection."
+        },
+        {
+          "text": "C. To identify the sire by appearance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To check for swelling, bleeding or signs of infection."
+        },
+        {
+          "text": "D. To check for swelling, bleeding or signs of infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To check for swelling, bleeding or signs of infection."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "Why should calves have access to fresh water even when they are receiving milk?",
+      "options": [
+        {
+          "text": "A. Milk contains every possible fluid requirement at every age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and intake of solid feed as the calf develops."
+        },
+        {
+          "text": "B. Water prevents the need for starter feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and intake of solid feed as the calf develops."
+        },
+        {
+          "text": "C. Water supports hydration and intake of solid feed as the calf develops",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water supports hydration and intake of solid feed as the calf develops."
+        },
+        {
+          "text": "D. Water replaces colostrum",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and intake of solid feed as the calf develops."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "What does weaning mean in calf rearing?",
+      "options": [
+        {
+          "text": "A. Moving a cow to another pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned transition from milk feeding to a diet based on solid feed."
+        },
+        {
+          "text": "B. The planned transition from milk feeding to a diet based on solid feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The planned transition from milk feeding to a diet based on solid feed."
+        },
+        {
+          "text": "C. The first milking after calving",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned transition from milk feeding to a diet based on solid feed."
+        },
+        {
+          "text": "D. Treating a calf for parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned transition from milk feeding to a diet based on solid feed."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "Why is gradual weaning often preferable to an abrupt change?",
+      "options": [
+        {
+          "text": "A. It gives the calf time to adapt to solid feed and the change in routine",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It gives the calf time to adapt to solid feed and the change in routine."
+        },
+        {
+          "text": "B. It prevents the calf from ever becoming ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives the calf time to adapt to solid feed and the change in routine."
+        },
+        {
+          "text": "C. It eliminates the need for clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives the calf time to adapt to solid feed and the change in routine."
+        },
+        {
+          "text": "D. It makes the calf mature instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives the calf time to adapt to solid feed and the change in routine."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 286,
+      "question": "What is a key reason to avoid overcrowding cattle in a feed area?",
+      "options": [
+        {
+          "text": "A. It makes every animal eat the same amount",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can prevent subordinate animals from getting adequate access to feed."
+        },
+        {
+          "text": "B. It improves ventilation automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can prevent subordinate animals from getting adequate access to feed."
+        },
+        {
+          "text": "C. It removes the need for feed-space planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Competition can prevent subordinate animals from getting adequate access to feed."
+        },
+        {
+          "text": "D. Competition can prevent subordinate animals from getting adequate access to feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Competition can prevent subordinate animals from getting adequate access to feed."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Why should feed refusals be observed and recorded in a dairy herd?",
+      "options": [
+        {
+          "text": "A. They provide an exact pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can reveal ration, health, palatability or management problems."
+        },
+        {
+          "text": "B. They show the colour of the next calf",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can reveal ration, health, palatability or management problems."
+        },
+        {
+          "text": "C. Changes can reveal ration, health, palatability or management problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes can reveal ration, health, palatability or management problems."
+        },
+        {
+          "text": "D. They replace milk-yield records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can reveal ration, health, palatability or management problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "What does the term 'transition cow' generally refer to?",
+      "options": [
+        {
+          "text": "A. A cow being transported between farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A dairy cow in the period around calving when nutrition and health risks change."
+        },
+        {
+          "text": "B. A dairy cow in the period around calving when nutrition and health risks change",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A dairy cow in the period around calving when nutrition and health risks change."
+        },
+        {
+          "text": "C. A heifer that has never been bred",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A dairy cow in the period around calving when nutrition and health risks change."
+        },
+        {
+          "text": "D. A bull used only for draught work",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A dairy cow in the period around calving when nutrition and health risks change."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "Why is monitoring ketosis risk important in early-lactation dairy cows?",
+      "options": [
+        {
+          "text": "A. Negative energy balance can contribute to metabolic disease and reduced performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Negative energy balance can contribute to metabolic disease and reduced performance."
+        },
+        {
+          "text": "B. Ketosis is required for milk production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Negative energy balance can contribute to metabolic disease and reduced performance."
+        },
+        {
+          "text": "C. It determines the calf's sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Negative energy balance can contribute to metabolic disease and reduced performance."
+        },
+        {
+          "text": "D. It is caused only by drinking clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Negative energy balance can contribute to metabolic disease and reduced performance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "What is the purpose of a teat-dip routine after milking when recommended by the herd-health programme?",
+      "options": [
+        {
+          "text": "A. To increase milk temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce exposure of teat ends to mastitis-causing organisms."
+        },
+        {
+          "text": "B. To replace cleaning the milking system",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce exposure of teat ends to mastitis-causing organisms."
+        },
+        {
+          "text": "C. To make cows stop ruminating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce exposure of teat ends to mastitis-causing organisms."
+        },
+        {
+          "text": "D. To reduce exposure of teat ends to mastitis-causing organisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce exposure of teat ends to mastitis-causing organisms."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 291,
+      "question": "Why should milking machine vacuum and pulsation be maintained correctly?",
+      "options": [
+        {
+          "text": "A. They determine the cow's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect settings can injure teats and impair effective milking."
+        },
+        {
+          "text": "B. They replace udder inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect settings can injure teats and impair effective milking."
+        },
+        {
+          "text": "C. Incorrect settings can injure teats and impair effective milking",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect settings can injure teats and impair effective milking."
+        },
+        {
+          "text": "D. They make milk refrigeration unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect settings can injure teats and impair effective milking."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "What should a farmer do if milk from a treated cow may contain veterinary drug residues?",
+      "options": [
+        {
+          "text": "A. Mix it with milk from healthy cows",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the prescribed withdrawal period and keep that milk out of the food supply."
+        },
+        {
+          "text": "B. Follow the prescribed withdrawal period and keep that milk out of the food supply",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow the prescribed withdrawal period and keep that milk out of the food supply."
+        },
+        {
+          "text": "C. Boil it and sell it immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the prescribed withdrawal period and keep that milk out of the food supply."
+        },
+        {
+          "text": "D. Ignore the medicine label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the prescribed withdrawal period and keep that milk out of the food supply."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "Why is a withdrawal period important after certain veterinary medicines?",
+      "options": [
+        {
+          "text": "A. It allows residues to fall to legally acceptable levels before milk or meat enters the food chain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows residues to fall to legally acceptable levels before milk or meat enters the food chain."
+        },
+        {
+          "text": "B. It guarantees the animal cannot relapse",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows residues to fall to legally acceptable levels before milk or meat enters the food chain."
+        },
+        {
+          "text": "C. It increases the medicine dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows residues to fall to legally acceptable levels before milk or meat enters the food chain."
+        },
+        {
+          "text": "D. It replaces treatment records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows residues to fall to legally acceptable levels before milk or meat enters the food chain."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "What is the purpose of a grazing plan that accounts for pasture growth?",
+      "options": [
+        {
+          "text": "A. It ensures cattle graze the same paddock every day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match grazing pressure to available forage and recovery time."
+        },
+        {
+          "text": "B. It eliminates seasonal feed shortages",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match grazing pressure to available forage and recovery time."
+        },
+        {
+          "text": "C. It removes the need to monitor body condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match grazing pressure to available forage and recovery time."
+        },
+        {
+          "text": "D. It helps match grazing pressure to available forage and recovery time",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps match grazing pressure to available forage and recovery time."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 295,
+      "question": "Why should poisonous plants be identified in cattle grazing areas?",
+      "options": [
+        {
+          "text": "A. All wild plants are nutritious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants can cause poisoning when eaten in sufficient quantities."
+        },
+        {
+          "text": "B. Cattle instinctively avoid every toxic plant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants can cause poisoning when eaten in sufficient quantities."
+        },
+        {
+          "text": "C. Some plants can cause poisoning when eaten in sufficient quantities",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some plants can cause poisoning when eaten in sufficient quantities."
+        },
+        {
+          "text": "D. Plant identification determines cattle age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants can cause poisoning when eaten in sufficient quantities."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 296,
+      "question": "What is a practical benefit of providing a mineral supplement formulated for the herd's needs?",
+      "options": [
+        {
+          "text": "A. It guarantees maximum growth regardless of diet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can address mineral gaps identified from diet, forage and local conditions."
+        },
+        {
+          "text": "B. It can address mineral gaps identified from diet, forage and local conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can address mineral gaps identified from diet, forage and local conditions."
+        },
+        {
+          "text": "C. It replaces protein and energy in all rations",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can address mineral gaps identified from diet, forage and local conditions."
+        },
+        {
+          "text": "D. It prevents every infectious disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can address mineral gaps identified from diet, forage and local conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 297,
+      "question": "Why should copper supplementation in cattle be planned carefully where sheep share the farm?",
+      "options": [
+        {
+          "text": "A. Sheep are more susceptible to copper toxicity, so cross-access to cattle supplements can be dangerous",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Sheep are more susceptible to copper toxicity, so cross-access to cattle supplements can be dangerous."
+        },
+        {
+          "text": "B. Sheep require much more copper than cattle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sheep are more susceptible to copper toxicity, so cross-access to cattle supplements can be dangerous."
+        },
+        {
+          "text": "C. Copper blocks are safe for every species in any amount",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sheep are more susceptible to copper toxicity, so cross-access to cattle supplements can be dangerous."
+        },
+        {
+          "text": "D. Cattle cannot absorb copper",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sheep are more susceptible to copper toxicity, so cross-access to cattle supplements can be dangerous."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 298,
+      "question": "What is the value of checking fences before moving cattle to a new paddock?",
+      "options": [
+        {
+          "text": "A. It makes herding unnecessary in every situation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces escape, injury and access to unsafe areas."
+        },
+        {
+          "text": "B. It improves the pasture's protein content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces escape, injury and access to unsafe areas."
+        },
+        {
+          "text": "C. It replaces animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces escape, injury and access to unsafe areas."
+        },
+        {
+          "text": "D. It reduces escape, injury and access to unsafe areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces escape, injury and access to unsafe areas."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 299,
+      "question": "Why should cattle transport be planned to avoid unnecessary delays and overcrowding?",
+      "options": [
+        {
+          "text": "A. Longer journeys always improve meat quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good planning reduces heat, fatigue, injury and welfare risks."
+        },
+        {
+          "text": "B. Overcrowding prevents falls",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good planning reduces heat, fatigue, injury and welfare risks."
+        },
+        {
+          "text": "C. Good planning reduces heat, fatigue, injury and welfare risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Good planning reduces heat, fatigue, injury and welfare risks."
+        },
+        {
+          "text": "D. Transport stress improves immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good planning reduces heat, fatigue, injury and welfare risks."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 300,
+      "question": "What is a useful first step when several cattle show reduced appetite at the same time?",
+      "options": [
+        {
+          "text": "A. Assume every animal is simply bored",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check feed and water supplies, observe the group and seek veterinary advice as indicated."
+        },
+        {
+          "text": "B. Check feed and water supplies, observe the group and seek veterinary advice as indicated",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check feed and water supplies, observe the group and seek veterinary advice as indicated."
+        },
+        {
+          "text": "C. Increase concentrate sharply without checking the ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check feed and water supplies, observe the group and seek veterinary advice as indicated."
+        },
+        {
+          "text": "D. Stop supplying water until appetite returns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check feed and water supplies, observe the group and seek veterinary advice as indicated."
         }
       ],
       "part": 6
