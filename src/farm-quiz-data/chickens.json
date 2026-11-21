@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 330,
+  "total": 350,
   "questions": [
     {
       "number": 1,
@@ -8909,6 +8909,546 @@
           "text": "D. It guarantees that no disease is present",
           "correct": false,
           "feedback": "Not quite. The correct answer is It helps identify health and welfare trends that may require investigation."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 331,
+      "question": "Why should breeder hens and roosters be monitored for body condition?",
+      "options": [
+        {
+          "text": "A. It determines the colour of fertile eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate condition supports reproductive performance and welfare."
+        },
+        {
+          "text": "B. It replaces fertility testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate condition supports reproductive performance and welfare."
+        },
+        {
+          "text": "C. Appropriate condition supports reproductive performance and welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate condition supports reproductive performance and welfare."
+        },
+        {
+          "text": "D. It guarantees every egg will hatch",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate condition supports reproductive performance and welfare."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 332,
+      "question": "What is the purpose of maintaining an appropriate male-to-female ratio in a breeder flock?",
+      "options": [
+        {
+          "text": "A. It makes egg collection unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports effective mating while limiting excessive mating pressure on hens."
+        },
+        {
+          "text": "B. It supports effective mating while limiting excessive mating pressure on hens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports effective mating while limiting excessive mating pressure on hens."
+        },
+        {
+          "text": "C. It guarantees 100 percent fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports effective mating while limiting excessive mating pressure on hens."
+        },
+        {
+          "text": "D. It determines the birds' hatch date",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports effective mating while limiting excessive mating pressure on hens."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 333,
+      "question": "Why should breeder roosters be checked for leg and foot soundness?",
+      "options": [
+        {
+          "text": "A. Mobility problems can interfere with mating and cause welfare concerns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mobility problems can interfere with mating and cause welfare concerns."
+        },
+        {
+          "text": "B. It determines the egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mobility problems can interfere with mating and cause welfare concerns."
+        },
+        {
+          "text": "C. It replaces semen or fertility assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mobility problems can interfere with mating and cause welfare concerns."
+        },
+        {
+          "text": "D. It makes feed quality irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mobility problems can interfere with mating and cause welfare concerns."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 334,
+      "question": "What can a sudden decline in breeder flock fertility prompt the manager to review?",
+      "options": [
+        {
+          "text": "A. Only the colour of the nest curtains",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Male condition, mating activity, age, nutrition, disease and egg handling."
+        },
+        {
+          "text": "B. The farm's land title",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Male condition, mating activity, age, nutrition, disease and egg handling."
+        },
+        {
+          "text": "C. Whether the birds have access to litter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Male condition, mating activity, age, nutrition, disease and egg handling."
+        },
+        {
+          "text": "D. Male condition, mating activity, age, nutrition, disease and egg handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Male condition, mating activity, age, nutrition, disease and egg handling."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 335,
+      "question": "Why should hatching eggs be collected frequently and handled carefully?",
+      "options": [
+        {
+          "text": "A. It guarantees all eggs are fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces cracks and contamination that can impair hatch results."
+        },
+        {
+          "text": "B. It replaces breeder flock nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces cracks and contamination that can impair hatch results."
+        },
+        {
+          "text": "C. Careful handling reduces cracks and contamination that can impair hatch results",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Careful handling reduces cracks and contamination that can impair hatch results."
+        },
+        {
+          "text": "D. It changes the chicks' genetic sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces cracks and contamination that can impair hatch results."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 336,
+      "question": "What is the purpose of selecting hatching eggs of suitable size and shell quality?",
+      "options": [
+        {
+          "text": "A. It guarantees every embryo survives",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable eggs are more likely to support normal embryo development and handling."
+        },
+        {
+          "text": "B. Suitable eggs are more likely to support normal embryo development and handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suitable eggs are more likely to support normal embryo development and handling."
+        },
+        {
+          "text": "C. It replaces incubation control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable eggs are more likely to support normal embryo development and handling."
+        },
+        {
+          "text": "D. It determines the chicks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable eggs are more likely to support normal embryo development and handling."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 337,
+      "question": "Why should hatching eggs be stored under recommended conditions before setting?",
+      "options": [
+        {
+          "text": "A. Storage conditions influence embryo viability and hatchability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Storage conditions influence embryo viability and hatchability."
+        },
+        {
+          "text": "B. Warm, uncontrolled storage always improves hatch",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Storage conditions influence embryo viability and hatchability."
+        },
+        {
+          "text": "C. Storage has no effect on embryo development",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Storage conditions influence embryo viability and hatchability."
+        },
+        {
+          "text": "D. It replaces egg sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Storage conditions influence embryo viability and hatchability."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 338,
+      "question": "What is the purpose of turning eggs during incubation?",
+      "options": [
+        {
+          "text": "A. It determines the chicks' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning helps prevent the developing embryo from adhering to internal membranes and supports normal development."
+        },
+        {
+          "text": "B. It increases shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning helps prevent the developing embryo from adhering to internal membranes and supports normal development."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning helps prevent the developing embryo from adhering to internal membranes and supports normal development."
+        },
+        {
+          "text": "D. Turning helps prevent the developing embryo from adhering to internal membranes and supports normal development",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Turning helps prevent the developing embryo from adhering to internal membranes and supports normal development."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 339,
+      "question": "Why should incubator temperature be monitored accurately?",
+      "options": [
+        {
+          "text": "A. Temperature affects only shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Embryo development is sensitive to incubation temperature."
+        },
+        {
+          "text": "B. It replaces humidity monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Embryo development is sensitive to incubation temperature."
+        },
+        {
+          "text": "C. Embryo development is sensitive to incubation temperature",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Embryo development is sensitive to incubation temperature."
+        },
+        {
+          "text": "D. Any temperature gives the same hatch result",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Embryo development is sensitive to incubation temperature."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 340,
+      "question": "What can excessive humidity loss during incubation cause?",
+      "options": [
+        {
+          "text": "A. It guarantees earlier hatching",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The air cell may become too large and embryo development or hatch success may be impaired."
+        },
+        {
+          "text": "B. The air cell may become too large and embryo development or hatch success may be impaired",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The air cell may become too large and embryo development or hatch success may be impaired."
+        },
+        {
+          "text": "C. It makes turning unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The air cell may become too large and embryo development or hatch success may be impaired."
+        },
+        {
+          "text": "D. It increases egg fertility after setting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The air cell may become too large and embryo development or hatch success may be impaired."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 341,
+      "question": "Why should incubator humidity be managed according to equipment and egg requirements?",
+      "options": [
+        {
+          "text": "A. Humidity influences moisture loss from eggs during incubation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Humidity influences moisture loss from eggs during incubation."
+        },
+        {
+          "text": "B. Humidity determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Humidity influences moisture loss from eggs during incubation."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Humidity influences moisture loss from eggs during incubation."
+        },
+        {
+          "text": "D. It guarantees that all chicks hatch at once",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Humidity influences moisture loss from eggs during incubation."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 342,
+      "question": "What is the purpose of ventilation in an egg incubator?",
+      "options": [
+        {
+          "text": "A. It prevents the need for temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies oxygen and removes carbon dioxide and excess heat."
+        },
+        {
+          "text": "B. It determines chick feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies oxygen and removes carbon dioxide and excess heat."
+        },
+        {
+          "text": "C. It sterilises eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies oxygen and removes carbon dioxide and excess heat."
+        },
+        {
+          "text": "D. It supplies oxygen and removes carbon dioxide and excess heat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supplies oxygen and removes carbon dioxide and excess heat."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 343,
+      "question": "Why should hatchery equipment be cleaned and disinfected between batches?",
+      "options": [
+        {
+          "text": "A. It improves the genetic quality of embryos",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of carrying pathogens from one hatch to the next."
+        },
+        {
+          "text": "B. It replaces egg selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of carrying pathogens from one hatch to the next."
+        },
+        {
+          "text": "C. It reduces the risk of carrying pathogens from one hatch to the next",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the risk of carrying pathogens from one hatch to the next."
+        },
+        {
+          "text": "D. It makes staff hygiene unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of carrying pathogens from one hatch to the next."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 344,
+      "question": "What is a hatch window?",
+      "options": [
+        {
+          "text": "A. The time a hen spends laying one egg",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period over which chicks from the same set of eggs emerge."
+        },
+        {
+          "text": "B. The period over which chicks from the same set of eggs emerge",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The period over which chicks from the same set of eggs emerge."
+        },
+        {
+          "text": "C. The opening in a poultry house wall",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period over which chicks from the same set of eggs emerge."
+        },
+        {
+          "text": "D. The time required to clean a nest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period over which chicks from the same set of eggs emerge."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 345,
+      "question": "Why should chicks be removed from the hatcher at an appropriate time?",
+      "options": [
+        {
+          "text": "A. It helps avoid excessive dehydration or chilling while allowing normal hatch completion",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps avoid excessive dehydration or chilling while allowing normal hatch completion."
+        },
+        {
+          "text": "B. It guarantees every chick is the same weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid excessive dehydration or chilling while allowing normal hatch completion."
+        },
+        {
+          "text": "C. It replaces chick grading",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid excessive dehydration or chilling while allowing normal hatch completion."
+        },
+        {
+          "text": "D. It changes the incubation period",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid excessive dehydration or chilling while allowing normal hatch completion."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 346,
+      "question": "What is the purpose of checking chick quality at hatch?",
+      "options": [
+        {
+          "text": "A. It determines the future egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify weak, abnormal or unfit chicks that need appropriate action."
+        },
+        {
+          "text": "B. It replaces breeder flock records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify weak, abnormal or unfit chicks that need appropriate action."
+        },
+        {
+          "text": "C. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify weak, abnormal or unfit chicks that need appropriate action."
+        },
+        {
+          "text": "D. It helps identify weak, abnormal or unfit chicks that need appropriate action",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify weak, abnormal or unfit chicks that need appropriate action."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 347,
+      "question": "Why should newly hatched chicks be transported in suitable ventilated containers?",
+      "options": [
+        {
+          "text": "A. Sealed containers prevent disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate ventilation and space help prevent overheating, chilling and injury."
+        },
+        {
+          "text": "B. Crowding improves chick growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate ventilation and space help prevent overheating, chilling and injury."
+        },
+        {
+          "text": "C. Appropriate ventilation and space help prevent overheating, chilling and injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate ventilation and space help prevent overheating, chilling and injury."
+        },
+        {
+          "text": "D. It replaces transport planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate ventilation and space help prevent overheating, chilling and injury."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 348,
+      "question": "What should be monitored during chick transport?",
+      "options": [
+        {
+          "text": "A. Only the vehicle colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, ventilation, journey duration, stocking and chick condition."
+        },
+        {
+          "text": "B. Temperature, ventilation, journey duration, stocking and chick condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Temperature, ventilation, journey duration, stocking and chick condition."
+        },
+        {
+          "text": "C. The price of the destination farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, ventilation, journey duration, stocking and chick condition."
+        },
+        {
+          "text": "D. The breed of the driver",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature, ventilation, journey duration, stocking and chick condition."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 349,
+      "question": "Why should chicks be checked promptly after arrival at the broiler or rearing farm?",
+      "options": [
+        {
+          "text": "A. Early checks help confirm they are active and have access to feed, water and suitable conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early checks help confirm they are active and have access to feed, water and suitable conditions."
+        },
+        {
+          "text": "B. It determines their adult bodyweight exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early checks help confirm they are active and have access to feed, water and suitable conditions."
+        },
+        {
+          "text": "C. It replaces brooding management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early checks help confirm they are active and have access to feed, water and suitable conditions."
+        },
+        {
+          "text": "D. It guarantees that no chick is stressed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early checks help confirm they are active and have access to feed, water and suitable conditions."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 350,
+      "question": "What is the purpose of recording hatchability by breeder flock and egg batch?",
+      "options": [
+        {
+          "text": "A. It measures the farm's feed conversion ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns related to fertility, egg handling and incubation performance."
+        },
+        {
+          "text": "B. It replaces egg collection records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns related to fertility, egg handling and incubation performance."
+        },
+        {
+          "text": "C. It guarantees future hatch results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns related to fertility, egg handling and incubation performance."
+        },
+        {
+          "text": "D. It helps identify patterns related to fertility, egg handling and incubation performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify patterns related to fertility, egg handling and incubation performance."
         }
       ],
       "part": 7
