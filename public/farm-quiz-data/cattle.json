@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 400,
+  "total": 420,
   "questions": [
     {
       "number": 1,
@@ -10802,6 +10802,546 @@
         }
       ],
       "part": 8
+    },
+    {
+      "number": 401,
+      "question": "Why should breeding cows be evaluated for feet and leg soundness?",
+      "options": [
+        {
+          "text": "A. It determines milk colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound feet and legs support mobility, grazing, mating and long-term welfare."
+        },
+        {
+          "text": "B. It replaces fertility records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound feet and legs support mobility, grazing, mating and long-term welfare."
+        },
+        {
+          "text": "C. Sound feet and legs support mobility, grazing, mating and long-term welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Sound feet and legs support mobility, grazing, mating and long-term welfare."
+        },
+        {
+          "text": "D. It guarantees high calf birthweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound feet and legs support mobility, grazing, mating and long-term welfare."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 402,
+      "question": "What is the purpose of selecting replacement heifers from cows with reliable maternal records?",
+      "options": [
+        {
+          "text": "A. It guarantees every heifer will calve without assistance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can improve the consistency of maternal traits in the herd over generations."
+        },
+        {
+          "text": "B. It can improve the consistency of maternal traits in the herd over generations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can improve the consistency of maternal traits in the herd over generations."
+        },
+        {
+          "text": "C. It replaces genetic diversity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can improve the consistency of maternal traits in the herd over generations."
+        },
+        {
+          "text": "D. It determines the pasture's mineral content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can improve the consistency of maternal traits in the herd over generations."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 403,
+      "question": "Why should mature cow size be considered when choosing replacement females?",
+      "options": [
+        {
+          "text": "A. Cow size influences maintenance requirements and the resources needed to keep the herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cow size influences maintenance requirements and the resources needed to keep the herd."
+        },
+        {
+          "text": "B. It identifies the sire without records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cow size influences maintenance requirements and the resources needed to keep the herd."
+        },
+        {
+          "text": "C. It guarantees twin births",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cow size influences maintenance requirements and the resources needed to keep the herd."
+        },
+        {
+          "text": "D. It has no relationship to feed demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cow size influences maintenance requirements and the resources needed to keep the herd."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 404,
+      "question": "What does a calving-ease breeding value aim to estimate?",
+      "options": [
+        {
+          "text": "A. The cow's daily water intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The genetic tendency for an animal to produce calves with greater or lesser calving difficulty."
+        },
+        {
+          "text": "B. The colour of the calf's coat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The genetic tendency for an animal to produce calves with greater or lesser calving difficulty."
+        },
+        {
+          "text": "C. The number of times a cow chews cud",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The genetic tendency for an animal to produce calves with greater or lesser calving difficulty."
+        },
+        {
+          "text": "D. The genetic tendency for an animal to produce calves with greater or lesser calving difficulty",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The genetic tendency for an animal to produce calves with greater or lesser calving difficulty."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 405,
+      "question": "Why should birthweight be considered together with calving-ease information?",
+      "options": [
+        {
+          "text": "A. Birthweight alone predicts every calving outcome",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birthweight is one factor related to calving difficulty, but it is not the only factor."
+        },
+        {
+          "text": "B. Calving ease is unrelated to genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birthweight is one factor related to calving difficulty, but it is not the only factor."
+        },
+        {
+          "text": "C. Birthweight is one factor related to calving difficulty, but it is not the only factor",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Birthweight is one factor related to calving difficulty, but it is not the only factor."
+        },
+        {
+          "text": "D. It replaces observing the cow during labour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Birthweight is one factor related to calving difficulty, but it is not the only factor."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 406,
+      "question": "What is the purpose of crossbreeding in cattle production?",
+      "options": [
+        {
+          "text": "A. It guarantees that all offspring are identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can combine useful traits from different breeds and may provide hybrid vigour."
+        },
+        {
+          "text": "B. It can combine useful traits from different breeds and may provide hybrid vigour",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can combine useful traits from different breeds and may provide hybrid vigour."
+        },
+        {
+          "text": "C. It removes the need for selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can combine useful traits from different breeds and may provide hybrid vigour."
+        },
+        {
+          "text": "D. It always produces the largest possible animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can combine useful traits from different breeds and may provide hybrid vigour."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 407,
+      "question": "Why should crossbreeding plans consider the environment and production system?",
+      "options": [
+        {
+          "text": "A. Breed performance depends on adaptation, feed resources, climate and management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Breed performance depends on adaptation, feed resources, climate and management."
+        },
+        {
+          "text": "B. A breed performs identically in every environment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breed performance depends on adaptation, feed resources, climate and management."
+        },
+        {
+          "text": "C. Climate affects coat colour only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breed performance depends on adaptation, feed resources, climate and management."
+        },
+        {
+          "text": "D. It makes market goals irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breed performance depends on adaptation, feed resources, climate and management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 408,
+      "question": "What is the purpose of keeping a closed breeding herd where practical?",
+      "options": [
+        {
+          "text": "A. It guarantees that no infection exists in the herd",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce some disease-introduction risks, although other biosecurity measures remain necessary."
+        },
+        {
+          "text": "B. It eliminates the need for testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce some disease-introduction risks, although other biosecurity measures remain necessary."
+        },
+        {
+          "text": "C. It prevents all genetic improvement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce some disease-introduction risks, although other biosecurity measures remain necessary."
+        },
+        {
+          "text": "D. It can reduce some disease-introduction risks, although other biosecurity measures remain necessary",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce some disease-introduction risks, although other biosecurity measures remain necessary."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 409,
+      "question": "Why should inbreeding be monitored in a cattle breeding programme?",
+      "options": [
+        {
+          "text": "A. Inbreeding guarantees higher fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive related mating can increase the risk of inherited defects and reduced performance."
+        },
+        {
+          "text": "B. It makes parentage records unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive related mating can increase the risk of inherited defects and reduced performance."
+        },
+        {
+          "text": "C. Excessive related mating can increase the risk of inherited defects and reduced performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive related mating can increase the risk of inherited defects and reduced performance."
+        },
+        {
+          "text": "D. It prevents genetic variation from changing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive related mating can increase the risk of inherited defects and reduced performance."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 410,
+      "question": "What is the value of using estimated breeding values from a reliable evaluation programme?",
+      "options": [
+        {
+          "text": "A. They predict the exact performance of every individual offspring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help compare the genetic merit of animals for defined traits."
+        },
+        {
+          "text": "B. They help compare the genetic merit of animals for defined traits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help compare the genetic merit of animals for defined traits."
+        },
+        {
+          "text": "C. They replace on-farm performance records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help compare the genetic merit of animals for defined traits."
+        },
+        {
+          "text": "D. They measure current body temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help compare the genetic merit of animals for defined traits."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "Why should a farmer avoid choosing breeding bulls only by appearance?",
+      "options": [
+        {
+          "text": "A. Visual appearance alone does not reveal all fertility, health and inherited performance traits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Visual appearance alone does not reveal all fertility, health and inherited performance traits."
+        },
+        {
+          "text": "B. Appearance always identifies every genetic trait",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visual appearance alone does not reveal all fertility, health and inherited performance traits."
+        },
+        {
+          "text": "C. A bull's appearance determines cow nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visual appearance alone does not reveal all fertility, health and inherited performance traits."
+        },
+        {
+          "text": "D. Visual selection removes the need for health checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visual appearance alone does not reveal all fertility, health and inherited performance traits."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "What is a useful reason to examine a bull's feet and legs before breeding?",
+      "options": [
+        {
+          "text": "A. It determines the colour of calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness or structural problems can limit mounting and breeding activity."
+        },
+        {
+          "text": "B. It replaces semen evaluation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness or structural problems can limit mounting and breeding activity."
+        },
+        {
+          "text": "C. It predicts pasture yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness or structural problems can limit mounting and breeding activity."
+        },
+        {
+          "text": "D. Lameness or structural problems can limit mounting and breeding activity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lameness or structural problems can limit mounting and breeding activity."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "Why should breeding bulls be monitored for body condition during the mating season?",
+      "options": [
+        {
+          "text": "A. Body condition has no effect on working animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect health, mobility and reproductive performance."
+        },
+        {
+          "text": "B. It determines the number of cows in the herd",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect health, mobility and reproductive performance."
+        },
+        {
+          "text": "C. Poor or excessive condition can affect health, mobility and reproductive performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor or excessive condition can affect health, mobility and reproductive performance."
+        },
+        {
+          "text": "D. It guarantees successful mating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect health, mobility and reproductive performance."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "What is the purpose of a defined breeding season in a beef herd?",
+      "options": [
+        {
+          "text": "A. It makes every cow conceive on the same day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It concentrates calving periods and can make nutrition, labour and calf management more organised."
+        },
+        {
+          "text": "B. It concentrates calving periods and can make nutrition, labour and calf management more organised",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It concentrates calving periods and can make nutrition, labour and calf management more organised."
+        },
+        {
+          "text": "C. It eliminates calving problems",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It concentrates calving periods and can make nutrition, labour and calf management more organised."
+        },
+        {
+          "text": "D. It prevents the need for pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It concentrates calving periods and can make nutrition, labour and calf management more organised."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "Why should cows be grouped by expected calving date when facilities allow?",
+      "options": [
+        {
+          "text": "A. It helps focus observation and prepare appropriate calving management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps focus observation and prepare appropriate calving management."
+        },
+        {
+          "text": "B. It changes the gestation length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps focus observation and prepare appropriate calving management."
+        },
+        {
+          "text": "C. It guarantees no night calving",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps focus observation and prepare appropriate calving management."
+        },
+        {
+          "text": "D. It removes the need for identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps focus observation and prepare appropriate calving management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "What should be considered when deciding whether a heifer is ready for first breeding?",
+      "options": [
+        {
+          "text": "A. Age alone regardless of size or condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Age, body development, weight, health and breed or system-specific guidance."
+        },
+        {
+          "text": "B. Coat colour and horn shape only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Age, body development, weight, health and breed or system-specific guidance."
+        },
+        {
+          "text": "C. Whether the heifer has been sold before",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Age, body development, weight, health and breed or system-specific guidance."
+        },
+        {
+          "text": "D. Age, body development, weight, health and breed or system-specific guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Age, body development, weight, health and breed or system-specific guidance."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "Why is adequate growth before first breeding important for replacement heifers?",
+      "options": [
+        {
+          "text": "A. It guarantees twins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports the heifer's ability to maintain herself while becoming pregnant and growing."
+        },
+        {
+          "text": "B. It removes all calving risk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports the heifer's ability to maintain herself while becoming pregnant and growing."
+        },
+        {
+          "text": "C. It supports the heifer's ability to maintain herself while becoming pregnant and growing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports the heifer's ability to maintain herself while becoming pregnant and growing."
+        },
+        {
+          "text": "D. It means she no longer needs a balanced ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports the heifer's ability to maintain herself while becoming pregnant and growing."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "What is the purpose of monitoring heifer pregnancy rates separately from mature cows?",
+      "options": [
+        {
+          "text": "A. Heifers always have the same fertility as mature cows",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether heifer development, breeding or management needs adjustment."
+        },
+        {
+          "text": "B. It can reveal whether heifer development, breeding or management needs adjustment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reveal whether heifer development, breeding or management needs adjustment."
+        },
+        {
+          "text": "C. It determines milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether heifer development, breeding or management needs adjustment."
+        },
+        {
+          "text": "D. It replaces sire records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether heifer development, breeding or management needs adjustment."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "Why should first-calf heifers receive appropriate attention around calving?",
+      "options": [
+        {
+          "text": "A. They may need closer observation because they are still growing and may have greater calving-management needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may need closer observation because they are still growing and may have greater calving-management needs."
+        },
+        {
+          "text": "B. They never experience calving difficulty",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation because they are still growing and may have greater calving-management needs."
+        },
+        {
+          "text": "C. They do not require colostrum management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation because they are still growing and may have greater calving-management needs."
+        },
+        {
+          "text": "D. They should always be separated from water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation because they are still growing and may have greater calving-management needs."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "What is the purpose of reviewing a breeding programme after each calving season?",
+      "options": [
+        {
+          "text": "A. It guarantees identical results next year",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows results to inform future sire selection, cow management and breeding targets."
+        },
+        {
+          "text": "B. It makes records from previous years irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows results to inform future sire selection, cow management and breeding targets."
+        },
+        {
+          "text": "C. It replaces veterinary input",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows results to inform future sire selection, cow management and breeding targets."
+        },
+        {
+          "text": "D. It allows results to inform future sire selection, cow management and breeding targets",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows results to inform future sire selection, cow management and breeding targets."
+        }
+      ],
+      "part": 9
     }
   ]
 }
