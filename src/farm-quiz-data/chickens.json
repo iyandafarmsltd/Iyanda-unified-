@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 290,
+  "total": 310,
   "questions": [
     {
       "number": 1,
@@ -7832,6 +7832,546 @@
         }
       ],
       "part": 6
+    },
+    {
+      "number": 291,
+      "question": "Why should poultry house temperature be monitored at several locations?",
+      "options": [
+        {
+          "text": "A. It determines feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature can vary across the building, creating uneven bird comfort."
+        },
+        {
+          "text": "B. It replaces checking chick behaviour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature can vary across the building, creating uneven bird comfort."
+        },
+        {
+          "text": "C. All parts of a poultry house always have identical temperatures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature can vary across the building, creating uneven bird comfort."
+        },
+        {
+          "text": "D. Temperature can vary across the building, creating uneven bird comfort",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Temperature can vary across the building, creating uneven bird comfort."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "What can birds crowding near a brooder or heat source indicate?",
+      "options": [
+        {
+          "text": "A. They are always ready for slaughter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be too cold or experiencing uneven heat distribution."
+        },
+        {
+          "text": "B. It proves the feed is contaminated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be too cold or experiencing uneven heat distribution."
+        },
+        {
+          "text": "C. They may be too cold or experiencing uneven heat distribution",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may be too cold or experiencing uneven heat distribution."
+        },
+        {
+          "text": "D. It indicates ideal temperature in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be too cold or experiencing uneven heat distribution."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "Why should broiler house lighting programmes be managed consistently?",
+      "options": [
+        {
+          "text": "A. Lighting determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent lighting supports predictable activity, feeding and rest patterns."
+        },
+        {
+          "text": "B. Consistent lighting supports predictable activity, feeding and rest patterns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent lighting supports predictable activity, feeding and rest patterns."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent lighting supports predictable activity, feeding and rest patterns."
+        },
+        {
+          "text": "D. It guarantees a fixed growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent lighting supports predictable activity, feeding and rest patterns."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "What is one reason to provide an appropriate dark period for broilers?",
+      "options": [
+        {
+          "text": "A. A suitable rest period supports normal behaviour and welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A suitable rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "B. It prevents birds from needing water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "C. It increases stocking density safely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "D. It eliminates the need for observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable rest period supports normal behaviour and welfare."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 295,
+      "question": "Why should poultry house generators be tested before an emergency occurs?",
+      "options": [
+        {
+          "text": "A. It improves vaccine potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm backup power can operate essential equipment when needed."
+        },
+        {
+          "text": "B. It replaces routine electrical maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm backup power can operate essential equipment when needed."
+        },
+        {
+          "text": "C. It guarantees that fuel never runs out",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm backup power can operate essential equipment when needed."
+        },
+        {
+          "text": "D. Testing helps confirm backup power can operate essential equipment when needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Testing helps confirm backup power can operate essential equipment when needed."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 296,
+      "question": "What should a farm include in an emergency plan for ventilation failure?",
+      "options": [
+        {
+          "text": "A. Instructions to seal every opening permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A clear response for restoring airflow, alerting staff and protecting the flock."
+        },
+        {
+          "text": "B. A plan to stop water supply",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A clear response for restoring airflow, alerting staff and protecting the flock."
+        },
+        {
+          "text": "C. A clear response for restoring airflow, alerting staff and protecting the flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A clear response for restoring airflow, alerting staff and protecting the flock."
+        },
+        {
+          "text": "D. Only a record of the fan purchase date",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A clear response for restoring airflow, alerting staff and protecting the flock."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 297,
+      "question": "Why is alarm testing important in mechanically ventilated poultry houses?",
+      "options": [
+        {
+          "text": "A. Alarms control bird genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alarms can alert staff to equipment or environmental failures that threaten birds."
+        },
+        {
+          "text": "B. Alarms can alert staff to equipment or environmental failures that threaten birds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Alarms can alert staff to equipment or environmental failures that threaten birds."
+        },
+        {
+          "text": "C. Alarms replace backup power",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alarms can alert staff to equipment or environmental failures that threaten birds."
+        },
+        {
+          "text": "D. Alarms make manual checks unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Alarms can alert staff to equipment or environmental failures that threaten birds."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 298,
+      "question": "What can condensation on poultry house walls or ceilings suggest?",
+      "options": [
+        {
+          "text": "A. Excess moisture and inadequate moisture removal or air movement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess moisture and inadequate moisture removal or air movement."
+        },
+        {
+          "text": "B. The birds are all dehydrated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture and inadequate moisture removal or air movement."
+        },
+        {
+          "text": "C. The feed contains too much calcium",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture and inadequate moisture removal or air movement."
+        },
+        {
+          "text": "D. The house has ideal litter conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess moisture and inadequate moisture removal or air movement."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 299,
+      "question": "Why should litter depth and condition be checked before placing a new broiler flock?",
+      "options": [
+        {
+          "text": "A. Litter depth determines hatchery sexing accuracy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter can contribute to wetness, ammonia and early footpad problems."
+        },
+        {
+          "text": "B. It replaces cleaning and disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter can contribute to wetness, ammonia and early footpad problems."
+        },
+        {
+          "text": "C. Old wet litter is always safest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor litter can contribute to wetness, ammonia and early footpad problems."
+        },
+        {
+          "text": "D. Poor litter can contribute to wetness, ammonia and early footpad problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor litter can contribute to wetness, ammonia and early footpad problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 300,
+      "question": "What is the purpose of allowing a poultry house to dry after cleaning?",
+      "options": [
+        {
+          "text": "A. It increases the number of pests",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support pathogen survival."
+        },
+        {
+          "text": "B. It replaces the need for cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support pathogen survival."
+        },
+        {
+          "text": "C. Drying helps reduce residual moisture that can support pathogen survival",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Drying helps reduce residual moisture that can support pathogen survival."
+        },
+        {
+          "text": "D. It guarantees complete sterilisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support pathogen survival."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 301,
+      "question": "Why should cleaning and disinfection follow a defined sequence?",
+      "options": [
+        {
+          "text": "A. Disinfectant works best through thick manure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing organic matter first improves the effectiveness of subsequent disinfection."
+        },
+        {
+          "text": "B. Removing organic matter first improves the effectiveness of subsequent disinfection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Removing organic matter first improves the effectiveness of subsequent disinfection."
+        },
+        {
+          "text": "C. Sequence has no effect on hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing organic matter first improves the effectiveness of subsequent disinfection."
+        },
+        {
+          "text": "D. It makes water testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing organic matter first improves the effectiveness of subsequent disinfection."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 302,
+      "question": "What is the purpose of using dedicated footwear or boot changes at poultry house entrances?",
+      "options": [
+        {
+          "text": "A. It helps reduce the transfer of contaminants into the poultry area",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reduce the transfer of contaminants into the poultry area."
+        },
+        {
+          "text": "B. It changes bird feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce the transfer of contaminants into the poultry area."
+        },
+        {
+          "text": "C. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce the transfer of contaminants into the poultry area."
+        },
+        {
+          "text": "D. It guarantees that visitors carry no pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce the transfer of contaminants into the poultry area."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 303,
+      "question": "Why should equipment be cleaned before it is moved between poultry houses?",
+      "options": [
+        {
+          "text": "A. Cleaning changes the equipment's capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can carry infectious material between flocks."
+        },
+        {
+          "text": "B. It prevents the need for flock records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can carry infectious material between flocks."
+        },
+        {
+          "text": "C. It guarantees that all diseases are eliminated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can carry infectious material between flocks."
+        },
+        {
+          "text": "D. Shared equipment can carry infectious material between flocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shared equipment can carry infectious material between flocks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 304,
+      "question": "What is one reason to control rodents around poultry feed stores?",
+      "options": [
+        {
+          "text": "A. Rodents improve feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and spread pathogens."
+        },
+        {
+          "text": "B. Rodents prevent mycotoxin growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and spread pathogens."
+        },
+        {
+          "text": "C. Rodents can contaminate feed and spread pathogens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rodents can contaminate feed and spread pathogens."
+        },
+        {
+          "text": "D. They are needed for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rodents can contaminate feed and spread pathogens."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 305,
+      "question": "Why should spilled feed around poultry houses be removed promptly?",
+      "options": [
+        {
+          "text": "A. It improves the birds' feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds and increase biosecurity risks."
+        },
+        {
+          "text": "B. Spilled feed can attract rodents and wild birds and increase biosecurity risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Spilled feed can attract rodents and wild birds and increase biosecurity risks."
+        },
+        {
+          "text": "C. It prevents litter from becoming wet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds and increase biosecurity risks."
+        },
+        {
+          "text": "D. It replaces pest monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spilled feed can attract rodents and wild birds and increase biosecurity risks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 306,
+      "question": "What should be done if wild birds are frequently entering a poultry house?",
+      "options": [
+        {
+          "text": "A. Identify and close entry points while maintaining proper ventilation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Identify and close entry points while maintaining proper ventilation."
+        },
+        {
+          "text": "B. Stop all ventilation permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify and close entry points while maintaining proper ventilation."
+        },
+        {
+          "text": "C. Provide feed to attract more wild birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify and close entry points while maintaining proper ventilation."
+        },
+        {
+          "text": "D. Ignore the issue if birds appear healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify and close entry points while maintaining proper ventilation."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 307,
+      "question": "Why should poultry visitors be restricted to essential, authorised people?",
+      "options": [
+        {
+          "text": "A. Visitors improve flock immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fewer visitors reduce opportunities to introduce infectious agents."
+        },
+        {
+          "text": "B. It replaces vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fewer visitors reduce opportunities to introduce infectious agents."
+        },
+        {
+          "text": "C. It guarantees no pathogen can enter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fewer visitors reduce opportunities to introduce infectious agents."
+        },
+        {
+          "text": "D. Fewer visitors reduce opportunities to introduce infectious agents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fewer visitors reduce opportunities to introduce infectious agents."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 308,
+      "question": "What is the purpose of keeping a visitor log for poultry farms?",
+      "options": [
+        {
+          "text": "A. It determines the birds' age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability if a disease or biosecurity incident occurs."
+        },
+        {
+          "text": "B. It replaces cleaning records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability if a disease or biosecurity incident occurs."
+        },
+        {
+          "text": "C. It supports traceability if a disease or biosecurity incident occurs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports traceability if a disease or biosecurity incident occurs."
+        },
+        {
+          "text": "D. It proves visitors have no contact with other farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability if a disease or biosecurity incident occurs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 309,
+      "question": "Why should poultry workers avoid moving from older flocks to younger flocks without hygiene precautions?",
+      "options": [
+        {
+          "text": "A. Young chicks cannot become infected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Older birds may carry pathogens that pose greater risk to susceptible young chicks."
+        },
+        {
+          "text": "B. Older birds may carry pathogens that pose greater risk to susceptible young chicks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Older birds may carry pathogens that pose greater risk to susceptible young chicks."
+        },
+        {
+          "text": "C. Age has no relationship to disease risk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Older birds may carry pathogens that pose greater risk to susceptible young chicks."
+        },
+        {
+          "text": "D. It improves feed uniformity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Older birds may carry pathogens that pose greater risk to susceptible young chicks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 310,
+      "question": "What is the value of an all-in/all-out poultry production system where practical?",
+      "options": [
+        {
+          "text": "A. It allows a house to be emptied, cleaned and prepared between flocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows a house to be emptied, cleaned and prepared between flocks."
+        },
+        {
+          "text": "B. It means birds never need vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows a house to be emptied, cleaned and prepared between flocks."
+        },
+        {
+          "text": "C. It guarantees no disease occurs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows a house to be emptied, cleaned and prepared between flocks."
+        },
+        {
+          "text": "D. It removes the need to monitor house condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows a house to be emptied, cleaned and prepared between flocks."
+        }
+      ],
+      "part": 7
     }
   ]
 }
