@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 410,
+  "total": 430,
   "questions": [
     {
       "number": 1,
@@ -11069,6 +11069,546 @@
           "text": "D. A plan to turn off every water source permanently",
           "correct": false,
           "feedback": "Not quite. The correct answer is Clear responsibilities, safe routes, emergency contacts and actions to protect people and animals."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "Why should pullets be exposed to a lighting programme that changes gradually as they mature?",
+      "options": [
+        {
+          "text": "A. Lighting has no effect on maturity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled changes help manage sexual development and prepare birds for lay."
+        },
+        {
+          "text": "B. It guarantees all birds lay on the same day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled changes help manage sexual development and prepare birds for lay."
+        },
+        {
+          "text": "C. Controlled changes help manage sexual development and prepare birds for lay",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Controlled changes help manage sexual development and prepare birds for lay."
+        },
+        {
+          "text": "D. It replaces appropriate nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled changes help manage sexual development and prepare birds for lay."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "What can premature increases in day length during pullet rearing cause?",
+      "options": [
+        {
+          "text": "A. They prevent birds from laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may stimulate sexual maturity before birds are adequately developed."
+        },
+        {
+          "text": "B. They may stimulate sexual maturity before birds are adequately developed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may stimulate sexual maturity before birds are adequately developed."
+        },
+        {
+          "text": "C. They improve bodyweight uniformity automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may stimulate sexual maturity before birds are adequately developed."
+        },
+        {
+          "text": "D. They eliminate the need for nest training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may stimulate sexual maturity before birds are adequately developed."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "Why should light intensity be appropriate in a layer house?",
+      "options": [
+        {
+          "text": "A. Excessive or uneven light can contribute to stress, pecking or poor distribution",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive or uneven light can contribute to stress, pecking or poor distribution."
+        },
+        {
+          "text": "B. Light intensity determines egg shell calcium",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive or uneven light can contribute to stress, pecking or poor distribution."
+        },
+        {
+          "text": "C. Brighter light always improves welfare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive or uneven light can contribute to stress, pecking or poor distribution."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive or uneven light can contribute to stress, pecking or poor distribution."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "What is one reason to avoid sudden changes in a layer flock's lighting schedule?",
+      "options": [
+        {
+          "text": "A. It changes the genetic strain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt behaviour and production patterns."
+        },
+        {
+          "text": "B. It makes feed intake irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt behaviour and production patterns."
+        },
+        {
+          "text": "C. It guarantees a larger egg",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt behaviour and production patterns."
+        },
+        {
+          "text": "D. Abrupt changes can disrupt behaviour and production patterns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Abrupt changes can disrupt behaviour and production patterns."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "Why should layer hens have access to suitable litter for normal behaviour?",
+      "options": [
+        {
+          "text": "A. Litter replaces drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter provides opportunities for scratching, foraging and dust bathing."
+        },
+        {
+          "text": "B. It guarantees no pecking occurs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter provides opportunities for scratching, foraging and dust bathing."
+        },
+        {
+          "text": "C. Litter provides opportunities for scratching, foraging and dust bathing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Litter provides opportunities for scratching, foraging and dust bathing."
+        },
+        {
+          "text": "D. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter provides opportunities for scratching, foraging and dust bathing."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "What is the purpose of providing perches in suitable poultry systems?",
+      "options": [
+        {
+          "text": "A. They replace nest boxes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Perches allow birds to perform roosting behaviour."
+        },
+        {
+          "text": "B. Perches allow birds to perform roosting behaviour",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Perches allow birds to perform roosting behaviour."
+        },
+        {
+          "text": "C. They increase stocking density without limit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Perches allow birds to perform roosting behaviour."
+        },
+        {
+          "text": "D. They determine the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Perches allow birds to perform roosting behaviour."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "Why should perch design and placement be checked for safety?",
+      "options": [
+        {
+          "text": "A. Poorly designed perches can contribute to injuries or prevent comfortable use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poorly designed perches can contribute to injuries or prevent comfortable use."
+        },
+        {
+          "text": "B. Perch shape determines egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed perches can contribute to injuries or prevent comfortable use."
+        },
+        {
+          "text": "C. All perch designs are equally safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed perches can contribute to injuries or prevent comfortable use."
+        },
+        {
+          "text": "D. It replaces foot health monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed perches can contribute to injuries or prevent comfortable use."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "What can feather pecking in a poultry flock indicate?",
+      "options": [
+        {
+          "text": "A. It always means birds are moulting normally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A welfare or management problem involving factors such as nutrition, environment or stress."
+        },
+        {
+          "text": "B. It proves the flock is disease-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A welfare or management problem involving factors such as nutrition, environment or stress."
+        },
+        {
+          "text": "C. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A welfare or management problem involving factors such as nutrition, environment or stress."
+        },
+        {
+          "text": "D. A welfare or management problem involving factors such as nutrition, environment or stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A welfare or management problem involving factors such as nutrition, environment or stress."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "Why should beak treatment, where legally permitted and professionally advised, be managed carefully?",
+      "options": [
+        {
+          "text": "A. It is a substitute for good management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It must minimise pain and welfare impacts and follow applicable rules."
+        },
+        {
+          "text": "B. It guarantees that pecking will never occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It must minimise pain and welfare impacts and follow applicable rules."
+        },
+        {
+          "text": "C. It must minimise pain and welfare impacts and follow applicable rules",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It must minimise pain and welfare impacts and follow applicable rules."
+        },
+        {
+          "text": "D. It should be performed by any untrained visitor",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It must minimise pain and welfare impacts and follow applicable rules."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "What is a useful first response when feather pecking increases?",
+      "options": [
+        {
+          "text": "A. Increase light intensity without assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review lighting, stocking, feed, enrichment, health and other stressors."
+        },
+        {
+          "text": "B. Review lighting, stocking, feed, enrichment, health and other stressors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Review lighting, stocking, feed, enrichment, health and other stressors."
+        },
+        {
+          "text": "C. Remove all water points",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review lighting, stocking, feed, enrichment, health and other stressors."
+        },
+        {
+          "text": "D. Ignore the flock until slaughter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review lighting, stocking, feed, enrichment, health and other stressors."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "Why should poultry enrichment materials be safe, clean and appropriate for the birds?",
+      "options": [
+        {
+          "text": "A. Unsafe or contaminated materials can cause injury or introduce disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unsafe or contaminated materials can cause injury or introduce disease."
+        },
+        {
+          "text": "B. Enrichment always replaces litter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsafe or contaminated materials can cause injury or introduce disease."
+        },
+        {
+          "text": "C. Materials need no inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsafe or contaminated materials can cause injury or introduce disease."
+        },
+        {
+          "text": "D. It guarantees uniform growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unsafe or contaminated materials can cause injury or introduce disease."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "What is the purpose of providing dust-bathing opportunities where the system allows?",
+      "options": [
+        {
+          "text": "A. It replaces parasite control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust bathing is a natural behaviour that helps birds maintain their plumage."
+        },
+        {
+          "text": "B. It determines shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust bathing is a natural behaviour that helps birds maintain their plumage."
+        },
+        {
+          "text": "C. It prevents all feather pecking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust bathing is a natural behaviour that helps birds maintain their plumage."
+        },
+        {
+          "text": "D. Dust bathing is a natural behaviour that helps birds maintain their plumage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dust bathing is a natural behaviour that helps birds maintain their plumage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "Why should poultry house perches and nest boxes be distributed to reduce competition?",
+      "options": [
+        {
+          "text": "A. Competition improves egg hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate, accessible resources help reduce crowding and conflict."
+        },
+        {
+          "text": "B. It guarantees equal egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate, accessible resources help reduce crowding and conflict."
+        },
+        {
+          "text": "C. Adequate, accessible resources help reduce crowding and conflict",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate, accessible resources help reduce crowding and conflict."
+        },
+        {
+          "text": "D. It replaces flock monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate, accessible resources help reduce crowding and conflict."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "What can piling or smothering behaviour in layers sometimes signal?",
+      "options": [
+        {
+          "text": "A. A normal feeding pattern",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disturbance, fear, lighting issue or environmental problem requiring investigation."
+        },
+        {
+          "text": "B. A disturbance, fear, lighting issue or environmental problem requiring investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A disturbance, fear, lighting issue or environmental problem requiring investigation."
+        },
+        {
+          "text": "C. Proof of high egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disturbance, fear, lighting issue or environmental problem requiring investigation."
+        },
+        {
+          "text": "D. A sign that the birds need less space",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disturbance, fear, lighting issue or environmental problem requiring investigation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "Why should poultry houses be checked for sudden loud noises or other disturbance sources?",
+      "options": [
+        {
+          "text": "A. Disturbances can frighten birds and contribute to piling or injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disturbances can frighten birds and contribute to piling or injury."
+        },
+        {
+          "text": "B. Noise improves flock uniformity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disturbances can frighten birds and contribute to piling or injury."
+        },
+        {
+          "text": "C. It replaces biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disturbances can frighten birds and contribute to piling or injury."
+        },
+        {
+          "text": "D. It determines feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disturbances can frighten birds and contribute to piling or injury."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "What is the purpose of monitoring feather cover in breeder hens?",
+      "options": [
+        {
+          "text": "A. It measures egg weight directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feather condition can provide information about welfare, mating activity and management."
+        },
+        {
+          "text": "B. It replaces body condition scoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feather condition can provide information about welfare, mating activity and management."
+        },
+        {
+          "text": "C. It determines the chicks' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feather condition can provide information about welfare, mating activity and management."
+        },
+        {
+          "text": "D. Feather condition can provide information about welfare, mating activity and management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feather condition can provide information about welfare, mating activity and management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "Why should breeder flock mating behaviour be observed?",
+      "options": [
+        {
+          "text": "A. It guarantees every egg is fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether mating is occurring effectively and without excessive injury."
+        },
+        {
+          "text": "B. It replaces hatchery monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether mating is occurring effectively and without excessive injury."
+        },
+        {
+          "text": "C. It helps assess whether mating is occurring effectively and without excessive injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess whether mating is occurring effectively and without excessive injury."
+        },
+        {
+          "text": "D. It determines the birds' age exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether mating is occurring effectively and without excessive injury."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "What can a sudden rise in floor-laid eggs in breeder houses indicate?",
+      "options": [
+        {
+          "text": "A. It proves fertility has increased",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest training, lighting or management conditions may need adjustment."
+        },
+        {
+          "text": "B. Nest access, nest training, lighting or management conditions may need adjustment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nest access, nest training, lighting or management conditions may need adjustment."
+        },
+        {
+          "text": "C. It means incubator humidity is too low",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest training, lighting or management conditions may need adjustment."
+        },
+        {
+          "text": "D. It is unrelated to nest management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest training, lighting or management conditions may need adjustment."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "Why should breeder eggs be identified by flock and collection date?",
+      "options": [
+        {
+          "text": "A. Batch identification supports traceability and analysis of hatchery outcomes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Batch identification supports traceability and analysis of hatchery outcomes."
+        },
+        {
+          "text": "B. It changes embryo development",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch identification supports traceability and analysis of hatchery outcomes."
+        },
+        {
+          "text": "C. It replaces egg sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch identification supports traceability and analysis of hatchery outcomes."
+        },
+        {
+          "text": "D. It guarantees hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch identification supports traceability and analysis of hatchery outcomes."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "What is the purpose of comparing fertility and hatchability separately?",
+      "options": [
+        {
+          "text": "A. Both terms always mean exactly the same thing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator."
+        },
+        {
+          "text": "B. Hatchability measures feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator."
+        },
+        {
+          "text": "C. Fertility is determined after chicks are sold",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator."
+        },
+        {
+          "text": "D. Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator."
         }
       ],
       "part": 9
