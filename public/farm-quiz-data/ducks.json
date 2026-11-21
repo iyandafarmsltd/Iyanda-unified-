@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 485,
+  "total": 500,
   "questions": [
     {
       "number": 1,
@@ -13094,6 +13094,411 @@
           "text": "D. They guarantee a profit",
           "correct": false,
           "feedback": "Not quite. The correct answer is Clear goals help assess progress and guide practical management decisions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 486,
+      "question": "Why should duck farm records identify the person responsible for completing daily checks?",
+      "options": [
+        {
+          "text": "A. It determines the duck's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Named responsibility improves accountability and helps follow up on missed checks."
+        },
+        {
+          "text": "B. It replaces training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Named responsibility improves accountability and helps follow up on missed checks."
+        },
+        {
+          "text": "C. Named responsibility improves accountability and helps follow up on missed checks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Named responsibility improves accountability and helps follow up on missed checks."
+        },
+        {
+          "text": "D. It guarantees that every check is correct",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Named responsibility improves accountability and helps follow up on missed checks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 487,
+      "question": "What is the purpose of reviewing duck-farm records at the end of each production cycle?",
+      "options": [
+        {
+          "text": "A. It erases the need for new records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review helps identify trends and practical improvements for the next cycle."
+        },
+        {
+          "text": "B. It determines pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review helps identify trends and practical improvements for the next cycle."
+        },
+        {
+          "text": "C. It guarantees identical results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review helps identify trends and practical improvements for the next cycle."
+        },
+        {
+          "text": "D. Review helps identify trends and practical improvements for the next cycle",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Review helps identify trends and practical improvements for the next cycle."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 488,
+      "question": "Why should a duck farm keep written procedures for receiving new birds?",
+      "options": [
+        {
+          "text": "A. Consistent checks support quarantine, health assessment and biosecurity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent checks support quarantine, health assessment and biosecurity."
+        },
+        {
+          "text": "B. It guarantees new birds carry no pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent checks support quarantine, health assessment and biosecurity."
+        },
+        {
+          "text": "C. It replaces veterinary guidance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent checks support quarantine, health assessment and biosecurity."
+        },
+        {
+          "text": "D. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent checks support quarantine, health assessment and biosecurity."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 489,
+      "question": "What should be confirmed before releasing quarantined ducks into the main flock?",
+      "options": [
+        {
+          "text": "A. They have the same feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned observation period and health checks have been completed with appropriate veterinary guidance."
+        },
+        {
+          "text": "B. The planned observation period and health checks have been completed with appropriate veterinary guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The planned observation period and health checks have been completed with appropriate veterinary guidance."
+        },
+        {
+          "text": "C. They have eaten one meal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned observation period and health checks have been completed with appropriate veterinary guidance."
+        },
+        {
+          "text": "D. The pond is full",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The planned observation period and health checks have been completed with appropriate veterinary guidance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 490,
+      "question": "Why should duck farms review biosecurity procedures when a nearby disease outbreak is reported?",
+      "options": [
+        {
+          "text": "A. Biosecurity is no longer necessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Local risk may change and additional precautions may be needed."
+        },
+        {
+          "text": "B. It guarantees the farm is infected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Local risk may change and additional precautions may be needed."
+        },
+        {
+          "text": "C. Local risk may change and additional precautions may be needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Local risk may change and additional precautions may be needed."
+        },
+        {
+          "text": "D. It replaces official advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Local risk may change and additional precautions may be needed."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 491,
+      "question": "What is the purpose of maintaining a contact list for the farm veterinarian and animal-health authority?",
+      "options": [
+        {
+          "text": "A. It determines feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables prompt communication when health concerns or emergencies arise."
+        },
+        {
+          "text": "B. It replaces disease reporting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables prompt communication when health concerns or emergencies arise."
+        },
+        {
+          "text": "C. It guarantees immediate treatment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables prompt communication when health concerns or emergencies arise."
+        },
+        {
+          "text": "D. It enables prompt communication when health concerns or emergencies arise",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It enables prompt communication when health concerns or emergencies arise."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 492,
+      "question": "Why should duck farm managers verify that staff understand medicine withdrawal instructions?",
+      "options": [
+        {
+          "text": "A. Misunderstanding can lead to unsafe eggs or meat entering the food chain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Misunderstanding can lead to unsafe eggs or meat entering the food chain."
+        },
+        {
+          "text": "B. It determines the birds' growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misunderstanding can lead to unsafe eggs or meat entering the food chain."
+        },
+        {
+          "text": "C. It replaces product labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misunderstanding can lead to unsafe eggs or meat entering the food chain."
+        },
+        {
+          "text": "D. It guarantees no residues",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misunderstanding can lead to unsafe eggs or meat entering the food chain."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 493,
+      "question": "What is the purpose of reviewing the duck farm's water and waste plans before increasing flock size?",
+      "options": [
+        {
+          "text": "A. It determines egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expansion can increase water demand and waste loads beyond existing capacity."
+        },
+        {
+          "text": "B. Expansion can increase water demand and waste loads beyond existing capacity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Expansion can increase water demand and waste loads beyond existing capacity."
+        },
+        {
+          "text": "C. It guarantees lower operating costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expansion can increase water demand and waste loads beyond existing capacity."
+        },
+        {
+          "text": "D. It replaces market research",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expansion can increase water demand and waste loads beyond existing capacity."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 494,
+      "question": "Why should duck farmers keep a contingency plan for feed-supply disruption?",
+      "options": [
+        {
+          "text": "A. It makes inventory unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup plan can reduce the risk of birds being left without suitable feed."
+        },
+        {
+          "text": "B. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup plan can reduce the risk of birds being left without suitable feed."
+        },
+        {
+          "text": "C. A backup plan can reduce the risk of birds being left without suitable feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A backup plan can reduce the risk of birds being left without suitable feed."
+        },
+        {
+          "text": "D. It guarantees feed prices remain stable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup plan can reduce the risk of birds being left without suitable feed."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 495,
+      "question": "What should be included in a duck farm continuity plan for severe weather?",
+      "options": [
+        {
+          "text": "A. Only a list of customers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actions for protecting birds, buildings, feed, water and essential equipment."
+        },
+        {
+          "text": "B. The colour of the farm roof",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actions for protecting birds, buildings, feed, water and essential equipment."
+        },
+        {
+          "text": "C. A plan to stop all monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actions for protecting birds, buildings, feed, water and essential equipment."
+        },
+        {
+          "text": "D. Actions for protecting birds, buildings, feed, water and essential equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Actions for protecting birds, buildings, feed, water and essential equipment."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 496,
+      "question": "Why should duck farm managers review staff training after introducing new equipment?",
+      "options": [
+        {
+          "text": "A. Workers need to understand safe operation and the equipment's correct use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Workers need to understand safe operation and the equipment's correct use."
+        },
+        {
+          "text": "B. New equipment cannot create new risks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers need to understand safe operation and the equipment's correct use."
+        },
+        {
+          "text": "C. It replaces the user manual",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers need to understand safe operation and the equipment's correct use."
+        },
+        {
+          "text": "D. It determines bird fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers need to understand safe operation and the equipment's correct use."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 497,
+      "question": "What is the purpose of checking that duck-farm weighing equipment is suitable for the size of birds being weighed?",
+      "options": [
+        {
+          "text": "A. It determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable scale provides measurements within its accurate operating range."
+        },
+        {
+          "text": "B. A suitable scale provides measurements within its accurate operating range",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A suitable scale provides measurements within its accurate operating range."
+        },
+        {
+          "text": "C. It replaces calibration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable scale provides measurements within its accurate operating range."
+        },
+        {
+          "text": "D. It guarantees uniform growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A suitable scale provides measurements within its accurate operating range."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 498,
+      "question": "Why should duck farm managers investigate repeated egg breakage during collection?",
+      "options": [
+        {
+          "text": "A. Breakage increases saleable output",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Collection technique, nest design, handling and storage may need improvement."
+        },
+        {
+          "text": "B. It determines pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Collection technique, nest design, handling and storage may need improvement."
+        },
+        {
+          "text": "C. Collection technique, nest design, handling and storage may need improvement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Collection technique, nest design, handling and storage may need improvement."
+        },
+        {
+          "text": "D. It proves the eggs are fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Collection technique, nest design, handling and storage may need improvement."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 499,
+      "question": "What is the purpose of maintaining clear separation between duck farm chemicals and veterinary medicines?",
+      "options": [
+        {
+          "text": "A. It improves medicine potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of mix-ups, accidental exposure and contamination."
+        },
+        {
+          "text": "B. It replaces labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of mix-ups, accidental exposure and contamination."
+        },
+        {
+          "text": "C. It determines withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of mix-ups, accidental exposure and contamination."
+        },
+        {
+          "text": "D. It reduces the risk of mix-ups, accidental exposure and contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the risk of mix-ups, accidental exposure and contamination."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 500,
+      "question": "Why should a duck enterprise document lessons learned from a failed production cycle?",
+      "options": [
+        {
+          "text": "A. Recorded lessons can guide changes and help prevent similar problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Recorded lessons can guide changes and help prevent similar problems."
+        },
+        {
+          "text": "B. Failure means records should be deleted",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded lessons can guide changes and help prevent similar problems."
+        },
+        {
+          "text": "C. It guarantees the next cycle will succeed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded lessons can guide changes and help prevent similar problems."
+        },
+        {
+          "text": "D. It replaces planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded lessons can guide changes and help prevent similar problems."
         }
       ],
       "part": 10
