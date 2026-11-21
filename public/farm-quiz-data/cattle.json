@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 420,
+  "total": 440,
   "questions": [
     {
       "number": 1,
@@ -11339,6 +11339,546 @@
           "text": "D. It allows results to inform future sire selection, cow management and breeding targets",
           "correct": true,
           "feedback": "Well done! Correct answer: It allows results to inform future sire selection, cow management and breeding targets."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "Why should beef cattle be evaluated for carcass traits when those traits match the market?",
+      "options": [
+        {
+          "text": "A. It determines the farm's rainfall",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass information can help select animals suited to the intended meat market."
+        },
+        {
+          "text": "B. It replaces animal health management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass information can help select animals suited to the intended meat market."
+        },
+        {
+          "text": "C. It guarantees a fixed sale price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass information can help select animals suited to the intended meat market."
+        },
+        {
+          "text": "D. Carcass information can help select animals suited to the intended meat market",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Carcass information can help select animals suited to the intended meat market."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "What is the purpose of collecting carcass data from slaughtered cattle?",
+      "options": [
+        {
+          "text": "A. It measures the cow's milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides feedback on the relationship between breeding, feeding and carcass outcomes."
+        },
+        {
+          "text": "B. It determines the number of calves born",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides feedback on the relationship between breeding, feeding and carcass outcomes."
+        },
+        {
+          "text": "C. It provides feedback on the relationship between breeding, feeding and carcass outcomes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides feedback on the relationship between breeding, feeding and carcass outcomes."
+        },
+        {
+          "text": "D. It replaces live-animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides feedback on the relationship between breeding, feeding and carcass outcomes."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "Why should market specifications be understood before finishing cattle?",
+      "options": [
+        {
+          "text": "A. They make feed cost irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help set suitable target weights, condition and finishing strategies."
+        },
+        {
+          "text": "B. They help set suitable target weights, condition and finishing strategies",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help set suitable target weights, condition and finishing strategies."
+        },
+        {
+          "text": "C. They guarantee every animal meets the grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help set suitable target weights, condition and finishing strategies."
+        },
+        {
+          "text": "D. They eliminate the need for weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help set suitable target weights, condition and finishing strategies."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "What is the purpose of a pre-sale health and condition check?",
+      "options": [
+        {
+          "text": "A. It helps identify animals needing care and supports appropriate marketing decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify animals needing care and supports appropriate marketing decisions."
+        },
+        {
+          "text": "B. It guarantees the buyer will pay more",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals needing care and supports appropriate marketing decisions."
+        },
+        {
+          "text": "C. It replaces movement and health documents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals needing care and supports appropriate marketing decisions."
+        },
+        {
+          "text": "D. It makes transport fitness irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals needing care and supports appropriate marketing decisions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "Why should cattle be handled calmly before weighing?",
+      "options": [
+        {
+          "text": "A. Stress makes every scale more accurate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced agitation improves safety and can make weighing more consistent."
+        },
+        {
+          "text": "B. It determines the animal's genetic merit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced agitation improves safety and can make weighing more consistent."
+        },
+        {
+          "text": "C. It replaces scale calibration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced agitation improves safety and can make weighing more consistent."
+        },
+        {
+          "text": "D. Reduced agitation improves safety and can make weighing more consistent",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reduced agitation improves safety and can make weighing more consistent."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "What is the value of weighing cattle at regular intervals during finishing?",
+      "options": [
+        {
+          "text": "A. It predicts exact carcass yield without other information",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps track growth and adjust feeding or marketing decisions."
+        },
+        {
+          "text": "B. It replaces feed records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps track growth and adjust feeding or marketing decisions."
+        },
+        {
+          "text": "C. It helps track growth and adjust feeding or marketing decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps track growth and adjust feeding or marketing decisions."
+        },
+        {
+          "text": "D. It guarantees the animal will not become ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps track growth and adjust feeding or marketing decisions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "Why should the same weighing procedure be used when comparing growth over time?",
+      "options": [
+        {
+          "text": "A. It makes scales unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods reduce measurement variation that can confuse performance comparisons."
+        },
+        {
+          "text": "B. Consistent methods reduce measurement variation that can confuse performance comparisons",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent methods reduce measurement variation that can confuse performance comparisons."
+        },
+        {
+          "text": "C. It changes the animals' growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods reduce measurement variation that can confuse performance comparisons."
+        },
+        {
+          "text": "D. It guarantees identical weights",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods reduce measurement variation that can confuse performance comparisons."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "What is one reason to avoid excessive fatness in cattle being finished for a defined market?",
+      "options": [
+        {
+          "text": "A. Over-fattening can reduce efficiency and may not meet the buyer's carcass specification",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Over-fattening can reduce efficiency and may not meet the buyer's carcass specification."
+        },
+        {
+          "text": "B. Fatness always increases lean meat yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Over-fattening can reduce efficiency and may not meet the buyer's carcass specification."
+        },
+        {
+          "text": "C. It eliminates the need for feed budgeting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Over-fattening can reduce efficiency and may not meet the buyer's carcass specification."
+        },
+        {
+          "text": "D. It guarantees a premium grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Over-fattening can reduce efficiency and may not meet the buyer's carcass specification."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "Why should feedlot cattle be monitored for respiratory disease, especially after arrival?",
+      "options": [
+        {
+          "text": "A. Arrival prevents all infections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transport, mixing and environmental stress can increase susceptibility to respiratory illness."
+        },
+        {
+          "text": "B. Respiratory disease is unrelated to management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transport, mixing and environmental stress can increase susceptibility to respiratory illness."
+        },
+        {
+          "text": "C. It is only a concern in dairy cows",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transport, mixing and environmental stress can increase susceptibility to respiratory illness."
+        },
+        {
+          "text": "D. Transport, mixing and environmental stress can increase susceptibility to respiratory illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Transport, mixing and environmental stress can increase susceptibility to respiratory illness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "What is the purpose of adapting newly arrived cattle to a feedlot ration?",
+      "options": [
+        {
+          "text": "A. It makes feed analysis unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps animals adjust to the diet and reduces digestive-disorder risk."
+        },
+        {
+          "text": "B. It guarantees no animal will go off feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps animals adjust to the diet and reduces digestive-disorder risk."
+        },
+        {
+          "text": "C. It helps animals adjust to the diet and reduces digestive-disorder risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps animals adjust to the diet and reduces digestive-disorder risk."
+        },
+        {
+          "text": "D. It removes the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps animals adjust to the diet and reduces digestive-disorder risk."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "Why should newly received cattle be observed for lameness?",
+      "options": [
+        {
+          "text": "A. Lameness improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Foot or leg problems can affect welfare, feed access and growth."
+        },
+        {
+          "text": "B. Foot or leg problems can affect welfare, feed access and growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Foot or leg problems can affect welfare, feed access and growth."
+        },
+        {
+          "text": "C. It predicts the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Foot or leg problems can affect welfare, feed access and growth."
+        },
+        {
+          "text": "D. It is always caused by genetics alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Foot or leg problems can affect welfare, feed access and growth."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "What should be checked if cattle repeatedly sort or refuse part of a total mixed ration?",
+      "options": [
+        {
+          "text": "A. Mixing quality, particle size, moisture, ration formulation and feed delivery",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mixing quality, particle size, moisture, ration formulation and feed delivery."
+        },
+        {
+          "text": "B. Only the paint on the mixer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mixing quality, particle size, moisture, ration formulation and feed delivery."
+        },
+        {
+          "text": "C. The animals' coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mixing quality, particle size, moisture, ration formulation and feed delivery."
+        },
+        {
+          "text": "D. Whether the water trough is shaded",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mixing quality, particle size, moisture, ration formulation and feed delivery."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "Why is feed bunk management important in a finishing operation?",
+      "options": [
+        {
+          "text": "A. It replaces ration formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent access and delivery help stabilise intake and reduce competition."
+        },
+        {
+          "text": "B. It guarantees identical intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent access and delivery help stabilise intake and reduce competition."
+        },
+        {
+          "text": "C. It makes cleaning the bunk unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent access and delivery help stabilise intake and reduce competition."
+        },
+        {
+          "text": "D. Consistent access and delivery help stabilise intake and reduce competition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent access and delivery help stabilise intake and reduce competition."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "What is the purpose of monitoring cattle manure in a feedlot?",
+      "options": [
+        {
+          "text": "A. It identifies the exact market grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure changes can provide clues about diet adaptation and digestive health."
+        },
+        {
+          "text": "B. It determines the bull's fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure changes can provide clues about diet adaptation and digestive health."
+        },
+        {
+          "text": "C. Manure changes can provide clues about diet adaptation and digestive health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Manure changes can provide clues about diet adaptation and digestive health."
+        },
+        {
+          "text": "D. It replaces feed sampling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure changes can provide clues about diet adaptation and digestive health."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "Why should cattle in a finishing pen have access to sufficient clean water points?",
+      "options": [
+        {
+          "text": "A. Water points replace feed bunks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access supports hydration and reduces competition around water."
+        },
+        {
+          "text": "B. Adequate access supports hydration and reduces competition around water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate access supports hydration and reduces competition around water."
+        },
+        {
+          "text": "C. It guarantees a higher carcass grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access supports hydration and reduces competition around water."
+        },
+        {
+          "text": "D. It removes the need for shade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access supports hydration and reduces competition around water."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "What is a potential welfare concern when cattle are held on very muddy ground?",
+      "options": [
+        {
+          "text": "A. Movement, lying comfort and cleanliness can be impaired",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Movement, lying comfort and cleanliness can be impaired."
+        },
+        {
+          "text": "B. Mud always improves hoof health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement, lying comfort and cleanliness can be impaired."
+        },
+        {
+          "text": "C. It guarantees cooler body temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement, lying comfort and cleanliness can be impaired."
+        },
+        {
+          "text": "D. It eliminates flies",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement, lying comfort and cleanliness can be impaired."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "Why should dust levels be managed in dry cattle yards?",
+      "options": [
+        {
+          "text": "A. Dust improves feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive dust can irritate the respiratory tract and affect animal comfort."
+        },
+        {
+          "text": "B. It prevents respiratory infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive dust can irritate the respiratory tract and affect animal comfort."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive dust can irritate the respiratory tract and affect animal comfort."
+        },
+        {
+          "text": "D. Excessive dust can irritate the respiratory tract and affect animal comfort",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive dust can irritate the respiratory tract and affect animal comfort."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "What is the purpose of keeping hospital pens separate in a cattle finishing facility?",
+      "options": [
+        {
+          "text": "A. They guarantee immediate recovery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They allow sick or injured animals to receive closer observation and appropriate care."
+        },
+        {
+          "text": "B. They replace veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They allow sick or injured animals to receive closer observation and appropriate care."
+        },
+        {
+          "text": "C. They allow sick or injured animals to receive closer observation and appropriate care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They allow sick or injured animals to receive closer observation and appropriate care."
+        },
+        {
+          "text": "D. They should be used for all healthy cattle permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They allow sick or injured animals to receive closer observation and appropriate care."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "Why should cattle be assessed for fitness before slaughter or sale transport?",
+      "options": [
+        {
+          "text": "A. Fitness checks determine market price exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer during handling and transport and require alternative care."
+        },
+        {
+          "text": "B. Unfit animals may suffer during handling and transport and require alternative care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unfit animals may suffer during handling and transport and require alternative care."
+        },
+        {
+          "text": "C. Unfit animals travel more safely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer during handling and transport and require alternative care."
+        },
+        {
+          "text": "D. It replaces legal transport requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer during handling and transport and require alternative care."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "What should be done if an animal is not fit for the planned journey?",
+      "options": [
+        {
+          "text": "A. Do not load it; obtain veterinary or competent advice and follow welfare rules",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Do not load it; obtain veterinary or competent advice and follow welfare rules."
+        },
+        {
+          "text": "B. Load it at the end of the group",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not load it; obtain veterinary or competent advice and follow welfare rules."
+        },
+        {
+          "text": "C. Withhold water before departure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not load it; obtain veterinary or competent advice and follow welfare rules."
+        },
+        {
+          "text": "D. Hide the condition from the transporter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not load it; obtain veterinary or competent advice and follow welfare rules."
         }
       ],
       "part": 9
