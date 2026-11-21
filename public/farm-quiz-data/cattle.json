@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 380,
+  "total": 400,
   "questions": [
     {
       "number": 1,
@@ -10259,6 +10259,546 @@
           "text": "D. Recovery helps address fatigue, thirst and transport-related stress",
           "correct": true,
           "feedback": "Well done! Correct answer: Recovery helps address fatigue, thirst and transport-related stress."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "Why should cattle be identified before being entered into a performance-recording system?",
+      "options": [
+        {
+          "text": "A. Identification determines its future sale price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable identification links each animal to its own health, breeding and production history."
+        },
+        {
+          "text": "B. Reliable identification links each animal to its own health, breeding and production history",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reliable identification links each animal to its own health, breeding and production history."
+        },
+        {
+          "text": "C. It removes the need for weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable identification links each animal to its own health, breeding and production history."
+        },
+        {
+          "text": "D. It guarantees that records cannot be lost",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable identification links each animal to its own health, breeding and production history."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "What is the purpose of recording the dam and sire of a calf?",
+      "options": [
+        {
+          "text": "A. It determines the calf's feed intake exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parentage records support breeding decisions and performance evaluation."
+        },
+        {
+          "text": "B. It replaces the calf's birth record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parentage records support breeding decisions and performance evaluation."
+        },
+        {
+          "text": "C. Parentage records support breeding decisions and performance evaluation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Parentage records support breeding decisions and performance evaluation."
+        },
+        {
+          "text": "D. It proves the calf will be disease-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parentage records support breeding decisions and performance evaluation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why should birth difficulty be recorded by cow and sire?",
+      "options": [
+        {
+          "text": "A. It predicts the price of milk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records can help identify calving-ease problems and inform future mating choices."
+        },
+        {
+          "text": "B. It makes calving supervision unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records can help identify calving-ease problems and inform future mating choices."
+        },
+        {
+          "text": "C. It determines pasture growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records can help identify calving-ease problems and inform future mating choices."
+        },
+        {
+          "text": "D. Records can help identify calving-ease problems and inform future mating choices",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records can help identify calving-ease problems and inform future mating choices."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "What is a herd inventory used for?",
+      "options": [
+        {
+          "text": "A. It provides a current count and description of animals owned or managed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides a current count and description of animals owned or managed."
+        },
+        {
+          "text": "B. It measures the farm's rainfall",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a current count and description of animals owned or managed."
+        },
+        {
+          "text": "C. It replaces individual animal records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a current count and description of animals owned or managed."
+        },
+        {
+          "text": "D. It identifies every disease without testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a current count and description of animals owned or managed."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "Why should cattle sales and purchases be recorded with dates and identification?",
+      "options": [
+        {
+          "text": "A. They determine the animals' temperament",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They maintain traceability and help reconcile herd numbers and ownership."
+        },
+        {
+          "text": "B. They maintain traceability and help reconcile herd numbers and ownership",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They maintain traceability and help reconcile herd numbers and ownership."
+        },
+        {
+          "text": "C. They remove the need for movement documents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They maintain traceability and help reconcile herd numbers and ownership."
+        },
+        {
+          "text": "D. They guarantee a profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They maintain traceability and help reconcile herd numbers and ownership."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 386,
+      "question": "What is the purpose of a livestock movement record?",
+      "options": [
+        {
+          "text": "A. It measures average daily gain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It documents where animals moved from and to, supporting traceability and disease control."
+        },
+        {
+          "text": "B. It replaces veterinary inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It documents where animals moved from and to, supporting traceability and disease control."
+        },
+        {
+          "text": "C. It documents where animals moved from and to, supporting traceability and disease control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It documents where animals moved from and to, supporting traceability and disease control."
+        },
+        {
+          "text": "D. It guarantees transport without stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It documents where animals moved from and to, supporting traceability and disease control."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "Why should production records distinguish between individual cows where possible?",
+      "options": [
+        {
+          "text": "A. They make all cows produce the same amount",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help identify differences in performance and target management decisions."
+        },
+        {
+          "text": "B. They replace feed testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help identify differences in performance and target management decisions."
+        },
+        {
+          "text": "C. They prove that low yield is always genetic",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help identify differences in performance and target management decisions."
+        },
+        {
+          "text": "D. They help identify differences in performance and target management decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help identify differences in performance and target management decisions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "What can a consistent decline in milk yield in one cow prompt a farmer to investigate?",
+      "options": [
+        {
+          "text": "A. Health, feed intake, water access, lactation stage and milking routine",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Health, feed intake, water access, lactation stage and milking routine."
+        },
+        {
+          "text": "B. Only the colour of her coat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, feed intake, water access, lactation stage and milking routine."
+        },
+        {
+          "text": "C. The breed of every other cow",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, feed intake, water access, lactation stage and milking routine."
+        },
+        {
+          "text": "D. The market price of cattle feed alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, feed intake, water access, lactation stage and milking routine."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "Why should milk yield be interpreted alongside lactation stage?",
+      "options": [
+        {
+          "text": "A. Milk yield is unrelated to calving date",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expected production changes over the course of lactation."
+        },
+        {
+          "text": "B. Expected production changes over the course of lactation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Expected production changes over the course of lactation."
+        },
+        {
+          "text": "C. Lactation stage determines the cow's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expected production changes over the course of lactation."
+        },
+        {
+          "text": "D. It makes milk-quality testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Expected production changes over the course of lactation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "What is the purpose of recording calving interval?",
+      "options": [
+        {
+          "text": "A. It measures the time needed to milk a cow",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess reproductive efficiency and identify cows needing review."
+        },
+        {
+          "text": "B. It determines calf coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess reproductive efficiency and identify cows needing review."
+        },
+        {
+          "text": "C. It helps assess reproductive efficiency and identify cows needing review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess reproductive efficiency and identify cows needing review."
+        },
+        {
+          "text": "D. It replaces pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess reproductive efficiency and identify cows needing review."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 391,
+      "question": "Why should a farm record calf deaths and their suspected causes?",
+      "options": [
+        {
+          "text": "A. It guarantees the same cause in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal recurring problems in colostrum management, hygiene, disease or care."
+        },
+        {
+          "text": "B. It replaces veterinary post-mortem examination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal recurring problems in colostrum management, hygiene, disease or care."
+        },
+        {
+          "text": "C. It is only useful for calculating feed cost",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal recurring problems in colostrum management, hygiene, disease or care."
+        },
+        {
+          "text": "D. It can reveal recurring problems in colostrum management, hygiene, disease or care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reveal recurring problems in colostrum management, hygiene, disease or care."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 392,
+      "question": "What is the value of recording culling reasons?",
+      "options": [
+        {
+          "text": "A. It helps evaluate herd performance and guide replacement and breeding decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps evaluate herd performance and guide replacement and breeding decisions."
+        },
+        {
+          "text": "B. It proves that every culled cow was infertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps evaluate herd performance and guide replacement and breeding decisions."
+        },
+        {
+          "text": "C. It determines the price of hay",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps evaluate herd performance and guide replacement and breeding decisions."
+        },
+        {
+          "text": "D. It replaces animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps evaluate herd performance and guide replacement and breeding decisions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 393,
+      "question": "Why should a farm compare feed cost with liveweight gain or milk output?",
+      "options": [
+        {
+          "text": "A. It determines the genetic merit of every animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feeding resources are being used efficiently."
+        },
+        {
+          "text": "B. It helps assess whether feeding resources are being used efficiently",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess whether feeding resources are being used efficiently."
+        },
+        {
+          "text": "C. It removes seasonal price changes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feeding resources are being used efficiently."
+        },
+        {
+          "text": "D. It guarantees profitability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feeding resources are being used efficiently."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 394,
+      "question": "What is a key use of a cattle farm's annual budget?",
+      "options": [
+        {
+          "text": "A. It replaces daily production records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It forecasts income, expenses and cash needs for planned operations."
+        },
+        {
+          "text": "B. It guarantees market prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It forecasts income, expenses and cash needs for planned operations."
+        },
+        {
+          "text": "C. It forecasts income, expenses and cash needs for planned operations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It forecasts income, expenses and cash needs for planned operations."
+        },
+        {
+          "text": "D. It determines the correct vaccine for every animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It forecasts income, expenses and cash needs for planned operations."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 395,
+      "question": "Why should a farmer keep receipts and records for veterinary treatments?",
+      "options": [
+        {
+          "text": "A. They prove that every treatment was effective",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, medicine accountability and treatment history."
+        },
+        {
+          "text": "B. They replace withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, medicine accountability and treatment history."
+        },
+        {
+          "text": "C. They identify the animal's sire",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, medicine accountability and treatment history."
+        },
+        {
+          "text": "D. They support cost tracking, medicine accountability and treatment history",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support cost tracking, medicine accountability and treatment history."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 396,
+      "question": "What is the purpose of recording manure or slurry applications to fields?",
+      "options": [
+        {
+          "text": "A. It helps manage nutrient use and reduce the risk of excessive application",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps manage nutrient use and reduce the risk of excessive application."
+        },
+        {
+          "text": "B. It determines cattle age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps manage nutrient use and reduce the risk of excessive application."
+        },
+        {
+          "text": "C. It replaces soil testing in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps manage nutrient use and reduce the risk of excessive application."
+        },
+        {
+          "text": "D. It guarantees that runoff cannot occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps manage nutrient use and reduce the risk of excessive application."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 397,
+      "question": "Why should a farm periodically review its mortality rate rather than just total deaths?",
+      "options": [
+        {
+          "text": "A. A rate identifies the exact pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rate accounts for herd size and makes comparisons over time more meaningful."
+        },
+        {
+          "text": "B. A rate accounts for herd size and makes comparisons over time more meaningful",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A rate accounts for herd size and makes comparisons over time more meaningful."
+        },
+        {
+          "text": "C. It removes the need to investigate deaths",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rate accounts for herd size and makes comparisons over time more meaningful."
+        },
+        {
+          "text": "D. It guarantees mortality will decrease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rate accounts for herd size and makes comparisons over time more meaningful."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 398,
+      "question": "What is the purpose of setting measurable production targets for a cattle enterprise?",
+      "options": [
+        {
+          "text": "A. Targets make weather predictable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Targets allow actual results to be compared with planned performance."
+        },
+        {
+          "text": "B. They replace animal welfare checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Targets allow actual results to be compared with planned performance."
+        },
+        {
+          "text": "C. Targets allow actual results to be compared with planned performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Targets allow actual results to be compared with planned performance."
+        },
+        {
+          "text": "D. They ensure every animal grows at an identical rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Targets allow actual results to be compared with planned performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 399,
+      "question": "Why should farm records be stored securely with backups?",
+      "options": [
+        {
+          "text": "A. They make data automatically accurate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backups reduce the risk of losing important operational and traceability information."
+        },
+        {
+          "text": "B. They replace staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backups reduce the risk of losing important operational and traceability information."
+        },
+        {
+          "text": "C. They prevent every cyber incident",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backups reduce the risk of losing important operational and traceability information."
+        },
+        {
+          "text": "D. Backups reduce the risk of losing important operational and traceability information",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Backups reduce the risk of losing important operational and traceability information."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 400,
+      "question": "What should a manager do when records reveal a repeated underperformance pattern in one cattle group?",
+      "options": [
+        {
+          "text": "A. Investigate likely causes and test a targeted management improvement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Investigate likely causes and test a targeted management improvement."
+        },
+        {
+          "text": "B. Ignore the pattern if animals look similar",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Investigate likely causes and test a targeted management improvement."
+        },
+        {
+          "text": "C. Change every farm procedure at once without evaluation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Investigate likely causes and test a targeted management improvement."
+        },
+        {
+          "text": "D. Delete the records to avoid confusion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Investigate likely causes and test a targeted management improvement."
         }
       ],
       "part": 8
