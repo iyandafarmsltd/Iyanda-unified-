@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 245,
+  "total": 265,
   "questions": [
     {
       "number": 1,
@@ -6617,6 +6617,546 @@
         }
       ],
       "part": 5
+    },
+    {
+      "number": 246,
+      "question": "Why should ducklings have access to clean drinking water from an appropriately designed drinker?",
+      "options": [
+        {
+          "text": "A. Ducklings should be kept without water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and normal feeding behaviour while the drinker design limits soaking."
+        },
+        {
+          "text": "B. Water replaces all feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and normal feeding behaviour while the drinker design limits soaking."
+        },
+        {
+          "text": "C. Water supports hydration and normal feeding behaviour while the drinker design limits soaking",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water supports hydration and normal feeding behaviour while the drinker design limits soaking."
+        },
+        {
+          "text": "D. It guarantees that ducklings cannot become ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports hydration and normal feeding behaviour while the drinker design limits soaking."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 247,
+      "question": "Why should duckling drinkers be designed to allow drinking but discourage swimming in the brooder?",
+      "options": [
+        {
+          "text": "A. Swimming is required for every duckling immediately after hatch",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess wetness can chill young ducklings and make litter difficult to manage."
+        },
+        {
+          "text": "B. Wet litter improves brooding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess wetness can chill young ducklings and make litter difficult to manage."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess wetness can chill young ducklings and make litter difficult to manage."
+        },
+        {
+          "text": "D. Excess wetness can chill young ducklings and make litter difficult to manage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess wetness can chill young ducklings and make litter difficult to manage."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 248,
+      "question": "What can wet litter in a duck brooder cause?",
+      "options": [
+        {
+          "text": "A. It can increase chilling, ammonia and hygiene problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can increase chilling, ammonia and hygiene problems."
+        },
+        {
+          "text": "B. It guarantees better feather growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase chilling, ammonia and hygiene problems."
+        },
+        {
+          "text": "C. It improves foot health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase chilling, ammonia and hygiene problems."
+        },
+        {
+          "text": "D. It prevents all pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase chilling, ammonia and hygiene problems."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 249,
+      "question": "Why should ducklings be checked for even distribution around heat sources?",
+      "options": [
+        {
+          "text": "A. It determines the sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their distribution and activity can help indicate whether brooding conditions are suitable."
+        },
+        {
+          "text": "B. Their distribution and activity can help indicate whether brooding conditions are suitable",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their distribution and activity can help indicate whether brooding conditions are suitable."
+        },
+        {
+          "text": "C. It measures feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their distribution and activity can help indicate whether brooding conditions are suitable."
+        },
+        {
+          "text": "D. It replaces thermometer checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their distribution and activity can help indicate whether brooding conditions are suitable."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 250,
+      "question": "What is the purpose of providing suitable niacin in growing duck diets?",
+      "options": [
+        {
+          "text": "A. It determines bill colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Niacin supports normal growth and leg development in ducks."
+        },
+        {
+          "text": "B. It replaces clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Niacin supports normal growth and leg development in ducks."
+        },
+        {
+          "text": "C. Niacin supports normal growth and leg development in ducks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Niacin supports normal growth and leg development in ducks."
+        },
+        {
+          "text": "D. It guarantees resistance to every infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Niacin supports normal growth and leg development in ducks."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 251,
+      "question": "Why should duck feed be formulated specifically for the species and growth stage?",
+      "options": [
+        {
+          "text": "A. All poultry require identical diets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements and feed characteristics differ among species and ages."
+        },
+        {
+          "text": "B. Feed formulation affects only feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements and feed characteristics differ among species and ages."
+        },
+        {
+          "text": "C. It removes the need for forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements and feed characteristics differ among species and ages."
+        },
+        {
+          "text": "D. Nutrient requirements and feed characteristics differ among species and ages",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient requirements and feed characteristics differ among species and ages."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 252,
+      "question": "What can leg weakness in growing ducklings prompt a farmer to review?",
+      "options": [
+        {
+          "text": "A. Dietary nutrient balance, especially niacin, flooring, growth rate and health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dietary nutrient balance, especially niacin, flooring, growth rate and health."
+        },
+        {
+          "text": "B. Only the colour of the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dietary nutrient balance, especially niacin, flooring, growth rate and health."
+        },
+        {
+          "text": "C. Whether eggs are being collected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dietary nutrient balance, especially niacin, flooring, growth rate and health."
+        },
+        {
+          "text": "D. The age of the farm building",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dietary nutrient balance, especially niacin, flooring, growth rate and health."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 253,
+      "question": "Why should ducks have enough floor space around feeders and drinkers?",
+      "options": [
+        {
+          "text": "A. It guarantees identical growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps prevent crowding and wet areas."
+        },
+        {
+          "text": "B. Adequate access reduces competition and helps prevent crowding and wet areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate access reduces competition and helps prevent crowding and wet areas."
+        },
+        {
+          "text": "C. It makes water hygiene unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps prevent crowding and wet areas."
+        },
+        {
+          "text": "D. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps prevent crowding and wet areas."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 254,
+      "question": "What is one reason to provide ducks with access to water deep enough to immerse their heads?",
+      "options": [
+        {
+          "text": "A. It replaces all drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Head immersion helps ducks clean their eyes and nostrils."
+        },
+        {
+          "text": "B. It guarantees egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Head immersion helps ducks clean their eyes and nostrils."
+        },
+        {
+          "text": "C. Head immersion helps ducks clean their eyes and nostrils",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Head immersion helps ducks clean their eyes and nostrils."
+        },
+        {
+          "text": "D. It prevents the need for shelter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Head immersion helps ducks clean their eyes and nostrils."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 255,
+      "question": "Why should duck water facilities be designed to drain efficiently?",
+      "options": [
+        {
+          "text": "A. Standing water improves litter hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Efficient drainage helps limit standing water and persistently wet ground."
+        },
+        {
+          "text": "B. Drainage changes egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Efficient drainage helps limit standing water and persistently wet ground."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Efficient drainage helps limit standing water and persistently wet ground."
+        },
+        {
+          "text": "D. Efficient drainage helps limit standing water and persistently wet ground",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Efficient drainage helps limit standing water and persistently wet ground."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 256,
+      "question": "What should be monitored if ducks are kept with access to an outdoor pond?",
+      "options": [
+        {
+          "text": "A. Water quality, bank condition, stocking pressure and possible contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water quality, bank condition, stocking pressure and possible contamination."
+        },
+        {
+          "text": "B. Only the pond's surface colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality, bank condition, stocking pressure and possible contamination."
+        },
+        {
+          "text": "C. The number of trees nearby",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality, bank condition, stocking pressure and possible contamination."
+        },
+        {
+          "text": "D. Whether the ducks have white feathers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water quality, bank condition, stocking pressure and possible contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 257,
+      "question": "Why should pond edges and access ramps be checked for safety?",
+      "options": [
+        {
+          "text": "A. It determines the ducks' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor access can cause slipping, injury and difficulty entering or leaving the water."
+        },
+        {
+          "text": "B. Poor access can cause slipping, injury and difficulty entering or leaving the water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor access can cause slipping, injury and difficulty entering or leaving the water."
+        },
+        {
+          "text": "C. It replaces water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor access can cause slipping, injury and difficulty entering or leaving the water."
+        },
+        {
+          "text": "D. It improves feed conversion automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor access can cause slipping, injury and difficulty entering or leaving the water."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 258,
+      "question": "What can a strong odour from a duck pond indicate?",
+      "options": [
+        {
+          "text": "A. The pond is always healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated organic matter or poor water conditions that need investigation."
+        },
+        {
+          "text": "B. It guarantees high oxygen levels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated organic matter or poor water conditions that need investigation."
+        },
+        {
+          "text": "C. Accumulated organic matter or poor water conditions that need investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accumulated organic matter or poor water conditions that need investigation."
+        },
+        {
+          "text": "D. It proves the ducks are laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated organic matter or poor water conditions that need investigation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 259,
+      "question": "Why should excessive duck manure entering a pond be prevented?",
+      "options": [
+        {
+          "text": "A. Manure sterilises pond water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient loading can encourage algal growth and reduce water quality."
+        },
+        {
+          "text": "B. It increases dissolved oxygen in all cases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient loading can encourage algal growth and reduce water quality."
+        },
+        {
+          "text": "C. It replaces pond management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient loading can encourage algal growth and reduce water quality."
+        },
+        {
+          "text": "D. Nutrient loading can encourage algal growth and reduce water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient loading can encourage algal growth and reduce water quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 260,
+      "question": "What is the purpose of providing dry resting areas for ducks?",
+      "options": [
+        {
+          "text": "A. Dry areas allow birds to rest comfortably and help protect feet and plumage condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dry areas allow birds to rest comfortably and help protect feet and plumage condition."
+        },
+        {
+          "text": "B. Ducks never need dry resting areas",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry areas allow birds to rest comfortably and help protect feet and plumage condition."
+        },
+        {
+          "text": "C. It replaces water access",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry areas allow birds to rest comfortably and help protect feet and plumage condition."
+        },
+        {
+          "text": "D. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry areas allow birds to rest comfortably and help protect feet and plumage condition."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "Why should duck housing be ventilated while avoiding direct cold drafts at bird level?",
+      "options": [
+        {
+          "text": "A. Airtight housing is always safest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ventilation removes moisture and harmful gases while protecting birds from chilling."
+        },
+        {
+          "text": "B. Ventilation removes moisture and harmful gases while protecting birds from chilling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ventilation removes moisture and harmful gases while protecting birds from chilling."
+        },
+        {
+          "text": "C. Drafts improve feather growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ventilation removes moisture and harmful gases while protecting birds from chilling."
+        },
+        {
+          "text": "D. It replaces litter management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ventilation removes moisture and harmful gases while protecting birds from chilling."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "What is a useful reason to inspect duck housing for sharp edges and protruding wire?",
+      "options": [
+        {
+          "text": "A. They improve nest use",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These hazards can injure bills, feet and feathers."
+        },
+        {
+          "text": "B. They determine egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These hazards can injure bills, feet and feathers."
+        },
+        {
+          "text": "C. These hazards can injure bills, feet and feathers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These hazards can injure bills, feet and feathers."
+        },
+        {
+          "text": "D. It replaces predator control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These hazards can injure bills, feet and feathers."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "Why should ducks be protected from predators at night?",
+      "options": [
+        {
+          "text": "A. Predators improve flock health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Secure housing reduces injury and losses from predators."
+        },
+        {
+          "text": "B. It replaces vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Secure housing reduces injury and losses from predators."
+        },
+        {
+          "text": "C. It guarantees better feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Secure housing reduces injury and losses from predators."
+        },
+        {
+          "text": "D. Secure housing reduces injury and losses from predators",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Secure housing reduces injury and losses from predators."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "What is the purpose of collecting duck eggs frequently?",
+      "options": [
+        {
+          "text": "A. Frequent collection helps reduce breakage, contamination and losses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Frequent collection helps reduce breakage, contamination and losses."
+        },
+        {
+          "text": "B. It changes the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and losses."
+        },
+        {
+          "text": "C. It replaces nest cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and losses."
+        },
+        {
+          "text": "D. It guarantees every egg is fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and losses."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "Why should duck nests be kept clean and dry?",
+      "options": [
+        {
+          "text": "A. Wet nests improve shell strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help maintain egg hygiene and reduce contamination."
+        },
+        {
+          "text": "B. Clean nests help maintain egg hygiene and reduce contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clean nests help maintain egg hygiene and reduce contamination."
+        },
+        {
+          "text": "C. Nest condition affects only egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help maintain egg hygiene and reduce contamination."
+        },
+        {
+          "text": "D. It prevents ducks from laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help maintain egg hygiene and reduce contamination."
+        }
+      ],
+      "part": 6
     }
   ]
 }
