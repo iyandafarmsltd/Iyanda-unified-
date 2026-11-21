@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 245,
+  "total": 270,
   "questions": [
     {
       "number": 1,
@@ -6617,6 +6617,681 @@
         }
       ],
       "part": 5
+    },
+    {
+      "number": 246,
+      "question": "Why should a broiler flock's body weights be sampled at consistent times during the day?",
+      "options": [
+        {
+          "text": "A. To make comparisons less affected by recent feeding and drinking",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To make comparisons less affected by recent feeding and drinking."
+        },
+        {
+          "text": "B. To increase the number of birds in the house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To make comparisons less affected by recent feeding and drinking."
+        },
+        {
+          "text": "C. To remove the need to calibrate scales",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To make comparisons less affected by recent feeding and drinking."
+        },
+        {
+          "text": "D. To make all birds reach market weight on the same day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To make comparisons less affected by recent feeding and drinking."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 247,
+      "question": "A layer flock shows a sudden fall in egg production while feed intake also drops. What should be checked first?",
+      "options": [
+        {
+          "text": "A. Whether egg trays are the correct colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water availability, feed delivery and signs of illness."
+        },
+        {
+          "text": "B. Whether the hens have started moulting normally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water availability, feed delivery and signs of illness."
+        },
+        {
+          "text": "C. Water availability, feed delivery and signs of illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water availability, feed delivery and signs of illness."
+        },
+        {
+          "text": "D. Whether nest boxes have been moved",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water availability, feed delivery and signs of illness."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 248,
+      "question": "Why is feed particle size important in poultry diets?",
+      "options": [
+        {
+          "text": "A. It determines the colour of the eggshell",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects feed intake, digestion and nutrient utilisation."
+        },
+        {
+          "text": "B. It affects feed intake, digestion and nutrient utilisation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It affects feed intake, digestion and nutrient utilisation."
+        },
+        {
+          "text": "C. It replaces the need for a balanced formula",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects feed intake, digestion and nutrient utilisation."
+        },
+        {
+          "text": "D. It prevents every type of digestive disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects feed intake, digestion and nutrient utilisation."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 249,
+      "question": "What is the main purpose of a footbath at a poultry-house entrance?",
+      "options": [
+        {
+          "text": "A. To disinfect footwear when correctly maintained and used",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To disinfect footwear when correctly maintained and used."
+        },
+        {
+          "text": "B. To cool birds during hot weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To disinfect footwear when correctly maintained and used."
+        },
+        {
+          "text": "C. To treat litter after it becomes wet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To disinfect footwear when correctly maintained and used."
+        },
+        {
+          "text": "D. To attract insects away from the building",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To disinfect footwear when correctly maintained and used."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 250,
+      "question": "Why should a vaccination programme be designed with a poultry veterinarian?",
+      "options": [
+        {
+          "text": "A. Every flock requires identical vaccines on identical dates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, maternal antibodies, vaccine type and local rules differ."
+        },
+        {
+          "text": "B. Vaccination removes the need for biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, maternal antibodies, vaccine type and local rules differ."
+        },
+        {
+          "text": "C. Only the bird's feather colour determines vaccine choice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, maternal antibodies, vaccine type and local rules differ."
+        },
+        {
+          "text": "D. Disease risks, maternal antibodies, vaccine type and local rules differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disease risks, maternal antibodies, vaccine type and local rules differ."
+        }
+      ],
+      "part": 5
+    },
+    {
+      "number": 251,
+      "question": "What does a high coefficient of variation in sampled bird weights suggest?",
+      "options": [
+        {
+          "text": "A. All birds are growing at exactly the same rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The flock has poor weight uniformity."
+        },
+        {
+          "text": "B. The flock has poor weight uniformity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The flock has poor weight uniformity."
+        },
+        {
+          "text": "C. The feed contains no energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The flock has poor weight uniformity."
+        },
+        {
+          "text": "D. The house has too many drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The flock has poor weight uniformity."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 252,
+      "question": "Why should drinker height be adjusted as broilers grow?",
+      "options": [
+        {
+          "text": "A. To make birds drink only at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow comfortable access while limiting spillage."
+        },
+        {
+          "text": "B. To reduce the nutrient content of water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow comfortable access while limiting spillage."
+        },
+        {
+          "text": "C. To allow comfortable access while limiting spillage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To allow comfortable access while limiting spillage."
+        },
+        {
+          "text": "D. To prevent birds from resting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow comfortable access while limiting spillage."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 253,
+      "question": "What is the purpose of flushing poultry water lines between flocks when appropriate?",
+      "options": [
+        {
+          "text": "A. To remove accumulated deposits and biofilm before the next flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To remove accumulated deposits and biofilm before the next flock."
+        },
+        {
+          "text": "B. To increase water hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove accumulated deposits and biofilm before the next flock."
+        },
+        {
+          "text": "C. To replace routine water testing permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove accumulated deposits and biofilm before the next flock."
+        },
+        {
+          "text": "D. To add extra protein to the water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove accumulated deposits and biofilm before the next flock."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 254,
+      "question": "Which observation is a useful early warning of ventilation failure in a poultry house?",
+      "options": [
+        {
+          "text": "A. A uniform spread of birds with normal activity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Condensation, stale air or birds panting and clustering."
+        },
+        {
+          "text": "B. A small change in egg shell shade only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Condensation, stale air or birds panting and clustering."
+        },
+        {
+          "text": "C. Feed bins being full",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Condensation, stale air or birds panting and clustering."
+        },
+        {
+          "text": "D. Condensation, stale air or birds panting and clustering",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Condensation, stale air or birds panting and clustering."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 255,
+      "question": "Why should dead birds be removed from poultry houses promptly and recorded?",
+      "options": [
+        {
+          "text": "A. To make the flock appear larger",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support disease monitoring and reduce contamination risks."
+        },
+        {
+          "text": "B. To support disease monitoring and reduce contamination risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To support disease monitoring and reduce contamination risks."
+        },
+        {
+          "text": "C. To increase litter moisture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support disease monitoring and reduce contamination risks."
+        },
+        {
+          "text": "D. To avoid checking the cause of mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support disease monitoring and reduce contamination risks."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 256,
+      "question": "What is the main risk of storing poultry feed in a damp, poorly ventilated area?",
+      "options": [
+        {
+          "text": "A. The feed becomes more energy dense",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth and possible mycotoxin contamination."
+        },
+        {
+          "text": "B. The birds automatically eat less",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth and possible mycotoxin contamination."
+        },
+        {
+          "text": "C. Mould growth and possible mycotoxin contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mould growth and possible mycotoxin contamination."
+        },
+        {
+          "text": "D. The feed turns into a complete mineral supplement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mould growth and possible mycotoxin contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 257,
+      "question": "Why is a separate brooding area useful for day-old chicks?",
+      "options": [
+        {
+          "text": "A. It helps maintain suitable temperature, access to feed and water, and close observation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps maintain suitable temperature, access to feed and water, and close observation."
+        },
+        {
+          "text": "B. It allows chicks to avoid drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps maintain suitable temperature, access to feed and water, and close observation."
+        },
+        {
+          "text": "C. It removes the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps maintain suitable temperature, access to feed and water, and close observation."
+        },
+        {
+          "text": "D. It guarantees that no chick will become sick",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps maintain suitable temperature, access to feed and water, and close observation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 258,
+      "question": "What should a farmer do if a vaccine vial's label indicates that the cold chain was broken?",
+      "options": [
+        {
+          "text": "A. Use twice the dose to compensate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not use it until its suitability is confirmed by the supplier or veterinarian."
+        },
+        {
+          "text": "B. Mix it with disinfectant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not use it until its suitability is confirmed by the supplier or veterinarian."
+        },
+        {
+          "text": "C. Store it in sunlight before use",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Do not use it until its suitability is confirmed by the supplier or veterinarian."
+        },
+        {
+          "text": "D. Do not use it until its suitability is confirmed by the supplier or veterinarian",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Do not use it until its suitability is confirmed by the supplier or veterinarian."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 259,
+      "question": "Why should egg collection frequency increase when nest boxes are heavily used?",
+      "options": [
+        {
+          "text": "A. To make eggshells thicker after laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce breakage, soiling and the chance of hens becoming broody."
+        },
+        {
+          "text": "B. To reduce breakage, soiling and the chance of hens becoming broody",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce breakage, soiling and the chance of hens becoming broody."
+        },
+        {
+          "text": "C. To stop hens from needing calcium",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce breakage, soiling and the chance of hens becoming broody."
+        },
+        {
+          "text": "D. To make egg size uniform",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce breakage, soiling and the chance of hens becoming broody."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 260,
+      "question": "What does a persistent increase in water consumption relative to feed intake potentially indicate?",
+      "options": [
+        {
+          "text": "A. A guaranteed improvement in growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A leak, heat stress, dietary issue or health problem requiring investigation."
+        },
+        {
+          "text": "B. That the feed has become more concentrated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A leak, heat stress, dietary issue or health problem requiring investigation."
+        },
+        {
+          "text": "C. A leak, heat stress, dietary issue or health problem requiring investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A leak, heat stress, dietary issue or health problem requiring investigation."
+        },
+        {
+          "text": "D. That drinkers should be turned off",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A leak, heat stress, dietary issue or health problem requiring investigation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "Why should layer feed be changed according to the birds' production stage?",
+      "options": [
+        {
+          "text": "A. Nutrient requirements change with age and egg production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient requirements change with age and egg production."
+        },
+        {
+          "text": "B. All stages require the same calcium level",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change with age and egg production."
+        },
+        {
+          "text": "C. Older hens no longer need protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change with age and egg production."
+        },
+        {
+          "text": "D. Changing feed prevents the need for records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient requirements change with age and egg production."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "What is the purpose of providing suitable nest-box space for laying hens?",
+      "options": [
+        {
+          "text": "A. To encourage eggs to be laid on the floor",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide clean, accessible laying sites and reduce floor eggs."
+        },
+        {
+          "text": "B. To reduce the need for egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide clean, accessible laying sites and reduce floor eggs."
+        },
+        {
+          "text": "C. To prevent hens from accessing water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide clean, accessible laying sites and reduce floor eggs."
+        },
+        {
+          "text": "D. To provide clean, accessible laying sites and reduce floor eggs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To provide clean, accessible laying sites and reduce floor eggs."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "Why should poultry-house temperature sensors be checked against a reliable reference?",
+      "options": [
+        {
+          "text": "A. To increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect faulty readings before they lead to poor climate decisions."
+        },
+        {
+          "text": "B. To detect faulty readings before they lead to poor climate decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To detect faulty readings before they lead to poor climate decisions."
+        },
+        {
+          "text": "C. To make the house warmer than the birds need",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect faulty readings before they lead to poor climate decisions."
+        },
+        {
+          "text": "D. To replace observation of bird behaviour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect faulty readings before they lead to poor climate decisions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "Which practice best helps reduce the risk of introducing disease through visitors?",
+      "options": [
+        {
+          "text": "A. Allowing visitors to move freely between houses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restricting entry, recording visits and requiring appropriate hygiene measures."
+        },
+        {
+          "text": "B. Sharing boots between farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restricting entry, recording visits and requiring appropriate hygiene measures."
+        },
+        {
+          "text": "C. Restricting entry, recording visits and requiring appropriate hygiene measures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Restricting entry, recording visits and requiring appropriate hygiene measures."
+        },
+        {
+          "text": "D. Opening every house door for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Restricting entry, recording visits and requiring appropriate hygiene measures."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "Why should a feed formulation be reviewed when the main ingredient supplier changes?",
+      "options": [
+        {
+          "text": "A. Nutrient composition and quality can vary between batches and sources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient composition and quality can vary between batches and sources."
+        },
+        {
+          "text": "B. The new supplier always provides identical feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient composition and quality can vary between batches and sources."
+        },
+        {
+          "text": "C. Ingredient changes affect only feed colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient composition and quality can vary between batches and sources."
+        },
+        {
+          "text": "D. It removes the need for laboratory checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient composition and quality can vary between batches and sources."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "What is the likely consequence of excessive stocking density in a broiler house?",
+      "options": [
+        {
+          "text": "A. Lower competition at feeders in every situation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Greater competition, poorer litter conditions and increased heat load."
+        },
+        {
+          "text": "B. Guaranteed better litter quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Greater competition, poorer litter conditions and increased heat load."
+        },
+        {
+          "text": "C. No effect if birds have access to light",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Greater competition, poorer litter conditions and increased heat load."
+        },
+        {
+          "text": "D. Greater competition, poorer litter conditions and increased heat load",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Greater competition, poorer litter conditions and increased heat load."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "Why should eggs intended for hatching be handled separately from table eggs?",
+      "options": [
+        {
+          "text": "A. Hatching eggs need to be washed in strong chemicals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their cleanliness, storage, handling and traceability affect embryo viability."
+        },
+        {
+          "text": "B. Their cleanliness, storage, handling and traceability affect embryo viability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their cleanliness, storage, handling and traceability affect embryo viability."
+        },
+        {
+          "text": "C. Table eggs hatch better after refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their cleanliness, storage, handling and traceability affect embryo viability."
+        },
+        {
+          "text": "D. The shell quality is irrelevant to hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their cleanliness, storage, handling and traceability affect embryo viability."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "What does hatchability measure in a poultry hatchery?",
+      "options": [
+        {
+          "text": "A. The proportion of eggs that are sold as table eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of set eggs that produce live chicks, using the stated calculation basis."
+        },
+        {
+          "text": "B. The average body weight of breeder hens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of set eggs that produce live chicks, using the stated calculation basis."
+        },
+        {
+          "text": "C. The proportion of set eggs that produce live chicks, using the stated calculation basis",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The proportion of set eggs that produce live chicks, using the stated calculation basis."
+        },
+        {
+          "text": "D. The number of eggs collected per nest each day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of set eggs that produce live chicks, using the stated calculation basis."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "Why is a post-mortem examination of representative dead birds useful?",
+      "options": [
+        {
+          "text": "A. It can help identify likely causes of mortality and guide appropriate action",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can help identify likely causes of mortality and guide appropriate action."
+        },
+        {
+          "text": "B. It proves that all remaining birds are healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify likely causes of mortality and guide appropriate action."
+        },
+        {
+          "text": "C. It replaces laboratory testing in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify likely causes of mortality and guide appropriate action."
+        },
+        {
+          "text": "D. It should be used to delay reporting unusual disease events",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify likely causes of mortality and guide appropriate action."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "Why should poultry litter be assessed by both appearance and feel rather than colour alone?",
+      "options": [
+        {
+          "text": "A. Colour always reveals the exact moisture percentage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture, caking, dustiness and odour together give a better indication of litter condition."
+        },
+        {
+          "text": "B. Litter colour determines the birds' genetic potential",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture, caking, dustiness and odour together give a better indication of litter condition."
+        },
+        {
+          "text": "C. Only smell matters when assessing litter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture, caking, dustiness and odour together give a better indication of litter condition."
+        },
+        {
+          "text": "D. Moisture, caking, dustiness and odour together give a better indication of litter condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture, caking, dustiness and odour together give a better indication of litter condition."
+        }
+      ],
+      "part": 6
     }
   ]
 }
