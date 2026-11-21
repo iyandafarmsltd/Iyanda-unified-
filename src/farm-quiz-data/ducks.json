@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 465,
+  "total": 485,
   "questions": [
     {
       "number": 1,
@@ -12554,6 +12554,546 @@
           "text": "D. They guarantee every task is completed",
           "correct": false,
           "feedback": "Not quite. The correct answer is Briefings communicate current risks, tasks and changes in farm procedures."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 466,
+      "question": "Why should duck-farm managers review production costs per saleable bird rather than feed cost alone?",
+      "options": [
+        {
+          "text": "A. It measures pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a broader view of the costs associated with birds that actually reach sale."
+        },
+        {
+          "text": "B. It gives a broader view of the costs associated with birds that actually reach sale",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It gives a broader view of the costs associated with birds that actually reach sale."
+        },
+        {
+          "text": "C. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a broader view of the costs associated with birds that actually reach sale."
+        },
+        {
+          "text": "D. It excludes labour and mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a broader view of the costs associated with birds that actually reach sale."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 467,
+      "question": "What is the purpose of comparing duck flock performance with realistic targets for the same production system?",
+      "options": [
+        {
+          "text": "A. Relevant targets help identify meaningful gaps without misleading comparisons",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Relevant targets help identify meaningful gaps without misleading comparisons."
+        },
+        {
+          "text": "B. Every duck system has identical targets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant targets help identify meaningful gaps without misleading comparisons."
+        },
+        {
+          "text": "C. It guarantees higher prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant targets help identify meaningful gaps without misleading comparisons."
+        },
+        {
+          "text": "D. It replaces farm records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant targets help identify meaningful gaps without misleading comparisons."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 468,
+      "question": "Why should duck-farm budgets include expected mortality and culling?",
+      "options": [
+        {
+          "text": "A. They determine egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Losses affect the number of saleable birds and the economics of the flock."
+        },
+        {
+          "text": "B. They have no financial effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Losses affect the number of saleable birds and the economics of the flock."
+        },
+        {
+          "text": "C. It replaces health planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Losses affect the number of saleable birds and the economics of the flock."
+        },
+        {
+          "text": "D. Losses affect the number of saleable birds and the economics of the flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Losses affect the number of saleable birds and the economics of the flock."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 469,
+      "question": "What should a farmer consider before expanding the number of ducks on a farm?",
+      "options": [
+        {
+          "text": "A. Only the number of available eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Housing, feed, water, labour, waste capacity, market demand and biosecurity."
+        },
+        {
+          "text": "B. The colour of the farm gate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Housing, feed, water, labour, waste capacity, market demand and biosecurity."
+        },
+        {
+          "text": "C. Housing, feed, water, labour, waste capacity, market demand and biosecurity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Housing, feed, water, labour, waste capacity, market demand and biosecurity."
+        },
+        {
+          "text": "D. Whether the pond looks large",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Housing, feed, water, labour, waste capacity, market demand and biosecurity."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 470,
+      "question": "Why should duck production be planned around confirmed market demand?",
+      "options": [
+        {
+          "text": "A. It guarantees a fixed price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Planning reduces the risk of producing more birds or eggs than can be sold appropriately."
+        },
+        {
+          "text": "B. Planning reduces the risk of producing more birds or eggs than can be sold appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Planning reduces the risk of producing more birds or eggs than can be sold appropriately."
+        },
+        {
+          "text": "C. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Planning reduces the risk of producing more birds or eggs than can be sold appropriately."
+        },
+        {
+          "text": "D. It replaces product quality control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Planning reduces the risk of producing more birds or eggs than can be sold appropriately."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 471,
+      "question": "What is the purpose of maintaining accurate duck egg and meat sales records?",
+      "options": [
+        {
+          "text": "A. Records help track revenue, product movement and customer demand",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records help track revenue, product movement and customer demand."
+        },
+        {
+          "text": "B. They determine the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help track revenue, product movement and customer demand."
+        },
+        {
+          "text": "C. They replace flock health records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help track revenue, product movement and customer demand."
+        },
+        {
+          "text": "D. They guarantee profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help track revenue, product movement and customer demand."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 472,
+      "question": "Why should duck farm managers calculate the cost of feed wastage?",
+      "options": [
+        {
+          "text": "A. Wastage improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wasted feed increases production costs without contributing to bird growth or output."
+        },
+        {
+          "text": "B. It determines pond pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wasted feed increases production costs without contributing to bird growth or output."
+        },
+        {
+          "text": "C. It replaces inventory records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wasted feed increases production costs without contributing to bird growth or output."
+        },
+        {
+          "text": "D. Wasted feed increases production costs without contributing to bird growth or output",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wasted feed increases production costs without contributing to bird growth or output."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 473,
+      "question": "What can repeated feed shortages in a duck flock reveal about farm planning?",
+      "options": [
+        {
+          "text": "A. It proves birds need less feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchasing, inventory forecasting or supplier coordination may need improvement."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchasing, inventory forecasting or supplier coordination may need improvement."
+        },
+        {
+          "text": "C. Purchasing, inventory forecasting or supplier coordination may need improvement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Purchasing, inventory forecasting or supplier coordination may need improvement."
+        },
+        {
+          "text": "D. It guarantees lower costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchasing, inventory forecasting or supplier coordination may need improvement."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 474,
+      "question": "Why should duck farm equipment purchases be assessed for capacity and maintenance needs?",
+      "options": [
+        {
+          "text": "A. The most expensive option is always best",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Equipment must suit the farm's scale and remain serviceable over time."
+        },
+        {
+          "text": "B. Equipment must suit the farm's scale and remain serviceable over time",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Equipment must suit the farm's scale and remain serviceable over time."
+        },
+        {
+          "text": "C. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Equipment must suit the farm's scale and remain serviceable over time."
+        },
+        {
+          "text": "D. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Equipment must suit the farm's scale and remain serviceable over time."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 475,
+      "question": "What is the purpose of keeping supplier contact and delivery records?",
+      "options": [
+        {
+          "text": "A. They support accountability and follow-up when inputs are delayed or unsuitable",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support accountability and follow-up when inputs are delayed or unsuitable."
+        },
+        {
+          "text": "B. They determine water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support accountability and follow-up when inputs are delayed or unsuitable."
+        },
+        {
+          "text": "C. They replace incoming checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support accountability and follow-up when inputs are delayed or unsuitable."
+        },
+        {
+          "text": "D. They guarantee supplier performance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support accountability and follow-up when inputs are delayed or unsuitable."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 476,
+      "question": "Why should duck farms keep a record of customer product specifications?",
+      "options": [
+        {
+          "text": "A. They determine the flock's sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Specifications help deliver consistent products that meet customer requirements."
+        },
+        {
+          "text": "B. They replace hygiene controls",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Specifications help deliver consistent products that meet customer requirements."
+        },
+        {
+          "text": "C. They guarantee every order is profitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Specifications help deliver consistent products that meet customer requirements."
+        },
+        {
+          "text": "D. Specifications help deliver consistent products that meet customer requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Specifications help deliver consistent products that meet customer requirements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 477,
+      "question": "What should be checked before accepting a large order for duck products?",
+      "options": [
+        {
+          "text": "A. Only the customer's preferred colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available stock, processing capacity, delivery arrangements and food-safety requirements."
+        },
+        {
+          "text": "B. The pond's depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available stock, processing capacity, delivery arrangements and food-safety requirements."
+        },
+        {
+          "text": "C. Available stock, processing capacity, delivery arrangements and food-safety requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Available stock, processing capacity, delivery arrangements and food-safety requirements."
+        },
+        {
+          "text": "D. The age of the oldest duck",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available stock, processing capacity, delivery arrangements and food-safety requirements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 478,
+      "question": "Why should duck farm managers avoid promising delivery dates without checking cold-chain and transport capacity?",
+      "options": [
+        {
+          "text": "A. It improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrealistic promises can compromise product quality and customer service."
+        },
+        {
+          "text": "B. Unrealistic promises can compromise product quality and customer service",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unrealistic promises can compromise product quality and customer service."
+        },
+        {
+          "text": "C. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrealistic promises can compromise product quality and customer service."
+        },
+        {
+          "text": "D. It replaces inventory management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrealistic promises can compromise product quality and customer service."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 479,
+      "question": "What is the purpose of reviewing customer returns and rejected duck products?",
+      "options": [
+        {
+          "text": "A. Patterns may reveal packaging, handling, quality or specification problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Patterns may reveal packaging, handling, quality or specification problems."
+        },
+        {
+          "text": "B. Returns determine egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns may reveal packaging, handling, quality or specification problems."
+        },
+        {
+          "text": "C. They replace production records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns may reveal packaging, handling, quality or specification problems."
+        },
+        {
+          "text": "D. They guarantee customer fault",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns may reveal packaging, handling, quality or specification problems."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 480,
+      "question": "Why should duck farm financial records separate household spending from business expenses?",
+      "options": [
+        {
+          "text": "A. It changes the ducks' growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation improves clarity when assessing the farm's actual costs and performance."
+        },
+        {
+          "text": "B. It determines pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation improves clarity when assessing the farm's actual costs and performance."
+        },
+        {
+          "text": "C. It guarantees tax exemption",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation improves clarity when assessing the farm's actual costs and performance."
+        },
+        {
+          "text": "D. Separation improves clarity when assessing the farm's actual costs and performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation improves clarity when assessing the farm's actual costs and performance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 481,
+      "question": "What is the value of preparing a cash-flow forecast for a duck enterprise?",
+      "options": [
+        {
+          "text": "A. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps anticipate when money will be needed for inputs, labour and operating costs."
+        },
+        {
+          "text": "B. It replaces sales records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps anticipate when money will be needed for inputs, labour and operating costs."
+        },
+        {
+          "text": "C. It helps anticipate when money will be needed for inputs, labour and operating costs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps anticipate when money will be needed for inputs, labour and operating costs."
+        },
+        {
+          "text": "D. It guarantees a loan",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps anticipate when money will be needed for inputs, labour and operating costs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 482,
+      "question": "Why should duck farmers keep receipts and invoices for business purchases?",
+      "options": [
+        {
+          "text": "A. They determine egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Documents support accurate bookkeeping, supplier checks and financial accountability."
+        },
+        {
+          "text": "B. Documents support accurate bookkeeping, supplier checks and financial accountability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Documents support accurate bookkeeping, supplier checks and financial accountability."
+        },
+        {
+          "text": "C. They replace stock control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Documents support accurate bookkeeping, supplier checks and financial accountability."
+        },
+        {
+          "text": "D. They guarantee a refund",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Documents support accurate bookkeeping, supplier checks and financial accountability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 483,
+      "question": "What should be done if actual duck production costs differ significantly from the budget?",
+      "options": [
+        {
+          "text": "A. Identify the main causes and update operational decisions or forecasts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Identify the main causes and update operational decisions or forecasts."
+        },
+        {
+          "text": "B. Ignore the difference",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify the main causes and update operational decisions or forecasts."
+        },
+        {
+          "text": "C. Delete the original budget",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify the main causes and update operational decisions or forecasts."
+        },
+        {
+          "text": "D. Increase flock size automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify the main causes and update operational decisions or forecasts."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 484,
+      "question": "Why should duck-farm expansion be reviewed after a pilot or trial period?",
+      "options": [
+        {
+          "text": "A. A trial guarantees success",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actual results reveal whether resources, welfare and market assumptions were realistic."
+        },
+        {
+          "text": "B. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actual results reveal whether resources, welfare and market assumptions were realistic."
+        },
+        {
+          "text": "C. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Actual results reveal whether resources, welfare and market assumptions were realistic."
+        },
+        {
+          "text": "D. Actual results reveal whether resources, welfare and market assumptions were realistic",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Actual results reveal whether resources, welfare and market assumptions were realistic."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 485,
+      "question": "What is the purpose of setting measurable goals for a duck enterprise?",
+      "options": [
+        {
+          "text": "A. Goals replace daily records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear goals help assess progress and guide practical management decisions."
+        },
+        {
+          "text": "B. They determine the sex of ducklings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear goals help assess progress and guide practical management decisions."
+        },
+        {
+          "text": "C. Clear goals help assess progress and guide practical management decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear goals help assess progress and guide practical management decisions."
+        },
+        {
+          "text": "D. They guarantee a profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear goals help assess progress and guide practical management decisions."
         }
       ],
       "part": 10
