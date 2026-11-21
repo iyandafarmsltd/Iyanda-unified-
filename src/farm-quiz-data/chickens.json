@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 430,
+  "total": 450,
   "questions": [
     {
       "number": 1,
@@ -11609,6 +11609,546 @@
           "text": "D. Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator",
           "correct": true,
           "feedback": "Well done! Correct answer: Fertility measures eggs that were fertilised, while hatchability evaluates successful hatching using a defined denominator."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "Why should poultry manure be stored on an impermeable surface where required?",
+      "options": [
+        {
+          "text": "A. It increases pathogen spread",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent nutrient-rich leachate from contaminating soil and water."
+        },
+        {
+          "text": "B. It helps prevent nutrient-rich leachate from contaminating soil and water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent nutrient-rich leachate from contaminating soil and water."
+        },
+        {
+          "text": "C. It makes runoff control unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent nutrient-rich leachate from contaminating soil and water."
+        },
+        {
+          "text": "D. It improves drinking-water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent nutrient-rich leachate from contaminating soil and water."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "What is a responsible use of poultry litter after it leaves the house?",
+      "options": [
+        {
+          "text": "A. Apply or process it according to nutrient content, crop needs and environmental rules",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Apply or process it according to nutrient content, crop needs and environmental rules."
+        },
+        {
+          "text": "B. Spread unlimited amounts beside streams",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Apply or process it according to nutrient content, crop needs and environmental rules."
+        },
+        {
+          "text": "C. Dump it in drainage channels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Apply or process it according to nutrient content, crop needs and environmental rules."
+        },
+        {
+          "text": "D. Assume it contains no pathogens or nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Apply or process it according to nutrient content, crop needs and environmental rules."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "Why should poultry litter be tested before being used as fertiliser?",
+      "options": [
+        {
+          "text": "A. Testing determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its nutrient content varies and affects appropriate application rates."
+        },
+        {
+          "text": "B. All litter has identical nutrient composition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its nutrient content varies and affects appropriate application rates."
+        },
+        {
+          "text": "C. It replaces soil testing in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its nutrient content varies and affects appropriate application rates."
+        },
+        {
+          "text": "D. Its nutrient content varies and affects appropriate application rates",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Its nutrient content varies and affects appropriate application rates."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "What can excessive poultry manure application to land cause?",
+      "options": [
+        {
+          "text": "A. Guaranteed improvement in all water sources",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient runoff or leaching that can pollute surface water and groundwater."
+        },
+        {
+          "text": "B. Elimination of soil nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient runoff or leaching that can pollute surface water and groundwater."
+        },
+        {
+          "text": "C. Nutrient runoff or leaching that can pollute surface water and groundwater",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient runoff or leaching that can pollute surface water and groundwater."
+        },
+        {
+          "text": "D. No environmental effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient runoff or leaching that can pollute surface water and groundwater."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "Why should poultry litter not be spread immediately before heavy rainfall where runoff risk is high?",
+      "options": [
+        {
+          "text": "A. Rain sterilises manure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rain can wash nutrients and contaminants into waterways."
+        },
+        {
+          "text": "B. Rain can wash nutrients and contaminants into waterways",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rain can wash nutrients and contaminants into waterways."
+        },
+        {
+          "text": "C. It prevents nutrient movement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rain can wash nutrients and contaminants into waterways."
+        },
+        {
+          "text": "D. It improves litter's feed value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rain can wash nutrients and contaminants into waterways."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "What is the purpose of composting poultry litter under managed conditions?",
+      "options": [
+        {
+          "text": "A. It can reduce volume and stabilise organic material while managing some pathogens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce volume and stabilise organic material while managing some pathogens."
+        },
+        {
+          "text": "B. It guarantees complete sterilisation in every pile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce volume and stabilise organic material while managing some pathogens."
+        },
+        {
+          "text": "C. It makes nutrient analysis unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce volume and stabilise organic material while managing some pathogens."
+        },
+        {
+          "text": "D. It converts litter into drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce volume and stabilise organic material while managing some pathogens."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "Why should workers use suitable protective equipment when handling poultry litter?",
+      "options": [
+        {
+          "text": "A. Protective equipment improves egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter can expose workers to dust, microorganisms and other hazards."
+        },
+        {
+          "text": "B. It replaces handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter can expose workers to dust, microorganisms and other hazards."
+        },
+        {
+          "text": "C. It prevents all exposure under any conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Litter can expose workers to dust, microorganisms and other hazards."
+        },
+        {
+          "text": "D. Litter can expose workers to dust, microorganisms and other hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Litter can expose workers to dust, microorganisms and other hazards."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "What is one reason to control dust when removing used poultry litter?",
+      "options": [
+        {
+          "text": "A. Dust improves air quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can carry particles and microorganisms that irritate the respiratory system."
+        },
+        {
+          "text": "B. It determines the birds' age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can carry particles and microorganisms that irritate the respiratory system."
+        },
+        {
+          "text": "C. Dust can carry particles and microorganisms that irritate the respiratory system",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dust can carry particles and microorganisms that irritate the respiratory system."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can carry particles and microorganisms that irritate the respiratory system."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "Why should poultry-house wash water be managed to prevent uncontrolled discharge?",
+      "options": [
+        {
+          "text": "A. It is always safe to discharge into streams",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wash water may contain organic matter, disinfectant residues and pathogens."
+        },
+        {
+          "text": "B. Wash water may contain organic matter, disinfectant residues and pathogens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wash water may contain organic matter, disinfectant residues and pathogens."
+        },
+        {
+          "text": "C. It improves groundwater quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wash water may contain organic matter, disinfectant residues and pathogens."
+        },
+        {
+          "text": "D. It replaces manure storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wash water may contain organic matter, disinfectant residues and pathogens."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "What is the purpose of keeping chemical containers labelled and secured on a poultry farm?",
+      "options": [
+        {
+          "text": "A. It reduces accidental exposure, misuse and contamination risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces accidental exposure, misuse and contamination risks."
+        },
+        {
+          "text": "B. It determines the feed conversion ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces accidental exposure, misuse and contamination risks."
+        },
+        {
+          "text": "C. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces accidental exposure, misuse and contamination risks."
+        },
+        {
+          "text": "D. It guarantees chemicals cannot spill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces accidental exposure, misuse and contamination risks."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 441,
+      "question": "Why should cleaning chemicals never be mixed unless the label specifically permits it?",
+      "options": [
+        {
+          "text": "A. Mixing always improves disinfectant strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can react and release dangerous gases or heat."
+        },
+        {
+          "text": "B. All cleaning products are chemically compatible",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can react and release dangerous gases or heat."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can react and release dangerous gases or heat."
+        },
+        {
+          "text": "D. Some combinations can react and release dangerous gases or heat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some combinations can react and release dangerous gases or heat."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "What should a worker do after a chemical spill in a poultry facility?",
+      "options": [
+        {
+          "text": "A. Wash it into a storm drain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the product safety instructions, isolate the area and alert trained personnel."
+        },
+        {
+          "text": "B. Cover it with feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the product safety instructions, isolate the area and alert trained personnel."
+        },
+        {
+          "text": "C. Follow the product safety instructions, isolate the area and alert trained personnel",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow the product safety instructions, isolate the area and alert trained personnel."
+        },
+        {
+          "text": "D. Allow birds to walk through it",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the product safety instructions, isolate the area and alert trained personnel."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 443,
+      "question": "Why should poultry farm electrical installations be inspected and maintained?",
+      "options": [
+        {
+          "text": "A. It changes egg production genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty wiring can cause fire, equipment failure and risks to people and birds."
+        },
+        {
+          "text": "B. Faulty wiring can cause fire, equipment failure and risks to people and birds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Faulty wiring can cause fire, equipment failure and risks to people and birds."
+        },
+        {
+          "text": "C. It replaces fire alarms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty wiring can cause fire, equipment failure and risks to people and birds."
+        },
+        {
+          "text": "D. It guarantees uninterrupted power",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty wiring can cause fire, equipment failure and risks to people and birds."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 444,
+      "question": "What is the purpose of keeping combustible materials away from heaters and electrical equipment?",
+      "options": [
+        {
+          "text": "A. It reduces the risk of fire",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the risk of fire."
+        },
+        {
+          "text": "B. It improves brooding temperature control automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of fire."
+        },
+        {
+          "text": "C. It replaces equipment maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of fire."
+        },
+        {
+          "text": "D. It increases ventilation capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the risk of fire."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 445,
+      "question": "Why should gas brooders and heating equipment be checked for safe operation?",
+      "options": [
+        {
+          "text": "A. Gas equipment cannot malfunction",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty combustion or leaks can cause fire, burns or harmful gas exposure."
+        },
+        {
+          "text": "B. It determines chick sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty combustion or leaks can cause fire, burns or harmful gas exposure."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty combustion or leaks can cause fire, burns or harmful gas exposure."
+        },
+        {
+          "text": "D. Faulty combustion or leaks can cause fire, burns or harmful gas exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Faulty combustion or leaks can cause fire, burns or harmful gas exposure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 446,
+      "question": "What should be done if poultry staff suspect carbon monoxide or another dangerous combustion gas?",
+      "options": [
+        {
+          "text": "A. Remain inside to locate the leak",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move people to safety and follow emergency procedures while obtaining qualified help."
+        },
+        {
+          "text": "B. Turn off all ventilation and wait",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move people to safety and follow emergency procedures while obtaining qualified help."
+        },
+        {
+          "text": "C. Move people to safety and follow emergency procedures while obtaining qualified help",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Move people to safety and follow emergency procedures while obtaining qualified help."
+        },
+        {
+          "text": "D. Use an open flame to test the air",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move people to safety and follow emergency procedures while obtaining qualified help."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 447,
+      "question": "Why should poultry farm workers know the location of emergency shutoffs?",
+      "options": [
+        {
+          "text": "A. It improves bird genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need to isolate fuel, electricity or water safely during an incident."
+        },
+        {
+          "text": "B. They may need to isolate fuel, electricity or water safely during an incident",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may need to isolate fuel, electricity or water safely during an incident."
+        },
+        {
+          "text": "C. It replaces emergency drills",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need to isolate fuel, electricity or water safely during an incident."
+        },
+        {
+          "text": "D. It guarantees that equipment never fails",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need to isolate fuel, electricity or water safely during an incident."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 448,
+      "question": "What is the purpose of keeping an up-to-date poultry farm emergency contact board?",
+      "options": [
+        {
+          "text": "A. It helps staff contact responsible managers and emergency services without delay",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff contact responsible managers and emergency services without delay."
+        },
+        {
+          "text": "B. It replaces emergency procedures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff contact responsible managers and emergency services without delay."
+        },
+        {
+          "text": "C. It determines vaccine timing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff contact responsible managers and emergency services without delay."
+        },
+        {
+          "text": "D. It guarantees a quick response from every service",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff contact responsible managers and emergency services without delay."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 449,
+      "question": "Why should poultry farm staff practise emergency drills?",
+      "options": [
+        {
+          "text": "A. Drills prevent all emergencies",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practice helps workers understand roles and respond more effectively under pressure."
+        },
+        {
+          "text": "B. They replace equipment inspections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practice helps workers understand roles and respond more effectively under pressure."
+        },
+        {
+          "text": "C. They guarantee that no birds will be affected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practice helps workers understand roles and respond more effectively under pressure."
+        },
+        {
+          "text": "D. Practice helps workers understand roles and respond more effectively under pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Practice helps workers understand roles and respond more effectively under pressure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 450,
+      "question": "What should a farm review after an emergency such as a power failure or heat event?",
+      "options": [
+        {
+          "text": "A. Only the cost of electricity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is What happened, how the response worked and what changes can reduce future risk."
+        },
+        {
+          "text": "B. Nothing if the flock survived",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is What happened, how the response worked and what changes can reduce future risk."
+        },
+        {
+          "text": "C. What happened, how the response worked and what changes can reduce future risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: What happened, how the response worked and what changes can reduce future risk."
+        },
+        {
+          "text": "D. The colour of the house roof",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is What happened, how the response worked and what changes can reduce future risk."
         }
       ],
       "part": 9
