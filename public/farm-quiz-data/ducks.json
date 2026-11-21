@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 305,
+  "total": 325,
   "questions": [
     {
       "number": 1,
@@ -8234,6 +8234,546 @@
           "text": "D. It improves pond water quality automatically",
           "correct": false,
           "feedback": "Not quite. The correct answer is It supports closer monitoring and reduces contact with healthy ducks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 306,
+      "question": "Why should duck eggs for eating be kept separate from eggs intended for incubation?",
+      "options": [
+        {
+          "text": "A. Table eggs should always be incubated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two groups have different handling, storage and traceability requirements."
+        },
+        {
+          "text": "B. Hatching eggs require no identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two groups have different handling, storage and traceability requirements."
+        },
+        {
+          "text": "C. It determines the duck's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The two groups have different handling, storage and traceability requirements."
+        },
+        {
+          "text": "D. The two groups have different handling, storage and traceability requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The two groups have different handling, storage and traceability requirements."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 307,
+      "question": "Why should dirty duck eggs not be washed using an uncontrolled method?",
+      "options": [
+        {
+          "text": "A. Incorrect washing can damage the shell's protective cuticle or drive contamination through pores",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect washing can damage the shell's protective cuticle or drive contamination through pores."
+        },
+        {
+          "text": "B. Washing always sterilises eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect washing can damage the shell's protective cuticle or drive contamination through pores."
+        },
+        {
+          "text": "C. The shell has no protective barrier",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect washing can damage the shell's protective cuticle or drive contamination through pores."
+        },
+        {
+          "text": "D. It improves fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect washing can damage the shell's protective cuticle or drive contamination through pores."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 308,
+      "question": "What is the purpose of grading duck eggs before sale?",
+      "options": [
+        {
+          "text": "A. It determines the ducklings' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Grading helps sort eggs by relevant quality, cleanliness and size standards."
+        },
+        {
+          "text": "B. Grading helps sort eggs by relevant quality, cleanliness and size standards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Grading helps sort eggs by relevant quality, cleanliness and size standards."
+        },
+        {
+          "text": "C. It guarantees every egg is fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Grading helps sort eggs by relevant quality, cleanliness and size standards."
+        },
+        {
+          "text": "D. It replaces safe storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Grading helps sort eggs by relevant quality, cleanliness and size standards."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 309,
+      "question": "Why should duck eggs with cracked shells be removed from normal sale stock?",
+      "options": [
+        {
+          "text": "A. Cracks improve freshness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A damaged shell offers less protection against contamination."
+        },
+        {
+          "text": "B. Cracked eggs have stronger shells",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A damaged shell offers less protection against contamination."
+        },
+        {
+          "text": "C. A damaged shell offers less protection against contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A damaged shell offers less protection against contamination."
+        },
+        {
+          "text": "D. It guarantees a higher price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A damaged shell offers less protection against contamination."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 310,
+      "question": "What can unusually dirty duck eggs suggest about the production system?",
+      "options": [
+        {
+          "text": "A. It proves the eggs are fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest hygiene, bedding, collection frequency or access to muddy areas may need review."
+        },
+        {
+          "text": "B. It determines the birds' age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest hygiene, bedding, collection frequency or access to muddy areas may need review."
+        },
+        {
+          "text": "C. It means nests should never be cleaned",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest hygiene, bedding, collection frequency or access to muddy areas may need review."
+        },
+        {
+          "text": "D. Nest hygiene, bedding, collection frequency or access to muddy areas may need review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nest hygiene, bedding, collection frequency or access to muddy areas may need review."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 311,
+      "question": "Why should duck egg trays be stored in a clean, dry area?",
+      "options": [
+        {
+          "text": "A. Clean storage reduces the chance of recontaminating collected eggs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clean storage reduces the chance of recontaminating collected eggs."
+        },
+        {
+          "text": "B. Damp storage improves shell quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean storage reduces the chance of recontaminating collected eggs."
+        },
+        {
+          "text": "C. It replaces egg inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean storage reduces the chance of recontaminating collected eggs."
+        },
+        {
+          "text": "D. It increases egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean storage reduces the chance of recontaminating collected eggs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 312,
+      "question": "What is the purpose of recording duck egg numbers by date and flock?",
+      "options": [
+        {
+          "text": "A. It determines pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production monitoring, traceability and investigation of changes."
+        },
+        {
+          "text": "B. It supports production monitoring, traceability and investigation of changes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports production monitoring, traceability and investigation of changes."
+        },
+        {
+          "text": "C. It replaces feed records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production monitoring, traceability and investigation of changes."
+        },
+        {
+          "text": "D. It guarantees a fixed sale price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports production monitoring, traceability and investigation of changes."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 313,
+      "question": "Why should duck eggs be transported in protective packaging?",
+      "options": [
+        {
+          "text": "A. It changes the egg's nutrient content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protection reduces vibration, impact and shell breakage."
+        },
+        {
+          "text": "B. It guarantees sterility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protection reduces vibration, impact and shell breakage."
+        },
+        {
+          "text": "C. Protection reduces vibration, impact and shell breakage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Protection reduces vibration, impact and shell breakage."
+        },
+        {
+          "text": "D. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protection reduces vibration, impact and shell breakage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 314,
+      "question": "What should a duck farmer consider when selecting birds for breeding?",
+      "options": [
+        {
+          "text": "A. Feather colour alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, sound structure, performance, fertility and suitable genetic diversity."
+        },
+        {
+          "text": "B. The loudest call only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, sound structure, performance, fertility and suitable genetic diversity."
+        },
+        {
+          "text": "C. The largest bill regardless of health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, sound structure, performance, fertility and suitable genetic diversity."
+        },
+        {
+          "text": "D. Health, sound structure, performance, fertility and suitable genetic diversity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Health, sound structure, performance, fertility and suitable genetic diversity."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 315,
+      "question": "Why should closely related ducks not be mated repeatedly without a breeding plan?",
+      "options": [
+        {
+          "text": "A. Excessive inbreeding can increase the risk of reduced fitness and inherited defects",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive inbreeding can increase the risk of reduced fitness and inherited defects."
+        },
+        {
+          "text": "B. It guarantees faster growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive inbreeding can increase the risk of reduced fitness and inherited defects."
+        },
+        {
+          "text": "C. It improves genetic diversity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive inbreeding can increase the risk of reduced fitness and inherited defects."
+        },
+        {
+          "text": "D. It prevents all inherited conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive inbreeding can increase the risk of reduced fitness and inherited defects."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 316,
+      "question": "What is the purpose of keeping pedigree or parentage records in a duck breeding flock?",
+      "options": [
+        {
+          "text": "A. They determine the pond's pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track family relationships and evaluate breeding outcomes."
+        },
+        {
+          "text": "B. They help track family relationships and evaluate breeding outcomes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help track family relationships and evaluate breeding outcomes."
+        },
+        {
+          "text": "C. They replace hatchery records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track family relationships and evaluate breeding outcomes."
+        },
+        {
+          "text": "D. They guarantee all offspring are superior",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track family relationships and evaluate breeding outcomes."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 317,
+      "question": "Why should breeding ducks be selected for sound legs and feet?",
+      "options": [
+        {
+          "text": "A. It determines egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good mobility supports access to feed, water and normal mating behaviour."
+        },
+        {
+          "text": "B. It replaces body condition monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good mobility supports access to feed, water and normal mating behaviour."
+        },
+        {
+          "text": "C. Good mobility supports access to feed, water and normal mating behaviour",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Good mobility supports access to feed, water and normal mating behaviour."
+        },
+        {
+          "text": "D. It guarantees high fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good mobility supports access to feed, water and normal mating behaviour."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 318,
+      "question": "What can poor fertility in a duck breeder flock prompt a manager to examine?",
+      "options": [
+        {
+          "text": "A. Only the colour of nest material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder age, body condition, nutrition, mating behaviour, health and egg handling."
+        },
+        {
+          "text": "B. The size of the farm gate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder age, body condition, nutrition, mating behaviour, health and egg handling."
+        },
+        {
+          "text": "C. The number of trees near the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder age, body condition, nutrition, mating behaviour, health and egg handling."
+        },
+        {
+          "text": "D. Breeder age, body condition, nutrition, mating behaviour, health and egg handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Breeder age, body condition, nutrition, mating behaviour, health and egg handling."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 319,
+      "question": "Why should breeder ducks maintain suitable body condition rather than become excessively fat?",
+      "options": [
+        {
+          "text": "A. Excessive body condition can impair mobility and reproductive performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive body condition can impair mobility and reproductive performance."
+        },
+        {
+          "text": "B. Fatness guarantees more fertile eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive body condition can impair mobility and reproductive performance."
+        },
+        {
+          "text": "C. Body condition has no effect on reproduction",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive body condition can impair mobility and reproductive performance."
+        },
+        {
+          "text": "D. It replaces balanced feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive body condition can impair mobility and reproductive performance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 320,
+      "question": "Why should male and female breeder ducks have suitable access to feed and water?",
+      "options": [
+        {
+          "text": "A. Only males require water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unequal access can lead to poor condition and reduced reproductive performance."
+        },
+        {
+          "text": "B. Unequal access can lead to poor condition and reduced reproductive performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unequal access can lead to poor condition and reduced reproductive performance."
+        },
+        {
+          "text": "C. It determines the hatchery temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unequal access can lead to poor condition and reduced reproductive performance."
+        },
+        {
+          "text": "D. It guarantees equal egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unequal access can lead to poor condition and reduced reproductive performance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 321,
+      "question": "What is the purpose of monitoring mating behaviour in a breeder duck flock?",
+      "options": [
+        {
+          "text": "A. It determines egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify whether the flock's mating activity and social balance are appropriate."
+        },
+        {
+          "text": "B. It replaces fertility testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify whether the flock's mating activity and social balance are appropriate."
+        },
+        {
+          "text": "C. It helps identify whether the flock's mating activity and social balance are appropriate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify whether the flock's mating activity and social balance are appropriate."
+        },
+        {
+          "text": "D. It guarantees every egg is fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify whether the flock's mating activity and social balance are appropriate."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 322,
+      "question": "Why should duck breeders be protected from persistent disturbance during the breeding season?",
+      "options": [
+        {
+          "text": "A. Disturbance improves fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress and disruption can interfere with normal behaviour and production."
+        },
+        {
+          "text": "B. It makes nest management unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress and disruption can interfere with normal behaviour and production."
+        },
+        {
+          "text": "C. It determines the sex of embryos",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress and disruption can interfere with normal behaviour and production."
+        },
+        {
+          "text": "D. Stress and disruption can interfere with normal behaviour and production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stress and disruption can interfere with normal behaviour and production."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 323,
+      "question": "What should be checked if ducks repeatedly lay eggs outside the provided nest area?",
+      "options": [
+        {
+          "text": "A. Nest availability, placement, bedding, access and flock training",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nest availability, placement, bedding, access and flock training."
+        },
+        {
+          "text": "B. Only pond salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest availability, placement, bedding, access and flock training."
+        },
+        {
+          "text": "C. The colour of the feed bin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest availability, placement, bedding, access and flock training."
+        },
+        {
+          "text": "D. The age of the incubator",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest availability, placement, bedding, access and flock training."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 324,
+      "question": "Why should duck nest bedding be replaced when wet or heavily soiled?",
+      "options": [
+        {
+          "text": "A. Wet bedding improves hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry clean bedding improves comfort and helps reduce egg contamination."
+        },
+        {
+          "text": "B. Dry clean bedding improves comfort and helps reduce egg contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dry clean bedding improves comfort and helps reduce egg contamination."
+        },
+        {
+          "text": "C. It replaces egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry clean bedding improves comfort and helps reduce egg contamination."
+        },
+        {
+          "text": "D. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry clean bedding improves comfort and helps reduce egg contamination."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 325,
+      "question": "What is one benefit of maintaining separate records for breeder, grower and laying duck groups?",
+      "options": [
+        {
+          "text": "A. All groups have identical requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different groups have different targets and management needs, so separate records aid decisions."
+        },
+        {
+          "text": "B. It replaces individual flock identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different groups have different targets and management needs, so separate records aid decisions."
+        },
+        {
+          "text": "C. Different groups have different targets and management needs, so separate records aid decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Different groups have different targets and management needs, so separate records aid decisions."
+        },
+        {
+          "text": "D. It determines the market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different groups have different targets and management needs, so separate records aid decisions."
         }
       ],
       "part": 7
