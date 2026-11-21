@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 310,
+  "total": 330,
   "questions": [
     {
       "number": 1,
@@ -8369,6 +8369,546 @@
           "text": "D. It removes the need to monitor house condition",
           "correct": false,
           "feedback": "Not quite. The correct answer is It allows a house to be emptied, cleaned and prepared between flocks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 311,
+      "question": "Why should layer hens be weighed regularly during rearing?",
+      "options": [
+        {
+          "text": "A. It determines the colour of the eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight and uniformity help assess whether pullets are developing toward the target for their strain and age."
+        },
+        {
+          "text": "B. Weight and uniformity help assess whether pullets are developing toward the target for their strain and age",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Weight and uniformity help assess whether pullets are developing toward the target for their strain and age."
+        },
+        {
+          "text": "C. It replaces vaccination records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight and uniformity help assess whether pullets are developing toward the target for their strain and age."
+        },
+        {
+          "text": "D. It guarantees the same laying rate in every bird",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight and uniformity help assess whether pullets are developing toward the target for their strain and age."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 312,
+      "question": "What does flock bodyweight uniformity describe?",
+      "options": [
+        {
+          "text": "A. The number of eggs laid per nest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How closely the birds' bodyweights are grouped around the flock average."
+        },
+        {
+          "text": "B. The colour distribution of feathers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How closely the birds' bodyweights are grouped around the flock average."
+        },
+        {
+          "text": "C. How closely the birds' bodyweights are grouped around the flock average",
+          "correct": true,
+          "feedback": "Well done! Correct answer: How closely the birds' bodyweights are grouped around the flock average."
+        },
+        {
+          "text": "D. The amount of feed in the silo",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How closely the birds' bodyweights are grouped around the flock average."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 313,
+      "question": "Why can poor pullet weight uniformity affect later egg production?",
+      "options": [
+        {
+          "text": "A. It guarantees higher egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven development can lead to variation in sexual maturity and laying performance."
+        },
+        {
+          "text": "B. It makes lighting programmes irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven development can lead to variation in sexual maturity and laying performance."
+        },
+        {
+          "text": "C. It prevents feed competition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven development can lead to variation in sexual maturity and laying performance."
+        },
+        {
+          "text": "D. Uneven development can lead to variation in sexual maturity and laying performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uneven development can lead to variation in sexual maturity and laying performance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 314,
+      "question": "What is the purpose of gradually changing pullets from grower to pre-layer feed when recommended?",
+      "options": [
+        {
+          "text": "A. It helps match nutrient supply to changing development needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps match nutrient supply to changing development needs."
+        },
+        {
+          "text": "B. It prevents hens from drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match nutrient supply to changing development needs."
+        },
+        {
+          "text": "C. It changes the genetic laying potential",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match nutrient supply to changing development needs."
+        },
+        {
+          "text": "D. It replaces bodyweight monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps match nutrient supply to changing development needs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 315,
+      "question": "Why should layer feed calcium be formulated appropriately for the birds' age and production stage?",
+      "options": [
+        {
+          "text": "A. Calcium determines the egg's shell colour only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium is needed for eggshell formation and requirements vary with production."
+        },
+        {
+          "text": "B. Calcium is needed for eggshell formation and requirements vary with production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Calcium is needed for eggshell formation and requirements vary with production."
+        },
+        {
+          "text": "C. All ages require identical calcium levels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium is needed for eggshell formation and requirements vary with production."
+        },
+        {
+          "text": "D. It replaces protein and energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium is needed for eggshell formation and requirements vary with production."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 316,
+      "question": "What can thin or weak eggshells prompt a layer manager to investigate?",
+      "options": [
+        {
+          "text": "A. Only the colour of the nest boxes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium supply, particle size, vitamin D status, age, health and other management factors."
+        },
+        {
+          "text": "B. The breed of the farm dog",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium supply, particle size, vitamin D status, age, health and other management factors."
+        },
+        {
+          "text": "C. Calcium supply, particle size, vitamin D status, age, health and other management factors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Calcium supply, particle size, vitamin D status, age, health and other management factors."
+        },
+        {
+          "text": "D. Whether the birds have access to litter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calcium supply, particle size, vitamin D status, age, health and other management factors."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 317,
+      "question": "Why is coarse calcium source sometimes included in layer diets?",
+      "options": [
+        {
+          "text": "A. It replaces all dietary phosphorus",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide calcium over a longer period, including during shell formation at night."
+        },
+        {
+          "text": "B. It makes water sanitation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide calcium over a longer period, including during shell formation at night."
+        },
+        {
+          "text": "C. It determines the hen's feather pattern",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide calcium over a longer period, including during shell formation at night."
+        },
+        {
+          "text": "D. It can provide calcium over a longer period, including during shell formation at night",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can provide calcium over a longer period, including during shell formation at night."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 318,
+      "question": "What is one purpose of monitoring egg weight in a commercial layer flock?",
+      "options": [
+        {
+          "text": "A. It helps assess flock performance and whether egg size matches market requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess flock performance and whether egg size matches market requirements."
+        },
+        {
+          "text": "B. It determines the birds' body temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess flock performance and whether egg size matches market requirements."
+        },
+        {
+          "text": "C. It replaces shell-quality checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess flock performance and whether egg size matches market requirements."
+        },
+        {
+          "text": "D. It predicts the hatch date of every egg",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess flock performance and whether egg size matches market requirements."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 319,
+      "question": "Why should eggs be collected frequently from floor and nest systems?",
+      "options": [
+        {
+          "text": "A. It makes nest hygiene unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and broodiness risk."
+        },
+        {
+          "text": "B. Frequent collection helps reduce breakage, contamination and broodiness risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Frequent collection helps reduce breakage, contamination and broodiness risk."
+        },
+        {
+          "text": "C. It increases the number of hens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and broodiness risk."
+        },
+        {
+          "text": "D. It replaces egg grading",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent collection helps reduce breakage, contamination and broodiness risk."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 320,
+      "question": "What is the purpose of providing enough clean, comfortable nest space for layers?",
+      "options": [
+        {
+          "text": "A. It makes lighting unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages appropriate nest use and can reduce floor eggs."
+        },
+        {
+          "text": "B. It guarantees every egg is clean",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages appropriate nest use and can reduce floor eggs."
+        },
+        {
+          "text": "C. It encourages appropriate nest use and can reduce floor eggs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It encourages appropriate nest use and can reduce floor eggs."
+        },
+        {
+          "text": "D. It replaces litter management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages appropriate nest use and can reduce floor eggs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 321,
+      "question": "Why should nest boxes be kept clean and dry?",
+      "options": [
+        {
+          "text": "A. Wet nests improve shell strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help reduce contamination of eggs."
+        },
+        {
+          "text": "B. Nest hygiene affects only egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help reduce contamination of eggs."
+        },
+        {
+          "text": "C. It prevents hens from laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean nests help reduce contamination of eggs."
+        },
+        {
+          "text": "D. Clean nests help reduce contamination of eggs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clean nests help reduce contamination of eggs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 322,
+      "question": "What can an increase in floor eggs indicate?",
+      "options": [
+        {
+          "text": "A. Nest access, nest design, lighting, litter or bird-training problems may need review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nest access, nest design, lighting, litter or bird-training problems may need review."
+        },
+        {
+          "text": "B. It proves that all hens are healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest design, lighting, litter or bird-training problems may need review."
+        },
+        {
+          "text": "C. It means feed calcium is always too high",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest design, lighting, litter or bird-training problems may need review."
+        },
+        {
+          "text": "D. It is unrelated to housing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, nest design, lighting, litter or bird-training problems may need review."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 323,
+      "question": "Why should eggs be handled gently during collection and packing?",
+      "options": [
+        {
+          "text": "A. It increases shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause cracks and internal damage."
+        },
+        {
+          "text": "B. Rough handling can cause cracks and internal damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rough handling can cause cracks and internal damage."
+        },
+        {
+          "text": "C. It improves hatchability in table eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause cracks and internal damage."
+        },
+        {
+          "text": "D. It removes the need for grading",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause cracks and internal damage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 324,
+      "question": "What is the purpose of separating cracked eggs from saleable table eggs?",
+      "options": [
+        {
+          "text": "A. Cracked eggs are always safer to eat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks compromise the protective shell barrier and can increase contamination risk."
+        },
+        {
+          "text": "B. Cracks improve freshness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks compromise the protective shell barrier and can increase contamination risk."
+        },
+        {
+          "text": "C. Cracks compromise the protective shell barrier and can increase contamination risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cracks compromise the protective shell barrier and can increase contamination risk."
+        },
+        {
+          "text": "D. It makes refrigeration unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks compromise the protective shell barrier and can increase contamination risk."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 325,
+      "question": "Why should table eggs be stored under suitable clean and temperature-controlled conditions?",
+      "options": [
+        {
+          "text": "A. Warm storage always extends shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate storage helps maintain quality and slow deterioration."
+        },
+        {
+          "text": "B. It sterilises eggs completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate storage helps maintain quality and slow deterioration."
+        },
+        {
+          "text": "C. It replaces clean collection equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate storage helps maintain quality and slow deterioration."
+        },
+        {
+          "text": "D. Appropriate storage helps maintain quality and slow deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate storage helps maintain quality and slow deterioration."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 326,
+      "question": "What does an egg grading process commonly assess?",
+      "options": [
+        {
+          "text": "A. Factors such as shell condition, cleanliness, size and internal quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Factors such as shell condition, cleanliness, size and internal quality."
+        },
+        {
+          "text": "B. Only the hen's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Factors such as shell condition, cleanliness, size and internal quality."
+        },
+        {
+          "text": "C. The colour of the poultry house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Factors such as shell condition, cleanliness, size and internal quality."
+        },
+        {
+          "text": "D. The amount of litter in the nest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Factors such as shell condition, cleanliness, size and internal quality."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 327,
+      "question": "Why should egg trays and reusable crates be cleaned appropriately?",
+      "options": [
+        {
+          "text": "A. Cleaning changes egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry dirt and microorganisms between egg batches."
+        },
+        {
+          "text": "B. They can carry dirt and microorganisms between egg batches",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can carry dirt and microorganisms between egg batches."
+        },
+        {
+          "text": "C. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry dirt and microorganisms between egg batches."
+        },
+        {
+          "text": "D. Dirty trays improve shell quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry dirt and microorganisms between egg batches."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 328,
+      "question": "What is the purpose of tracking daily egg production by house or flock?",
+      "options": [
+        {
+          "text": "A. It determines the farm's land area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect production changes and compare performance between groups."
+        },
+        {
+          "text": "B. It replaces feed records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect production changes and compare performance between groups."
+        },
+        {
+          "text": "C. It helps detect production changes and compare performance between groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps detect production changes and compare performance between groups."
+        },
+        {
+          "text": "D. It guarantees a particular market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect production changes and compare performance between groups."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 329,
+      "question": "Why should a sudden drop in egg production be investigated rather than assumed to be normal?",
+      "options": [
+        {
+          "text": "A. Egg production never changes with management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reflect feed, water, lighting, stress, disease or housing problems."
+        },
+        {
+          "text": "B. It always means the hens are moulting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reflect feed, water, lighting, stress, disease or housing problems."
+        },
+        {
+          "text": "C. It proves that all eggs are being hidden",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reflect feed, water, lighting, stress, disease or housing problems."
+        },
+        {
+          "text": "D. It may reflect feed, water, lighting, stress, disease or housing problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may reflect feed, water, lighting, stress, disease or housing problems."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 330,
+      "question": "What is the purpose of monitoring mortality and culling in a layer flock?",
+      "options": [
+        {
+          "text": "A. It helps identify health and welfare trends that may require investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify health and welfare trends that may require investigation."
+        },
+        {
+          "text": "B. It measures egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify health and welfare trends that may require investigation."
+        },
+        {
+          "text": "C. It replaces production records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify health and welfare trends that may require investigation."
+        },
+        {
+          "text": "D. It guarantees that no disease is present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify health and welfare trends that may require investigation."
         }
       ],
       "part": 7
