@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 260,
+  "total": 280,
   "questions": [
     {
       "number": 1,
@@ -7019,6 +7019,546 @@
           "text": "D. It determines pasture quality",
           "correct": false,
           "feedback": "Not quite. The correct answer is It helps evaluate calving and growth traits in breeding lines."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "A cow repeatedly returning to heat after being served may indicate what?",
+      "options": [
+        {
+          "text": "A. Failure to conceive, requiring review of timing, fertility and health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Failure to conceive, requiring review of timing, fertility and health."
+        },
+        {
+          "text": "B. A confirmed pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure to conceive, requiring review of timing, fertility and health."
+        },
+        {
+          "text": "C. Successful implantation in every cycle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure to conceive, requiring review of timing, fertility and health."
+        },
+        {
+          "text": "D. A normal sign that no records are needed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure to conceive, requiring review of timing, fertility and health."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "Why is a bull's breeding soundness examination useful before the mating season?",
+      "options": [
+        {
+          "text": "A. It guarantees every cow will conceive",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assesses reproductive ability and identifies problems before breeding."
+        },
+        {
+          "text": "B. It assesses reproductive ability and identifies problems before breeding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It assesses reproductive ability and identifies problems before breeding."
+        },
+        {
+          "text": "C. It replaces disease-control measures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assesses reproductive ability and identifies problems before breeding."
+        },
+        {
+          "text": "D. It measures the quality of pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assesses reproductive ability and identifies problems before breeding."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "What is the safest response when a cow has a difficult birth and the calf is not progressing?",
+      "options": [
+        {
+          "text": "A. Pull forcefully with any available rope",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt assistance from a trained person or veterinarian."
+        },
+        {
+          "text": "B. Wait indefinitely without monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt assistance from a trained person or veterinarian."
+        },
+        {
+          "text": "C. Seek prompt assistance from a trained person or veterinarian",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek prompt assistance from a trained person or veterinarian."
+        },
+        {
+          "text": "D. Give human medicines without advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt assistance from a trained person or veterinarian."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "Why should a farm keep a record of each cow's calving date?",
+      "options": [
+        {
+          "text": "A. It determines the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor the calving interval, breeding schedule and expected events."
+        },
+        {
+          "text": "B. It replaces identification records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor the calving interval, breeding schedule and expected events."
+        },
+        {
+          "text": "C. It shows the exact amount of milk she will produce",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor the calving interval, breeding schedule and expected events."
+        },
+        {
+          "text": "D. It helps monitor the calving interval, breeding schedule and expected events",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps monitor the calving interval, breeding schedule and expected events."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "What does a high somatic cell count in a dairy cow's milk commonly suggest?",
+      "options": [
+        {
+          "text": "A. Possible udder inflammation or mastitis",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible udder inflammation or mastitis."
+        },
+        {
+          "text": "B. Excessive bone growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible udder inflammation or mastitis."
+        },
+        {
+          "text": "C. A shortage of hoof trimming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible udder inflammation or mastitis."
+        },
+        {
+          "text": "D. That the milk contains no bacteria",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible udder inflammation or mastitis."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "Why should milking order sometimes separate cows known to have mastitis?",
+      "options": [
+        {
+          "text": "A. To make infected cows produce more milk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk of spreading udder pathogens during milking."
+        },
+        {
+          "text": "B. To reduce the risk of spreading udder pathogens during milking",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce the risk of spreading udder pathogens during milking."
+        },
+        {
+          "text": "C. To avoid cleaning the milking equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk of spreading udder pathogens during milking."
+        },
+        {
+          "text": "D. To remove the need for veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk of spreading udder pathogens during milking."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "What is the main purpose of a dry period for a dairy cow?",
+      "options": [
+        {
+          "text": "A. To stop the cow drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow the udder to rest and prepare for the next lactation."
+        },
+        {
+          "text": "B. To prevent all weight gain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow the udder to rest and prepare for the next lactation."
+        },
+        {
+          "text": "C. To allow the udder to rest and prepare for the next lactation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To allow the udder to rest and prepare for the next lactation."
+        },
+        {
+          "text": "D. To eliminate the need for transition-cow feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To allow the udder to rest and prepare for the next lactation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "Why should a farmer avoid sudden large changes in a cattle ration?",
+      "options": [
+        {
+          "text": "A. Cattle cannot digest any new ingredient",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The rumen microbes need time to adapt, and abrupt changes can upset digestion."
+        },
+        {
+          "text": "B. It permanently changes the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The rumen microbes need time to adapt, and abrupt changes can upset digestion."
+        },
+        {
+          "text": "C. It makes clean water unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The rumen microbes need time to adapt, and abrupt changes can upset digestion."
+        },
+        {
+          "text": "D. The rumen microbes need time to adapt, and abrupt changes can upset digestion",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The rumen microbes need time to adapt, and abrupt changes can upset digestion."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "Which observation is a useful early warning that a group of cattle may be experiencing heat stress?",
+      "options": [
+        {
+          "text": "A. More panting, increased water use and reduced feed intake",
+          "correct": true,
+          "feedback": "Well done! Correct answer: More panting, increased water use and reduced feed intake."
+        },
+        {
+          "text": "B. All animals lying in deep shade and eating more",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is More panting, increased water use and reduced feed intake."
+        },
+        {
+          "text": "C. A sudden increase in coat length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is More panting, increased water use and reduced feed intake."
+        },
+        {
+          "text": "D. Reduced breathing rate in every animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is More panting, increased water use and reduced feed intake."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "Why is shade particularly important for cattle during hot weather?",
+      "options": [
+        {
+          "text": "A. It replaces drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals lose heat."
+        },
+        {
+          "text": "B. It reduces direct solar heat load and helps animals lose heat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces direct solar heat load and helps animals lose heat."
+        },
+        {
+          "text": "C. It prevents the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals lose heat."
+        },
+        {
+          "text": "D. It guarantees freedom from parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals lose heat."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "What should be checked if cattle repeatedly refuse to use a water trough?",
+      "options": [
+        {
+          "text": "A. Only the colour of the feed store",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water cleanliness, flow, access, placement and possible faults."
+        },
+        {
+          "text": "B. The age of the farm manager",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water cleanliness, flow, access, placement and possible faults."
+        },
+        {
+          "text": "C. Water cleanliness, flow, access, placement and possible faults",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water cleanliness, flow, access, placement and possible faults."
+        },
+        {
+          "text": "D. Whether the trough is painted",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water cleanliness, flow, access, placement and possible faults."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "Why should pasture be rested between grazing periods?",
+      "options": [
+        {
+          "text": "A. It makes all pasture species equally nutritious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rest allows plants to recover and can help manage grazing pressure."
+        },
+        {
+          "text": "B. It removes every internal parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rest allows plants to recover and can help manage grazing pressure."
+        },
+        {
+          "text": "C. It means cattle no longer need minerals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rest allows plants to recover and can help manage grazing pressure."
+        },
+        {
+          "text": "D. Rest allows plants to recover and can help manage grazing pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rest allows plants to recover and can help manage grazing pressure."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "What is the purpose of body condition scoring in beef and dairy cattle?",
+      "options": [
+        {
+          "text": "A. To estimate fat reserves and guide feeding and management decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To estimate fat reserves and guide feeding and management decisions."
+        },
+        {
+          "text": "B. To identify the animal's exact genetic breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To estimate fat reserves and guide feeding and management decisions."
+        },
+        {
+          "text": "C. To diagnose every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To estimate fat reserves and guide feeding and management decisions."
+        },
+        {
+          "text": "D. To measure milk bacteria directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To estimate fat reserves and guide feeding and management decisions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "Why should cattle be moved calmly through handling facilities?",
+      "options": [
+        {
+          "text": "A. It increases the need for shouting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces stress, injury risk and dangerous movement."
+        },
+        {
+          "text": "B. Calm handling reduces stress, injury risk and dangerous movement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Calm handling reduces stress, injury risk and dangerous movement."
+        },
+        {
+          "text": "C. It makes non-slip flooring unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces stress, injury risk and dangerous movement."
+        },
+        {
+          "text": "D. It guarantees that animals never become ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Calm handling reduces stress, injury risk and dangerous movement."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "What can a persistent cough in several cattle housed together indicate?",
+      "options": [
+        {
+          "text": "A. A normal stage of rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory-health or housing-air-quality problem needing investigation."
+        },
+        {
+          "text": "B. Proof that the animals are pregnant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory-health or housing-air-quality problem needing investigation."
+        },
+        {
+          "text": "C. A possible respiratory-health or housing-air-quality problem needing investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A possible respiratory-health or housing-air-quality problem needing investigation."
+        },
+        {
+          "text": "D. A sign that feed contains enough protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory-health or housing-air-quality problem needing investigation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "Why is adequate drainage important in cattle pens?",
+      "options": [
+        {
+          "text": "A. It concentrates manure beside feed bunks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep lying areas drier and reduces dirty, slippery conditions."
+        },
+        {
+          "text": "B. It removes the need to clean pens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep lying areas drier and reduces dirty, slippery conditions."
+        },
+        {
+          "text": "C. It guarantees that hoof disease cannot occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep lying areas drier and reduces dirty, slippery conditions."
+        },
+        {
+          "text": "D. It helps keep lying areas drier and reduces dirty, slippery conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps keep lying areas drier and reduces dirty, slippery conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "What is the purpose of testing forage before formulating a cattle ration?",
+      "options": [
+        {
+          "text": "A. It estimates nutrient content so the ration can be balanced more accurately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It estimates nutrient content so the ration can be balanced more accurately."
+        },
+        {
+          "text": "B. It determines the animal's temperament",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates nutrient content so the ration can be balanced more accurately."
+        },
+        {
+          "text": "C. It identifies the cow's sire without records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates nutrient content so the ration can be balanced more accurately."
+        },
+        {
+          "text": "D. It replaces weighing feed ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates nutrient content so the ration can be balanced more accurately."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "Why should cattle feed bunks be checked for spoiled or heated feed?",
+      "options": [
+        {
+          "text": "A. Heating always increases feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spoiled feed may reduce intake and expose animals to harmful contaminants."
+        },
+        {
+          "text": "B. Spoiled feed may reduce intake and expose animals to harmful contaminants",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Spoiled feed may reduce intake and expose animals to harmful contaminants."
+        },
+        {
+          "text": "C. Spoilage sterilises the ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spoiled feed may reduce intake and expose animals to harmful contaminants."
+        },
+        {
+          "text": "D. It improves the accuracy of breeding records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spoiled feed may reduce intake and expose animals to harmful contaminants."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "What should be done when a newly purchased cow arrives at the farm?",
+      "options": [
+        {
+          "text": "A. Place her immediately with the youngest calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep her in an appropriate quarantine area and arrange health assessment."
+        },
+        {
+          "text": "B. Share needles and equipment without cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep her in an appropriate quarantine area and arrange health assessment."
+        },
+        {
+          "text": "C. Keep her in an appropriate quarantine area and arrange health assessment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Keep her in an appropriate quarantine area and arrange health assessment."
+        },
+        {
+          "text": "D. Skip identification until she calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep her in an appropriate quarantine area and arrange health assessment."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "Why should a farm investigate repeated cases of retained placenta?",
+      "options": [
+        {
+          "text": "A. They prove that all cows are carrying twins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may point to nutritional, metabolic, infectious or management issues."
+        },
+        {
+          "text": "B. They are always caused by the bull",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may point to nutritional, metabolic, infectious or management issues."
+        },
+        {
+          "text": "C. They show that milking frequency is too low",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may point to nutritional, metabolic, infectious or management issues."
+        },
+        {
+          "text": "D. They may point to nutritional, metabolic, infectious or management issues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may point to nutritional, metabolic, infectious or management issues."
         }
       ],
       "part": 6
