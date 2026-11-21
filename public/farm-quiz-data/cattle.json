@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 340,
+  "total": 360,
   "questions": [
     {
       "number": 1,
@@ -9182,6 +9182,546 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 341,
+      "question": "Why should cattle be observed for changes in manure consistency?",
+      "options": [
+        {
+          "text": "A. Manure consistency identifies the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide clues about diet, digestion or possible illness."
+        },
+        {
+          "text": "B. It measures milk fat directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide clues about diet, digestion or possible illness."
+        },
+        {
+          "text": "C. It determines the next calving date",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide clues about diet, digestion or possible illness."
+        },
+        {
+          "text": "D. Changes can provide clues about diet, digestion or possible illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes can provide clues about diet, digestion or possible illness."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 342,
+      "question": "What is a common reason for cattle to develop bloat?",
+      "options": [
+        {
+          "text": "A. Gas accumulates in the rumen and the animal cannot release it normally",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gas accumulates in the rumen and the animal cannot release it normally."
+        },
+        {
+          "text": "B. The animal has eaten too much dry hay in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas accumulates in the rumen and the animal cannot release it normally."
+        },
+        {
+          "text": "C. The animal has a shortage of coat pigment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas accumulates in the rumen and the animal cannot release it normally."
+        },
+        {
+          "text": "D. The animal has drunk clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas accumulates in the rumen and the animal cannot release it normally."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 343,
+      "question": "What should a farmer do if an animal shows signs of severe bloat or breathing difficulty?",
+      "options": [
+        {
+          "text": "A. Wait several days for it to resolve",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treat it as an emergency and obtain immediate veterinary assistance."
+        },
+        {
+          "text": "B. Treat it as an emergency and obtain immediate veterinary assistance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Treat it as an emergency and obtain immediate veterinary assistance."
+        },
+        {
+          "text": "C. Force the animal to eat more grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treat it as an emergency and obtain immediate veterinary assistance."
+        },
+        {
+          "text": "D. Move it into a crowded pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treat it as an emergency and obtain immediate veterinary assistance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 344,
+      "question": "Why is prompt veterinary attention important for a downer cow that cannot rise?",
+      "options": [
+        {
+          "text": "A. A downer cow always recovers without care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged recumbency can worsen injury and requires urgent assessment of the cause."
+        },
+        {
+          "text": "B. It is a normal stage of lactation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged recumbency can worsen injury and requires urgent assessment of the cause."
+        },
+        {
+          "text": "C. Prolonged recumbency can worsen injury and requires urgent assessment of the cause",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prolonged recumbency can worsen injury and requires urgent assessment of the cause."
+        },
+        {
+          "text": "D. It proves the cow is about to calve",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged recumbency can worsen injury and requires urgent assessment of the cause."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 345,
+      "question": "What can pale mucous membranes in cattle sometimes indicate?",
+      "options": [
+        {
+          "text": "A. A confirmed pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible anaemia or circulatory problems that need clinical assessment."
+        },
+        {
+          "text": "B. A high milk-fat percentage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible anaemia or circulatory problems that need clinical assessment."
+        },
+        {
+          "text": "C. Normal rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible anaemia or circulatory problems that need clinical assessment."
+        },
+        {
+          "text": "D. Possible anaemia or circulatory problems that need clinical assessment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible anaemia or circulatory problems that need clinical assessment."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 346,
+      "question": "Why should cattle with unexplained neurological signs be isolated and handled cautiously?",
+      "options": [
+        {
+          "text": "A. Some causes may be infectious or hazardous, and safe veterinary assessment is needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some causes may be infectious or hazardous, and safe veterinary assessment is needed."
+        },
+        {
+          "text": "B. Neurological signs are always caused by poor fencing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some causes may be infectious or hazardous, and safe veterinary assessment is needed."
+        },
+        {
+          "text": "C. Isolation cures every neurological disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some causes may be infectious or hazardous, and safe veterinary assessment is needed."
+        },
+        {
+          "text": "D. It prevents the need for reporting where required",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some causes may be infectious or hazardous, and safe veterinary assessment is needed."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 347,
+      "question": "What is the purpose of a farm biosecurity plan?",
+      "options": [
+        {
+          "text": "A. To guarantee no disease ever enters the farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the introduction and spread of infectious agents."
+        },
+        {
+          "text": "B. To reduce the introduction and spread of infectious agents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce the introduction and spread of infectious agents."
+        },
+        {
+          "text": "C. To replace vaccination and veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the introduction and spread of infectious agents."
+        },
+        {
+          "text": "D. To improve the colour of farm buildings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the introduction and spread of infectious agents."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 348,
+      "question": "Why should visitors sign in and follow farm hygiene rules?",
+      "options": [
+        {
+          "text": "A. Visitors can diagnose animals by appearance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor records and hygiene measures help manage disease-introduction risks."
+        },
+        {
+          "text": "B. It eliminates the need to clean equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor records and hygiene measures help manage disease-introduction risks."
+        },
+        {
+          "text": "C. Visitor records and hygiene measures help manage disease-introduction risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Visitor records and hygiene measures help manage disease-introduction risks."
+        },
+        {
+          "text": "D. It replaces animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Visitor records and hygiene measures help manage disease-introduction risks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 349,
+      "question": "Why should equipment used between cattle groups be cleaned and disinfected appropriately?",
+      "options": [
+        {
+          "text": "A. It makes equipment last forever",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the chance of carrying infectious material between groups."
+        },
+        {
+          "text": "B. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the chance of carrying infectious material between groups."
+        },
+        {
+          "text": "C. It guarantees that all pathogens are destroyed under any conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the chance of carrying infectious material between groups."
+        },
+        {
+          "text": "D. It reduces the chance of carrying infectious material between groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the chance of carrying infectious material between groups."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 350,
+      "question": "What is the purpose of separating sick cattle from healthy animals when practical?",
+      "options": [
+        {
+          "text": "A. It can reduce contact and allow closer observation and care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce contact and allow closer observation and care."
+        },
+        {
+          "text": "B. It guarantees that the disease is not contagious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce contact and allow closer observation and care."
+        },
+        {
+          "text": "C. It eliminates the need for diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce contact and allow closer observation and care."
+        },
+        {
+          "text": "D. It makes the sick animal recover immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce contact and allow closer observation and care."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 351,
+      "question": "Why should dead livestock be disposed of according to local rules and veterinary guidance?",
+      "options": [
+        {
+          "text": "A. Leaving carcasses in streams improves soil fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal reduces disease, environmental and public-health risks."
+        },
+        {
+          "text": "B. Proper disposal reduces disease, environmental and public-health risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper disposal reduces disease, environmental and public-health risks."
+        },
+        {
+          "text": "C. Disposal rules apply only to poultry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal reduces disease, environmental and public-health risks."
+        },
+        {
+          "text": "D. Carcasses attract no scavengers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal reduces disease, environmental and public-health risks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "What is the purpose of a manure-management plan on a cattle farm?",
+      "options": [
+        {
+          "text": "A. It removes all nutrient value from manure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect water, soil, animal health and neighbouring communities."
+        },
+        {
+          "text": "B. It guarantees zero odour under every condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect water, soil, animal health and neighbouring communities."
+        },
+        {
+          "text": "C. It helps protect water, soil, animal health and neighbouring communities",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps protect water, soil, animal health and neighbouring communities."
+        },
+        {
+          "text": "D. It replaces feed storage planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect water, soil, animal health and neighbouring communities."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "Why should manure not be stored where runoff can enter streams or wells?",
+      "options": [
+        {
+          "text": "A. It increases the oxygen content of drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff can contaminate water with nutrients and disease-causing organisms."
+        },
+        {
+          "text": "B. It improves the taste of well water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff can contaminate water with nutrients and disease-causing organisms."
+        },
+        {
+          "text": "C. It prevents algae growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff can contaminate water with nutrients and disease-causing organisms."
+        },
+        {
+          "text": "D. Runoff can contaminate water with nutrients and disease-causing organisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Runoff can contaminate water with nutrients and disease-causing organisms."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "What is one benefit of composting cattle manure correctly?",
+      "options": [
+        {
+          "text": "A. Managed composting can stabilise organic material and produce a useful soil amendment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Managed composting can stabilise organic material and produce a useful soil amendment."
+        },
+        {
+          "text": "B. It makes manure safe without any process control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Managed composting can stabilise organic material and produce a useful soil amendment."
+        },
+        {
+          "text": "C. It creates a substitute for clean drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Managed composting can stabilise organic material and produce a useful soil amendment."
+        },
+        {
+          "text": "D. It removes the need to manage runoff",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Managed composting can stabilise organic material and produce a useful soil amendment."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "Why should cattle be kept away from freshly treated fields until the product's grazing instructions allow access?",
+      "options": [
+        {
+          "text": "A. All field treatments are harmless immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chemical residues or re-entry restrictions may pose risks to livestock and food products."
+        },
+        {
+          "text": "B. Chemical residues or re-entry restrictions may pose risks to livestock and food products",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Chemical residues or re-entry restrictions may pose risks to livestock and food products."
+        },
+        {
+          "text": "C. It improves the animals' mineral balance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chemical residues or re-entry restrictions may pose risks to livestock and food products."
+        },
+        {
+          "text": "D. It prevents pasture regrowth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Chemical residues or re-entry restrictions may pose risks to livestock and food products."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "What is a useful way to reduce cattle access to contaminated surface water?",
+      "options": [
+        {
+          "text": "A. Encourage cattle to drink from drainage channels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide clean drinking water and fence off unsafe water sources where needed."
+        },
+        {
+          "text": "B. Remove all water troughs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide clean drinking water and fence off unsafe water sources where needed."
+        },
+        {
+          "text": "C. Provide clean drinking water and fence off unsafe water sources where needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Provide clean drinking water and fence off unsafe water sources where needed."
+        },
+        {
+          "text": "D. Mix manure into the pond to settle dust",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide clean drinking water and fence off unsafe water sources where needed."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "Why should cattle handling staff know emergency procedures for escapes or injuries?",
+      "options": [
+        {
+          "text": "A. It guarantees escapes never happen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A prepared response can reduce harm to people and animals."
+        },
+        {
+          "text": "B. It removes the need for secure facilities",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A prepared response can reduce harm to people and animals."
+        },
+        {
+          "text": "C. It replaces training in calm handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A prepared response can reduce harm to people and animals."
+        },
+        {
+          "text": "D. A prepared response can reduce harm to people and animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A prepared response can reduce harm to people and animals."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "What is the main purpose of identifying and reporting unusual disease patterns in a herd?",
+      "options": [
+        {
+          "text": "A. Early investigation can support diagnosis and help limit wider spread",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early investigation can support diagnosis and help limit wider spread."
+        },
+        {
+          "text": "B. It proves the cause without testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early investigation can support diagnosis and help limit wider spread."
+        },
+        {
+          "text": "C. It makes vaccination unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early investigation can support diagnosis and help limit wider spread."
+        },
+        {
+          "text": "D. It is useful only for calculating sale weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early investigation can support diagnosis and help limit wider spread."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "Why should farmers follow official animal-disease reporting requirements?",
+      "options": [
+        {
+          "text": "A. Reporting is optional for every disease everywhere",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some diseases require prompt notification to protect livestock and public health."
+        },
+        {
+          "text": "B. Some diseases require prompt notification to protect livestock and public health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some diseases require prompt notification to protect livestock and public health."
+        },
+        {
+          "text": "C. It guarantees compensation in all cases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some diseases require prompt notification to protect livestock and public health."
+        },
+        {
+          "text": "D. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some diseases require prompt notification to protect livestock and public health."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "What should a farmer do before using a disinfectant in a cattle facility?",
+      "options": [
+        {
+          "text": "A. Mix several products at random",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Read and follow the label for dilution, contact time, safety and suitable surfaces."
+        },
+        {
+          "text": "B. Assume stronger concentration is always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Read and follow the label for dilution, contact time, safety and suitable surfaces."
+        },
+        {
+          "text": "C. Read and follow the label for dilution, contact time, safety and suitable surfaces",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Read and follow the label for dilution, contact time, safety and suitable surfaces."
+        },
+        {
+          "text": "D. Apply it directly to animals regardless of label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Read and follow the label for dilution, contact time, safety and suitable surfaces."
+        }
+      ],
+      "part": 8
     }
   ]
 }
