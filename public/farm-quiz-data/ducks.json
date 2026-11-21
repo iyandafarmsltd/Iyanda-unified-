@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 445,
+  "total": 465,
   "questions": [
     {
       "number": 1,
@@ -12017,6 +12017,546 @@
         }
       ],
       "part": 9
+    },
+    {
+      "number": 446,
+      "question": "Why should duck farm workers receive training on safe lifting and carrying of feed bags?",
+      "options": [
+        {
+          "text": "A. It determines duck growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling reduces the risk of back and muscle injuries."
+        },
+        {
+          "text": "B. It replaces mechanical aids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling reduces the risk of back and muscle injuries."
+        },
+        {
+          "text": "C. It guarantees that bags are lighter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling reduces the risk of back and muscle injuries."
+        },
+        {
+          "text": "D. Correct handling reduces the risk of back and muscle injuries",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct handling reduces the risk of back and muscle injuries."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 447,
+      "question": "What is the purpose of providing handwashing facilities near duck-house exits?",
+      "options": [
+        {
+          "text": "A. Workers can clean their hands after animal contact before entering other areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Workers can clean their hands after animal contact before entering other areas."
+        },
+        {
+          "text": "B. It replaces all cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers can clean their hands after animal contact before entering other areas."
+        },
+        {
+          "text": "C. It determines egg quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers can clean their hands after animal contact before entering other areas."
+        },
+        {
+          "text": "D. It guarantees hands remain sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Workers can clean their hands after animal contact before entering other areas."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 448,
+      "question": "Why should workers change or clean protective clothing between duck flocks when required by biosecurity procedures?",
+      "options": [
+        {
+          "text": "A. It improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clothing can carry organic material and infectious agents between groups."
+        },
+        {
+          "text": "B. Clothing can carry organic material and infectious agents between groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clothing can carry organic material and infectious agents between groups."
+        },
+        {
+          "text": "C. It determines duckling sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clothing can carry organic material and infectious agents between groups."
+        },
+        {
+          "text": "D. It replaces footwear hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clothing can carry organic material and infectious agents between groups."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 449,
+      "question": "What should be done if a worker is injured by a duck or farm equipment?",
+      "options": [
+        {
+          "text": "A. Hide the incident",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide appropriate first aid and report the incident under the farm procedure."
+        },
+        {
+          "text": "B. Continue work without assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide appropriate first aid and report the incident under the farm procedure."
+        },
+        {
+          "text": "C. Provide appropriate first aid and report the incident under the farm procedure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Provide appropriate first aid and report the incident under the farm procedure."
+        },
+        {
+          "text": "D. Apply veterinary medicine to the worker",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide appropriate first aid and report the incident under the farm procedure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 450,
+      "question": "Why should duck farm machinery have guards fitted and maintained?",
+      "options": [
+        {
+          "text": "A. They improve egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Guards reduce the risk of workers contacting moving parts."
+        },
+        {
+          "text": "B. They replace operator training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Guards reduce the risk of workers contacting moving parts."
+        },
+        {
+          "text": "C. They determine feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Guards reduce the risk of workers contacting moving parts."
+        },
+        {
+          "text": "D. Guards reduce the risk of workers contacting moving parts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Guards reduce the risk of workers contacting moving parts."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 451,
+      "question": "What is the purpose of isolating power before cleaning or repairing powered duck-farm equipment?",
+      "options": [
+        {
+          "text": "A. Isolation helps prevent accidental start-up and electric shock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Isolation helps prevent accidental start-up and electric shock."
+        },
+        {
+          "text": "B. It increases machine speed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation helps prevent accidental start-up and electric shock."
+        },
+        {
+          "text": "C. It replaces maintenance records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation helps prevent accidental start-up and electric shock."
+        },
+        {
+          "text": "D. It determines water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation helps prevent accidental start-up and electric shock."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 452,
+      "question": "Why should duck farm staff know how to respond to a suspected electrical fault?",
+      "options": [
+        {
+          "text": "A. Electrical faults improve ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt isolation and qualified repair can prevent injury, fire and equipment damage."
+        },
+        {
+          "text": "B. Prompt isolation and qualified repair can prevent injury, fire and equipment damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt isolation and qualified repair can prevent injury, fire and equipment damage."
+        },
+        {
+          "text": "C. It replaces emergency planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt isolation and qualified repair can prevent injury, fire and equipment damage."
+        },
+        {
+          "text": "D. It guarantees power continuity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt isolation and qualified repair can prevent injury, fire and equipment damage."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 453,
+      "question": "What should be checked before using a pressure washer in a duck house?",
+      "options": [
+        {
+          "text": "A. Only the colour of the hose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Electrical safety, water direction, chemical instructions and protection of workers and equipment."
+        },
+        {
+          "text": "B. Whether ducks are laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Electrical safety, water direction, chemical instructions and protection of workers and equipment."
+        },
+        {
+          "text": "C. Electrical safety, water direction, chemical instructions and protection of workers and equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Electrical safety, water direction, chemical instructions and protection of workers and equipment."
+        },
+        {
+          "text": "D. The price of bedding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Electrical safety, water direction, chemical instructions and protection of workers and equipment."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 454,
+      "question": "Why should ducks be moved out of an area before applying cleaning chemicals?",
+      "options": [
+        {
+          "text": "A. It improves chemical strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents direct exposure to products that may be harmful to birds."
+        },
+        {
+          "text": "B. It determines the flock's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents direct exposure to products that may be harmful to birds."
+        },
+        {
+          "text": "C. It replaces rinsing when required",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents direct exposure to products that may be harmful to birds."
+        },
+        {
+          "text": "D. It prevents direct exposure to products that may be harmful to birds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prevents direct exposure to products that may be harmful to birds."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 455,
+      "question": "What is the purpose of allowing cleaned duck housing to dry before restocking when the system requires it?",
+      "options": [
+        {
+          "text": "A. Drying helps reduce residual moisture that can support microbial growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Drying helps reduce residual moisture that can support microbial growth."
+        },
+        {
+          "text": "B. It guarantees complete sterilisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support microbial growth."
+        },
+        {
+          "text": "C. It replaces disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support microbial growth."
+        },
+        {
+          "text": "D. It determines egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drying helps reduce residual moisture that can support microbial growth."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 456,
+      "question": "Why should duck farm emergency exits remain unobstructed?",
+      "options": [
+        {
+          "text": "A. Obstructions improve security",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear exits support rapid evacuation of people during an emergency."
+        },
+        {
+          "text": "B. Clear exits support rapid evacuation of people during an emergency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear exits support rapid evacuation of people during an emergency."
+        },
+        {
+          "text": "C. It determines feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear exits support rapid evacuation of people during an emergency."
+        },
+        {
+          "text": "D. It replaces fire alarms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear exits support rapid evacuation of people during an emergency."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 457,
+      "question": "What is the purpose of checking fire extinguishers and alarms on a duck farm?",
+      "options": [
+        {
+          "text": "A. It determines duck fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Checks help ensure emergency equipment is available and functional."
+        },
+        {
+          "text": "B. It replaces safe electrical installations",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Checks help ensure emergency equipment is available and functional."
+        },
+        {
+          "text": "C. Checks help ensure emergency equipment is available and functional",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Checks help ensure emergency equipment is available and functional."
+        },
+        {
+          "text": "D. It guarantees no fire can occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Checks help ensure emergency equipment is available and functional."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 458,
+      "question": "Why should fuel and gas cylinders be stored securely away from ignition sources?",
+      "options": [
+        {
+          "text": "A. It improves water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe storage reduces fire, explosion and leak risks."
+        },
+        {
+          "text": "B. It determines bird weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe storage reduces fire, explosion and leak risks."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe storage reduces fire, explosion and leak risks."
+        },
+        {
+          "text": "D. Safe storage reduces fire, explosion and leak risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Safe storage reduces fire, explosion and leak risks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 459,
+      "question": "What should a duck farm do during a prolonged power outage affecting ventilation?",
+      "options": [
+        {
+          "text": "A. Use the emergency response plan and restore safe airflow promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Use the emergency response plan and restore safe airflow promptly."
+        },
+        {
+          "text": "B. Wait until birds show severe distress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use the emergency response plan and restore safe airflow promptly."
+        },
+        {
+          "text": "C. Seal all openings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use the emergency response plan and restore safe airflow promptly."
+        },
+        {
+          "text": "D. Turn off backup alarms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Use the emergency response plan and restore safe airflow promptly."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 460,
+      "question": "Why should a backup generator be tested under load according to its maintenance schedule?",
+      "options": [
+        {
+          "text": "A. It determines the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm that it can supply essential equipment when needed."
+        },
+        {
+          "text": "B. Testing helps confirm that it can supply essential equipment when needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Testing helps confirm that it can supply essential equipment when needed."
+        },
+        {
+          "text": "C. It replaces fuel storage checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm that it can supply essential equipment when needed."
+        },
+        {
+          "text": "D. It guarantees unlimited runtime",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing helps confirm that it can supply essential equipment when needed."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 461,
+      "question": "What is the purpose of keeping fuel for emergency generators in approved safe storage?",
+      "options": [
+        {
+          "text": "A. It improves generator output automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage reduces fire, spill and contamination risks."
+        },
+        {
+          "text": "B. It replaces testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage reduces fire, spill and contamination risks."
+        },
+        {
+          "text": "C. Proper storage reduces fire, spill and contamination risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper storage reduces fire, spill and contamination risks."
+        },
+        {
+          "text": "D. It determines pond temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper storage reduces fire, spill and contamination risks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 462,
+      "question": "Why should duck farm staff record near misses as well as injuries?",
+      "options": [
+        {
+          "text": "A. Near misses have no safety value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Near-miss reports can reveal hazards before someone is harmed."
+        },
+        {
+          "text": "B. It replaces incident investigation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Near-miss reports can reveal hazards before someone is harmed."
+        },
+        {
+          "text": "C. It determines egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Near-miss reports can reveal hazards before someone is harmed."
+        },
+        {
+          "text": "D. Near-miss reports can reveal hazards before someone is harmed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Near-miss reports can reveal hazards before someone is harmed."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 463,
+      "question": "What should be reviewed after a duck farm worker reports a repeated hazard?",
+      "options": [
+        {
+          "text": "A. The cause, risk controls and whether corrective action is effective",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The cause, risk controls and whether corrective action is effective."
+        },
+        {
+          "text": "B. Only the worker's shift",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The cause, risk controls and whether corrective action is effective."
+        },
+        {
+          "text": "C. The colour of the equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The cause, risk controls and whether corrective action is effective."
+        },
+        {
+          "text": "D. The flock's egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The cause, risk controls and whether corrective action is effective."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 464,
+      "question": "Why should farm safety instructions be displayed in a language workers understand?",
+      "options": [
+        {
+          "text": "A. It changes animal behaviour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear instructions improve comprehension and consistent safe practice."
+        },
+        {
+          "text": "B. Clear instructions improve comprehension and consistent safe practice",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear instructions improve comprehension and consistent safe practice."
+        },
+        {
+          "text": "C. It replaces practical training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear instructions improve comprehension and consistent safe practice."
+        },
+        {
+          "text": "D. It guarantees that accidents cannot occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear instructions improve comprehension and consistent safe practice."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 465,
+      "question": "What is the purpose of holding regular duck-farm staff briefings?",
+      "options": [
+        {
+          "text": "A. They replace written records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Briefings communicate current risks, tasks and changes in farm procedures."
+        },
+        {
+          "text": "B. They determine duck fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Briefings communicate current risks, tasks and changes in farm procedures."
+        },
+        {
+          "text": "C. Briefings communicate current risks, tasks and changes in farm procedures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Briefings communicate current risks, tasks and changes in farm procedures."
+        },
+        {
+          "text": "D. They guarantee every task is completed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Briefings communicate current risks, tasks and changes in farm procedures."
+        }
+      ],
+      "part": 10
     }
   ]
 }
