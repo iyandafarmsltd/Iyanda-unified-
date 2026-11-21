@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 450,
+  "total": 500,
   "questions": [
     {
       "number": 1,
@@ -12152,6 +12152,1356 @@
         }
       ],
       "part": 9
+    },
+    {
+      "number": 451,
+      "question": "Why should poultry flock records include the number of birds placed at the start of a cycle?",
+      "options": [
+        {
+          "text": "A. It determines the birds' genetic sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a baseline for calculating mortality, culling and production rates."
+        },
+        {
+          "text": "B. It provides a baseline for calculating mortality, culling and production rates",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides a baseline for calculating mortality, culling and production rates."
+        },
+        {
+          "text": "C. It replaces daily observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a baseline for calculating mortality, culling and production rates."
+        },
+        {
+          "text": "D. It guarantees a particular sale weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a baseline for calculating mortality, culling and production rates."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 452,
+      "question": "What is the purpose of calculating livability in a poultry flock?",
+      "options": [
+        {
+          "text": "A. It shows the proportion of placed birds that remain alive over a defined period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It shows the proportion of placed birds that remain alive over a defined period."
+        },
+        {
+          "text": "B. It measures egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows the proportion of placed birds that remain alive over a defined period."
+        },
+        {
+          "text": "C. It determines feed moisture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows the proportion of placed birds that remain alive over a defined period."
+        },
+        {
+          "text": "D. It replaces mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows the proportion of placed birds that remain alive over a defined period."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 453,
+      "question": "Why should poultry production data be compared between flocks only after considering differences in season and management?",
+      "options": [
+        {
+          "text": "A. All flocks perform identically regardless of conditions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environmental and management differences can influence performance and make simple comparisons misleading."
+        },
+        {
+          "text": "B. Season affects only feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environmental and management differences can influence performance and make simple comparisons misleading."
+        },
+        {
+          "text": "C. It makes record keeping unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environmental and management differences can influence performance and make simple comparisons misleading."
+        },
+        {
+          "text": "D. Environmental and management differences can influence performance and make simple comparisons misleading",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Environmental and management differences can influence performance and make simple comparisons misleading."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 454,
+      "question": "What is a useful reason to calculate average egg production per hen housed?",
+      "options": [
+        {
+          "text": "A. It measures egg weight only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates egg output to the original number of hens placed in the flock."
+        },
+        {
+          "text": "B. It excludes all mortality from the calculation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates egg output to the original number of hens placed in the flock."
+        },
+        {
+          "text": "C. It relates egg output to the original number of hens placed in the flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It relates egg output to the original number of hens placed in the flock."
+        },
+        {
+          "text": "D. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It relates egg output to the original number of hens placed in the flock."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 455,
+      "question": "Why should poultry feed cost be evaluated alongside flock output?",
+      "options": [
+        {
+          "text": "A. It determines the flock's disease status",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feed spending is producing the intended performance."
+        },
+        {
+          "text": "B. It helps assess whether feed spending is producing the intended performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess whether feed spending is producing the intended performance."
+        },
+        {
+          "text": "C. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feed spending is producing the intended performance."
+        },
+        {
+          "text": "D. It guarantees market profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether feed spending is producing the intended performance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 456,
+      "question": "What is the purpose of recording daily feed and water use by poultry house?",
+      "options": [
+        {
+          "text": "A. It helps detect unusual changes that may indicate equipment, environmental or health issues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps detect unusual changes that may indicate equipment, environmental or health issues."
+        },
+        {
+          "text": "B. It identifies every pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect unusual changes that may indicate equipment, environmental or health issues."
+        },
+        {
+          "text": "C. It determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect unusual changes that may indicate equipment, environmental or health issues."
+        },
+        {
+          "text": "D. It replaces egg counts",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps detect unusual changes that may indicate equipment, environmental or health issues."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 457,
+      "question": "Why should poultry farm scales be checked and calibrated periodically?",
+      "options": [
+        {
+          "text": "A. It changes the birds' growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate scales support reliable bodyweight, feed and product measurements."
+        },
+        {
+          "text": "B. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate scales support reliable bodyweight, feed and product measurements."
+        },
+        {
+          "text": "C. It guarantees uniformity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate scales support reliable bodyweight, feed and product measurements."
+        },
+        {
+          "text": "D. Accurate scales support reliable bodyweight, feed and product measurements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accurate scales support reliable bodyweight, feed and product measurements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 458,
+      "question": "What should be done if daily records show an unexplained drop in feed intake?",
+      "options": [
+        {
+          "text": "A. Assume the birds need no feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Verify the measurement and inspect feed delivery, water, environment and flock health."
+        },
+        {
+          "text": "B. Delete the record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Verify the measurement and inspect feed delivery, water, environment and flock health."
+        },
+        {
+          "text": "C. Verify the measurement and inspect feed delivery, water, environment and flock health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Verify the measurement and inspect feed delivery, water, environment and flock health."
+        },
+        {
+          "text": "D. Increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Verify the measurement and inspect feed delivery, water, environment and flock health."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 459,
+      "question": "What is the value of keeping a written standard operating procedure for egg collection?",
+      "options": [
+        {
+          "text": "A. It determines the eggs' genetic quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps workers follow consistent hygiene, handling and recording steps."
+        },
+        {
+          "text": "B. It helps workers follow consistent hygiene, handling and recording steps",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps workers follow consistent hygiene, handling and recording steps."
+        },
+        {
+          "text": "C. It replaces training and supervision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps workers follow consistent hygiene, handling and recording steps."
+        },
+        {
+          "text": "D. It guarantees no egg will crack",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps workers follow consistent hygiene, handling and recording steps."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 460,
+      "question": "Why should poultry farm workers record equipment faults and repair dates?",
+      "options": [
+        {
+          "text": "A. Records help identify recurring failures and support preventive maintenance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records help identify recurring failures and support preventive maintenance."
+        },
+        {
+          "text": "B. It determines vaccine potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify recurring failures and support preventive maintenance."
+        },
+        {
+          "text": "C. It replaces physical inspections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify recurring failures and support preventive maintenance."
+        },
+        {
+          "text": "D. It guarantees that equipment will not fail",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify recurring failures and support preventive maintenance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 461,
+      "question": "What is the purpose of a preventive-maintenance schedule for poultry fans?",
+      "options": [
+        {
+          "text": "A. It changes the birds' feed requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce unexpected ventilation failures and maintain reliable airflow."
+        },
+        {
+          "text": "B. It replaces emergency alarms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce unexpected ventilation failures and maintain reliable airflow."
+        },
+        {
+          "text": "C. It guarantees constant electricity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce unexpected ventilation failures and maintain reliable airflow."
+        },
+        {
+          "text": "D. It helps reduce unexpected ventilation failures and maintain reliable airflow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reduce unexpected ventilation failures and maintain reliable airflow."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 462,
+      "question": "Why should standby fans and alarms be included in maintenance checks?",
+      "options": [
+        {
+          "text": "A. They are needed only for decoration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backup systems must work when primary equipment fails."
+        },
+        {
+          "text": "B. They replace all main fans",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backup systems must work when primary equipment fails."
+        },
+        {
+          "text": "C. Backup systems must work when primary equipment fails",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Backup systems must work when primary equipment fails."
+        },
+        {
+          "text": "D. They determine egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Backup systems must work when primary equipment fails."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 463,
+      "question": "What can uneven bird distribution in a poultry house indicate?",
+      "options": [
+        {
+          "text": "A. It proves that the flock is perfectly uniform",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven temperature, light, air movement, resource access or disturbance."
+        },
+        {
+          "text": "B. Uneven temperature, light, air movement, resource access or disturbance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uneven temperature, light, air movement, resource access or disturbance."
+        },
+        {
+          "text": "C. It determines feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven temperature, light, air movement, resource access or disturbance."
+        },
+        {
+          "text": "D. It is always a sign of high hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven temperature, light, air movement, resource access or disturbance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 464,
+      "question": "Why should drinker lines be checked for leaks at several points along the house?",
+      "options": [
+        {
+          "text": "A. Leaks may be localised and can create wet litter or restrict water delivery",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaks may be localised and can create wet litter or restrict water delivery."
+        },
+        {
+          "text": "B. Leaks improve water hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks may be localised and can create wet litter or restrict water delivery."
+        },
+        {
+          "text": "C. One check at the entrance detects every fault",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks may be localised and can create wet litter or restrict water delivery."
+        },
+        {
+          "text": "D. It determines the birds' age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks may be localised and can create wet litter or restrict water delivery."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 465,
+      "question": "What is the purpose of recording water-treatment product use and concentration?",
+      "options": [
+        {
+          "text": "A. It replaces laboratory testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports correct operation, traceability and investigation of water-quality problems."
+        },
+        {
+          "text": "B. It determines the bird's sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports correct operation, traceability and investigation of water-quality problems."
+        },
+        {
+          "text": "C. It guarantees all pathogens are removed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports correct operation, traceability and investigation of water-quality problems."
+        },
+        {
+          "text": "D. It supports correct operation, traceability and investigation of water-quality problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports correct operation, traceability and investigation of water-quality problems."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 466,
+      "question": "Why should poultry farms monitor local disease alerts and veterinary advice?",
+      "options": [
+        {
+          "text": "A. All poultry diseases are identical worldwide",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks and recommended control measures can change over time and by location."
+        },
+        {
+          "text": "B. It replaces farm biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks and recommended control measures can change over time and by location."
+        },
+        {
+          "text": "C. Disease risks and recommended control measures can change over time and by location",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disease risks and recommended control measures can change over time and by location."
+        },
+        {
+          "text": "D. It guarantees that vaccination is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks and recommended control measures can change over time and by location."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 467,
+      "question": "What should be done if a notifiable poultry disease is suspected?",
+      "options": [
+        {
+          "text": "A. Sell the flock immediately without advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the appropriate veterinary or animal-health authority promptly and follow official instructions."
+        },
+        {
+          "text": "B. Contact the appropriate veterinary or animal-health authority promptly and follow official instructions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contact the appropriate veterinary or animal-health authority promptly and follow official instructions."
+        },
+        {
+          "text": "C. Move birds to another farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the appropriate veterinary or animal-health authority promptly and follow official instructions."
+        },
+        {
+          "text": "D. Hide mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contact the appropriate veterinary or animal-health authority promptly and follow official instructions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 468,
+      "question": "Why should poultry farm staff avoid selling or moving birds during a suspected serious disease event without official guidance?",
+      "options": [
+        {
+          "text": "A. Uncontrolled movement may spread infection to other farms and locations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uncontrolled movement may spread infection to other farms and locations."
+        },
+        {
+          "text": "B. Movement always cures disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement may spread infection to other farms and locations."
+        },
+        {
+          "text": "C. It improves bird immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement may spread infection to other farms and locations."
+        },
+        {
+          "text": "D. It makes reporting unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement may spread infection to other farms and locations."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 469,
+      "question": "What is the purpose of tracing feed and chick suppliers in poultry production records?",
+      "options": [
+        {
+          "text": "A. It determines the final egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate quality or health problems linked to incoming inputs."
+        },
+        {
+          "text": "B. It replaces flock identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate quality or health problems linked to incoming inputs."
+        },
+        {
+          "text": "C. It guarantees supplier products are perfect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate quality or health problems linked to incoming inputs."
+        },
+        {
+          "text": "D. Traceability helps investigate quality or health problems linked to incoming inputs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Traceability helps investigate quality or health problems linked to incoming inputs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 470,
+      "question": "Why should poultry farms keep batch records for vaccines and veterinary products?",
+      "options": [
+        {
+          "text": "A. They determine the birds' market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch details support traceability if a product issue or unexpected reaction occurs."
+        },
+        {
+          "text": "B. They replace withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch details support traceability if a product issue or unexpected reaction occurs."
+        },
+        {
+          "text": "C. Batch details support traceability if a product issue or unexpected reaction occurs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Batch details support traceability if a product issue or unexpected reaction occurs."
+        },
+        {
+          "text": "D. They guarantee treatment success",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Batch details support traceability if a product issue or unexpected reaction occurs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 471,
+      "question": "What is one benefit of separating farm responsibilities clearly among poultry workers?",
+      "options": [
+        {
+          "text": "A. It removes the need for communication",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear roles reduce missed tasks and improve accountability."
+        },
+        {
+          "text": "B. Clear roles reduce missed tasks and improve accountability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear roles reduce missed tasks and improve accountability."
+        },
+        {
+          "text": "C. It guarantees no worker makes an error",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear roles reduce missed tasks and improve accountability."
+        },
+        {
+          "text": "D. It replaces written procedures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear roles reduce missed tasks and improve accountability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 472,
+      "question": "Why should poultry staff be trained to recognise signs of heat stress?",
+      "options": [
+        {
+          "text": "A. Early recognition can prompt action before birds suffer severe heat-related harm",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early recognition can prompt action before birds suffer severe heat-related harm."
+        },
+        {
+          "text": "B. Heat stress occurs only in cattle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt action before birds suffer severe heat-related harm."
+        },
+        {
+          "text": "C. It determines egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt action before birds suffer severe heat-related harm."
+        },
+        {
+          "text": "D. It replaces temperature monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition can prompt action before birds suffer severe heat-related harm."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 473,
+      "question": "What is a sensible response when poultry pant heavily and spread their wings during hot weather?",
+      "options": [
+        {
+          "text": "A. Increase heat output",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check environmental conditions and take appropriate steps to reduce heat load and maintain water access."
+        },
+        {
+          "text": "B. Restrict drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check environmental conditions and take appropriate steps to reduce heat load and maintain water access."
+        },
+        {
+          "text": "C. Close all ventilation inlets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check environmental conditions and take appropriate steps to reduce heat load and maintain water access."
+        },
+        {
+          "text": "D. Check environmental conditions and take appropriate steps to reduce heat load and maintain water access",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check environmental conditions and take appropriate steps to reduce heat load and maintain water access."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 474,
+      "question": "Why should poultry house doors and curtains be managed to avoid sudden drafts at bird level?",
+      "options": [
+        {
+          "text": "A. Drafts are required for egg formation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct drafts can chill birds and create uneven environmental conditions."
+        },
+        {
+          "text": "B. It replaces minimum ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct drafts can chill birds and create uneven environmental conditions."
+        },
+        {
+          "text": "C. Direct drafts can chill birds and create uneven environmental conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Direct drafts can chill birds and create uneven environmental conditions."
+        },
+        {
+          "text": "D. It determines feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct drafts can chill birds and create uneven environmental conditions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 475,
+      "question": "What is the purpose of checking poultry house insulation before a cold season?",
+      "options": [
+        {
+          "text": "A. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable insulation helps maintain stable indoor conditions and manage energy use."
+        },
+        {
+          "text": "B. Suitable insulation helps maintain stable indoor conditions and manage energy use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suitable insulation helps maintain stable indoor conditions and manage energy use."
+        },
+        {
+          "text": "C. It guarantees no disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable insulation helps maintain stable indoor conditions and manage energy use."
+        },
+        {
+          "text": "D. It changes the birds' strain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable insulation helps maintain stable indoor conditions and manage energy use."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 476,
+      "question": "Why should a poultry farm maintain an accurate inventory of feed and medicines?",
+      "options": [
+        {
+          "text": "A. Inventory helps prevent shortages, expiry and unplanned interruptions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Inventory helps prevent shortages, expiry and unplanned interruptions."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inventory helps prevent shortages, expiry and unplanned interruptions."
+        },
+        {
+          "text": "C. It replaces purchase records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inventory helps prevent shortages, expiry and unplanned interruptions."
+        },
+        {
+          "text": "D. It guarantees lower prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inventory helps prevent shortages, expiry and unplanned interruptions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 477,
+      "question": "What should be done with poultry medicines that have expired?",
+      "options": [
+        {
+          "text": "A. Use them at a higher dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Segregate and dispose of them according to label and local requirements."
+        },
+        {
+          "text": "B. Mix them with fresh medicines",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Segregate and dispose of them according to label and local requirements."
+        },
+        {
+          "text": "C. Keep them in the feed bin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Segregate and dispose of them according to label and local requirements."
+        },
+        {
+          "text": "D. Segregate and dispose of them according to label and local requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Segregate and dispose of them according to label and local requirements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 478,
+      "question": "Why should antibiotics in poultry be used only under appropriate veterinary direction?",
+      "options": [
+        {
+          "text": "A. Antibiotics improve growth in every situation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Responsible use supports effective treatment and helps limit antimicrobial resistance and residues."
+        },
+        {
+          "text": "B. They prevent all viral diseases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Responsible use supports effective treatment and helps limit antimicrobial resistance and residues."
+        },
+        {
+          "text": "C. Responsible use supports effective treatment and helps limit antimicrobial resistance and residues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Responsible use supports effective treatment and helps limit antimicrobial resistance and residues."
+        },
+        {
+          "text": "D. They can be used without diagnosis or records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Responsible use supports effective treatment and helps limit antimicrobial resistance and residues."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 479,
+      "question": "What is antimicrobial resistance?",
+      "options": [
+        {
+          "text": "A. A bird's resistance to heat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A condition in which microorganisms evolve so medicines become less effective against them."
+        },
+        {
+          "text": "B. A condition in which microorganisms evolve so medicines become less effective against them",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A condition in which microorganisms evolve so medicines become less effective against them."
+        },
+        {
+          "text": "C. A type of poultry feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A condition in which microorganisms evolve so medicines become less effective against them."
+        },
+        {
+          "text": "D. A vaccine storage method",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A condition in which microorganisms evolve so medicines become less effective against them."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 480,
+      "question": "Why should poultry farmers not use antibiotics to treat viral diseases unless a bacterial complication is diagnosed?",
+      "options": [
+        {
+          "text": "A. Antibiotics act against bacteria, not viruses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Antibiotics act against bacteria, not viruses."
+        },
+        {
+          "text": "B. Antibiotics kill every virus",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Antibiotics act against bacteria, not viruses."
+        },
+        {
+          "text": "C. Viruses are always caused by poor feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Antibiotics act against bacteria, not viruses."
+        },
+        {
+          "text": "D. It guarantees faster growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Antibiotics act against bacteria, not viruses."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 481,
+      "question": "What is the purpose of following withdrawal periods for poultry meat and eggs when specified?",
+      "options": [
+        {
+          "text": "A. It increases egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure veterinary drug residues remain within permitted food-safety limits."
+        },
+        {
+          "text": "B. It replaces hygiene at slaughter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure veterinary drug residues remain within permitted food-safety limits."
+        },
+        {
+          "text": "C. It determines bird weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure veterinary drug residues remain within permitted food-safety limits."
+        },
+        {
+          "text": "D. It helps ensure veterinary drug residues remain within permitted food-safety limits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps ensure veterinary drug residues remain within permitted food-safety limits."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 482,
+      "question": "Why should poultry products be handled with clean hands and equipment after collection?",
+      "options": [
+        {
+          "text": "A. It changes the product's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygienic handling reduces contamination and food-safety risks."
+        },
+        {
+          "text": "B. It makes refrigeration unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygienic handling reduces contamination and food-safety risks."
+        },
+        {
+          "text": "C. Hygienic handling reduces contamination and food-safety risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Hygienic handling reduces contamination and food-safety risks."
+        },
+        {
+          "text": "D. It guarantees sterility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygienic handling reduces contamination and food-safety risks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 483,
+      "question": "What is one reason to keep raw poultry products separate from ready-to-eat foods?",
+      "options": [
+        {
+          "text": "A. It improves feather quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by foodborne microorganisms."
+        },
+        {
+          "text": "B. Separation helps prevent cross-contamination by foodborne microorganisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation helps prevent cross-contamination by foodborne microorganisms."
+        },
+        {
+          "text": "C. It replaces cooking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by foodborne microorganisms."
+        },
+        {
+          "text": "D. It increases shelf life without refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps prevent cross-contamination by foodborne microorganisms."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 484,
+      "question": "Why should poultry meat be chilled promptly after processing under appropriate controls?",
+      "options": [
+        {
+          "text": "A. Rapid chilling slows microbial growth and helps maintain product safety and quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rapid chilling slows microbial growth and helps maintain product safety and quality."
+        },
+        {
+          "text": "B. It sterilises meat completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling slows microbial growth and helps maintain product safety and quality."
+        },
+        {
+          "text": "C. It replaces hygienic processing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling slows microbial growth and helps maintain product safety and quality."
+        },
+        {
+          "text": "D. It improves the live bird's growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling slows microbial growth and helps maintain product safety and quality."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 485,
+      "question": "What is the purpose of monitoring refrigerator and cold-room temperatures?",
+      "options": [
+        {
+          "text": "A. It determines carcass grade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It verifies that poultry products are kept within required storage conditions."
+        },
+        {
+          "text": "B. It replaces cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It verifies that poultry products are kept within required storage conditions."
+        },
+        {
+          "text": "C. It guarantees that power cannot fail",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It verifies that poultry products are kept within required storage conditions."
+        },
+        {
+          "text": "D. It verifies that poultry products are kept within required storage conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It verifies that poultry products are kept within required storage conditions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 486,
+      "question": "What should be done if a cold room fails and poultry products may have warmed beyond safe limits?",
+      "options": [
+        {
+          "text": "A. Sell everything immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess the time and temperature history and follow food-safety guidance before release."
+        },
+        {
+          "text": "B. Refreeze without checking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess the time and temperature history and follow food-safety guidance before release."
+        },
+        {
+          "text": "C. Assess the time and temperature history and follow food-safety guidance before release",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Assess the time and temperature history and follow food-safety guidance before release."
+        },
+        {
+          "text": "D. Ignore the alarm if packaging looks normal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess the time and temperature history and follow food-safety guidance before release."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 487,
+      "question": "Why should poultry slaughter and processing areas have separate clean and dirty zones?",
+      "options": [
+        {
+          "text": "A. It increases bird stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps reduce cross-contamination during processing."
+        },
+        {
+          "text": "B. Separation helps reduce cross-contamination during processing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation helps reduce cross-contamination during processing."
+        },
+        {
+          "text": "C. It replaces handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps reduce cross-contamination during processing."
+        },
+        {
+          "text": "D. It determines meat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation helps reduce cross-contamination during processing."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 488,
+      "question": "What is the purpose of cleaning and sanitising food-contact surfaces between poultry batches?",
+      "options": [
+        {
+          "text": "A. It reduces contamination risks from residues and microorganisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces contamination risks from residues and microorganisms."
+        },
+        {
+          "text": "B. It changes meat protein content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risks from residues and microorganisms."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risks from residues and microorganisms."
+        },
+        {
+          "text": "D. It guarantees all products are pathogen-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risks from residues and microorganisms."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 489,
+      "question": "Why should poultry farm workers wash hands after handling manure or dead birds?",
+      "options": [
+        {
+          "text": "A. It determines flock mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hand hygiene reduces the transfer of pathogens to people, birds and products."
+        },
+        {
+          "text": "B. It replaces protective clothing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hand hygiene reduces the transfer of pathogens to people, birds and products."
+        },
+        {
+          "text": "C. It guarantees that hands remain sterile all day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hand hygiene reduces the transfer of pathogens to people, birds and products."
+        },
+        {
+          "text": "D. Hand hygiene reduces the transfer of pathogens to people, birds and products",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Hand hygiene reduces the transfer of pathogens to people, birds and products."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 490,
+      "question": "What is the purpose of reporting a food-safety complaint linked to poultry products?",
+      "options": [
+        {
+          "text": "A. It determines the farm's land value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace affected batches and investigate possible hazards."
+        },
+        {
+          "text": "B. It replaces product traceability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace affected batches and investigate possible hazards."
+        },
+        {
+          "text": "C. It helps trace affected batches and investigate possible hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps trace affected batches and investigate possible hazards."
+        },
+        {
+          "text": "D. It guarantees the complaint is false",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace affected batches and investigate possible hazards."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 491,
+      "question": "Why should poultry product labels include required batch and date information?",
+      "options": [
+        {
+          "text": "A. Labels determine meat tenderness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels support traceability and help customers handle products appropriately."
+        },
+        {
+          "text": "B. Labels support traceability and help customers handle products appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Labels support traceability and help customers handle products appropriately."
+        },
+        {
+          "text": "C. They replace cold storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels support traceability and help customers handle products appropriately."
+        },
+        {
+          "text": "D. They guarantee a longer shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels support traceability and help customers handle products appropriately."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 492,
+      "question": "What is a practical benefit of reviewing customer feedback about poultry quality?",
+      "options": [
+        {
+          "text": "A. It can identify recurring issues with product handling, packaging or consistency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can identify recurring issues with product handling, packaging or consistency."
+        },
+        {
+          "text": "B. It determines vaccine effectiveness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can identify recurring issues with product handling, packaging or consistency."
+        },
+        {
+          "text": "C. It replaces laboratory testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can identify recurring issues with product handling, packaging or consistency."
+        },
+        {
+          "text": "D. It guarantees every customer is correct",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can identify recurring issues with product handling, packaging or consistency."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 493,
+      "question": "Why should poultry farm management review performance and welfare indicators together?",
+      "options": [
+        {
+          "text": "A. High output always proves good welfare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Production results should be interpreted alongside the birds' health and welfare."
+        },
+        {
+          "text": "B. Welfare is unrelated to production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Production results should be interpreted alongside the birds' health and welfare."
+        },
+        {
+          "text": "C. It replaces direct flock observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Production results should be interpreted alongside the birds' health and welfare."
+        },
+        {
+          "text": "D. Production results should be interpreted alongside the birds' health and welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Production results should be interpreted alongside the birds' health and welfare."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 494,
+      "question": "What is the purpose of setting corrective actions after a poultry audit identifies a problem?",
+      "options": [
+        {
+          "text": "A. It hides the audit finding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns steps and responsibilities to address the identified risk."
+        },
+        {
+          "text": "B. It guarantees the problem never returns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns steps and responsibilities to address the identified risk."
+        },
+        {
+          "text": "C. It assigns steps and responsibilities to address the identified risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It assigns steps and responsibilities to address the identified risk."
+        },
+        {
+          "text": "D. It replaces follow-up checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns steps and responsibilities to address the identified risk."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 495,
+      "question": "Why should corrective actions be checked after implementation?",
+      "options": [
+        {
+          "text": "A. It makes the original issue irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow-up verifies whether the change worked and whether further action is needed."
+        },
+        {
+          "text": "B. Follow-up verifies whether the change worked and whether further action is needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow-up verifies whether the change worked and whether further action is needed."
+        },
+        {
+          "text": "C. It replaces record keeping",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow-up verifies whether the change worked and whether further action is needed."
+        },
+        {
+          "text": "D. It guarantees no future audit is needed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow-up verifies whether the change worked and whether further action is needed."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 496,
+      "question": "What is the value of reviewing poultry farm procedures after a disease outbreak?",
+      "options": [
+        {
+          "text": "A. Lessons learned can strengthen prevention, detection and response for future flocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lessons learned can strengthen prevention, detection and response for future flocks."
+        },
+        {
+          "text": "B. It proves the outbreak was unavoidable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lessons learned can strengthen prevention, detection and response for future flocks."
+        },
+        {
+          "text": "C. It replaces official reporting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lessons learned can strengthen prevention, detection and response for future flocks."
+        },
+        {
+          "text": "D. It guarantees that vaccination alone is sufficient",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lessons learned can strengthen prevention, detection and response for future flocks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 497,
+      "question": "Why should poultry farms keep a current site map showing houses, roads, water and waste areas?",
+      "options": [
+        {
+          "text": "A. It determines the birds' feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A site map helps plan biosecurity, emergency response and movement control."
+        },
+        {
+          "text": "B. It replaces visitor logs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A site map helps plan biosecurity, emergency response and movement control."
+        },
+        {
+          "text": "C. It guarantees no contamination occurs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A site map helps plan biosecurity, emergency response and movement control."
+        },
+        {
+          "text": "D. A site map helps plan biosecurity, emergency response and movement control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A site map helps plan biosecurity, emergency response and movement control."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 498,
+      "question": "What is the purpose of identifying clean and restricted zones on a poultry farm?",
+      "options": [
+        {
+          "text": "A. They determine egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Zone controls help manage movement and reduce cross-contamination."
+        },
+        {
+          "text": "B. They replace all staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Zone controls help manage movement and reduce cross-contamination."
+        },
+        {
+          "text": "C. Zone controls help manage movement and reduce cross-contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Zone controls help manage movement and reduce cross-contamination."
+        },
+        {
+          "text": "D. They guarantee no visitors enter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Zone controls help manage movement and reduce cross-contamination."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 499,
+      "question": "Why should poultry farm deliveries follow designated routes and drop-off points?",
+      "options": [
+        {
+          "text": "A. It improves feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled routes reduce unnecessary movement near poultry houses and sensitive areas."
+        },
+        {
+          "text": "B. Controlled routes reduce unnecessary movement near poultry houses and sensitive areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Controlled routes reduce unnecessary movement near poultry houses and sensitive areas."
+        },
+        {
+          "text": "C. It replaces supplier traceability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled routes reduce unnecessary movement near poultry houses and sensitive areas."
+        },
+        {
+          "text": "D. It guarantees that vehicles are pathogen-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Controlled routes reduce unnecessary movement near poultry houses and sensitive areas."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 500,
+      "question": "What is the purpose of a final flock-cycle review before the next placement?",
+      "options": [
+        {
+          "text": "A. It brings together production, health, welfare, cost and facility lessons to improve the next cycle",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It brings together production, health, welfare, cost and facility lessons to improve the next cycle."
+        },
+        {
+          "text": "B. It deletes previous flock records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It brings together production, health, welfare, cost and facility lessons to improve the next cycle."
+        },
+        {
+          "text": "C. It guarantees identical results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It brings together production, health, welfare, cost and facility lessons to improve the next cycle."
+        },
+        {
+          "text": "D. It replaces cleaning and preparation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It brings together production, health, welfare, cost and facility lessons to improve the next cycle."
+        }
+      ],
+      "part": 10
     }
   ]
 }
