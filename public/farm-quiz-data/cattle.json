@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 360,
+  "total": 380,
   "questions": [
     {
       "number": 1,
@@ -9719,6 +9719,546 @@
           "text": "D. Apply it directly to animals regardless of label",
           "correct": false,
           "feedback": "Not quite. The correct answer is Read and follow the label for dilution, contact time, safety and suitable surfaces."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "Why should a cattle farm keep a written emergency contact list?",
+      "options": [
+        {
+          "text": "A. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, transport and relevant emergency services."
+        },
+        {
+          "text": "B. It predicts the weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, transport and relevant emergency services."
+        },
+        {
+          "text": "C. It helps staff quickly reach veterinary, transport and relevant emergency services",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff quickly reach veterinary, transport and relevant emergency services."
+        },
+        {
+          "text": "D. It makes animal identification unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, transport and relevant emergency services."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "What is the purpose of a contingency plan for water-supply failure?",
+      "options": [
+        {
+          "text": "A. It allows cattle to go without water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures an alternative safe water source can be provided quickly."
+        },
+        {
+          "text": "B. It ensures an alternative safe water source can be provided quickly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It ensures an alternative safe water source can be provided quickly."
+        },
+        {
+          "text": "C. It prevents all equipment breakdowns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures an alternative safe water source can be provided quickly."
+        },
+        {
+          "text": "D. It removes the need to inspect troughs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures an alternative safe water source can be provided quickly."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "Why should backup power be considered for farms using mechanical milking and water pumps?",
+      "options": [
+        {
+          "text": "A. Power failure can interrupt essential milking, cooling and water systems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Power failure can interrupt essential milking, cooling and water systems."
+        },
+        {
+          "text": "B. Electricity determines cattle breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Power failure can interrupt essential milking, cooling and water systems."
+        },
+        {
+          "text": "C. Backup power replaces routine maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Power failure can interrupt essential milking, cooling and water systems."
+        },
+        {
+          "text": "D. Power outages improve milk hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Power failure can interrupt essential milking, cooling and water systems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "What should be checked after a storm damages cattle fencing?",
+      "options": [
+        {
+          "text": "A. Only the colour of the fence posts",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fence integrity, animal location, hazards and access to safe water and feed."
+        },
+        {
+          "text": "B. Whether the cattle have changed breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fence integrity, animal location, hazards and access to safe water and feed."
+        },
+        {
+          "text": "C. The milk price before inspecting animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fence integrity, animal location, hazards and access to safe water and feed."
+        },
+        {
+          "text": "D. Fence integrity, animal location, hazards and access to safe water and feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fence integrity, animal location, hazards and access to safe water and feed."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "Why should cattle shelters have adequate roof drainage?",
+      "options": [
+        {
+          "text": "A. It increases humidity inside the shelter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent water pooling, wet bedding and muddy resting areas."
+        },
+        {
+          "text": "B. It makes ventilation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent water pooling, wet bedding and muddy resting areas."
+        },
+        {
+          "text": "C. It helps prevent water pooling, wet bedding and muddy resting areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent water pooling, wet bedding and muddy resting areas."
+        },
+        {
+          "text": "D. It prevents cattle from needing shade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent water pooling, wet bedding and muddy resting areas."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "What is one reason to provide adequate ventilation in enclosed cattle housing?",
+      "options": [
+        {
+          "text": "A. To create cold drafts at animal level",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove excess moisture, heat and airborne contaminants."
+        },
+        {
+          "text": "B. To remove excess moisture, heat and airborne contaminants",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To remove excess moisture, heat and airborne contaminants."
+        },
+        {
+          "text": "C. To keep all air inside the building",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove excess moisture, heat and airborne contaminants."
+        },
+        {
+          "text": "D. To replace regular manure removal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To remove excess moisture, heat and airborne contaminants."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "Why should bedding be replenished when it becomes wet or heavily soiled?",
+      "options": [
+        {
+          "text": "A. Dry, clean lying areas support comfort and help reduce contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dry, clean lying areas support comfort and help reduce contamination."
+        },
+        {
+          "text": "B. Wet bedding improves hoof health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry, clean lying areas support comfort and help reduce contamination."
+        },
+        {
+          "text": "C. Soiled bedding sterilises the pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry, clean lying areas support comfort and help reduce contamination."
+        },
+        {
+          "text": "D. Bedding quality has no effect on welfare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry, clean lying areas support comfort and help reduce contamination."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "What can repeated rubbing against pen fixtures suggest?",
+      "options": [
+        {
+          "text": "A. A guaranteed sign of pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible irritation, parasites, skin problems or unsuitable housing conditions."
+        },
+        {
+          "text": "B. Proof that the ration is balanced",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible irritation, parasites, skin problems or unsuitable housing conditions."
+        },
+        {
+          "text": "C. A normal substitute for grooming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible irritation, parasites, skin problems or unsuitable housing conditions."
+        },
+        {
+          "text": "D. Possible irritation, parasites, skin problems or unsuitable housing conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible irritation, parasites, skin problems or unsuitable housing conditions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "Why should cattle have enough space to lie down and rise naturally?",
+      "options": [
+        {
+          "text": "A. It increases feed spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate space supports normal behaviour and reduces injury and competition."
+        },
+        {
+          "text": "B. It prevents the need for shade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate space supports normal behaviour and reduces injury and competition."
+        },
+        {
+          "text": "C. Adequate space supports normal behaviour and reduces injury and competition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate space supports normal behaviour and reduces injury and competition."
+        },
+        {
+          "text": "D. It makes flooring irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate space supports normal behaviour and reduces injury and competition."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "What is a benefit of providing a non-slip surface around water points?",
+      "options": [
+        {
+          "text": "A. It makes water cleaning unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces slipping and injury where animals frequently gather."
+        },
+        {
+          "text": "B. It reduces slipping and injury where animals frequently gather",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces slipping and injury where animals frequently gather."
+        },
+        {
+          "text": "C. It prevents cattle from drinking too much",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces slipping and injury where animals frequently gather."
+        },
+        {
+          "text": "D. It increases manure contamination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces slipping and injury where animals frequently gather."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "Why should horns be considered when designing cattle handling and housing facilities?",
+      "options": [
+        {
+          "text": "A. Horned animals may need additional space and safer handling arrangements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Horned animals may need additional space and safer handling arrangements."
+        },
+        {
+          "text": "B. Horns indicate the animal's age exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Horned animals may need additional space and safer handling arrangements."
+        },
+        {
+          "text": "C. Horned cattle do not need identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Horned animals may need additional space and safer handling arrangements."
+        },
+        {
+          "text": "D. Facility design cannot affect horn-related injuries",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Horned animals may need additional space and safer handling arrangements."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "What is the purpose of using low-stress stockmanship principles?",
+      "options": [
+        {
+          "text": "A. To make cattle move faster through force",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To move and handle cattle with less fear, pressure and risk of injury."
+        },
+        {
+          "text": "B. To replace suitable handling facilities",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To move and handle cattle with less fear, pressure and risk of injury."
+        },
+        {
+          "text": "C. To prevent all disease without veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To move and handle cattle with less fear, pressure and risk of injury."
+        },
+        {
+          "text": "D. To move and handle cattle with less fear, pressure and risk of injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To move and handle cattle with less fear, pressure and risk of injury."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "Why should staff avoid shouting and sudden movements around cattle?",
+      "options": [
+        {
+          "text": "A. Noise improves rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cattle can react to frightening stimuli, increasing stress and unsafe movement."
+        },
+        {
+          "text": "B. Sudden movement makes cattle easier to examine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cattle can react to frightening stimuli, increasing stress and unsafe movement."
+        },
+        {
+          "text": "C. Cattle can react to frightening stimuli, increasing stress and unsafe movement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cattle can react to frightening stimuli, increasing stress and unsafe movement."
+        },
+        {
+          "text": "D. It improves feed conversion automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cattle can react to frightening stimuli, increasing stress and unsafe movement."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "What should be done if a handling race has a sharp protruding edge?",
+      "options": [
+        {
+          "text": "A. Cover it with loose feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Repair or remove the hazard before using the facility."
+        },
+        {
+          "text": "B. Repair or remove the hazard before using the facility",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Repair or remove the hazard before using the facility."
+        },
+        {
+          "text": "C. Ignore it if cattle are large",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Repair or remove the hazard before using the facility."
+        },
+        {
+          "text": "D. Use the race only for young calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Repair or remove the hazard before using the facility."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "Why is a clear escape route important for handlers working with cattle?",
+      "options": [
+        {
+          "text": "A. It allows people to move away from animals safely if behaviour becomes unpredictable",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows people to move away from animals safely if behaviour becomes unpredictable."
+        },
+        {
+          "text": "B. It encourages animals to escape",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows people to move away from animals safely if behaviour becomes unpredictable."
+        },
+        {
+          "text": "C. It replaces proper facility design",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows people to move away from animals safely if behaviour becomes unpredictable."
+        },
+        {
+          "text": "D. It makes protective footwear unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows people to move away from animals safely if behaviour becomes unpredictable."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "Why should cattle be observed during loading rather than rushed onto a vehicle?",
+      "options": [
+        {
+          "text": "A. Rushing guarantees less stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify slipping, balking, injury and loading problems."
+        },
+        {
+          "text": "B. Loading speed determines carcass quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify slipping, balking, injury and loading problems."
+        },
+        {
+          "text": "C. Observation is only necessary after unloading",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify slipping, balking, injury and loading problems."
+        },
+        {
+          "text": "D. Observation helps identify slipping, balking, injury and loading problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Observation helps identify slipping, balking, injury and loading problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "What is one purpose of checking vehicle floors before cattle transport?",
+      "options": [
+        {
+          "text": "A. To estimate the animals' pregnancy status",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To ensure the floor is sound, clean and provides adequate grip."
+        },
+        {
+          "text": "B. To replace journey planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To ensure the floor is sound, clean and provides adequate grip."
+        },
+        {
+          "text": "C. To ensure the floor is sound, clean and provides adequate grip",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To ensure the floor is sound, clean and provides adequate grip."
+        },
+        {
+          "text": "D. To increase vehicle vibration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To ensure the floor is sound, clean and provides adequate grip."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "Why should cattle transport groups be organised by compatible size and condition?",
+      "options": [
+        {
+          "text": "A. It guarantees identical growth rates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces bullying, trampling and injury during the journey."
+        },
+        {
+          "text": "B. It reduces bullying, trampling and injury during the journey",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces bullying, trampling and injury during the journey."
+        },
+        {
+          "text": "C. It makes ventilation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces bullying, trampling and injury during the journey."
+        },
+        {
+          "text": "D. It prevents all motion sickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces bullying, trampling and injury during the journey."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "What should be done if an animal becomes injured during transport?",
+      "options": [
+        {
+          "text": "A. Follow the transport emergency plan and obtain appropriate assistance promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow the transport emergency plan and obtain appropriate assistance promptly."
+        },
+        {
+          "text": "B. Continue regardless of severity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the transport emergency plan and obtain appropriate assistance promptly."
+        },
+        {
+          "text": "C. Hide the injury from the receiver",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the transport emergency plan and obtain appropriate assistance promptly."
+        },
+        {
+          "text": "D. Give an unlabelled medicine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow the transport emergency plan and obtain appropriate assistance promptly."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "Why should cattle be allowed appropriate rest and access to water after a journey?",
+      "options": [
+        {
+          "text": "A. It immediately reverses every injury",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recovery helps address fatigue, thirst and transport-related stress."
+        },
+        {
+          "text": "B. It replaces checking animals after arrival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recovery helps address fatigue, thirst and transport-related stress."
+        },
+        {
+          "text": "C. It prevents the need for quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recovery helps address fatigue, thirst and transport-related stress."
+        },
+        {
+          "text": "D. Recovery helps address fatigue, thirst and transport-related stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Recovery helps address fatigue, thirst and transport-related stress."
         }
       ],
       "part": 8
