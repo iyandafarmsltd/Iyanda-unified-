@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 265,
+  "total": 285,
   "questions": [
     {
       "number": 1,
@@ -7154,6 +7154,546 @@
           "text": "D. It prevents ducks from laying",
           "correct": false,
           "feedback": "Not quite. The correct answer is Clean nests help maintain egg hygiene and reduce contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "Why should laying ducks receive a balanced ration designed for egg production?",
+      "options": [
+        {
+          "text": "A. It replaces access to water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies nutrients needed for maintenance, egg formation and shell quality."
+        },
+        {
+          "text": "B. It supplies nutrients needed for maintenance, egg formation and shell quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supplies nutrients needed for maintenance, egg formation and shell quality."
+        },
+        {
+          "text": "C. It guarantees every egg will hatch",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies nutrients needed for maintenance, egg formation and shell quality."
+        },
+        {
+          "text": "D. It determines the duck's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies nutrients needed for maintenance, egg formation and shell quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "What can a sudden drop in duck egg production prompt a farmer to investigate?",
+      "options": [
+        {
+          "text": "A. Feed and water intake, lighting, stress, health and nesting conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed and water intake, lighting, stress, health and nesting conditions."
+        },
+        {
+          "text": "B. Only the colour of the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed and water intake, lighting, stress, health and nesting conditions."
+        },
+        {
+          "text": "C. The age of the farm vehicle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed and water intake, lighting, stress, health and nesting conditions."
+        },
+        {
+          "text": "D. Whether ducks have webbed feet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed and water intake, lighting, stress, health and nesting conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "Why is calcium important in diets for laying ducks?",
+      "options": [
+        {
+          "text": "A. It determines egg fertility by itself",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports eggshell formation and normal skeletal function."
+        },
+        {
+          "text": "B. It replaces dietary protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports eggshell formation and normal skeletal function."
+        },
+        {
+          "text": "C. It prevents every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports eggshell formation and normal skeletal function."
+        },
+        {
+          "text": "D. It supports eggshell formation and normal skeletal function",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports eggshell formation and normal skeletal function."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "What is the purpose of providing suitable nest sites for laying ducks?",
+      "options": [
+        {
+          "text": "A. It replaces daily egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages nesting behaviour and can reduce eggs laid in unsuitable locations."
+        },
+        {
+          "text": "B. It guarantees all eggs are clean",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages nesting behaviour and can reduce eggs laid in unsuitable locations."
+        },
+        {
+          "text": "C. It encourages nesting behaviour and can reduce eggs laid in unsuitable locations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It encourages nesting behaviour and can reduce eggs laid in unsuitable locations."
+        },
+        {
+          "text": "D. It determines the sex of ducklings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It encourages nesting behaviour and can reduce eggs laid in unsuitable locations."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "Why should duck eggs intended for hatching be handled carefully?",
+      "options": [
+        {
+          "text": "A. Handling changes the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and contamination can reduce embryo viability and hatch success."
+        },
+        {
+          "text": "B. Cracks and contamination can reduce embryo viability and hatch success",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cracks and contamination can reduce embryo viability and hatch success."
+        },
+        {
+          "text": "C. It guarantees fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and contamination can reduce embryo viability and hatch success."
+        },
+        {
+          "text": "D. It replaces incubation control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and contamination can reduce embryo viability and hatch success."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "What should be considered when storing duck hatching eggs before incubation?",
+      "options": [
+        {
+          "text": "A. Suitable temperature, humidity, cleanliness, storage duration and turning guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suitable temperature, humidity, cleanliness, storage duration and turning guidance."
+        },
+        {
+          "text": "B. Store them in direct sunlight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable temperature, humidity, cleanliness, storage duration and turning guidance."
+        },
+        {
+          "text": "C. Keep them wet at all times",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable temperature, humidity, cleanliness, storage duration and turning guidance."
+        },
+        {
+          "text": "D. Storage conditions do not affect hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable temperature, humidity, cleanliness, storage duration and turning guidance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "Why should duck eggs be turned during incubation according to the incubator programme?",
+      "options": [
+        {
+          "text": "A. It determines the duckling's sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning supports normal embryo development and helps prevent adhesion to shell membranes."
+        },
+        {
+          "text": "B. It increases shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning supports normal embryo development and helps prevent adhesion to shell membranes."
+        },
+        {
+          "text": "C. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Turning supports normal embryo development and helps prevent adhesion to shell membranes."
+        },
+        {
+          "text": "D. Turning supports normal embryo development and helps prevent adhesion to shell membranes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Turning supports normal embryo development and helps prevent adhesion to shell membranes."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "What is one reason duck eggs may require incubation settings different from chicken eggs?",
+      "options": [
+        {
+          "text": "A. All poultry eggs have identical requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg size, shell characteristics and species-specific incubation needs can differ."
+        },
+        {
+          "text": "B. Duck eggs do not need humidity control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg size, shell characteristics and species-specific incubation needs can differ."
+        },
+        {
+          "text": "C. Egg size, shell characteristics and species-specific incubation needs can differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Egg size, shell characteristics and species-specific incubation needs can differ."
+        },
+        {
+          "text": "D. It determines the hatchery location",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg size, shell characteristics and species-specific incubation needs can differ."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "Why should incubator ventilation be maintained during duck egg incubation?",
+      "options": [
+        {
+          "text": "A. Ventilation determines egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Developing embryos need oxygen and produce carbon dioxide and heat."
+        },
+        {
+          "text": "B. Developing embryos need oxygen and produce carbon dioxide and heat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Developing embryos need oxygen and produce carbon dioxide and heat."
+        },
+        {
+          "text": "C. It replaces temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Developing embryos need oxygen and produce carbon dioxide and heat."
+        },
+        {
+          "text": "D. It prevents the need for turning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Developing embryos need oxygen and produce carbon dioxide and heat."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "What can a poor hatch rate in a duck egg batch prompt the hatchery to review?",
+      "options": [
+        {
+          "text": "A. Breeder fertility, egg handling, storage, sanitation and incubation conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Breeder fertility, egg handling, storage, sanitation and incubation conditions."
+        },
+        {
+          "text": "B. Only the colour of the egg trays",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder fertility, egg handling, storage, sanitation and incubation conditions."
+        },
+        {
+          "text": "C. The number of pond plants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder fertility, egg handling, storage, sanitation and incubation conditions."
+        },
+        {
+          "text": "D. The farm's fencing material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Breeder fertility, egg handling, storage, sanitation and incubation conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "Why should ducklings be checked for navel condition and activity after hatch?",
+      "options": [
+        {
+          "text": "A. It determines the adult bill shape exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These observations help assess chick quality and identify weak or abnormal ducklings."
+        },
+        {
+          "text": "B. It replaces brooding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These observations help assess chick quality and identify weak or abnormal ducklings."
+        },
+        {
+          "text": "C. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These observations help assess chick quality and identify weak or abnormal ducklings."
+        },
+        {
+          "text": "D. These observations help assess chick quality and identify weak or abnormal ducklings",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These observations help assess chick quality and identify weak or abnormal ducklings."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "What is the purpose of separating weak ducklings for appropriate care?",
+      "options": [
+        {
+          "text": "A. It guarantees immediate recovery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation and support to access warmth, feed and water."
+        },
+        {
+          "text": "B. It replaces veterinary assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation and support to access warmth, feed and water."
+        },
+        {
+          "text": "C. They may need closer observation and support to access warmth, feed and water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may need closer observation and support to access warmth, feed and water."
+        },
+        {
+          "text": "D. It prevents all infectious disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may need closer observation and support to access warmth, feed and water."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "Why should ducklings be transported in ventilated containers with suitable space?",
+      "options": [
+        {
+          "text": "A. Sealed containers prevent all infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent overheating, chilling, crushing and injury."
+        },
+        {
+          "text": "B. It helps prevent overheating, chilling, crushing and injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent overheating, chilling, crushing and injury."
+        },
+        {
+          "text": "C. Overcrowding improves survival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent overheating, chilling, crushing and injury."
+        },
+        {
+          "text": "D. It replaces journey planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent overheating, chilling, crushing and injury."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "What should be checked before introducing new ducks to an existing flock?",
+      "options": [
+        {
+          "text": "A. Health status, quarantine needs, age compatibility and biosecurity arrangements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Health status, quarantine needs, age compatibility and biosecurity arrangements."
+        },
+        {
+          "text": "B. Only feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health status, quarantine needs, age compatibility and biosecurity arrangements."
+        },
+        {
+          "text": "C. Whether they can swim",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health status, quarantine needs, age compatibility and biosecurity arrangements."
+        },
+        {
+          "text": "D. The market price of eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health status, quarantine needs, age compatibility and biosecurity arrangements."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "Why should ducks from different sources be quarantined when appropriate?",
+      "options": [
+        {
+          "text": "A. Quarantine guarantees absence of all pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry different infectious agents that could spread to the resident flock."
+        },
+        {
+          "text": "B. It replaces health checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry different infectious agents that could spread to the resident flock."
+        },
+        {
+          "text": "C. It improves pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry different infectious agents that could spread to the resident flock."
+        },
+        {
+          "text": "D. They may carry different infectious agents that could spread to the resident flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may carry different infectious agents that could spread to the resident flock."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "What is the purpose of monitoring duck flock mortality?",
+      "options": [
+        {
+          "text": "A. It determines the egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide an early warning of health, housing or management problems."
+        },
+        {
+          "text": "B. It replaces daily observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide an early warning of health, housing or management problems."
+        },
+        {
+          "text": "C. Changes can provide an early warning of health, housing or management problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes can provide an early warning of health, housing or management problems."
+        },
+        {
+          "text": "D. It guarantees that no disease is present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can provide an early warning of health, housing or management problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "Why should sick ducks be separated from healthy birds where practical?",
+      "options": [
+        {
+          "text": "A. It guarantees the disease is contagious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation can reduce contact and allow closer monitoring and care."
+        },
+        {
+          "text": "B. Separation can reduce contact and allow closer monitoring and care",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separation can reduce contact and allow closer monitoring and care."
+        },
+        {
+          "text": "C. It makes diagnosis unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation can reduce contact and allow closer monitoring and care."
+        },
+        {
+          "text": "D. It replaces cleaning and disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separation can reduce contact and allow closer monitoring and care."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "What can limping or reluctance to walk in ducks indicate?",
+      "options": [
+        {
+          "text": "A. Possible foot, leg, joint or housing problems that need assessment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible foot, leg, joint or housing problems that need assessment."
+        },
+        {
+          "text": "B. A normal stage of egg laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible foot, leg, joint or housing problems that need assessment."
+        },
+        {
+          "text": "C. A sign of high fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible foot, leg, joint or housing problems that need assessment."
+        },
+        {
+          "text": "D. It determines the bird's age exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible foot, leg, joint or housing problems that need assessment."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "Why should duck bedding be checked for sharp objects and hard compacted areas?",
+      "options": [
+        {
+          "text": "A. They improve swimming ability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These can injure feet and reduce comfort."
+        },
+        {
+          "text": "B. They increase egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These can injure feet and reduce comfort."
+        },
+        {
+          "text": "C. It replaces predator control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These can injure feet and reduce comfort."
+        },
+        {
+          "text": "D. These can injure feet and reduce comfort",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These can injure feet and reduce comfort."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "What is a practical reason to inspect ducks' feet and legs routinely?",
+      "options": [
+        {
+          "text": "A. It determines the ducklings' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early detection of lesions or mobility problems supports timely management."
+        },
+        {
+          "text": "B. It replaces feed formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early detection of lesions or mobility problems supports timely management."
+        },
+        {
+          "text": "C. Early detection of lesions or mobility problems supports timely management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early detection of lesions or mobility problems supports timely management."
+        },
+        {
+          "text": "D. It guarantees that no parasite is present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early detection of lesions or mobility problems supports timely management."
         }
       ],
       "part": 6
