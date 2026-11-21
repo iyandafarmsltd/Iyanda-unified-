@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 325,
+  "total": 345,
   "questions": [
     {
       "number": 1,
@@ -8774,6 +8774,546 @@
           "text": "D. It determines the market price",
           "correct": false,
           "feedback": "Not quite. The correct answer is Different groups have different targets and management needs, so separate records aid decisions."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 326,
+      "question": "Why should ducklings be introduced to feed and water promptly after placement?",
+      "options": [
+        {
+          "text": "A. It determines their adult feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration and helps them begin feeding."
+        },
+        {
+          "text": "B. Early access supports hydration and helps them begin feeding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early access supports hydration and helps them begin feeding."
+        },
+        {
+          "text": "C. It replaces brooding heat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration and helps them begin feeding."
+        },
+        {
+          "text": "D. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early access supports hydration and helps them begin feeding."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 327,
+      "question": "What is the purpose of checking duckling crops after placement?",
+      "options": [
+        {
+          "text": "A. It determines their sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crop fill gives an indication of whether ducklings have found feed and water."
+        },
+        {
+          "text": "B. It measures pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crop fill gives an indication of whether ducklings have found feed and water."
+        },
+        {
+          "text": "C. Crop fill gives an indication of whether ducklings have found feed and water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Crop fill gives an indication of whether ducklings have found feed and water."
+        },
+        {
+          "text": "D. It replaces weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crop fill gives an indication of whether ducklings have found feed and water."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 328,
+      "question": "Why should duckling feed be placed where young birds can find it easily?",
+      "options": [
+        {
+          "text": "A. It changes their breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Easy access encourages early intake and reduces the risk of birds missing feed."
+        },
+        {
+          "text": "B. It guarantees uniform adult size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Easy access encourages early intake and reduces the risk of birds missing feed."
+        },
+        {
+          "text": "C. It replaces drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Easy access encourages early intake and reduces the risk of birds missing feed."
+        },
+        {
+          "text": "D. Easy access encourages early intake and reduces the risk of birds missing feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Easy access encourages early intake and reduces the risk of birds missing feed."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 329,
+      "question": "What can persistently empty crops in a group of ducklings indicate?",
+      "options": [
+        {
+          "text": "A. Feed or water access, brooding conditions or early health problems may need investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed or water access, brooding conditions or early health problems may need investigation."
+        },
+        {
+          "text": "B. The flock is fully adapted",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed or water access, brooding conditions or early health problems may need investigation."
+        },
+        {
+          "text": "C. It proves feed quality is excellent",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed or water access, brooding conditions or early health problems may need investigation."
+        },
+        {
+          "text": "D. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed or water access, brooding conditions or early health problems may need investigation."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 330,
+      "question": "Why should ducklings be checked for pasting around the vent?",
+      "options": [
+        {
+          "text": "A. It is a normal sign of rapid growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated droppings can obstruct the vent and require careful attention."
+        },
+        {
+          "text": "B. Accumulated droppings can obstruct the vent and require careful attention",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accumulated droppings can obstruct the vent and require careful attention."
+        },
+        {
+          "text": "C. It determines the sex of the bird",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated droppings can obstruct the vent and require careful attention."
+        },
+        {
+          "text": "D. It improves feather development",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated droppings can obstruct the vent and require careful attention."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 331,
+      "question": "What should be done if a duckling has a blocked vent?",
+      "options": [
+        {
+          "text": "A. Ignore it until adulthood",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handle it gently and seek appropriate husbandry or veterinary guidance to clear and assess it."
+        },
+        {
+          "text": "B. Apply concentrated disinfectant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handle it gently and seek appropriate husbandry or veterinary guidance to clear and assess it."
+        },
+        {
+          "text": "C. Handle it gently and seek appropriate husbandry or veterinary guidance to clear and assess it",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Handle it gently and seek appropriate husbandry or veterinary guidance to clear and assess it."
+        },
+        {
+          "text": "D. Withhold water for a day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handle it gently and seek appropriate husbandry or veterinary guidance to clear and assess it."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 332,
+      "question": "Why should ducklings not be placed on slippery flooring?",
+      "options": [
+        {
+          "text": "A. They improve leg strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Slippery surfaces can contribute to leg injuries and abnormal movement."
+        },
+        {
+          "text": "B. They determine the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Slippery surfaces can contribute to leg injuries and abnormal movement."
+        },
+        {
+          "text": "C. It replaces suitable bedding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Slippery surfaces can contribute to leg injuries and abnormal movement."
+        },
+        {
+          "text": "D. Slippery surfaces can contribute to leg injuries and abnormal movement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Slippery surfaces can contribute to leg injuries and abnormal movement."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 333,
+      "question": "What is the purpose of using absorbent bedding in a duckling brooder?",
+      "options": [
+        {
+          "text": "A. It helps keep the resting area dry and supports footing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps keep the resting area dry and supports footing."
+        },
+        {
+          "text": "B. It replaces water management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep the resting area dry and supports footing."
+        },
+        {
+          "text": "C. It guarantees that no pathogens survive",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep the resting area dry and supports footing."
+        },
+        {
+          "text": "D. It determines the feed conversion ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps keep the resting area dry and supports footing."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 334,
+      "question": "Why should bedding be topped up or replaced when it becomes wet?",
+      "options": [
+        {
+          "text": "A. Wet bedding improves insulation in every condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet bedding can increase chilling, ammonia and microbial risks."
+        },
+        {
+          "text": "B. Wet bedding can increase chilling, ammonia and microbial risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wet bedding can increase chilling, ammonia and microbial risks."
+        },
+        {
+          "text": "C. It increases niacin content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet bedding can increase chilling, ammonia and microbial risks."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet bedding can increase chilling, ammonia and microbial risks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 335,
+      "question": "What can a strong ammonia smell in a duck house indicate?",
+      "options": [
+        {
+          "text": "A. The house is perfectly ventilated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure and wet bedding may be accumulating or ventilation may be inadequate."
+        },
+        {
+          "text": "B. It proves water is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure and wet bedding may be accumulating or ventilation may be inadequate."
+        },
+        {
+          "text": "C. Manure and wet bedding may be accumulating or ventilation may be inadequate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Manure and wet bedding may be accumulating or ventilation may be inadequate."
+        },
+        {
+          "text": "D. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manure and wet bedding may be accumulating or ventilation may be inadequate."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 336,
+      "question": "Why should duck house ventilation be adjusted as birds grow?",
+      "options": [
+        {
+          "text": "A. Ventilation needs always decline to zero",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger birds produce more heat, moisture and respiratory gases."
+        },
+        {
+          "text": "B. It changes the birds' genetic potential",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger birds produce more heat, moisture and respiratory gases."
+        },
+        {
+          "text": "C. It replaces stocking-density management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger birds produce more heat, moisture and respiratory gases."
+        },
+        {
+          "text": "D. Larger birds produce more heat, moisture and respiratory gases",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Larger birds produce more heat, moisture and respiratory gases."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 337,
+      "question": "What should a farmer do if ducklings huddle tightly away from a heat source?",
+      "options": [
+        {
+          "text": "A. Check for excessive heat, drafts, noise or other environmental stressors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check for excessive heat, drafts, noise or other environmental stressors."
+        },
+        {
+          "text": "B. Increase heat immediately without checking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check for excessive heat, drafts, noise or other environmental stressors."
+        },
+        {
+          "text": "C. Remove all drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check for excessive heat, drafts, noise or other environmental stressors."
+        },
+        {
+          "text": "D. Assume the behaviour is always normal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check for excessive heat, drafts, noise or other environmental stressors."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 338,
+      "question": "What may scattered ducklings panting with wings held away from the body suggest?",
+      "options": [
+        {
+          "text": "A. They are always cold",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The brooding area may be too hot and needs prompt assessment."
+        },
+        {
+          "text": "B. The brooding area may be too hot and needs prompt assessment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The brooding area may be too hot and needs prompt assessment."
+        },
+        {
+          "text": "C. It proves they have a vitamin deficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The brooding area may be too hot and needs prompt assessment."
+        },
+        {
+          "text": "D. It determines the sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The brooding area may be too hot and needs prompt assessment."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 339,
+      "question": "Why should the brooder temperature be measured at duckling level?",
+      "options": [
+        {
+          "text": "A. It determines the pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Conditions at bird height may differ from readings taken higher in the room."
+        },
+        {
+          "text": "B. It replaces observing bird behaviour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Conditions at bird height may differ from readings taken higher in the room."
+        },
+        {
+          "text": "C. Conditions at bird height may differ from readings taken higher in the room",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Conditions at bird height may differ from readings taken higher in the room."
+        },
+        {
+          "text": "D. It guarantees identical temperatures throughout the house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Conditions at bird height may differ from readings taken higher in the room."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 340,
+      "question": "What is the purpose of gradually adjusting brooding heat as ducklings develop?",
+      "options": [
+        {
+          "text": "A. It determines feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their ability to regulate body temperature improves with age."
+        },
+        {
+          "text": "B. It replaces access to feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their ability to regulate body temperature improves with age."
+        },
+        {
+          "text": "C. It guarantees that no bird becomes stressed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their ability to regulate body temperature improves with age."
+        },
+        {
+          "text": "D. Their ability to regulate body temperature improves with age",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their ability to regulate body temperature improves with age."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 341,
+      "question": "Why should ducklings have enough feeder and drinker space?",
+      "options": [
+        {
+          "text": "A. Adequate access reduces competition and helps weaker birds obtain resources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate access reduces competition and helps weaker birds obtain resources."
+        },
+        {
+          "text": "B. It makes feed formulation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps weaker birds obtain resources."
+        },
+        {
+          "text": "C. It determines the birds' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps weaker birds obtain resources."
+        },
+        {
+          "text": "D. It guarantees equal bodyweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps weaker birds obtain resources."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 342,
+      "question": "What can a wide variation in duckling bodyweights indicate?",
+      "options": [
+        {
+          "text": "A. It proves that all birds are healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Differences in access, health, brooding conditions or feed quality may be present."
+        },
+        {
+          "text": "B. Differences in access, health, brooding conditions or feed quality may be present",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Differences in access, health, brooding conditions or feed quality may be present."
+        },
+        {
+          "text": "C. It guarantees high market value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Differences in access, health, brooding conditions or feed quality may be present."
+        },
+        {
+          "text": "D. It determines the pond's pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Differences in access, health, brooding conditions or feed quality may be present."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 343,
+      "question": "Why should a sample of ducklings be weighed consistently over time?",
+      "options": [
+        {
+          "text": "A. It replaces feed records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth against suitable age and strain targets."
+        },
+        {
+          "text": "B. It determines the sex of every duckling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth against suitable age and strain targets."
+        },
+        {
+          "text": "C. Consistent sampling helps track growth against suitable age and strain targets",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent sampling helps track growth against suitable age and strain targets."
+        },
+        {
+          "text": "D. It guarantees a particular sale weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent sampling helps track growth against suitable age and strain targets."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 344,
+      "question": "What is the purpose of recording duckling mortality by date and brooder?",
+      "options": [
+        {
+          "text": "A. It determines the egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns linked to location, timing or management."
+        },
+        {
+          "text": "B. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns linked to location, timing or management."
+        },
+        {
+          "text": "C. It guarantees the next batch will survive",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns linked to location, timing or management."
+        },
+        {
+          "text": "D. It helps identify patterns linked to location, timing or management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify patterns linked to location, timing or management."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 345,
+      "question": "Why should weak or injured ducklings receive prompt assessment?",
+      "options": [
+        {
+          "text": "A. Early attention can identify treatable problems and prevent avoidable suffering",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early attention can identify treatable problems and prevent avoidable suffering."
+        },
+        {
+          "text": "B. They should always be left with no observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early attention can identify treatable problems and prevent avoidable suffering."
+        },
+        {
+          "text": "C. It determines their adult size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early attention can identify treatable problems and prevent avoidable suffering."
+        },
+        {
+          "text": "D. It replaces flock-level management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early attention can identify treatable problems and prevent avoidable suffering."
         }
       ],
       "part": 7
