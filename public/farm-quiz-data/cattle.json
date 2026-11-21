@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 320,
+  "total": 340,
   "questions": [
     {
       "number": 1,
@@ -8639,6 +8639,546 @@
           "text": "D. It ensures sick animals travel first",
           "correct": false,
           "feedback": "Not quite. The correct answer is It helps identify animals unfit for transport and check required records and arrangements."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 321,
+      "question": "Why should a farm monitor average daily gain in a growing cattle group?",
+      "options": [
+        {
+          "text": "A. It identifies the exact sire without records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows whether growth is meeting the production target and can flag feeding or health problems."
+        },
+        {
+          "text": "B. It replaces weighing individual animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows whether growth is meeting the production target and can flag feeding or health problems."
+        },
+        {
+          "text": "C. It shows whether growth is meeting the production target and can flag feeding or health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It shows whether growth is meeting the production target and can flag feeding or health problems."
+        },
+        {
+          "text": "D. It proves that all cattle have the same mature size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It shows whether growth is meeting the production target and can flag feeding or health problems."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 322,
+      "question": "What does feed conversion efficiency describe in beef production?",
+      "options": [
+        {
+          "text": "A. The time needed to clean a water trough",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The amount of feed required to produce a unit of weight gain."
+        },
+        {
+          "text": "B. The number of calves born per bull",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The amount of feed required to produce a unit of weight gain."
+        },
+        {
+          "text": "C. The proportion of pasture that is shaded",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The amount of feed required to produce a unit of weight gain."
+        },
+        {
+          "text": "D. The amount of feed required to produce a unit of weight gain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The amount of feed required to produce a unit of weight gain."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 323,
+      "question": "Why should cattle be sorted into groups with similar nutritional needs?",
+      "options": [
+        {
+          "text": "A. It allows rations and management to better match age, size and production stage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows rations and management to better match age, size and production stage."
+        },
+        {
+          "text": "B. It ensures every animal receives an identical dose of medicine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows rations and management to better match age, size and production stage."
+        },
+        {
+          "text": "C. It eliminates competition in every pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows rations and management to better match age, size and production stage."
+        },
+        {
+          "text": "D. It removes the need to monitor body condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows rations and management to better match age, size and production stage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 324,
+      "question": "What is a key risk of feeding cattle excessive amounts of rapidly fermentable grain without proper adaptation?",
+      "options": [
+        {
+          "text": "A. Permanent improvement in rumen function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rumen acidosis and associated digestive or health problems."
+        },
+        {
+          "text": "B. Rumen acidosis and associated digestive or health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rumen acidosis and associated digestive or health problems."
+        },
+        {
+          "text": "C. Immediate elimination of parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rumen acidosis and associated digestive or health problems."
+        },
+        {
+          "text": "D. Increased fibre digestion in every situation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rumen acidosis and associated digestive or health problems."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 325,
+      "question": "Why is effective fibre important in a cattle ration?",
+      "options": [
+        {
+          "text": "A. It replaces all protein and energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports chewing, saliva production and normal rumen function."
+        },
+        {
+          "text": "B. It prevents cattle from drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports chewing, saliva production and normal rumen function."
+        },
+        {
+          "text": "C. It supports chewing, saliva production and normal rumen function",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports chewing, saliva production and normal rumen function."
+        },
+        {
+          "text": "D. It determines the sex of the calf",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports chewing, saliva production and normal rumen function."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 326,
+      "question": "What is the purpose of checking silage face management during feed-out?",
+      "options": [
+        {
+          "text": "A. To increase oxygen inside stored silage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To limit air penetration, heating and spoilage of the exposed silage."
+        },
+        {
+          "text": "B. To make silage dry out before feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To limit air penetration, heating and spoilage of the exposed silage."
+        },
+        {
+          "text": "C. To avoid removing spoiled material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To limit air penetration, heating and spoilage of the exposed silage."
+        },
+        {
+          "text": "D. To limit air penetration, heating and spoilage of the exposed silage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To limit air penetration, heating and spoilage of the exposed silage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 327,
+      "question": "Why should silage be covered and sealed properly during storage?",
+      "options": [
+        {
+          "text": "A. Limiting oxygen helps promote preservation and reduce spoilage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Limiting oxygen helps promote preservation and reduce spoilage."
+        },
+        {
+          "text": "B. Oxygen is required for all desirable silage fermentation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting oxygen helps promote preservation and reduce spoilage."
+        },
+        {
+          "text": "C. An open stack prevents mould",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting oxygen helps promote preservation and reduce spoilage."
+        },
+        {
+          "text": "D. Covering changes the crop variety",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting oxygen helps promote preservation and reduce spoilage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 328,
+      "question": "What does a forage-to-concentrate balance help manage in cattle feeding?",
+      "options": [
+        {
+          "text": "A. The order in which cattle are branded",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The supply of fibre and fermentable nutrients for rumen health and production."
+        },
+        {
+          "text": "B. The supply of fibre and fermentable nutrients for rumen health and production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The supply of fibre and fermentable nutrients for rumen health and production."
+        },
+        {
+          "text": "C. The colour of the milk container",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The supply of fibre and fermentable nutrients for rumen health and production."
+        },
+        {
+          "text": "D. The need for animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The supply of fibre and fermentable nutrients for rumen health and production."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 329,
+      "question": "Why should feed ingredients be introduced gradually when changing a cattle ration?",
+      "options": [
+        {
+          "text": "A. It makes feed testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adaptation helps rumen microbes adjust to the new diet."
+        },
+        {
+          "text": "B. It prevents all digestive disorders regardless of management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adaptation helps rumen microbes adjust to the new diet."
+        },
+        {
+          "text": "C. Gradual adaptation helps rumen microbes adjust to the new diet",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gradual adaptation helps rumen microbes adjust to the new diet."
+        },
+        {
+          "text": "D. It guarantees higher milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adaptation helps rumen microbes adjust to the new diet."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 330,
+      "question": "What can sorting of cattle feed particles by animals at the bunk cause?",
+      "options": [
+        {
+          "text": "A. All cattle consume identical nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven nutrient intake because animals may select different parts of the ration."
+        },
+        {
+          "text": "B. It improves ration consistency automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven nutrient intake because animals may select different parts of the ration."
+        },
+        {
+          "text": "C. It removes the need to mix feed evenly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uneven nutrient intake because animals may select different parts of the ration."
+        },
+        {
+          "text": "D. Uneven nutrient intake because animals may select different parts of the ration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uneven nutrient intake because animals may select different parts of the ration."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 331,
+      "question": "Why should a mixer wagon be loaded in the recommended sequence?",
+      "options": [
+        {
+          "text": "A. Correct loading order helps achieve a more uniform mixed ration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct loading order helps achieve a more uniform mixed ration."
+        },
+        {
+          "text": "B. It changes the nutrient content of each ingredient",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct loading order helps achieve a more uniform mixed ration."
+        },
+        {
+          "text": "C. It guarantees a fixed milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct loading order helps achieve a more uniform mixed ration."
+        },
+        {
+          "text": "D. It replaces mixer maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct loading order helps achieve a more uniform mixed ration."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 332,
+      "question": "What is the value of calibrating scales used to weigh cattle feed?",
+      "options": [
+        {
+          "text": "A. It identifies contaminated ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves the accuracy of ingredient quantities and ration consistency."
+        },
+        {
+          "text": "B. It improves the accuracy of ingredient quantities and ration consistency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It improves the accuracy of ingredient quantities and ration consistency."
+        },
+        {
+          "text": "C. It makes feed analysis unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves the accuracy of ingredient quantities and ration consistency."
+        },
+        {
+          "text": "D. It determines the cattle's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves the accuracy of ingredient quantities and ration consistency."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 333,
+      "question": "Why should feed storage areas be protected from rodents and birds?",
+      "options": [
+        {
+          "text": "A. Pests improve feed palatability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pests can contaminate feed, consume it and spread disease."
+        },
+        {
+          "text": "B. Pests increase the protein content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pests can contaminate feed, consume it and spread disease."
+        },
+        {
+          "text": "C. Pests can contaminate feed, consume it and spread disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Pests can contaminate feed, consume it and spread disease."
+        },
+        {
+          "text": "D. Pest access prevents mould growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pests can contaminate feed, consume it and spread disease."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 334,
+      "question": "What should be done if cattle feed smells rancid or shows unusual mould growth?",
+      "options": [
+        {
+          "text": "A. Blend it into fresh feed to hide the smell",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep it out of the ration and investigate storage and feed safety."
+        },
+        {
+          "text": "B. Feed it only to young calves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep it out of the ration and investigate storage and feed safety."
+        },
+        {
+          "text": "C. Add water and assume it is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Keep it out of the ration and investigate storage and feed safety."
+        },
+        {
+          "text": "D. Keep it out of the ration and investigate storage and feed safety",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Keep it out of the ration and investigate storage and feed safety."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 335,
+      "question": "Why is forage conservation important in seasonal cattle systems?",
+      "options": [
+        {
+          "text": "A. It provides stored feed when pasture growth is limited",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides stored feed when pasture growth is limited."
+        },
+        {
+          "text": "B. It makes cattle independent of minerals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides stored feed when pasture growth is limited."
+        },
+        {
+          "text": "C. It eliminates the need for feed budgeting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides stored feed when pasture growth is limited."
+        },
+        {
+          "text": "D. It guarantees the same nutrient value in every harvest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides stored feed when pasture growth is limited."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 336,
+      "question": "What does a feed budget estimate for a cattle enterprise?",
+      "options": [
+        {
+          "text": "A. The exact market value of every calf",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Whether expected feed supplies are sufficient for the herd over a planned period."
+        },
+        {
+          "text": "B. Whether expected feed supplies are sufficient for the herd over a planned period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Whether expected feed supplies are sufficient for the herd over a planned period."
+        },
+        {
+          "text": "C. The number of veterinary medicines required",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Whether expected feed supplies are sufficient for the herd over a planned period."
+        },
+        {
+          "text": "D. The breed composition of the herd",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Whether expected feed supplies are sufficient for the herd over a planned period."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 337,
+      "question": "Why should pasture species and maturity be considered when estimating forage quality?",
+      "options": [
+        {
+          "text": "A. All grasses have identical feed value at every stage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Plant type and stage of growth influence digestibility and nutrient content."
+        },
+        {
+          "text": "B. Maturity affects colour only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Plant type and stage of growth influence digestibility and nutrient content."
+        },
+        {
+          "text": "C. Plant type and stage of growth influence digestibility and nutrient content",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Plant type and stage of growth influence digestibility and nutrient content."
+        },
+        {
+          "text": "D. Pasture quality is unrelated to plant growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Plant type and stage of growth influence digestibility and nutrient content."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 338,
+      "question": "What is one consequence of overgrazing cattle pasture?",
+      "options": [
+        {
+          "text": "A. Permanent increase in ground cover",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced plant recovery, soil exposure and lower future forage production."
+        },
+        {
+          "text": "B. Guaranteed elimination of weeds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced plant recovery, soil exposure and lower future forage production."
+        },
+        {
+          "text": "C. Higher pasture yield in every season",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced plant recovery, soil exposure and lower future forage production."
+        },
+        {
+          "text": "D. Reduced plant recovery, soil exposure and lower future forage production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reduced plant recovery, soil exposure and lower future forage production."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 339,
+      "question": "Why can rotational grazing improve pasture management when appropriately designed?",
+      "options": [
+        {
+          "text": "A. It allows paddocks recovery periods and helps manage grazing pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows paddocks recovery periods and helps manage grazing pressure."
+        },
+        {
+          "text": "B. It means animals never need to be moved",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows paddocks recovery periods and helps manage grazing pressure."
+        },
+        {
+          "text": "C. It guarantees parasite elimination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows paddocks recovery periods and helps manage grazing pressure."
+        },
+        {
+          "text": "D. It makes stocking rate irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows paddocks recovery periods and helps manage grazing pressure."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 340,
+      "question": "What should be considered before increasing cattle stocking rate on a pasture?",
+      "options": [
+        {
+          "text": "A. Only the colour of the fencing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage, land condition, season, water supply and the pasture's carrying capacity."
+        },
+        {
+          "text": "B. Available forage, land condition, season, water supply and the pasture's carrying capacity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Available forage, land condition, season, water supply and the pasture's carrying capacity."
+        },
+        {
+          "text": "C. The number of tractors on the farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage, land condition, season, water supply and the pasture's carrying capacity."
+        },
+        {
+          "text": "D. The breed name without considering animal size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage, land condition, season, water supply and the pasture's carrying capacity."
         }
       ],
       "part": 7
