@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 440,
+  "total": 460,
   "questions": [
     {
       "number": 1,
@@ -11882,6 +11882,546 @@
         }
       ],
       "part": 9
+    },
+    {
+      "number": 441,
+      "question": "Why should cattle be inspected for signs of heat stress during handling on a hot day?",
+      "options": [
+        {
+          "text": "A. Heat stress cannot occur during handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handling increases exertion and heat load, so vulnerable animals may need prompt cooling and rest."
+        },
+        {
+          "text": "B. Handling increases exertion and heat load, so vulnerable animals may need prompt cooling and rest",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Handling increases exertion and heat load, so vulnerable animals may need prompt cooling and rest."
+        },
+        {
+          "text": "C. It determines the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handling increases exertion and heat load, so vulnerable animals may need prompt cooling and rest."
+        },
+        {
+          "text": "D. It replaces access to drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Handling increases exertion and heat load, so vulnerable animals may need prompt cooling and rest."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "What is the purpose of scheduling cattle handling during cooler parts of very hot days?",
+      "options": [
+        {
+          "text": "A. It can reduce heat load and the risk of heat stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce heat load and the risk of heat stress."
+        },
+        {
+          "text": "B. It guarantees that flies are absent",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce heat load and the risk of heat stress."
+        },
+        {
+          "text": "C. It makes shade unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce heat load and the risk of heat stress."
+        },
+        {
+          "text": "D. It increases the animals' water requirement to zero",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce heat load and the risk of heat stress."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 443,
+      "question": "Why should cattle be given time to settle after arrival at a new farm?",
+      "options": [
+        {
+          "text": "A. It guarantees immediate weight gain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A settling period supports observation, recovery and gradual introduction to the new environment."
+        },
+        {
+          "text": "B. It removes the need for quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A settling period supports observation, recovery and gradual introduction to the new environment."
+        },
+        {
+          "text": "C. It makes identification unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A settling period supports observation, recovery and gradual introduction to the new environment."
+        },
+        {
+          "text": "D. A settling period supports observation, recovery and gradual introduction to the new environment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A settling period supports observation, recovery and gradual introduction to the new environment."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 444,
+      "question": "What should be considered when introducing unfamiliar cattle into an established group?",
+      "options": [
+        {
+          "text": "A. Only the coat colours of the animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Space, social behaviour, feed and water access, and disease-control procedures."
+        },
+        {
+          "text": "B. Mixing them in a narrow pen without observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Space, social behaviour, feed and water access, and disease-control procedures."
+        },
+        {
+          "text": "C. Space, social behaviour, feed and water access, and disease-control procedures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Space, social behaviour, feed and water access, and disease-control procedures."
+        },
+        {
+          "text": "D. Removing all feed for the first day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Space, social behaviour, feed and water access, and disease-control procedures."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 445,
+      "question": "Why can mixing cattle from multiple sources increase health risks?",
+      "options": [
+        {
+          "text": "A. It guarantees genetic improvement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animals may carry different infectious agents and have different exposure histories."
+        },
+        {
+          "text": "B. Animals may carry different infectious agents and have different exposure histories",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Animals may carry different infectious agents and have different exposure histories."
+        },
+        {
+          "text": "C. It prevents respiratory disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animals may carry different infectious agents and have different exposure histories."
+        },
+        {
+          "text": "D. It makes vaccination records unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animals may carry different infectious agents and have different exposure histories."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 446,
+      "question": "What is the purpose of keeping newly introduced cattle separate for an appropriate quarantine period?",
+      "options": [
+        {
+          "text": "A. It allows observation and risk-based health checks before contact with the resident herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows observation and risk-based health checks before contact with the resident herd."
+        },
+        {
+          "text": "B. It guarantees that no infection is present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows observation and risk-based health checks before contact with the resident herd."
+        },
+        {
+          "text": "C. It replaces all testing and veterinary assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows observation and risk-based health checks before contact with the resident herd."
+        },
+        {
+          "text": "D. It makes clean equipment unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows observation and risk-based health checks before contact with the resident herd."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 447,
+      "question": "Why should cattle from different age groups sometimes be managed in separate groups?",
+      "options": [
+        {
+          "text": "A. Age has no effect on feed requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Younger or vulnerable animals may have different nutritional and health needs."
+        },
+        {
+          "text": "B. It guarantees equal growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Younger or vulnerable animals may have different nutritional and health needs."
+        },
+        {
+          "text": "C. It eliminates the need for pasture planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Younger or vulnerable animals may have different nutritional and health needs."
+        },
+        {
+          "text": "D. Younger or vulnerable animals may have different nutritional and health needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Younger or vulnerable animals may have different nutritional and health needs."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 448,
+      "question": "What is the value of checking cattle daily rather than relying only on occasional inspections?",
+      "options": [
+        {
+          "text": "A. Daily checks guarantee no illness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent observation helps detect changes in behaviour, appetite, gait and health earlier."
+        },
+        {
+          "text": "B. Occasional checks are always more accurate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent observation helps detect changes in behaviour, appetite, gait and health earlier."
+        },
+        {
+          "text": "C. Frequent observation helps detect changes in behaviour, appetite, gait and health earlier",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Frequent observation helps detect changes in behaviour, appetite, gait and health earlier."
+        },
+        {
+          "text": "D. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent observation helps detect changes in behaviour, appetite, gait and health earlier."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 449,
+      "question": "Why should a farmer investigate a cow that isolates herself from the herd?",
+      "options": [
+        {
+          "text": "A. It always means she is ready for sale",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation can be an early sign of pain, illness, calving or social difficulty."
+        },
+        {
+          "text": "B. Isolation can be an early sign of pain, illness, calving or social difficulty",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Isolation can be an early sign of pain, illness, calving or social difficulty."
+        },
+        {
+          "text": "C. It proves that she is pregnant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation can be an early sign of pain, illness, calving or social difficulty."
+        },
+        {
+          "text": "D. It is never relevant to health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolation can be an early sign of pain, illness, calving or social difficulty."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 450,
+      "question": "What can reduced rumination in a group of cattle prompt a manager to examine?",
+      "options": [
+        {
+          "text": "A. Feed availability, ration changes, heat stress and possible illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed availability, ration changes, heat stress and possible illness."
+        },
+        {
+          "text": "B. Only the colour of the pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed availability, ration changes, heat stress and possible illness."
+        },
+        {
+          "text": "C. The age of the farm building",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed availability, ration changes, heat stress and possible illness."
+        },
+        {
+          "text": "D. Whether the animals have horns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed availability, ration changes, heat stress and possible illness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 451,
+      "question": "Why should cattle with suspected contagious disease not be moved casually between groups?",
+      "options": [
+        {
+          "text": "A. Movement cures contagious disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement can spread infection to additional animals and locations."
+        },
+        {
+          "text": "B. It guarantees better appetite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement can spread infection to additional animals and locations."
+        },
+        {
+          "text": "C. It removes the need for cleaning transport equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled movement can spread infection to additional animals and locations."
+        },
+        {
+          "text": "D. Uncontrolled movement can spread infection to additional animals and locations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uncontrolled movement can spread infection to additional animals and locations."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 452,
+      "question": "What is the purpose of a designated isolation pen with its own equipment?",
+      "options": [
+        {
+          "text": "A. It allows all groups to share dirty tools",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce contact and cross-contamination between sick and healthy animals."
+        },
+        {
+          "text": "B. It replaces handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce contact and cross-contamination between sick and healthy animals."
+        },
+        {
+          "text": "C. It helps reduce contact and cross-contamination between sick and healthy animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reduce contact and cross-contamination between sick and healthy animals."
+        },
+        {
+          "text": "D. It guarantees rapid recovery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce contact and cross-contamination between sick and healthy animals."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 453,
+      "question": "Why should handlers wash hands or change protective clothing between certain animal groups?",
+      "options": [
+        {
+          "text": "A. They improve cattle genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygiene steps can reduce transfer of infectious material between groups."
+        },
+        {
+          "text": "B. Hygiene steps can reduce transfer of infectious material between groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Hygiene steps can reduce transfer of infectious material between groups."
+        },
+        {
+          "text": "C. They replace cleaning all equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygiene steps can reduce transfer of infectious material between groups."
+        },
+        {
+          "text": "D. They guarantee that every pathogen is killed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Hygiene steps can reduce transfer of infectious material between groups."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 454,
+      "question": "What is one reason to control flies around cattle housing?",
+      "options": [
+        {
+          "text": "A. Some flies irritate animals and can transmit pathogens or contribute to disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some flies irritate animals and can transmit pathogens or contribute to disease."
+        },
+        {
+          "text": "B. Flies improve feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some flies irritate animals and can transmit pathogens or contribute to disease."
+        },
+        {
+          "text": "C. Flies prevent skin infections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some flies irritate animals and can transmit pathogens or contribute to disease."
+        },
+        {
+          "text": "D. Fly control replaces manure management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some flies irritate animals and can transmit pathogens or contribute to disease."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 455,
+      "question": "Why should cattle be checked for external parasites as part of routine health observation?",
+      "options": [
+        {
+          "text": "A. All parasites are harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parasites can cause irritation, blood loss or transmit disease, depending on species."
+        },
+        {
+          "text": "B. Checking parasites determines pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parasites can cause irritation, blood loss or transmit disease, depending on species."
+        },
+        {
+          "text": "C. It replaces nutrition management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Parasites can cause irritation, blood loss or transmit disease, depending on species."
+        },
+        {
+          "text": "D. Parasites can cause irritation, blood loss or transmit disease, depending on species",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Parasites can cause irritation, blood loss or transmit disease, depending on species."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 456,
+      "question": "Why should parasite-control products be used according to veterinary and label guidance?",
+      "options": [
+        {
+          "text": "A. Doubling the dose always works better",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct product choice and use help protect animal safety, efficacy and food-chain compliance."
+        },
+        {
+          "text": "B. All products have identical withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct product choice and use help protect animal safety, efficacy and food-chain compliance."
+        },
+        {
+          "text": "C. Correct product choice and use help protect animal safety, efficacy and food-chain compliance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct product choice and use help protect animal safety, efficacy and food-chain compliance."
+        },
+        {
+          "text": "D. Products can be mixed freely without checking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct product choice and use help protect animal safety, efficacy and food-chain compliance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 457,
+      "question": "What is the purpose of monitoring parasite-control effectiveness over time?",
+      "options": [
+        {
+          "text": "A. It guarantees parasites will never return",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether the control strategy is working and whether resistance may be developing."
+        },
+        {
+          "text": "B. It can reveal whether the control strategy is working and whether resistance may be developing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reveal whether the control strategy is working and whether resistance may be developing."
+        },
+        {
+          "text": "C. It replaces correct dosing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether the control strategy is working and whether resistance may be developing."
+        },
+        {
+          "text": "D. It determines the animals' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reveal whether the control strategy is working and whether resistance may be developing."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 458,
+      "question": "Why should cattle be protected from access to discarded batteries, chemicals and farm waste?",
+      "options": [
+        {
+          "text": "A. Ingesting or contacting hazardous materials can cause poisoning or injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ingesting or contacting hazardous materials can cause poisoning or injury."
+        },
+        {
+          "text": "B. Waste materials provide useful minerals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingesting or contacting hazardous materials can cause poisoning or injury."
+        },
+        {
+          "text": "C. Cattle can identify every chemical hazard",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingesting or contacting hazardous materials can cause poisoning or injury."
+        },
+        {
+          "text": "D. It improves rumen fermentation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingesting or contacting hazardous materials can cause poisoning or injury."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 459,
+      "question": "What should a farmer do if cattle may have consumed a toxic plant or chemical?",
+      "options": [
+        {
+          "text": "A. Wait for symptoms to become severe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary or poison-control guidance and preserve information about the suspected substance."
+        },
+        {
+          "text": "B. Give random home remedies",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary or poison-control guidance and preserve information about the suspected substance."
+        },
+        {
+          "text": "C. Force-feed more of the suspected material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary or poison-control guidance and preserve information about the suspected substance."
+        },
+        {
+          "text": "D. Seek urgent veterinary or poison-control guidance and preserve information about the suspected substance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek urgent veterinary or poison-control guidance and preserve information about the suspected substance."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 460,
+      "question": "Why should a farm keep product labels and safety data for chemicals used around cattle?",
+      "options": [
+        {
+          "text": "A. They replace animal treatment records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide handling, exposure, first-aid and safe-use instructions."
+        },
+        {
+          "text": "B. They guarantee that chemicals cannot spill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide handling, exposure, first-aid and safe-use instructions."
+        },
+        {
+          "text": "C. They provide handling, exposure, first-aid and safe-use instructions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They provide handling, exposure, first-aid and safe-use instructions."
+        },
+        {
+          "text": "D. They determine the cattle's feed ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide handling, exposure, first-aid and safe-use instructions."
+        }
+      ],
+      "part": 10
     }
   ]
 }
