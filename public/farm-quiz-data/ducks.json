@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 405,
+  "total": 425,
   "questions": [
     {
       "number": 1,
@@ -10934,6 +10934,546 @@
           "text": "D. It guarantees a lower feed price",
           "correct": false,
           "feedback": "Not quite. The correct answer is It helps identify unexpected consumption, delivery or storage losses."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 406,
+      "question": "Why should duck farm water troughs be positioned to prevent manure from washing directly into them?",
+      "options": [
+        {
+          "text": "A. Manure improves drinking-water hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces contamination and helps maintain suitable drinking-water quality."
+        },
+        {
+          "text": "B. It determines the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces contamination and helps maintain suitable drinking-water quality."
+        },
+        {
+          "text": "C. This reduces contamination and helps maintain suitable drinking-water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This reduces contamination and helps maintain suitable drinking-water quality."
+        },
+        {
+          "text": "D. It replaces regular trough cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces contamination and helps maintain suitable drinking-water quality."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 407,
+      "question": "What is the purpose of testing duck drinking water when a flock has unexplained health or performance problems?",
+      "options": [
+        {
+          "text": "A. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing can identify water-quality issues that may contribute to poor intake or illness."
+        },
+        {
+          "text": "B. Testing can identify water-quality issues that may contribute to poor intake or illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Testing can identify water-quality issues that may contribute to poor intake or illness."
+        },
+        {
+          "text": "C. It replaces veterinary examination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing can identify water-quality issues that may contribute to poor intake or illness."
+        },
+        {
+          "text": "D. It guarantees that feed is balanced",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Testing can identify water-quality issues that may contribute to poor intake or illness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 408,
+      "question": "Why should water samples be collected in clean containers using a consistent method?",
+      "options": [
+        {
+          "text": "A. Proper sampling reduces contamination and makes results more representative",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper sampling reduces contamination and makes results more representative."
+        },
+        {
+          "text": "B. It increases dissolved oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper sampling reduces contamination and makes results more representative."
+        },
+        {
+          "text": "C. It replaces laboratory procedures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper sampling reduces contamination and makes results more representative."
+        },
+        {
+          "text": "D. It guarantees that all samples have identical results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper sampling reduces contamination and makes results more representative."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 409,
+      "question": "What can a sudden change in the taste, smell or appearance of duck drinking water indicate?",
+      "options": [
+        {
+          "text": "A. It proves water is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in source or contamination that should be investigated."
+        },
+        {
+          "text": "B. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in source or contamination that should be investigated."
+        },
+        {
+          "text": "C. It means water treatment is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in source or contamination that should be investigated."
+        },
+        {
+          "text": "D. A change in source or contamination that should be investigated",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A change in source or contamination that should be investigated."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 410,
+      "question": "Why should water filters be inspected and serviced according to their instructions?",
+      "options": [
+        {
+          "text": "A. Filters determine the ducklings' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blocked or damaged filters can reduce flow and allow unwanted material through."
+        },
+        {
+          "text": "B. It replaces water-source protection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blocked or damaged filters can reduce flow and allow unwanted material through."
+        },
+        {
+          "text": "C. Blocked or damaged filters can reduce flow and allow unwanted material through",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Blocked or damaged filters can reduce flow and allow unwanted material through."
+        },
+        {
+          "text": "D. It guarantees sterile water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blocked or damaged filters can reduce flow and allow unwanted material through."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "What is biofilm in a duck water line?",
+      "options": [
+        {
+          "text": "A. A protective mineral supplement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A community of microorganisms attached to the inside surface of the pipe."
+        },
+        {
+          "text": "B. A community of microorganisms attached to the inside surface of the pipe",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A community of microorganisms attached to the inside surface of the pipe."
+        },
+        {
+          "text": "C. A type of feed pellet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A community of microorganisms attached to the inside surface of the pipe."
+        },
+        {
+          "text": "D. A harmless water colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A community of microorganisms attached to the inside surface of the pipe."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "Why can biofilm in water lines be a concern?",
+      "options": [
+        {
+          "text": "A. It can harbour microorganisms and interfere with water hygiene",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can harbour microorganisms and interfere with water hygiene."
+        },
+        {
+          "text": "B. It improves water taste in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can harbour microorganisms and interfere with water hygiene."
+        },
+        {
+          "text": "C. It guarantees higher water intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can harbour microorganisms and interfere with water hygiene."
+        },
+        {
+          "text": "D. It replaces line flushing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can harbour microorganisms and interfere with water hygiene."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "What is the purpose of flushing duck water lines according to a suitable maintenance plan?",
+      "options": [
+        {
+          "text": "A. It increases feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps remove sediment and residues that can accumulate in the system."
+        },
+        {
+          "text": "B. It determines egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps remove sediment and residues that can accumulate in the system."
+        },
+        {
+          "text": "C. It replaces cleaning tanks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps remove sediment and residues that can accumulate in the system."
+        },
+        {
+          "text": "D. It helps remove sediment and residues that can accumulate in the system",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps remove sediment and residues that can accumulate in the system."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "Why should drinker height be adjusted as ducks grow?",
+      "options": [
+        {
+          "text": "A. It determines feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably and can reduce spillage."
+        },
+        {
+          "text": "B. It replaces checking water pressure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably and can reduce spillage."
+        },
+        {
+          "text": "C. Appropriate height helps birds drink comfortably and can reduce spillage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate height helps birds drink comfortably and can reduce spillage."
+        },
+        {
+          "text": "D. It guarantees uniform bodyweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate height helps birds drink comfortably and can reduce spillage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "What can persistent wet patches below duck drinkers suggest?",
+      "options": [
+        {
+          "text": "A. The bedding is too dry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks, unsuitable drinker height, excessive pressure or poor drainage may be present."
+        },
+        {
+          "text": "B. Leaks, unsuitable drinker height, excessive pressure or poor drainage may be present",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaks, unsuitable drinker height, excessive pressure or poor drainage may be present."
+        },
+        {
+          "text": "C. It proves the birds are underweight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks, unsuitable drinker height, excessive pressure or poor drainage may be present."
+        },
+        {
+          "text": "D. It determines pond pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks, unsuitable drinker height, excessive pressure or poor drainage may be present."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "Why should duck farm water pipes be protected from freezing where relevant?",
+      "options": [
+        {
+          "text": "A. Frozen pipes can interrupt water supply and may be damaged",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Frozen pipes can interrupt water supply and may be damaged."
+        },
+        {
+          "text": "B. Freezing improves water sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frozen pipes can interrupt water supply and may be damaged."
+        },
+        {
+          "text": "C. It increases water flow",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frozen pipes can interrupt water supply and may be damaged."
+        },
+        {
+          "text": "D. It replaces backup storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frozen pipes can interrupt water supply and may be damaged."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "What should a farmer do if the main water supply to a duck house fails?",
+      "options": [
+        {
+          "text": "A. Wait until the next feeding time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activate a safe backup supply and verify that all birds regain access promptly."
+        },
+        {
+          "text": "B. Remove all drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activate a safe backup supply and verify that all birds regain access promptly."
+        },
+        {
+          "text": "C. Assume ponds provide adequate drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activate a safe backup supply and verify that all birds regain access promptly."
+        },
+        {
+          "text": "D. Activate a safe backup supply and verify that all birds regain access promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Activate a safe backup supply and verify that all birds regain access promptly."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "Why should emergency water storage be protected from contamination?",
+      "options": [
+        {
+          "text": "A. Stored water is always sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup source is only useful if the stored water remains suitable for birds."
+        },
+        {
+          "text": "B. It replaces routine water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup source is only useful if the stored water remains suitable for birds."
+        },
+        {
+          "text": "C. A backup source is only useful if the stored water remains suitable for birds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A backup source is only useful if the stored water remains suitable for birds."
+        },
+        {
+          "text": "D. It determines duck fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A backup source is only useful if the stored water remains suitable for birds."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "What is the purpose of monitoring water pressure at the far end of a duck drinker line?",
+      "options": [
+        {
+          "text": "A. It measures egg shell strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that birds throughout the house receive adequate flow."
+        },
+        {
+          "text": "B. It helps verify that birds throughout the house receive adequate flow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps verify that birds throughout the house receive adequate flow."
+        },
+        {
+          "text": "C. It determines the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that birds throughout the house receive adequate flow."
+        },
+        {
+          "text": "D. It replaces inspecting individual drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify that birds throughout the house receive adequate flow."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "Why should ducks have access to enough drinker space during peak feeding periods?",
+      "options": [
+        {
+          "text": "A. Adequate access reduces competition and helps maintain hydration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Adequate access reduces competition and helps maintain hydration."
+        },
+        {
+          "text": "B. It guarantees identical intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps maintain hydration."
+        },
+        {
+          "text": "C. It replaces feed management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps maintain hydration."
+        },
+        {
+          "text": "D. It determines hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Adequate access reduces competition and helps maintain hydration."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "What should be reviewed if ducks repeatedly spill large amounts of water from drinkers?",
+      "options": [
+        {
+          "text": "A. Only the colour of the floor",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drinker design, height, pressure, access and drainage."
+        },
+        {
+          "text": "B. The farm's sales records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drinker design, height, pressure, access and drainage."
+        },
+        {
+          "text": "C. The number of nest boxes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Drinker design, height, pressure, access and drainage."
+        },
+        {
+          "text": "D. Drinker design, height, pressure, access and drainage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Drinker design, height, pressure, access and drainage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "Why should water treatment be reviewed if ducks avoid drinking treated water?",
+      "options": [
+        {
+          "text": "A. Birds should be forced to drink without checking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Taste, concentration or system faults may affect acceptance and need investigation."
+        },
+        {
+          "text": "B. It proves the ducks are ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Taste, concentration or system faults may affect acceptance and need investigation."
+        },
+        {
+          "text": "C. Taste, concentration or system faults may affect acceptance and need investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Taste, concentration or system faults may affect acceptance and need investigation."
+        },
+        {
+          "text": "D. It determines the egg market",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Taste, concentration or system faults may affect acceptance and need investigation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "What is the purpose of recording water-meter readings for each duck house?",
+      "options": [
+        {
+          "text": "A. It measures pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare consumption and detect unusual changes or leaks."
+        },
+        {
+          "text": "B. It helps compare consumption and detect unusual changes or leaks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps compare consumption and detect unusual changes or leaks."
+        },
+        {
+          "text": "C. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare consumption and detect unusual changes or leaks."
+        },
+        {
+          "text": "D. It replaces daily flock checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare consumption and detect unusual changes or leaks."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "Why should a duck farm distinguish water used for drinking from water used for pond filling and cleaning?",
+      "options": [
+        {
+          "text": "A. Separate records make flock consumption and operational use easier to interpret",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separate records make flock consumption and operational use easier to interpret."
+        },
+        {
+          "text": "B. All water uses have identical meaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate records make flock consumption and operational use easier to interpret."
+        },
+        {
+          "text": "C. It guarantees a higher growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate records make flock consumption and operational use easier to interpret."
+        },
+        {
+          "text": "D. It replaces water quality control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate records make flock consumption and operational use easier to interpret."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "What should be done if water test results exceed a relevant safety limit?",
+      "options": [
+        {
+          "text": "A. Ignore the result if water looks clear",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow qualified guidance to protect the flock and correct the source or treatment problem."
+        },
+        {
+          "text": "B. Add chemicals at random",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow qualified guidance to protect the flock and correct the source or treatment problem."
+        },
+        {
+          "text": "C. Continue use without assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Follow qualified guidance to protect the flock and correct the source or treatment problem."
+        },
+        {
+          "text": "D. Follow qualified guidance to protect the flock and correct the source or treatment problem",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Follow qualified guidance to protect the flock and correct the source or treatment problem."
         }
       ],
       "part": 9
