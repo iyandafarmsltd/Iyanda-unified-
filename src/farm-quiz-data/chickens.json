@@ -1,7 +1,7 @@
 {
   "category": "chickens",
   "title": "chickens",
-  "total": 350,
+  "total": 370,
   "questions": [
     {
       "number": 1,
@@ -9452,6 +9452,546 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 351,
+      "question": "Why should poultry vaccines be stored and prepared according to the manufacturer's instructions?",
+      "options": [
+        {
+          "text": "A. All vaccines remain effective at any temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or preparation can reduce vaccine effectiveness."
+        },
+        {
+          "text": "B. Mixing vaccines randomly improves protection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or preparation can reduce vaccine effectiveness."
+        },
+        {
+          "text": "C. It replaces correct administration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or preparation can reduce vaccine effectiveness."
+        },
+        {
+          "text": "D. Incorrect storage or preparation can reduce vaccine effectiveness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect storage or preparation can reduce vaccine effectiveness."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "What is the purpose of following the correct route of administration for a poultry vaccine?",
+      "options": [
+        {
+          "text": "A. The specified route helps ensure the vaccine is delivered as intended",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The specified route helps ensure the vaccine is delivered as intended."
+        },
+        {
+          "text": "B. It determines the birds' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified route helps ensure the vaccine is delivered as intended."
+        },
+        {
+          "text": "C. It guarantees lifelong immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified route helps ensure the vaccine is delivered as intended."
+        },
+        {
+          "text": "D. It replaces cold-chain management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The specified route helps ensure the vaccine is delivered as intended."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "Why should a flock's vaccination record include product, batch, date and route?",
+      "options": [
+        {
+          "text": "A. It predicts egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability and helps investigate vaccination or health problems."
+        },
+        {
+          "text": "B. It supports traceability and helps investigate vaccination or health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports traceability and helps investigate vaccination or health problems."
+        },
+        {
+          "text": "C. It replaces flock identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability and helps investigate vaccination or health problems."
+        },
+        {
+          "text": "D. It guarantees there will be no adverse reactions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports traceability and helps investigate vaccination or health problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "What should a poultry manager do if a vaccine was accidentally exposed to unsuitable temperatures?",
+      "options": [
+        {
+          "text": "A. Use it at double strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek product-specific guidance and do not assume the vaccine remains effective."
+        },
+        {
+          "text": "B. Mix it with a different vaccine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek product-specific guidance and do not assume the vaccine remains effective."
+        },
+        {
+          "text": "C. Seek product-specific guidance and do not assume the vaccine remains effective",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek product-specific guidance and do not assume the vaccine remains effective."
+        },
+        {
+          "text": "D. Ignore the exposure if the vial looks normal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek product-specific guidance and do not assume the vaccine remains effective."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "Why should vaccination equipment be cleaned and maintained appropriately?",
+      "options": [
+        {
+          "text": "A. It changes the vaccine strain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty or contaminated equipment can compromise vaccine delivery and hygiene."
+        },
+        {
+          "text": "B. It replaces correct dosing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty or contaminated equipment can compromise vaccine delivery and hygiene."
+        },
+        {
+          "text": "C. It guarantees all birds receive the same dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Faulty or contaminated equipment can compromise vaccine delivery and hygiene."
+        },
+        {
+          "text": "D. Faulty or contaminated equipment can compromise vaccine delivery and hygiene",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Faulty or contaminated equipment can compromise vaccine delivery and hygiene."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "What is one reason to avoid vaccinating severely stressed or clinically ill birds without veterinary guidance?",
+      "options": [
+        {
+          "text": "A. Their condition may affect safety or the response, so the programme needs professional review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their condition may affect safety or the response, so the programme needs professional review."
+        },
+        {
+          "text": "B. Ill birds always develop stronger immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their condition may affect safety or the response, so the programme needs professional review."
+        },
+        {
+          "text": "C. Stress has no effect on vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their condition may affect safety or the response, so the programme needs professional review."
+        },
+        {
+          "text": "D. It makes biosecurity unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their condition may affect safety or the response, so the programme needs professional review."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "Why should poultry managers monitor flock response after vaccination?",
+      "options": [
+        {
+          "text": "A. It proves immunity instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can detect unexpected reactions and assess whether the programme needs review."
+        },
+        {
+          "text": "B. They can detect unexpected reactions and assess whether the programme needs review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can detect unexpected reactions and assess whether the programme needs review."
+        },
+        {
+          "text": "C. It replaces vaccine records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can detect unexpected reactions and assess whether the programme needs review."
+        },
+        {
+          "text": "D. It guarantees no disease can occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can detect unexpected reactions and assess whether the programme needs review."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "What is the purpose of serological monitoring in a poultry health programme?",
+      "options": [
+        {
+          "text": "A. It measures litter depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help assess flock exposure or immune response when interpreted appropriately."
+        },
+        {
+          "text": "B. It identifies every pathogen without testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help assess flock exposure or immune response when interpreted appropriately."
+        },
+        {
+          "text": "C. It can help assess flock exposure or immune response when interpreted appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can help assess flock exposure or immune response when interpreted appropriately."
+        },
+        {
+          "text": "D. It replaces clinical examination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help assess flock exposure or immune response when interpreted appropriately."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "Why should a disease diagnosis be confirmed before changing a flock vaccination programme?",
+      "options": [
+        {
+          "text": "A. All poultry diseases use the same vaccine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The correct control plan depends on the disease, local risks and professional guidance."
+        },
+        {
+          "text": "B. Diagnosis is unnecessary if birds cough",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The correct control plan depends on the disease, local risks and professional guidance."
+        },
+        {
+          "text": "C. It guarantees a single vaccine will solve every problem",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The correct control plan depends on the disease, local risks and professional guidance."
+        },
+        {
+          "text": "D. The correct control plan depends on the disease, local risks and professional guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The correct control plan depends on the disease, local risks and professional guidance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "What can a sudden increase in respiratory signs across a poultry house suggest?",
+      "options": [
+        {
+          "text": "A. A flock-health problem or environmental issue requiring prompt investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A flock-health problem or environmental issue requiring prompt investigation."
+        },
+        {
+          "text": "B. A normal response to egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock-health problem or environmental issue requiring prompt investigation."
+        },
+        {
+          "text": "C. Proof that feed protein is too low",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock-health problem or environmental issue requiring prompt investigation."
+        },
+        {
+          "text": "D. A sign that all birds are laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A flock-health problem or environmental issue requiring prompt investigation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "Why should poultry carcasses be examined by a qualified diagnostic service when an unusual mortality event occurs?",
+      "options": [
+        {
+          "text": "A. A visual guess always identifies the pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diagnostic findings can help identify the cause and guide control measures."
+        },
+        {
+          "text": "B. Diagnostic findings can help identify the cause and guide control measures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Diagnostic findings can help identify the cause and guide control measures."
+        },
+        {
+          "text": "C. It replaces biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diagnostic findings can help identify the cause and guide control measures."
+        },
+        {
+          "text": "D. It guarantees the same cause in every flock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diagnostic findings can help identify the cause and guide control measures."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "What is the purpose of submitting appropriate samples promptly during a disease investigation?",
+      "options": [
+        {
+          "text": "A. Samples determine the birds' market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper samples help laboratories make more reliable diagnoses."
+        },
+        {
+          "text": "B. It replaces accurate flock history",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper samples help laboratories make more reliable diagnoses."
+        },
+        {
+          "text": "C. Proper samples help laboratories make more reliable diagnoses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper samples help laboratories make more reliable diagnoses."
+        },
+        {
+          "text": "D. It guarantees treatment success",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper samples help laboratories make more reliable diagnoses."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "Why should sick poultry be handled after healthy birds when practical?",
+      "options": [
+        {
+          "text": "A. It makes hand hygiene unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This workflow can reduce the risk of carrying infectious material to healthy flocks."
+        },
+        {
+          "text": "B. It guarantees the sick birds recover",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This workflow can reduce the risk of carrying infectious material to healthy flocks."
+        },
+        {
+          "text": "C. It replaces isolation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This workflow can reduce the risk of carrying infectious material to healthy flocks."
+        },
+        {
+          "text": "D. This workflow can reduce the risk of carrying infectious material to healthy flocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This workflow can reduce the risk of carrying infectious material to healthy flocks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "What is the purpose of a downtime period between poultry flocks?",
+      "options": [
+        {
+          "text": "A. It allows cleaning, disinfection, drying and preparation before the next flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows cleaning, disinfection, drying and preparation before the next flock."
+        },
+        {
+          "text": "B. It increases stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows cleaning, disinfection, drying and preparation before the next flock."
+        },
+        {
+          "text": "C. It removes the need for litter removal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows cleaning, disinfection, drying and preparation before the next flock."
+        },
+        {
+          "text": "D. It guarantees that every pathogen is destroyed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows cleaning, disinfection, drying and preparation before the next flock."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "Why should poultry litter be managed before it is reused for another flock?",
+      "options": [
+        {
+          "text": "A. Litter can always be reused without inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its condition and pathogen risk should be assessed and managed appropriately."
+        },
+        {
+          "text": "B. Its condition and pathogen risk should be assessed and managed appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Its condition and pathogen risk should be assessed and managed appropriately."
+        },
+        {
+          "text": "C. Old litter is sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its condition and pathogen risk should be assessed and managed appropriately."
+        },
+        {
+          "text": "D. It replaces house cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its condition and pathogen risk should be assessed and managed appropriately."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "What should be considered when deciding whether to reuse poultry litter?",
+      "options": [
+        {
+          "text": "A. Only its colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease history, moisture, treatment, local rules and veterinary or technical guidance."
+        },
+        {
+          "text": "B. Whether it smells pleasant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease history, moisture, treatment, local rules and veterinary or technical guidance."
+        },
+        {
+          "text": "C. Disease history, moisture, treatment, local rules and veterinary or technical guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disease history, moisture, treatment, local rules and veterinary or technical guidance."
+        },
+        {
+          "text": "D. The number of feed bags in storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease history, moisture, treatment, local rules and veterinary or technical guidance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "Why should dead birds be disposed of using an approved method?",
+      "options": [
+        {
+          "text": "A. Open dumping improves biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal helps prevent disease spread, scavenger access and environmental contamination."
+        },
+        {
+          "text": "B. Carcasses are safe near water points",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal helps prevent disease spread, scavenger access and environmental contamination."
+        },
+        {
+          "text": "C. It replaces mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Proper disposal helps prevent disease spread, scavenger access and environmental contamination."
+        },
+        {
+          "text": "D. Proper disposal helps prevent disease spread, scavenger access and environmental contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Proper disposal helps prevent disease spread, scavenger access and environmental contamination."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "What is the purpose of controlling access to poultry carcass-storage areas?",
+      "options": [
+        {
+          "text": "A. It limits contact by pests, scavengers, visitors and other animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It limits contact by pests, scavengers, visitors and other animals."
+        },
+        {
+          "text": "B. It improves bird growth rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits contact by pests, scavengers, visitors and other animals."
+        },
+        {
+          "text": "C. It replaces disposal procedures",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits contact by pests, scavengers, visitors and other animals."
+        },
+        {
+          "text": "D. It guarantees carcasses are pathogen-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits contact by pests, scavengers, visitors and other animals."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "Why should poultry houses be inspected for structural gaps after cleaning?",
+      "options": [
+        {
+          "text": "A. Gaps improve biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gaps can allow rodents, wild birds and other pests to enter."
+        },
+        {
+          "text": "B. Gaps can allow rodents, wild birds and other pests to enter",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gaps can allow rodents, wild birds and other pests to enter."
+        },
+        {
+          "text": "C. They determine egg shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gaps can allow rodents, wild birds and other pests to enter."
+        },
+        {
+          "text": "D. It replaces pest monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gaps can allow rodents, wild birds and other pests to enter."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "What is the purpose of keeping a written poultry biosecurity checklist?",
+      "options": [
+        {
+          "text": "A. It guarantees that infection cannot enter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply important preventive steps consistently and verify completion."
+        },
+        {
+          "text": "B. It replaces staff training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply important preventive steps consistently and verify completion."
+        },
+        {
+          "text": "C. It helps staff apply important preventive steps consistently and verify completion",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff apply important preventive steps consistently and verify completion."
+        },
+        {
+          "text": "D. It determines the feed conversion ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply important preventive steps consistently and verify completion."
+        }
+      ],
+      "part": 8
     }
   ]
 }
