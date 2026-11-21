@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 425,
+  "total": 445,
   "questions": [
     {
       "number": 1,
@@ -11474,6 +11474,546 @@
           "text": "D. Follow qualified guidance to protect the flock and correct the source or treatment problem",
           "correct": true,
           "feedback": "Well done! Correct answer: Follow qualified guidance to protect the flock and correct the source or treatment problem."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "Why should duck house litter be checked for caking around drinkers?",
+      "options": [
+        {
+          "text": "A. Caking improves drainage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Caked wet litter can increase ammonia, microbial growth and foot-health problems."
+        },
+        {
+          "text": "B. Caked wet litter can increase ammonia, microbial growth and foot-health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Caked wet litter can increase ammonia, microbial growth and foot-health problems."
+        },
+        {
+          "text": "C. It guarantees dry feet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Caked wet litter can increase ammonia, microbial growth and foot-health problems."
+        },
+        {
+          "text": "D. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Caked wet litter can increase ammonia, microbial growth and foot-health problems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "What is one purpose of removing compacted litter from duck resting areas?",
+      "options": [
+        {
+          "text": "A. It improves feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restore a dry, friable surface and reduce hygiene problems."
+        },
+        {
+          "text": "B. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restore a dry, friable surface and reduce hygiene problems."
+        },
+        {
+          "text": "C. It helps restore a dry, friable surface and reduce hygiene problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps restore a dry, friable surface and reduce hygiene problems."
+        },
+        {
+          "text": "D. It guarantees that all pathogens are removed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restore a dry, friable surface and reduce hygiene problems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "Why should fresh bedding be stored under cover on a duck farm?",
+      "options": [
+        {
+          "text": "A. Moist bedding is always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covered storage helps keep bedding dry and reduces mould or contamination."
+        },
+        {
+          "text": "B. It determines duckling sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covered storage helps keep bedding dry and reduces mould or contamination."
+        },
+        {
+          "text": "C. It replaces house cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covered storage helps keep bedding dry and reduces mould or contamination."
+        },
+        {
+          "text": "D. Covered storage helps keep bedding dry and reduces mould or contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Covered storage helps keep bedding dry and reduces mould or contamination."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "What should be considered when choosing bedding material for ducks?",
+      "options": [
+        {
+          "text": "A. Absorbency, availability, dust level, safety and ability to manage moisture",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Absorbency, availability, dust level, safety and ability to manage moisture."
+        },
+        {
+          "text": "B. Colour alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Absorbency, availability, dust level, safety and ability to manage moisture."
+        },
+        {
+          "text": "C. Its ability to hold standing water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Absorbency, availability, dust level, safety and ability to manage moisture."
+        },
+        {
+          "text": "D. Whether it can be mixed with chemicals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Absorbency, availability, dust level, safety and ability to manage moisture."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "Why can very dusty bedding be unsuitable for duck houses?",
+      "options": [
+        {
+          "text": "A. Dust improves lung function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can irritate the respiratory system and reduce air quality."
+        },
+        {
+          "text": "B. Dust can irritate the respiratory system and reduce air quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dust can irritate the respiratory system and reduce air quality."
+        },
+        {
+          "text": "C. It guarantees better growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can irritate the respiratory system and reduce air quality."
+        },
+        {
+          "text": "D. It replaces ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dust can irritate the respiratory system and reduce air quality."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "What is the purpose of removing wet bedding near drinkers more frequently?",
+      "options": [
+        {
+          "text": "A. Wet bedding improves insulation indefinitely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can become persistently damp and develop hygiene problems."
+        },
+        {
+          "text": "B. It determines the duck's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can become persistently damp and develop hygiene problems."
+        },
+        {
+          "text": "C. These areas can become persistently damp and develop hygiene problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These areas can become persistently damp and develop hygiene problems."
+        },
+        {
+          "text": "D. It replaces water-system maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These areas can become persistently damp and develop hygiene problems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "Why should duck manure be stored away from wells and watercourses?",
+      "options": [
+        {
+          "text": "A. It improves drinking-water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces the risk of nutrient and pathogen contamination of water."
+        },
+        {
+          "text": "B. It guarantees higher egg production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces the risk of nutrient and pathogen contamination of water."
+        },
+        {
+          "text": "C. It replaces manure management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces the risk of nutrient and pathogen contamination of water."
+        },
+        {
+          "text": "D. This reduces the risk of nutrient and pathogen contamination of water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This reduces the risk of nutrient and pathogen contamination of water."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "What is the purpose of covering manure stores where appropriate?",
+      "options": [
+        {
+          "text": "A. Covering can reduce rainfall entry, runoff and access by scavengers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Covering can reduce rainfall entry, runoff and access by scavengers."
+        },
+        {
+          "text": "B. It increases runoff",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering can reduce rainfall entry, runoff and access by scavengers."
+        },
+        {
+          "text": "C. It determines the flock's fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering can reduce rainfall entry, runoff and access by scavengers."
+        },
+        {
+          "text": "D. It replaces environmental controls",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Covering can reduce rainfall entry, runoff and access by scavengers."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "Why should manure application rates be based on nutrient analysis and crop demand?",
+      "options": [
+        {
+          "text": "A. All soils need unlimited manure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate rates reduce nutrient waste and environmental pollution."
+        },
+        {
+          "text": "B. Appropriate rates reduce nutrient waste and environmental pollution",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate rates reduce nutrient waste and environmental pollution."
+        },
+        {
+          "text": "C. It guarantees no runoff",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate rates reduce nutrient waste and environmental pollution."
+        },
+        {
+          "text": "D. It replaces crop planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate rates reduce nutrient waste and environmental pollution."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "What can excessive nutrient runoff from duck areas contribute to in nearby water bodies?",
+      "options": [
+        {
+          "text": "A. Permanent improvement in water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Eutrophication and harmful changes in aquatic ecosystems."
+        },
+        {
+          "text": "B. Higher oxygen in every condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Eutrophication and harmful changes in aquatic ecosystems."
+        },
+        {
+          "text": "C. Eutrophication and harmful changes in aquatic ecosystems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Eutrophication and harmful changes in aquatic ecosystems."
+        },
+        {
+          "text": "D. It eliminates algae",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Eutrophication and harmful changes in aquatic ecosystems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "Why should dead ducks be removed promptly from housing and outdoor areas?",
+      "options": [
+        {
+          "text": "A. Carcasses improve flock immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt removal reduces scavenger access, odour and potential disease spread."
+        },
+        {
+          "text": "B. It replaces mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt removal reduces scavenger access, odour and potential disease spread."
+        },
+        {
+          "text": "C. It guarantees no disease remains",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt removal reduces scavenger access, odour and potential disease spread."
+        },
+        {
+          "text": "D. Prompt removal reduces scavenger access, odour and potential disease spread",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt removal reduces scavenger access, odour and potential disease spread."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "What should be used to store duck carcasses temporarily before approved disposal?",
+      "options": [
+        {
+          "text": "A. A secure, leak-resistant and appropriately managed container or area",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A secure, leak-resistant and appropriately managed container or area."
+        },
+        {
+          "text": "B. An open feed trough",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A secure, leak-resistant and appropriately managed container or area."
+        },
+        {
+          "text": "C. A drinking-water tank",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A secure, leak-resistant and appropriately managed container or area."
+        },
+        {
+          "text": "D. An uncovered pile beside the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A secure, leak-resistant and appropriately managed container or area."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "Why should duck carcass disposal follow local veterinary and environmental requirements?",
+      "options": [
+        {
+          "text": "A. Any disposal method is equally safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Approved methods reduce disease, public-health and environmental risks."
+        },
+        {
+          "text": "B. Approved methods reduce disease, public-health and environmental risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Approved methods reduce disease, public-health and environmental risks."
+        },
+        {
+          "text": "C. It determines egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Approved methods reduce disease, public-health and environmental risks."
+        },
+        {
+          "text": "D. It replaces farm biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Approved methods reduce disease, public-health and environmental risks."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "What is the purpose of cleaning equipment used to remove duck manure before it enters another flock area?",
+      "options": [
+        {
+          "text": "A. It changes the ducks' breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between zones."
+        },
+        {
+          "text": "B. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between zones."
+        },
+        {
+          "text": "C. It reduces the transfer of contamination between zones",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces the transfer of contamination between zones."
+        },
+        {
+          "text": "D. It guarantees sterilisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces the transfer of contamination between zones."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "Why should workers avoid using manure-handling tools for feed handling?",
+      "options": [
+        {
+          "text": "A. It improves feed palatability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce cross-contamination of feed."
+        },
+        {
+          "text": "B. It determines the ducklings' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce cross-contamination of feed."
+        },
+        {
+          "text": "C. It replaces feed testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce cross-contamination of feed."
+        },
+        {
+          "text": "D. Separate tools reduce cross-contamination of feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separate tools reduce cross-contamination of feed."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 441,
+      "question": "What is one reason to keep drainage channels around duck housing clear?",
+      "options": [
+        {
+          "text": "A. Clear drainage helps prevent standing water and flooding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear drainage helps prevent standing water and flooding."
+        },
+        {
+          "text": "B. Standing water improves house hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear drainage helps prevent standing water and flooding."
+        },
+        {
+          "text": "C. It determines the egg shell colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear drainage helps prevent standing water and flooding."
+        },
+        {
+          "text": "D. It replaces roof maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear drainage helps prevent standing water and flooding."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "Why should duck farms inspect outdoor areas after heavy rainfall?",
+      "options": [
+        {
+          "text": "A. Rainfall guarantees improved biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage fencing, contaminate water points and create unsafe ground."
+        },
+        {
+          "text": "B. Flooding can damage fencing, contaminate water points and create unsafe ground",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Flooding can damage fencing, contaminate water points and create unsafe ground."
+        },
+        {
+          "text": "C. It determines feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage fencing, contaminate water points and create unsafe ground."
+        },
+        {
+          "text": "D. It replaces flock checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage fencing, contaminate water points and create unsafe ground."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 443,
+      "question": "What should be done if floodwater enters duck housing?",
+      "options": [
+        {
+          "text": "A. Allow birds to remain in contaminated water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protect birds, restore safe conditions and assess contamination before normal use."
+        },
+        {
+          "text": "B. Feed wet spoiled bedding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protect birds, restore safe conditions and assess contamination before normal use."
+        },
+        {
+          "text": "C. Protect birds, restore safe conditions and assess contamination before normal use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Protect birds, restore safe conditions and assess contamination before normal use."
+        },
+        {
+          "text": "D. Ignore water-source risks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Protect birds, restore safe conditions and assess contamination before normal use."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 444,
+      "question": "Why should duck ponds have a managed overflow route?",
+      "options": [
+        {
+          "text": "A. It guarantees constant pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce uncontrolled flooding and erosion during heavy rainfall."
+        },
+        {
+          "text": "B. It replaces water-quality monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce uncontrolled flooding and erosion during heavy rainfall."
+        },
+        {
+          "text": "C. It determines duck fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce uncontrolled flooding and erosion during heavy rainfall."
+        },
+        {
+          "text": "D. It helps reduce uncontrolled flooding and erosion during heavy rainfall",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reduce uncontrolled flooding and erosion during heavy rainfall."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 445,
+      "question": "What is the purpose of recording manure removal and land application dates?",
+      "options": [
+        {
+          "text": "A. Records support nutrient planning, traceability and environmental compliance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records support nutrient planning, traceability and environmental compliance."
+        },
+        {
+          "text": "B. They determine egg weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records support nutrient planning, traceability and environmental compliance."
+        },
+        {
+          "text": "C. They replace soil assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records support nutrient planning, traceability and environmental compliance."
+        },
+        {
+          "text": "D. They guarantee higher crop yields",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records support nutrient planning, traceability and environmental compliance."
         }
       ],
       "part": 9
