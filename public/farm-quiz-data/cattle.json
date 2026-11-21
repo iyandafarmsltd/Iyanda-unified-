@@ -1,7 +1,7 @@
 {
   "category": "cattle",
   "title": "cattle",
-  "total": 300,
+  "total": 320,
   "questions": [
     {
       "number": 1,
@@ -8102,6 +8102,546 @@
         }
       ],
       "part": 6
+    },
+    {
+      "number": 301,
+      "question": "Why should a breeding cow's reproductive performance be reviewed across several seasons?",
+      "options": [
+        {
+          "text": "A. One season reveals every genetic trait",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A longer record helps distinguish persistent fertility problems from one-off events."
+        },
+        {
+          "text": "B. A longer record helps distinguish persistent fertility problems from one-off events",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A longer record helps distinguish persistent fertility problems from one-off events."
+        },
+        {
+          "text": "C. It removes the need to identify cows",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A longer record helps distinguish persistent fertility problems from one-off events."
+        },
+        {
+          "text": "D. It guarantees conception in the next cycle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A longer record helps distinguish persistent fertility problems from one-off events."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 302,
+      "question": "What is the purpose of pregnancy diagnosis in a cattle herd?",
+      "options": [
+        {
+          "text": "A. To identify pregnant and open animals so feeding and breeding can be managed appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify pregnant and open animals so feeding and breeding can be managed appropriately."
+        },
+        {
+          "text": "B. To determine the exact birth weight of the calf",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open animals so feeding and breeding can be managed appropriately."
+        },
+        {
+          "text": "C. To replace calving supervision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open animals so feeding and breeding can be managed appropriately."
+        },
+        {
+          "text": "D. To make all cows calve on the same day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open animals so feeding and breeding can be managed appropriately."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 303,
+      "question": "Why should late-pregnant cows be monitored for changes in body condition?",
+      "options": [
+        {
+          "text": "A. Body condition has no relationship to nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Both inadequate and excessive condition can create health and calving-management concerns."
+        },
+        {
+          "text": "B. It predicts the calf's coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Both inadequate and excessive condition can create health and calving-management concerns."
+        },
+        {
+          "text": "C. It makes mineral balance irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Both inadequate and excessive condition can create health and calving-management concerns."
+        },
+        {
+          "text": "D. Both inadequate and excessive condition can create health and calving-management concerns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Both inadequate and excessive condition can create health and calving-management concerns."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 304,
+      "question": "What is one reason to separate bulls from cows outside the planned breeding period?",
+      "options": [
+        {
+          "text": "A. It prevents bulls from needing water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps control mating dates and reduces unintended pregnancies."
+        },
+        {
+          "text": "B. It makes fertility testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps control mating dates and reduces unintended pregnancies."
+        },
+        {
+          "text": "C. It helps control mating dates and reduces unintended pregnancies",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps control mating dates and reduces unintended pregnancies."
+        },
+        {
+          "text": "D. It guarantees that bulls never fight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps control mating dates and reduces unintended pregnancies."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 305,
+      "question": "Why should a farm record the identity of the bull used for each mating group?",
+      "options": [
+        {
+          "text": "A. It determines the pasture's carrying capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports parentage, fertility and breeding-performance records."
+        },
+        {
+          "text": "B. It supports parentage, fertility and breeding-performance records",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports parentage, fertility and breeding-performance records."
+        },
+        {
+          "text": "C. It replaces calf identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports parentage, fertility and breeding-performance records."
+        },
+        {
+          "text": "D. It proves every mating resulted in pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports parentage, fertility and breeding-performance records."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 306,
+      "question": "What can an unexpectedly low conception rate across a group suggest?",
+      "options": [
+        {
+          "text": "A. Review of bull fertility, cow condition, disease, heat detection and breeding management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Review of bull fertility, cow condition, disease, heat detection and breeding management."
+        },
+        {
+          "text": "B. A need to stop recording mating dates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review of bull fertility, cow condition, disease, heat detection and breeding management."
+        },
+        {
+          "text": "C. Proof that all cows are too old",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review of bull fertility, cow condition, disease, heat detection and breeding management."
+        },
+        {
+          "text": "D. That clean water is harmful",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Review of bull fertility, cow condition, disease, heat detection and breeding management."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 307,
+      "question": "Why is observing cows for signs of oestrus important in artificial insemination programmes?",
+      "options": [
+        {
+          "text": "A. It replaces semen handling protocols",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate heat detection helps time insemination appropriately."
+        },
+        {
+          "text": "B. It determines the calf's adult weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate heat detection helps time insemination appropriately."
+        },
+        {
+          "text": "C. It prevents all reproductive disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accurate heat detection helps time insemination appropriately."
+        },
+        {
+          "text": "D. Accurate heat detection helps time insemination appropriately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accurate heat detection helps time insemination appropriately."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 308,
+      "question": "What is the role of a veterinarian in a herd vaccination programme?",
+      "options": [
+        {
+          "text": "A. To guarantee no animal will ever become ill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To help select appropriate vaccines, timing and handling for local disease risks."
+        },
+        {
+          "text": "B. To replace biosecurity and hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To help select appropriate vaccines, timing and handling for local disease risks."
+        },
+        {
+          "text": "C. To help select appropriate vaccines, timing and handling for local disease risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To help select appropriate vaccines, timing and handling for local disease risks."
+        },
+        {
+          "text": "D. To prescribe one identical schedule for every farm worldwide",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To help select appropriate vaccines, timing and handling for local disease risks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 309,
+      "question": "Why should vaccine cold-chain instructions be followed?",
+      "options": [
+        {
+          "text": "A. Warm storage improves every vaccine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper storage can reduce vaccine potency."
+        },
+        {
+          "text": "B. Improper storage can reduce vaccine potency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Improper storage can reduce vaccine potency."
+        },
+        {
+          "text": "C. Freezing every vaccine makes it stronger",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper storage can reduce vaccine potency."
+        },
+        {
+          "text": "D. Storage has no effect on biological products",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper storage can reduce vaccine potency."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 310,
+      "question": "What should be done with a vaccine vial after its permitted use period or handling limit has passed?",
+      "options": [
+        {
+          "text": "A. Dispose of it according to label and local guidance rather than using it",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dispose of it according to label and local guidance rather than using it."
+        },
+        {
+          "text": "B. Mix it into drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of it according to label and local guidance rather than using it."
+        },
+        {
+          "text": "C. Save it indefinitely at room temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of it according to label and local guidance rather than using it."
+        },
+        {
+          "text": "D. Use it at a higher dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dispose of it according to label and local guidance rather than using it."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 311,
+      "question": "Why should injection sites and needles be managed hygienically?",
+      "options": [
+        {
+          "text": "A. It increases the medicine's shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean technique reduces contamination, abscesses and disease transmission."
+        },
+        {
+          "text": "B. It replaces correct dosing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean technique reduces contamination, abscesses and disease transmission."
+        },
+        {
+          "text": "C. It makes record keeping unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clean technique reduces contamination, abscesses and disease transmission."
+        },
+        {
+          "text": "D. Clean technique reduces contamination, abscesses and disease transmission",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clean technique reduces contamination, abscesses and disease transmission."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 312,
+      "question": "Why should a farmer avoid injecting cattle into unsuitable anatomical sites?",
+      "options": [
+        {
+          "text": "A. It changes the animal's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor site selection can damage valuable meat and cause tissue injury."
+        },
+        {
+          "text": "B. It makes injections painless in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor site selection can damage valuable meat and cause tissue injury."
+        },
+        {
+          "text": "C. Poor site selection can damage valuable meat and cause tissue injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor site selection can damage valuable meat and cause tissue injury."
+        },
+        {
+          "text": "D. It prevents withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor site selection can damage valuable meat and cause tissue injury."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 313,
+      "question": "What is the purpose of observing cattle after vaccination or treatment?",
+      "options": [
+        {
+          "text": "A. To prove the treatment worked immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To notice unexpected reactions and respond promptly if they occur."
+        },
+        {
+          "text": "B. To notice unexpected reactions and respond promptly if they occur",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To notice unexpected reactions and respond promptly if they occur."
+        },
+        {
+          "text": "C. To avoid recording the treatment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To notice unexpected reactions and respond promptly if they occur."
+        },
+        {
+          "text": "D. To prevent the animal from eating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To notice unexpected reactions and respond promptly if they occur."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 314,
+      "question": "Why is accurate weighing important when calculating veterinary medicine doses?",
+      "options": [
+        {
+          "text": "A. Correct bodyweight helps prevent underdosing or overdosing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct bodyweight helps prevent underdosing or overdosing."
+        },
+        {
+          "text": "B. It identifies the animal's parentage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct bodyweight helps prevent underdosing or overdosing."
+        },
+        {
+          "text": "C. It replaces the product label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct bodyweight helps prevent underdosing or overdosing."
+        },
+        {
+          "text": "D. It guarantees that every medicine is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct bodyweight helps prevent underdosing or overdosing."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 315,
+      "question": "What is the best approach if the weight of an animal is uncertain before a weight-based treatment?",
+      "options": [
+        {
+          "text": "A. Guess the dose from coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Obtain a reliable weight estimate and confirm the dose with the product directions or veterinarian."
+        },
+        {
+          "text": "B. Use the largest dose available",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Obtain a reliable weight estimate and confirm the dose with the product directions or veterinarian."
+        },
+        {
+          "text": "C. Give the same dose to every animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Obtain a reliable weight estimate and confirm the dose with the product directions or veterinarian."
+        },
+        {
+          "text": "D. Obtain a reliable weight estimate and confirm the dose with the product directions or veterinarian",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Obtain a reliable weight estimate and confirm the dose with the product directions or veterinarian."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 316,
+      "question": "Why should treatment records include the product name, date and treated animal?",
+      "options": [
+        {
+          "text": "A. They replace the medicine label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability, follow-up and withdrawal-period compliance."
+        },
+        {
+          "text": "B. They guarantee that no side effects occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability, follow-up and withdrawal-period compliance."
+        },
+        {
+          "text": "C. They support traceability, follow-up and withdrawal-period compliance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support traceability, follow-up and withdrawal-period compliance."
+        },
+        {
+          "text": "D. They are only useful for calculating pasture area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability, follow-up and withdrawal-period compliance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 317,
+      "question": "What can a sudden increase in water intake by a cattle group signal?",
+      "options": [
+        {
+          "text": "A. A guaranteed improvement in fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in weather, diet, lactation demand, water access or possible health issue to investigate."
+        },
+        {
+          "text": "B. A change in weather, diet, lactation demand, water access or possible health issue to investigate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A change in weather, diet, lactation demand, water access or possible health issue to investigate."
+        },
+        {
+          "text": "C. Proof that the trough is contaminated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in weather, diet, lactation demand, water access or possible health issue to investigate."
+        },
+        {
+          "text": "D. That feed records can be discarded",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A change in weather, diet, lactation demand, water access or possible health issue to investigate."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 318,
+      "question": "Why should troughs be positioned so cattle can approach and leave without crowding?",
+      "options": [
+        {
+          "text": "A. Good access reduces competition and helps all animals drink safely",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Good access reduces competition and helps all animals drink safely."
+        },
+        {
+          "text": "B. It makes trough cleaning unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good access reduces competition and helps all animals drink safely."
+        },
+        {
+          "text": "C. It forces subordinate cattle to drink last",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good access reduces competition and helps all animals drink safely."
+        },
+        {
+          "text": "D. It prevents water from evaporating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good access reduces competition and helps all animals drink safely."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 319,
+      "question": "Why should cattle yards have secure gates and non-slip surfaces?",
+      "options": [
+        {
+          "text": "A. They increase handling noise",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce escape and slipping injuries during handling."
+        },
+        {
+          "text": "B. They replace trained handlers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce escape and slipping injuries during handling."
+        },
+        {
+          "text": "C. They make animals easier to frighten",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce escape and slipping injuries during handling."
+        },
+        {
+          "text": "D. They reduce escape and slipping injuries during handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They reduce escape and slipping injuries during handling."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 320,
+      "question": "What is the purpose of a pre-movement inspection before cattle leave the farm?",
+      "options": [
+        {
+          "text": "A. It guarantees the market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals unfit for transport and check required records and arrangements."
+        },
+        {
+          "text": "B. It replaces transport planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals unfit for transport and check required records and arrangements."
+        },
+        {
+          "text": "C. It helps identify animals unfit for transport and check required records and arrangements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify animals unfit for transport and check required records and arrangements."
+        },
+        {
+          "text": "D. It ensures sick animals travel first",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify animals unfit for transport and check required records and arrangements."
+        }
+      ],
+      "part": 7
     }
   ]
 }
