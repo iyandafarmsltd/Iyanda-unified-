@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 295,
+  "total": 344,
   "questions": [
     {
       "number": 1,
@@ -7967,6 +7967,1329 @@
         }
       ],
       "part": 6
+    },
+    {
+      "number": 296,
+      "question": "Why acclimate fingerlings before pond release?",
+      "options": [
+        {
+          "text": "A. It removes all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adjustment reduces shock from differences in temperature and water chemistry."
+        },
+        {
+          "text": "B. It makes them grow instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adjustment reduces shock from differences in temperature and water chemistry."
+        },
+        {
+          "text": "C. Gradual adjustment reduces shock from differences in temperature and water chemistry",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gradual adjustment reduces shock from differences in temperature and water chemistry."
+        },
+        {
+          "text": "D. It replaces transport oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gradual adjustment reduces shock from differences in temperature and water chemistry."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 297,
+      "question": "What is temperature shock in fish stocking?",
+      "options": [
+        {
+          "text": "A. A normal feeding response",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress or injury caused by an abrupt water-temperature change."
+        },
+        {
+          "text": "B. A method of sexing fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress or injury caused by an abrupt water-temperature change."
+        },
+        {
+          "text": "C. A pond fertiliser",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stress or injury caused by an abrupt water-temperature change."
+        },
+        {
+          "text": "D. Stress or injury caused by an abrupt water-temperature change",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stress or injury caused by an abrupt water-temperature change."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 298,
+      "question": "Why should transport water not automatically be poured into a production pond?",
+      "options": [
+        {
+          "text": "A. It may introduce pathogens or poor-quality water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may introduce pathogens or poor-quality water."
+        },
+        {
+          "text": "B. It guarantees survival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may introduce pathogens or poor-quality water."
+        },
+        {
+          "text": "C. It contains no waste",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may introduce pathogens or poor-quality water."
+        },
+        {
+          "text": "D. It always improves pond fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may introduce pathogens or poor-quality water."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 299,
+      "question": "Why stock fish during cooler hours when practical?",
+      "options": [
+        {
+          "text": "A. It increases salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lower temperatures can reduce handling and transport stress."
+        },
+        {
+          "text": "B. Lower temperatures can reduce handling and transport stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lower temperatures can reduce handling and transport stress."
+        },
+        {
+          "text": "C. Fish stop needing oxygen at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lower temperatures can reduce handling and transport stress."
+        },
+        {
+          "text": "D. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lower temperatures can reduce handling and transport stress."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 300,
+      "question": "What is the purpose of grading fingerlings by size?",
+      "options": [
+        {
+          "text": "A. It eliminates feed costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces size variation and can limit competition or cannibalism in some species."
+        },
+        {
+          "text": "B. It changes genetic sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces size variation and can limit competition or cannibalism in some species."
+        },
+        {
+          "text": "C. It reduces size variation and can limit competition or cannibalism in some species",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces size variation and can limit competition or cannibalism in some species."
+        },
+        {
+          "text": "D. It guarantees identical growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces size variation and can limit competition or cannibalism in some species."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 301,
+      "question": "Why keep grading equipment wet and handle fish carefully?",
+      "options": [
+        {
+          "text": "A. It deliberately increases handling time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces abrasion, scale loss and stress."
+        },
+        {
+          "text": "B. It removes the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces abrasion, scale loss and stress."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces abrasion, scale loss and stress."
+        },
+        {
+          "text": "D. It reduces abrasion, scale loss and stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces abrasion, scale loss and stress."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 302,
+      "question": "Why use a consistent method to count or sample fish?",
+      "options": [
+        {
+          "text": "A. Consistent methods improve estimates of survival, biomass and growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent methods improve estimates of survival, biomass and growth."
+        },
+        {
+          "text": "B. It determines pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods improve estimates of survival, biomass and growth."
+        },
+        {
+          "text": "C. It removes all sampling error",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods improve estimates of survival, biomass and growth."
+        },
+        {
+          "text": "D. It makes all fish equal weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent methods improve estimates of survival, biomass and growth."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 303,
+      "question": "What does standing crop mean?",
+      "options": [
+        {
+          "text": "A. The number of workers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The total biomass of fish present in a production unit at a given time."
+        },
+        {
+          "text": "B. The total biomass of fish present in a production unit at a given time",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The total biomass of fish present in a production unit at a given time."
+        },
+        {
+          "text": "C. The number of empty feed bags",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The total biomass of fish present in a production unit at a given time."
+        },
+        {
+          "text": "D. Pond water volume",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The total biomass of fish present in a production unit at a given time."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 304,
+      "question": "Why estimate standing crop before adjusting feed?",
+      "options": [
+        {
+          "text": "A. Feed quantity should reflect stock biomass and feeding response",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed quantity should reflect stock biomass and feeding response."
+        },
+        {
+          "text": "B. Biomass is unrelated to feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quantity should reflect stock biomass and feeding response."
+        },
+        {
+          "text": "C. Feed depends only on pond colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quantity should reflect stock biomass and feeding response."
+        },
+        {
+          "text": "D. It determines species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed quantity should reflect stock biomass and feeding response."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 305,
+      "question": "What is sampling bias when weighing fish?",
+      "options": [
+        {
+          "text": "A. A scale with a new battery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sample that does not fairly represent the whole stock."
+        },
+        {
+          "text": "B. A pond with clear water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sample that does not fairly represent the whole stock."
+        },
+        {
+          "text": "C. A fish that eats slowly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sample that does not fairly represent the whole stock."
+        },
+        {
+          "text": "D. A sample that does not fairly represent the whole stock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A sample that does not fairly represent the whole stock."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 306,
+      "question": "Why may fish be fasted before some handling or transport operations?",
+      "options": [
+        {
+          "text": "A. It can reduce waste production and water-quality deterioration during handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce waste production and water-quality deterioration during handling."
+        },
+        {
+          "text": "B. It replaces oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce waste production and water-quality deterioration during handling."
+        },
+        {
+          "text": "C. It eliminates all stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce waste production and water-quality deterioration during handling."
+        },
+        {
+          "text": "D. It increases gut contents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce waste production and water-quality deterioration during handling."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 307,
+      "question": "Why must fasting duration suit the species and situation?",
+      "options": [
+        {
+          "text": "A. All fish need the same duration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive fasting can weaken fish and reduce welfare or performance."
+        },
+        {
+          "text": "B. Excessive fasting can weaken fish and reduce welfare or performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive fasting can weaken fish and reduce welfare or performance."
+        },
+        {
+          "text": "C. It changes water hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive fasting can weaken fish and reduce welfare or performance."
+        },
+        {
+          "text": "D. Fasting never affects fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive fasting can weaken fish and reduce welfare or performance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 308,
+      "question": "What is the purpose of a quarantine unit for new fish?",
+      "options": [
+        {
+          "text": "A. To observe and assess new stock before joining established populations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To observe and assess new stock before joining established populations."
+        },
+        {
+          "text": "B. To store harvested fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe and assess new stock before joining established populations."
+        },
+        {
+          "text": "C. To increase pond fertiliser",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe and assess new stock before joining established populations."
+        },
+        {
+          "text": "D. To mix suppliers together",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe and assess new stock before joining established populations."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 309,
+      "question": "Why keep quarantine equipment separate from routine pond equipment?",
+      "options": [
+        {
+          "text": "A. It removes cleaning needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces pathogen transfer to established stocks."
+        },
+        {
+          "text": "B. It increases growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces pathogen transfer to established stocks."
+        },
+        {
+          "text": "C. Shared equipment improves immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces pathogen transfer to established stocks."
+        },
+        {
+          "text": "D. It reduces pathogen transfer to established stocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces pathogen transfer to established stocks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 310,
+      "question": "Why observe new fish during quarantine before considering treatment?",
+      "options": [
+        {
+          "text": "A. It determines market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify illness and supports targeted veterinary decisions."
+        },
+        {
+          "text": "B. It replaces water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify illness and supports targeted veterinary decisions."
+        },
+        {
+          "text": "C. Observation helps identify illness and supports targeted veterinary decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Observation helps identify illness and supports targeted veterinary decisions."
+        },
+        {
+          "text": "D. Every new fish needs every medicine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observation helps identify illness and supports targeted veterinary decisions."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 311,
+      "question": "What is a risk of introducing wild fish without assessment?",
+      "options": [
+        {
+          "text": "A. They always improve genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry disease, predators or compete with cultured fish."
+        },
+        {
+          "text": "B. They may carry disease, predators or compete with cultured fish",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may carry disease, predators or compete with cultured fish."
+        },
+        {
+          "text": "C. They sterilise ponds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry disease, predators or compete with cultured fish."
+        },
+        {
+          "text": "D. They cannot carry parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry disease, predators or compete with cultured fish."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 312,
+      "question": "Why evaluate fish-seed suppliers?",
+      "options": [
+        {
+          "text": "A. Healthy, correctly identified seed improves planning and reduces introduction risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Healthy, correctly identified seed improves planning and reduces introduction risks."
+        },
+        {
+          "text": "B. Reputation changes pond chemistry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Healthy, correctly identified seed improves planning and reduces introduction risks."
+        },
+        {
+          "text": "C. All hatcheries produce identical seed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Healthy, correctly identified seed improves planning and reduces introduction risks."
+        },
+        {
+          "text": "D. It removes records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Healthy, correctly identified seed improves planning and reduces introduction risks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 313,
+      "question": "What should be checked when buying fingerlings?",
+      "options": [
+        {
+          "text": "A. Container size only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species identity, size, health, quantity and source documentation."
+        },
+        {
+          "text": "B. Adult fish market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species identity, size, health, quantity and source documentation."
+        },
+        {
+          "text": "C. Seller vehicle colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species identity, size, health, quantity and source documentation."
+        },
+        {
+          "text": "D. Species identity, size, health, quantity and source documentation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Species identity, size, health, quantity and source documentation."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 314,
+      "question": "Why is species identification important in polyculture?",
+      "options": [
+        {
+          "text": "A. It affects only colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species differ in feeding niches, growth, oxygen needs and compatibility."
+        },
+        {
+          "text": "B. It removes stocking calculations",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species differ in feeding niches, growth, oxygen needs and compatibility."
+        },
+        {
+          "text": "C. Species differ in feeding niches, growth, oxygen needs and compatibility",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Species differ in feeding niches, growth, oxygen needs and compatibility."
+        },
+        {
+          "text": "D. All species eat the same diet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species differ in feeding niches, growth, oxygen needs and compatibility."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 315,
+      "question": "What is polyculture?",
+      "options": [
+        {
+          "text": "A. Raising one species in separate ponds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising compatible species together to use different resources in one system."
+        },
+        {
+          "text": "B. Growing only aquatic plants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising compatible species together to use different resources in one system."
+        },
+        {
+          "text": "C. Raising compatible species together to use different resources in one system",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Raising compatible species together to use different resources in one system."
+        },
+        {
+          "text": "D. Keeping fish with poultry in a cage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising compatible species together to use different resources in one system."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 316,
+      "question": "What can happen when incompatible fish species are combined?",
+      "options": [
+        {
+          "text": "A. Predation, competition or different environmental needs can reduce survival",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Predation, competition or different environmental needs can reduce survival."
+        },
+        {
+          "text": "B. All species grow faster",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predation, competition or different environmental needs can reduce survival."
+        },
+        {
+          "text": "C. Disease control is guaranteed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predation, competition or different environmental needs can reduce survival."
+        },
+        {
+          "text": "D. Feeding is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predation, competition or different environmental needs can reduce survival."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 317,
+      "question": "Why exclude predator fish from nursery ponds?",
+      "options": [
+        {
+          "text": "A. They remove grading needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume small fry and fingerlings."
+        },
+        {
+          "text": "B. They increase oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume small fry and fingerlings."
+        },
+        {
+          "text": "C. They improve fingerling survival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume small fry and fingerlings."
+        },
+        {
+          "text": "D. They can consume small fry and fingerlings",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can consume small fry and fingerlings."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 318,
+      "question": "What is a nursery pond designed for?",
+      "options": [
+        {
+          "text": "A. Rearing fry or small fingerlings under controlled conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rearing fry or small fingerlings under controlled conditions."
+        },
+        {
+          "text": "B. Treating wastewater only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rearing fry or small fingerlings under controlled conditions."
+        },
+        {
+          "text": "C. Keeping broodstock out of water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rearing fry or small fingerlings under controlled conditions."
+        },
+        {
+          "text": "D. Storing harvested fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rearing fry or small fingerlings under controlled conditions."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 319,
+      "question": "Why manage nursery ponds separately from grow-out ponds?",
+      "options": [
+        {
+          "text": "A. Small fish need no oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small fish need suitable food, protection and closer management."
+        },
+        {
+          "text": "B. It makes harvest impossible",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small fish need suitable food, protection and closer management."
+        },
+        {
+          "text": "C. Small fish need suitable food, protection and closer management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Small fish need suitable food, protection and closer management."
+        },
+        {
+          "text": "D. It prevents all water exchange",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small fish need suitable food, protection and closer management."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 320,
+      "question": "What is a grow-out pond used for?",
+      "options": [
+        {
+          "text": "A. Storing feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising juveniles to marketable size."
+        },
+        {
+          "text": "B. Hatching eggs only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising juveniles to marketable size."
+        },
+        {
+          "text": "C. Raising juveniles to marketable size",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Raising juveniles to marketable size."
+        },
+        {
+          "text": "D. Quarantining equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Raising juveniles to marketable size."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 321,
+      "question": "Why check for unwanted fish during pond preparation?",
+      "options": [
+        {
+          "text": "A. Unwanted fish improve every crop",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predators and competitors can reduce stocked-fish survival and growth."
+        },
+        {
+          "text": "B. They replace fingerlings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predators and competitors can reduce stocked-fish survival and growth."
+        },
+        {
+          "text": "C. They increase feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Predators and competitors can reduce stocked-fish survival and growth."
+        },
+        {
+          "text": "D. Predators and competitors can reduce stocked-fish survival and growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Predators and competitors can reduce stocked-fish survival and growth."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 322,
+      "question": "Why use bird deterrents around vulnerable ponds?",
+      "options": [
+        {
+          "text": "A. Fish-eating birds can cause stock losses and may spread pathogens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fish-eating birds can cause stock losses and may spread pathogens."
+        },
+        {
+          "text": "B. Netting increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish-eating birds can cause stock losses and may spread pathogens."
+        },
+        {
+          "text": "C. It prevents evaporation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish-eating birds can cause stock losses and may spread pathogens."
+        },
+        {
+          "text": "D. Birds improve water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish-eating birds can cause stock losses and may spread pathogens."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 323,
+      "question": "Why install bird barriers without creating hazards?",
+      "options": [
+        {
+          "text": "A. It increases fish density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed barriers can entangle or injure wildlife and workers."
+        },
+        {
+          "text": "B. Poorly designed barriers can entangle or injure wildlife and workers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poorly designed barriers can entangle or injure wildlife and workers."
+        },
+        {
+          "text": "C. All deterrents are harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed barriers can entangle or injure wildlife and workers."
+        },
+        {
+          "text": "D. Wildlife safety is unrelated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly designed barriers can entangle or injure wildlife and workers."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 324,
+      "question": "What is a hapa net commonly used for?",
+      "options": [
+        {
+          "text": "A. Drying harvested fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Holding or nursing fish in a net enclosure within a pond."
+        },
+        {
+          "text": "B. Filtering workers' drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Holding or nursing fish in a net enclosure within a pond."
+        },
+        {
+          "text": "C. Holding or nursing fish in a net enclosure within a pond",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Holding or nursing fish in a net enclosure within a pond."
+        },
+        {
+          "text": "D. Measuring pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Holding or nursing fish in a net enclosure within a pond."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 325,
+      "question": "Why inspect hapa nets for tears and fouling?",
+      "options": [
+        {
+          "text": "A. Tears improve circulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damage can allow escapes while fouling restricts water flow."
+        },
+        {
+          "text": "B. Inspection changes fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damage can allow escapes while fouling restricts water flow."
+        },
+        {
+          "text": "C. Fouling increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Damage can allow escapes while fouling restricts water flow."
+        },
+        {
+          "text": "D. Damage can allow escapes while fouling restricts water flow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Damage can allow escapes while fouling restricts water flow."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 326,
+      "question": "What is a seine net used for in pond aquaculture?",
+      "options": [
+        {
+          "text": "A. Gathering or harvesting fish by drawing a net through the pond",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gathering or harvesting fish by drawing a net through the pond."
+        },
+        {
+          "text": "B. Incubating eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gathering or harvesting fish by drawing a net through the pond."
+        },
+        {
+          "text": "C. Adding lime",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gathering or harvesting fish by drawing a net through the pond."
+        },
+        {
+          "text": "D. Measuring oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gathering or harvesting fish by drawing a net through the pond."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 327,
+      "question": "Why should seine mesh size match the target fish?",
+      "options": [
+        {
+          "text": "A. It changes species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps retain target fish while reducing injury or escape."
+        },
+        {
+          "text": "B. It helps retain target fish while reducing injury or escape",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps retain target fish while reducing injury or escape."
+        },
+        {
+          "text": "C. Mesh determines flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps retain target fish while reducing injury or escape."
+        },
+        {
+          "text": "D. All mesh sizes capture all fish equally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps retain target fish while reducing injury or escape."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 328,
+      "question": "Why clean harvesting equipment between ponds?",
+      "options": [
+        {
+          "text": "A. It replaces quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent transfer of pathogens and unwanted organisms."
+        },
+        {
+          "text": "B. Cleaning increases fish weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent transfer of pathogens and unwanted organisms."
+        },
+        {
+          "text": "C. It helps prevent transfer of pathogens and unwanted organisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent transfer of pathogens and unwanted organisms."
+        },
+        {
+          "text": "D. It guarantees sterility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent transfer of pathogens and unwanted organisms."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 329,
+      "question": "What is partial harvesting?",
+      "options": [
+        {
+          "text": "A. Draining every pond at once",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing some market-size fish while leaving the rest in the system."
+        },
+        {
+          "text": "B. Removing all fingerlings before stocking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing some market-size fish while leaving the rest in the system."
+        },
+        {
+          "text": "C. Harvesting only feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing some market-size fish while leaving the rest in the system."
+        },
+        {
+          "text": "D. Removing some market-size fish while leaving the rest in the system",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Removing some market-size fish while leaving the rest in the system."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 330,
+      "question": "How can partial harvesting help manage pond biomass?",
+      "options": [
+        {
+          "text": "A. It can reduce crowding and give remaining fish more growing space",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce crowding and give remaining fish more growing space."
+        },
+        {
+          "text": "B. It removes monitoring needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce crowding and give remaining fish more growing space."
+        },
+        {
+          "text": "C. It prevents further growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce crowding and give remaining fish more growing space."
+        },
+        {
+          "text": "D. It always lowers water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce crowding and give remaining fish more growing space."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 331,
+      "question": "Why should harvest plans consider market demand and fish size?",
+      "options": [
+        {
+          "text": "A. Size is unrelated to markets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing affects price, buyer acceptance and production cash flow."
+        },
+        {
+          "text": "B. Timing affects price, buyer acceptance and production cash flow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Timing affects price, buyer acceptance and production cash flow."
+        },
+        {
+          "text": "C. It replaces cost records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing affects price, buyer acceptance and production cash flow."
+        },
+        {
+          "text": "D. Demand determines oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing affects price, buyer acceptance and production cash flow."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 332,
+      "question": "Why minimise fish exposure to air during harvest?",
+      "options": [
+        {
+          "text": "A. Prolonged exposure can cause severe stress and injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prolonged exposure can cause severe stress and injury."
+        },
+        {
+          "text": "B. Fish do not need water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged exposure can cause severe stress and injury."
+        },
+        {
+          "text": "C. Air improves gill function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged exposure can cause severe stress and injury."
+        },
+        {
+          "text": "D. It sterilises skin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prolonged exposure can cause severe stress and injury."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 333,
+      "question": "Why use clean ice to chill harvested fish?",
+      "options": [
+        {
+          "text": "A. It cooks the fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes heat rapidly and helps slow microbial growth."
+        },
+        {
+          "text": "B. It removes all toxins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes heat rapidly and helps slow microbial growth."
+        },
+        {
+          "text": "C. It replaces hygienic handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes heat rapidly and helps slow microbial growth."
+        },
+        {
+          "text": "D. It removes heat rapidly and helps slow microbial growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It removes heat rapidly and helps slow microbial growth."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 334,
+      "question": "Why chill fish promptly after harvest?",
+      "options": [
+        {
+          "text": "A. Warm storage improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Low temperatures slow spoilage and microbial growth."
+        },
+        {
+          "text": "B. It removes clean-water needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Low temperatures slow spoilage and microbial growth."
+        },
+        {
+          "text": "C. Low temperatures slow spoilage and microbial growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Low temperatures slow spoilage and microbial growth."
+        },
+        {
+          "text": "D. Chilling sterilises fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Low temperatures slow spoilage and microbial growth."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 335,
+      "question": "Why make fish ice from potable water?",
+      "options": [
+        {
+          "text": "A. Any water is safe when frozen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated ice can transfer hazards to fish."
+        },
+        {
+          "text": "B. Contaminated ice can transfer hazards to fish",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contaminated ice can transfer hazards to fish."
+        },
+        {
+          "text": "C. It improves genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated ice can transfer hazards to fish."
+        },
+        {
+          "text": "D. Ice cannot contact microbes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated ice can transfer hazards to fish."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 336,
+      "question": "Why keep harvested fish out of direct sunlight?",
+      "options": [
+        {
+          "text": "A. Heat and sunlight accelerate temperature rise and quality loss",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Heat and sunlight accelerate temperature rise and quality loss."
+        },
+        {
+          "text": "B. It improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and sunlight accelerate temperature rise and quality loss."
+        },
+        {
+          "text": "C. Sunlight sterilises fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and sunlight accelerate temperature rise and quality loss."
+        },
+        {
+          "text": "D. It reduces ice needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and sunlight accelerate temperature rise and quality loss."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 337,
+      "question": "What is the purpose of hygienic fish evisceration?",
+      "options": [
+        {
+          "text": "A. It makes refrigeration unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful removal of viscera reduces contamination risk and prepares the product."
+        },
+        {
+          "text": "B. It guarantees pathogen-free meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful removal of viscera reduces contamination risk and prepares the product."
+        },
+        {
+          "text": "C. It increases live weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful removal of viscera reduces contamination risk and prepares the product."
+        },
+        {
+          "text": "D. Careful removal of viscera reduces contamination risk and prepares the product",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Careful removal of viscera reduces contamination risk and prepares the product."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 338,
+      "question": "Why keep gut contents away from edible fish flesh?",
+      "options": [
+        {
+          "text": "A. They sterilise knives",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce microorganisms and contaminate the product."
+        },
+        {
+          "text": "B. They reduce spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce microorganisms and contaminate the product."
+        },
+        {
+          "text": "C. They can introduce microorganisms and contaminate the product",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can introduce microorganisms and contaminate the product."
+        },
+        {
+          "text": "D. They improve flesh quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce microorganisms and contaminate the product."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 339,
+      "question": "Why wash hands after handling fish-processing waste?",
+      "options": [
+        {
+          "text": "A. It changes fish texture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents transferring contamination to cleaned fish and equipment."
+        },
+        {
+          "text": "B. It prevents transferring contamination to cleaned fish and equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prevents transferring contamination to cleaned fish and equipment."
+        },
+        {
+          "text": "C. It improves product temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents transferring contamination to cleaned fish and equipment."
+        },
+        {
+          "text": "D. It replaces surface sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents transferring contamination to cleaned fish and equipment."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 340,
+      "question": "Why separate raw fish from ready-to-eat foods?",
+      "options": [
+        {
+          "text": "A. To prevent cross-contamination of foods that may not be cooked again",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To prevent cross-contamination of foods that may not be cooked again."
+        },
+        {
+          "text": "B. To increase raw fish temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent cross-contamination of foods that may not be cooked again."
+        },
+        {
+          "text": "C. To improve scale quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent cross-contamination of foods that may not be cooked again."
+        },
+        {
+          "text": "D. To make raw fish sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent cross-contamination of foods that may not be cooked again."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 341,
+      "question": "What is the purpose of a cold chain for fresh fish?",
+      "options": [
+        {
+          "text": "A. Replacing clean handling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintaining suitable low temperatures from harvest through storage and delivery."
+        },
+        {
+          "text": "B. Increasing fish moisture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintaining suitable low temperatures from harvest through storage and delivery."
+        },
+        {
+          "text": "C. Keeping fish warm in transport",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maintaining suitable low temperatures from harvest through storage and delivery."
+        },
+        {
+          "text": "D. Maintaining suitable low temperatures from harvest through storage and delivery",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Maintaining suitable low temperatures from harvest through storage and delivery."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 342,
+      "question": "Why record fish-product temperatures during transport?",
+      "options": [
+        {
+          "text": "A. Records help verify cold-chain control and identify temperature abuse",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records help verify cold-chain control and identify temperature abuse."
+        },
+        {
+          "text": "B. They replace packaging",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help verify cold-chain control and identify temperature abuse."
+        },
+        {
+          "text": "C. They measure freshness by colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help verify cold-chain control and identify temperature abuse."
+        },
+        {
+          "text": "D. They determine species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help verify cold-chain control and identify temperature abuse."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 343,
+      "question": "Why use food-grade packaging suitable for chilled fish?",
+      "options": [
+        {
+          "text": "A. Any chemical container is suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects the product from contamination and physical damage."
+        },
+        {
+          "text": "B. It replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects the product from contamination and physical damage."
+        },
+        {
+          "text": "C. It protects the product from contamination and physical damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It protects the product from contamination and physical damage."
+        },
+        {
+          "text": "D. Packaging sterilises spoiled fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects the product from contamination and physical damage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 344,
+      "question": "What is traceability for harvested fish?",
+      "options": [
+        {
+          "text": "A. The ability to track a product's source, batch and handling history",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The ability to track a product's source, batch and handling history."
+        },
+        {
+          "text": "B. Predicting exact selling price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to track a product's source, batch and handling history."
+        },
+        {
+          "text": "C. Increasing oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to track a product's source, batch and handling history."
+        },
+        {
+          "text": "D. A breeding technique",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to track a product's source, batch and handling history."
+        }
+      ],
+      "part": 7
     }
   ]
 }
