@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 245,
+  "total": 294,
   "questions": [
     {
       "number": 1,
@@ -6617,6 +6617,1329 @@
         }
       ],
       "part": 5
+    },
+    {
+      "number": 246,
+      "question": "What is the main purpose of colostrum for a newborn kid?",
+      "options": [
+        {
+          "text": "A. It provides concentrated nutrients and maternal antibodies soon after birth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides concentrated nutrients and maternal antibodies soon after birth."
+        },
+        {
+          "text": "B. It determines the kid's adult coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides concentrated nutrients and maternal antibodies soon after birth."
+        },
+        {
+          "text": "C. It prevents every parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides concentrated nutrients and maternal antibodies soon after birth."
+        },
+        {
+          "text": "D. It replaces all later milk feeds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides concentrated nutrients and maternal antibodies soon after birth."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 247,
+      "question": "When should a newborn kid ideally receive its first colostrum?",
+      "options": [
+        {
+          "text": "A. At weaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is As soon as possible after birth, preferably within the first few hours."
+        },
+        {
+          "text": "B. As soon as possible after birth, preferably within the first few hours",
+          "correct": true,
+          "feedback": "Well done! Correct answer: As soon as possible after birth, preferably within the first few hours."
+        },
+        {
+          "text": "C. Only after the first day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is As soon as possible after birth, preferably within the first few hours."
+        },
+        {
+          "text": "D. After it begins eating hay",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is As soon as possible after birth, preferably within the first few hours."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 248,
+      "question": "Why is navel care important in newborn kids?",
+      "options": [
+        {
+          "text": "A. It prevents all digestive disorders",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The open or contaminated navel can provide an entry route for infection."
+        },
+        {
+          "text": "B. It improves horn growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The open or contaminated navel can provide an entry route for infection."
+        },
+        {
+          "text": "C. The open or contaminated navel can provide an entry route for infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The open or contaminated navel can provide an entry route for infection."
+        },
+        {
+          "text": "D. It determines sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The open or contaminated navel can provide an entry route for infection."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 249,
+      "question": "What should be checked first if a newborn kid is cold and weak?",
+      "options": [
+        {
+          "text": "A. Its future breeding value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warmth, breathing and prompt access to colostrum, with veterinary help when needed."
+        },
+        {
+          "text": "B. Whether it can eat mature browse",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warmth, breathing and prompt access to colostrum, with veterinary help when needed."
+        },
+        {
+          "text": "C. Its market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Warmth, breathing and prompt access to colostrum, with veterinary help when needed."
+        },
+        {
+          "text": "D. Warmth, breathing and prompt access to colostrum, with veterinary help when needed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Warmth, breathing and prompt access to colostrum, with veterinary help when needed."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 250,
+      "question": "Why should kidding areas be clean and dry?",
+      "options": [
+        {
+          "text": "A. They reduce exposure to organisms that cause infection in newborns and does",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They reduce exposure to organisms that cause infection in newborns and does."
+        },
+        {
+          "text": "B. They replace vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce exposure to organisms that cause infection in newborns and does."
+        },
+        {
+          "text": "C. They prevent all birth difficulties",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce exposure to organisms that cause infection in newborns and does."
+        },
+        {
+          "text": "D. They increase milk fat automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce exposure to organisms that cause infection in newborns and does."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 251,
+      "question": "What is dystocia in goats?",
+      "options": [
+        {
+          "text": "A. A normal weaning stage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficult or obstructed birth."
+        },
+        {
+          "text": "B. Difficult or obstructed birth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Difficult or obstructed birth."
+        },
+        {
+          "text": "C. A common mineral supplement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficult or obstructed birth."
+        },
+        {
+          "text": "D. A type of hoof trimming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficult or obstructed birth."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 252,
+      "question": "What should a farmer do when a doe has prolonged difficult labour?",
+      "options": [
+        {
+          "text": "A. Seek prompt veterinary assistance rather than attempting forceful extraction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek prompt veterinary assistance rather than attempting forceful extraction."
+        },
+        {
+          "text": "B. Give extra grain and leave her alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt veterinary assistance rather than attempting forceful extraction."
+        },
+        {
+          "text": "C. Wait indefinitely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt veterinary assistance rather than attempting forceful extraction."
+        },
+        {
+          "text": "D. Move her repeatedly between pens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek prompt veterinary assistance rather than attempting forceful extraction."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 253,
+      "question": "Why is the doe's body condition important before breeding?",
+      "options": [
+        {
+          "text": "A. It determines the kids' coat pattern",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Very thin or over-fat does may have poorer reproductive performance and health."
+        },
+        {
+          "text": "B. It replaces pregnancy checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Very thin or over-fat does may have poorer reproductive performance and health."
+        },
+        {
+          "text": "C. It prevents all kidding complications",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Very thin or over-fat does may have poorer reproductive performance and health."
+        },
+        {
+          "text": "D. Very thin or over-fat does may have poorer reproductive performance and health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Very thin or over-fat does may have poorer reproductive performance and health."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 254,
+      "question": "What is flushing in small-ruminant breeding management?",
+      "options": [
+        {
+          "text": "A. A method of treating bloat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A short-term improvement in nutrition before mating to support ovulation in suitable does."
+        },
+        {
+          "text": "B. A process for cleaning milking equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A short-term improvement in nutrition before mating to support ovulation in suitable does."
+        },
+        {
+          "text": "C. A short-term improvement in nutrition before mating to support ovulation in suitable does",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A short-term improvement in nutrition before mating to support ovulation in suitable does."
+        },
+        {
+          "text": "D. Washing goats before sale",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A short-term improvement in nutrition before mating to support ovulation in suitable does."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 255,
+      "question": "Why should flushing be planned rather than applied indiscriminately?",
+      "options": [
+        {
+          "text": "A. Every doe needs unlimited grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its benefit depends on body condition, feed quality and reproductive management."
+        },
+        {
+          "text": "B. Its benefit depends on body condition, feed quality and reproductive management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Its benefit depends on body condition, feed quality and reproductive management."
+        },
+        {
+          "text": "C. It is only used after kidding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its benefit depends on body condition, feed quality and reproductive management."
+        },
+        {
+          "text": "D. It replaces parasite control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Its benefit depends on body condition, feed quality and reproductive management."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 256,
+      "question": "What is the gestation period of a goat approximately?",
+      "options": [
+        {
+          "text": "A. About 150 days, with some normal variation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: About 150 days, with some normal variation."
+        },
+        {
+          "text": "B. About 90 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 150 days, with some normal variation."
+        },
+        {
+          "text": "C. About 60 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 150 days, with some normal variation."
+        },
+        {
+          "text": "D. About 300 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 150 days, with some normal variation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 257,
+      "question": "Why should a pregnant doe receive a balanced ration in late gestation?",
+      "options": [
+        {
+          "text": "A. It eliminates the need for clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fetal growth and the doe's nutritional demands rise substantially."
+        },
+        {
+          "text": "B. It determines milk colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fetal growth and the doe's nutritional demands rise substantially."
+        },
+        {
+          "text": "C. It prevents all multiple births",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fetal growth and the doe's nutritional demands rise substantially."
+        },
+        {
+          "text": "D. Fetal growth and the doe's nutritional demands rise substantially",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fetal growth and the doe's nutritional demands rise substantially."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 258,
+      "question": "What is pregnancy toxemia (ketosis) in does?",
+      "options": [
+        {
+          "text": "A. A normal sign of heat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A metabolic disorder associated with inadequate energy supply in late pregnancy."
+        },
+        {
+          "text": "B. A condition caused only by excess water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A metabolic disorder associated with inadequate energy supply in late pregnancy."
+        },
+        {
+          "text": "C. A metabolic disorder associated with inadequate energy supply in late pregnancy",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A metabolic disorder associated with inadequate energy supply in late pregnancy."
+        },
+        {
+          "text": "D. A bacterial hoof infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A metabolic disorder associated with inadequate energy supply in late pregnancy."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 259,
+      "question": "Which does are at increased risk of pregnancy toxemia?",
+      "options": [
+        {
+          "text": "A. Only young male goats",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does carrying multiple fetuses, especially when underfed or in poor condition."
+        },
+        {
+          "text": "B. Does carrying multiple fetuses, especially when underfed or in poor condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Does carrying multiple fetuses, especially when underfed or in poor condition."
+        },
+        {
+          "text": "C. All goats immediately after weaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does carrying multiple fetuses, especially when underfed or in poor condition."
+        },
+        {
+          "text": "D. Only does that drink clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does carrying multiple fetuses, especially when underfed or in poor condition."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 260,
+      "question": "What signs may suggest pregnancy toxemia in a doe?",
+      "options": [
+        {
+          "text": "A. Reduced appetite, dullness, weakness or abnormal behaviour in late pregnancy",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reduced appetite, dullness, weakness or abnormal behaviour in late pregnancy."
+        },
+        {
+          "text": "B. A sudden increase in horn length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced appetite, dullness, weakness or abnormal behaviour in late pregnancy."
+        },
+        {
+          "text": "C. Bright eyes and normal feeding only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced appetite, dullness, weakness or abnormal behaviour in late pregnancy."
+        },
+        {
+          "text": "D. A change in ear shape",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reduced appetite, dullness, weakness or abnormal behaviour in late pregnancy."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "Why should late-pregnant does not be subjected to sudden feed changes?",
+      "options": [
+        {
+          "text": "A. It guarantees twins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt intake and increase digestive or metabolic risk."
+        },
+        {
+          "text": "B. It prevents the need for minerals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt intake and increase digestive or metabolic risk."
+        },
+        {
+          "text": "C. They cannot digest any forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt intake and increase digestive or metabolic risk."
+        },
+        {
+          "text": "D. Abrupt changes can disrupt intake and increase digestive or metabolic risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Abrupt changes can disrupt intake and increase digestive or metabolic risk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "Why should kids be weighed regularly during early growth?",
+      "options": [
+        {
+          "text": "A. It replaces observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight trends help identify poor growth and health problems early."
+        },
+        {
+          "text": "B. It determines their sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight trends help identify poor growth and health problems early."
+        },
+        {
+          "text": "C. Weight trends help identify poor growth and health problems early",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Weight trends help identify poor growth and health problems early."
+        },
+        {
+          "text": "D. It changes their genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Weight trends help identify poor growth and health problems early."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "What is weaning in goat production?",
+      "options": [
+        {
+          "text": "A. The first time a kid stands",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The gradual or planned end of a kid's dependence on its dam's milk."
+        },
+        {
+          "text": "B. The separation of adult bucks only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The gradual or planned end of a kid's dependence on its dam's milk."
+        },
+        {
+          "text": "C. The gradual or planned end of a kid's dependence on its dam's milk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The gradual or planned end of a kid's dependence on its dam's milk."
+        },
+        {
+          "text": "D. The process of trimming hooves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The gradual or planned end of a kid's dependence on its dam's milk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "Why should kids be eating adequate solid feed before weaning?",
+      "options": [
+        {
+          "text": "A. Their rumen must develop enough to support nutrition without milk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their rumen must develop enough to support nutrition without milk."
+        },
+        {
+          "text": "B. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their rumen must develop enough to support nutrition without milk."
+        },
+        {
+          "text": "C. It makes water unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their rumen must develop enough to support nutrition without milk."
+        },
+        {
+          "text": "D. It determines adult horn size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their rumen must develop enough to support nutrition without milk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "Why can abrupt weaning stress kids?",
+      "options": [
+        {
+          "text": "A. It improves immunity instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It combines loss of milk with social and dietary changes."
+        },
+        {
+          "text": "B. It stops rumen development",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It combines loss of milk with social and dietary changes."
+        },
+        {
+          "text": "C. It prevents weight loss in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It combines loss of milk with social and dietary changes."
+        },
+        {
+          "text": "D. It combines loss of milk with social and dietary changes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It combines loss of milk with social and dietary changes."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "What is creep feeding for kids?",
+      "options": [
+        {
+          "text": "A. Providing young kids access to a suitable feed area that adult goats cannot easily enter",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Providing young kids access to a suitable feed area that adult goats cannot easily enter."
+        },
+        {
+          "text": "B. Allowing kids to eat spoiled feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Providing young kids access to a suitable feed area that adult goats cannot easily enter."
+        },
+        {
+          "text": "C. A treatment for hoof rot",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Providing young kids access to a suitable feed area that adult goats cannot easily enter."
+        },
+        {
+          "text": "D. Feeding only adult bucks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Providing young kids access to a suitable feed area that adult goats cannot easily enter."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "Why should creep feed be fresh and hygienically stored?",
+      "options": [
+        {
+          "text": "A. Stale feed improves digestion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Young animals are vulnerable to poor-quality feed and contamination."
+        },
+        {
+          "text": "B. Storage does not affect feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Young animals are vulnerable to poor-quality feed and contamination."
+        },
+        {
+          "text": "C. Young animals are vulnerable to poor-quality feed and contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Young animals are vulnerable to poor-quality feed and contamination."
+        },
+        {
+          "text": "D. Mould increases protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Young animals are vulnerable to poor-quality feed and contamination."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "What is the function of the rumen in goats?",
+      "options": [
+        {
+          "text": "A. It pumps blood",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It hosts microbes that ferment fibrous feeds and produce nutrients the goat can use."
+        },
+        {
+          "text": "B. It stores urine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It hosts microbes that ferment fibrous feeds and produce nutrients the goat can use."
+        },
+        {
+          "text": "C. It hosts microbes that ferment fibrous feeds and produce nutrients the goat can use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It hosts microbes that ferment fibrous feeds and produce nutrients the goat can use."
+        },
+        {
+          "text": "D. It produces bile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It hosts microbes that ferment fibrous feeds and produce nutrients the goat can use."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "Why do goats need gradual adaptation when moving to rich grain diets?",
+      "options": [
+        {
+          "text": "A. Grain cannot be digested by goats",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid dietary changes can disrupt rumen fermentation and cause acidosis."
+        },
+        {
+          "text": "B. It makes forage unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid dietary changes can disrupt rumen fermentation and cause acidosis."
+        },
+        {
+          "text": "C. It prevents mineral absorption",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid dietary changes can disrupt rumen fermentation and cause acidosis."
+        },
+        {
+          "text": "D. Rapid dietary changes can disrupt rumen fermentation and cause acidosis",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rapid dietary changes can disrupt rumen fermentation and cause acidosis."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "What is ruminal acidosis?",
+      "options": [
+        {
+          "text": "A. A fall in rumen pH, often linked to excessive rapidly fermentable carbohydrate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A fall in rumen pH, often linked to excessive rapidly fermentable carbohydrate."
+        },
+        {
+          "text": "B. A type of hoof overgrowth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fall in rumen pH, often linked to excessive rapidly fermentable carbohydrate."
+        },
+        {
+          "text": "C. A normal result of drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fall in rumen pH, often linked to excessive rapidly fermentable carbohydrate."
+        },
+        {
+          "text": "D. A viral skin disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fall in rumen pH, often linked to excessive rapidly fermentable carbohydrate."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "Which feeding practice helps reduce acidosis risk?",
+      "options": [
+        {
+          "text": "A. Change ration several times daily without transition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce concentrates gradually and maintain adequate effective fibre."
+        },
+        {
+          "text": "B. Introduce concentrates gradually and maintain adequate effective fibre",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Introduce concentrates gradually and maintain adequate effective fibre."
+        },
+        {
+          "text": "C. Feed large grain meals after long fasting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce concentrates gradually and maintain adequate effective fibre."
+        },
+        {
+          "text": "D. Remove all roughage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce concentrates gradually and maintain adequate effective fibre."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "What is bloat in goats?",
+      "options": [
+        {
+          "text": "A. A contagious eye disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive gas accumulation in the rumen that cannot be expelled normally."
+        },
+        {
+          "text": "B. A shortage of horn material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive gas accumulation in the rumen that cannot be expelled normally."
+        },
+        {
+          "text": "C. Excessive gas accumulation in the rumen that cannot be expelled normally",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive gas accumulation in the rumen that cannot be expelled normally."
+        },
+        {
+          "text": "D. A normal stage of rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive gas accumulation in the rumen that cannot be expelled normally."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "Why can sudden access to lush legume pasture increase bloat risk?",
+      "options": [
+        {
+          "text": "A. Legumes remove all rumen microbes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some legumes can form stable foam that traps rumen gas."
+        },
+        {
+          "text": "B. It causes immediate dehydration only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some legumes can form stable foam that traps rumen gas."
+        },
+        {
+          "text": "C. Fresh leaves contain no fermentable material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some legumes can form stable foam that traps rumen gas."
+        },
+        {
+          "text": "D. Some legumes can form stable foam that traps rumen gas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some legumes can form stable foam that traps rumen gas."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "What is a sensible prevention approach for pasture-associated bloat?",
+      "options": [
+        {
+          "text": "A. Introduce animals gradually and manage access to high-risk forage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Introduce animals gradually and manage access to high-risk forage."
+        },
+        {
+          "text": "B. Feed only grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce animals gradually and manage access to high-risk forage."
+        },
+        {
+          "text": "C. Withhold water for a day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce animals gradually and manage access to high-risk forage."
+        },
+        {
+          "text": "D. Turn hungry goats onto lush clover all at once",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introduce animals gradually and manage access to high-risk forage."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "Why should goats have continuous access to clean water?",
+      "options": [
+        {
+          "text": "A. It prevents every infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports digestion, temperature regulation, milk production and general health."
+        },
+        {
+          "text": "B. Water supports digestion, temperature regulation, milk production and general health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water supports digestion, temperature regulation, milk production and general health."
+        },
+        {
+          "text": "C. Water is only needed during hot weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports digestion, temperature regulation, milk production and general health."
+        },
+        {
+          "text": "D. It replaces minerals and protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports digestion, temperature regulation, milk production and general health."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "How can water intake change in lactating does?",
+      "options": [
+        {
+          "text": "A. It generally rises because milk production increases water demand",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It generally rises because milk production increases water demand."
+        },
+        {
+          "text": "B. It is unrelated to milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It generally rises because milk production increases water demand."
+        },
+        {
+          "text": "C. It always falls to zero",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It generally rises because milk production increases water demand."
+        },
+        {
+          "text": "D. It depends only on coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It generally rises because milk production increases water demand."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "Why is forage quality important in goat diets?",
+      "options": [
+        {
+          "text": "A. It determines the goat's breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects nutrient intake, rumen function and production."
+        },
+        {
+          "text": "B. It replaces all mineral needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects nutrient intake, rumen function and production."
+        },
+        {
+          "text": "C. It prevents every parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It affects nutrient intake, rumen function and production."
+        },
+        {
+          "text": "D. It affects nutrient intake, rumen function and production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It affects nutrient intake, rumen function and production."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "Why should browse plants be identified before goats are allowed to graze them?",
+      "options": [
+        {
+          "text": "A. Some plants are poisonous or harmful to goats",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some plants are poisonous or harmful to goats."
+        },
+        {
+          "text": "B. Plant identity only affects meat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants are poisonous or harmful to goats."
+        },
+        {
+          "text": "C. All shrubs are safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants are poisonous or harmful to goats."
+        },
+        {
+          "text": "D. Goats instinctively avoid every toxic plant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some plants are poisonous or harmful to goats."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "What is the risk of feeding mouldy hay?",
+      "options": [
+        {
+          "text": "A. It increases digestibility in all cases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain mould toxins and can cause illness or reduced performance."
+        },
+        {
+          "text": "B. It may contain mould toxins and can cause illness or reduced performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may contain mould toxins and can cause illness or reduced performance."
+        },
+        {
+          "text": "C. It improves milk quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain mould toxins and can cause illness or reduced performance."
+        },
+        {
+          "text": "D. It removes the need for vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain mould toxins and can cause illness or reduced performance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "Why should hay be stored off damp floors and protected from rain?",
+      "options": [
+        {
+          "text": "A. Moisture encourages mould and nutrient deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture encourages mould and nutrient deterioration."
+        },
+        {
+          "text": "B. Rain sterilises hay",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture encourages mould and nutrient deterioration."
+        },
+        {
+          "text": "C. Damp storage improves leaf retention",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture encourages mould and nutrient deterioration."
+        },
+        {
+          "text": "D. It increases fibre digestibility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture encourages mould and nutrient deterioration."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "What is the purpose of a mineral supplement formulated for goats?",
+      "options": [
+        {
+          "text": "A. It replaces all forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps supply minerals that may be deficient in the basal diet."
+        },
+        {
+          "text": "B. It cures all diseases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps supply minerals that may be deficient in the basal diet."
+        },
+        {
+          "text": "C. It guarantees multiple births",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps supply minerals that may be deficient in the basal diet."
+        },
+        {
+          "text": "D. It helps supply minerals that may be deficient in the basal diet",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps supply minerals that may be deficient in the basal diet."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "Why should sheep mineral mixes not automatically be used for goats?",
+      "options": [
+        {
+          "text": "A. Goats cannot use copper",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some formulations may not meet goat needs and copper levels can differ in suitability."
+        },
+        {
+          "text": "B. Mineral mixes contain no copper",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some formulations may not meet goat needs and copper levels can differ in suitability."
+        },
+        {
+          "text": "C. Some formulations may not meet goat needs and copper levels can differ in suitability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some formulations may not meet goat needs and copper levels can differ in suitability."
+        },
+        {
+          "text": "D. Sheep and goats have identical mineral requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some formulations may not meet goat needs and copper levels can differ in suitability."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "Why is copper management important in goats?",
+      "options": [
+        {
+          "text": "A. Copper is never needed by goats",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Copper is essential but excessive intake can be toxic, so supplementation must be appropriate."
+        },
+        {
+          "text": "B. Copper is essential but excessive intake can be toxic, so supplementation must be appropriate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Copper is essential but excessive intake can be toxic, so supplementation must be appropriate."
+        },
+        {
+          "text": "C. It replaces dietary protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Copper is essential but excessive intake can be toxic, so supplementation must be appropriate."
+        },
+        {
+          "text": "D. Any amount is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Copper is essential but excessive intake can be toxic, so supplementation must be appropriate."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "What is the role of calcium in a goat's body?",
+      "options": [
+        {
+          "text": "A. It supports bones, muscle contraction and other physiological functions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports bones, muscle contraction and other physiological functions."
+        },
+        {
+          "text": "B. It prevents all worm infections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports bones, muscle contraction and other physiological functions."
+        },
+        {
+          "text": "C. It determines rumen temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports bones, muscle contraction and other physiological functions."
+        },
+        {
+          "text": "D. It replaces energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports bones, muscle contraction and other physiological functions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "Why is the calcium-to-phosphorus balance in a ration important?",
+      "options": [
+        {
+          "text": "A. It determines coat length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An unsuitable balance can contribute to mineral and urinary problems."
+        },
+        {
+          "text": "B. It replaces water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An unsuitable balance can contribute to mineral and urinary problems."
+        },
+        {
+          "text": "C. Only total feed weight matters",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An unsuitable balance can contribute to mineral and urinary problems."
+        },
+        {
+          "text": "D. An unsuitable balance can contribute to mineral and urinary problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An unsuitable balance can contribute to mineral and urinary problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 286,
+      "question": "Why are castrated male goats at risk of urinary calculi?",
+      "options": [
+        {
+          "text": "A. They do not need water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diet and mineral imbalances can contribute to urinary stone formation and blockage."
+        },
+        {
+          "text": "B. It is caused only by cold weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diet and mineral imbalances can contribute to urinary stone formation and blockage."
+        },
+        {
+          "text": "C. Diet and mineral imbalances can contribute to urinary stone formation and blockage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Diet and mineral imbalances can contribute to urinary stone formation and blockage."
+        },
+        {
+          "text": "D. Castration makes urine sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diet and mineral imbalances can contribute to urinary stone formation and blockage."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Which management practice can help reduce urinary calculi risk in wethers?",
+      "options": [
+        {
+          "text": "A. Feed only grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide adequate water and a properly balanced ration with suitable calcium and phosphorus."
+        },
+        {
+          "text": "B. Use any mineral supplement without checking its formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide adequate water and a properly balanced ration with suitable calcium and phosphorus."
+        },
+        {
+          "text": "C. Provide adequate water and a properly balanced ration with suitable calcium and phosphorus",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Provide adequate water and a properly balanced ration with suitable calcium and phosphorus."
+        },
+        {
+          "text": "D. Restrict water at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide adequate water and a properly balanced ration with suitable calcium and phosphorus."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "What is the purpose of providing long-stem forage to goats?",
+      "options": [
+        {
+          "text": "A. It supports rumination and healthy rumen function",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports rumination and healthy rumen function."
+        },
+        {
+          "text": "B. It eliminates all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports rumination and healthy rumen function."
+        },
+        {
+          "text": "C. It prevents the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports rumination and healthy rumen function."
+        },
+        {
+          "text": "D. It makes concentrate unnecessary in every production system",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports rumination and healthy rumen function."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "Why are goats often described as browsers?",
+      "options": [
+        {
+          "text": "A. They cannot digest grasses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They naturally select leaves, shrubs and other plant parts as well as grasses."
+        },
+        {
+          "text": "B. They feed only underwater",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They naturally select leaves, shrubs and other plant parts as well as grasses."
+        },
+        {
+          "text": "C. They eat only tree bark",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They naturally select leaves, shrubs and other plant parts as well as grasses."
+        },
+        {
+          "text": "D. They naturally select leaves, shrubs and other plant parts as well as grasses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They naturally select leaves, shrubs and other plant parts as well as grasses."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "What is selective browsing?",
+      "options": [
+        {
+          "text": "A. Choosing particular plant parts or species according to availability and preference",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Choosing particular plant parts or species according to availability and preference."
+        },
+        {
+          "text": "B. Feeding only at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Choosing particular plant parts or species according to availability and preference."
+        },
+        {
+          "text": "C. Avoiding all leaves",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Choosing particular plant parts or species according to availability and preference."
+        },
+        {
+          "text": "D. Eating every plant in equal amounts",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Choosing particular plant parts or species according to availability and preference."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 291,
+      "question": "Why can rotational browsing benefit pasture or browse resources?",
+      "options": [
+        {
+          "text": "A. It guarantees no parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows vegetation recovery and can help manage grazing pressure."
+        },
+        {
+          "text": "B. It eliminates fencing needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows vegetation recovery and can help manage grazing pressure."
+        },
+        {
+          "text": "C. It allows vegetation recovery and can help manage grazing pressure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows vegetation recovery and can help manage grazing pressure."
+        },
+        {
+          "text": "D. It makes forage grow without rain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows vegetation recovery and can help manage grazing pressure."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "Why should grazing pressure be adjusted to available forage?",
+      "options": [
+        {
+          "text": "A. Overstocking can reduce vegetation, increase erosion and lower animal performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Overstocking can reduce vegetation, increase erosion and lower animal performance."
+        },
+        {
+          "text": "B. More goats always improve pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overstocking can reduce vegetation, increase erosion and lower animal performance."
+        },
+        {
+          "text": "C. Forage supply does not affect stocking rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overstocking can reduce vegetation, increase erosion and lower animal performance."
+        },
+        {
+          "text": "D. It prevents all weeds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overstocking can reduce vegetation, increase erosion and lower animal performance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "What is carrying capacity?",
+      "options": [
+        {
+          "text": "A. The maximum weight a goat can carry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of animals an area can support over a defined period without unacceptable resource damage."
+        },
+        {
+          "text": "B. The amount of water in a trough",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of animals an area can support over a defined period without unacceptable resource damage."
+        },
+        {
+          "text": "C. The number of pens on a farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of animals an area can support over a defined period without unacceptable resource damage."
+        },
+        {
+          "text": "D. The number of animals an area can support over a defined period without unacceptable resource damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The number of animals an area can support over a defined period without unacceptable resource damage."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "Why should carrying capacity be reassessed during drought?",
+      "options": [
+        {
+          "text": "A. Available forage and water can decline, reducing the number of animals the land can support",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Available forage and water can decline, reducing the number of animals the land can support."
+        },
+        {
+          "text": "B. Animal demand becomes zero",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage and water can decline, reducing the number of animals the land can support."
+        },
+        {
+          "text": "C. It only affects poultry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage and water can decline, reducing the number of animals the land can support."
+        },
+        {
+          "text": "D. Drought increases forage in every pasture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Available forage and water can decline, reducing the number of animals the land can support."
+        }
+      ],
+      "part": 6
     }
   ]
 }
