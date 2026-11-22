@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 294,
+  "total": 343,
   "questions": [
     {
       "number": 1,
@@ -7940,6 +7940,1329 @@
         }
       ],
       "part": 6
+    },
+    {
+      "number": 295,
+      "question": "What is the main purpose of a goat vaccination programme?",
+      "options": [
+        {
+          "text": "A. To replace good nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk or severity of specific infectious diseases prevalent in the area."
+        },
+        {
+          "text": "B. To eliminate the need for quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk or severity of specific infectious diseases prevalent in the area."
+        },
+        {
+          "text": "C. To reduce the risk or severity of specific infectious diseases prevalent in the area",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce the risk or severity of specific infectious diseases prevalent in the area."
+        },
+        {
+          "text": "D. To treat every existing infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce the risk or severity of specific infectious diseases prevalent in the area."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 296,
+      "question": "Why should vaccination schedules be discussed with a veterinarian or local animal-health authority?",
+      "options": [
+        {
+          "text": "A. Vaccines never require correct timing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, vaccine availability and timing vary by location."
+        },
+        {
+          "text": "B. All regions have identical disease risks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, vaccine availability and timing vary by location."
+        },
+        {
+          "text": "C. Disease risks, vaccine availability and timing vary by location",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disease risks, vaccine availability and timing vary by location."
+        },
+        {
+          "text": "D. It determines goat breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, vaccine availability and timing vary by location."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 297,
+      "question": "Why is maintaining the vaccine cold chain important?",
+      "options": [
+        {
+          "text": "A. It increases vaccine dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper temperatures can reduce vaccine potency."
+        },
+        {
+          "text": "B. It prevents injection-site care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper temperatures can reduce vaccine potency."
+        },
+        {
+          "text": "C. It makes every vaccine shelf-stable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Improper temperatures can reduce vaccine potency."
+        },
+        {
+          "text": "D. Improper temperatures can reduce vaccine potency",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Improper temperatures can reduce vaccine potency."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 298,
+      "question": "Why should vaccine labels and expiry dates be checked before use?",
+      "options": [
+        {
+          "text": "A. They provide essential information about correct storage, use and product validity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They provide essential information about correct storage, use and product validity."
+        },
+        {
+          "text": "B. It replaces record keeping",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide essential information about correct storage, use and product validity."
+        },
+        {
+          "text": "C. Expired vaccines are always stronger",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide essential information about correct storage, use and product validity."
+        },
+        {
+          "text": "D. Labels only show brand colours",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide essential information about correct storage, use and product validity."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 299,
+      "question": "Why should vaccination records identify each treated group or animal?",
+      "options": [
+        {
+          "text": "A. They prevent every side effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track coverage, dates and any required booster doses."
+        },
+        {
+          "text": "B. They help track coverage, dates and any required booster doses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help track coverage, dates and any required booster doses."
+        },
+        {
+          "text": "C. They determine market weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track coverage, dates and any required booster doses."
+        },
+        {
+          "text": "D. They replace all health checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help track coverage, dates and any required booster doses."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 300,
+      "question": "What is quarantine for newly purchased goats intended to do?",
+      "options": [
+        {
+          "text": "A. Replace identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow observation and reduce the chance of introducing disease or parasites into the herd."
+        },
+        {
+          "text": "B. Increase body weight rapidly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow observation and reduce the chance of introducing disease or parasites into the herd."
+        },
+        {
+          "text": "C. Allow observation and reduce the chance of introducing disease or parasites into the herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Allow observation and reduce the chance of introducing disease or parasites into the herd."
+        },
+        {
+          "text": "D. Guarantee that animals are disease-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow observation and reduce the chance of introducing disease or parasites into the herd."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 301,
+      "question": "Why should new goats not immediately share feeders with the resident herd?",
+      "options": [
+        {
+          "text": "A. It changes their breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can facilitate disease and parasite transmission."
+        },
+        {
+          "text": "B. It prevents them from eating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can facilitate disease and parasite transmission."
+        },
+        {
+          "text": "C. It improves milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared equipment can facilitate disease and parasite transmission."
+        },
+        {
+          "text": "D. Shared equipment can facilitate disease and parasite transmission",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shared equipment can facilitate disease and parasite transmission."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 302,
+      "question": "What is an ectoparasite?",
+      "options": [
+        {
+          "text": "A. A parasite that lives on the animal's external body surface",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A parasite that lives on the animal's external body surface."
+        },
+        {
+          "text": "B. A mineral deficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives on the animal's external body surface."
+        },
+        {
+          "text": "C. A harmless feed microbe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives on the animal's external body surface."
+        },
+        {
+          "text": "D. A worm living in the intestine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives on the animal's external body surface."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 303,
+      "question": "Which are examples of common external parasites of goats?",
+      "options": [
+        {
+          "text": "A. Coccidia in the gut only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lice, ticks and mites."
+        },
+        {
+          "text": "B. Lice, ticks and mites",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lice, ticks and mites."
+        },
+        {
+          "text": "C. Tapeworms and liver flukes only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lice, ticks and mites."
+        },
+        {
+          "text": "D. Rumen bacteria",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lice, ticks and mites."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 304,
+      "question": "What may persistent rubbing, hair loss and skin irritation indicate?",
+      "options": [
+        {
+          "text": "A. Possible external parasite infestation or a skin disorder",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible external parasite infestation or a skin disorder."
+        },
+        {
+          "text": "B. Normal rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible external parasite infestation or a skin disorder."
+        },
+        {
+          "text": "C. Guaranteed pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible external parasite infestation or a skin disorder."
+        },
+        {
+          "text": "D. A healthy coat change in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible external parasite infestation or a skin disorder."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 305,
+      "question": "Why should external parasite treatments be selected carefully?",
+      "options": [
+        {
+          "text": "A. Any chemical works for every parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Products differ in target parasites, safety, dose and withdrawal requirements."
+        },
+        {
+          "text": "B. Higher doses are always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Products differ in target parasites, safety, dose and withdrawal requirements."
+        },
+        {
+          "text": "C. Withdrawal periods do not apply",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Products differ in target parasites, safety, dose and withdrawal requirements."
+        },
+        {
+          "text": "D. Products differ in target parasites, safety, dose and withdrawal requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Products differ in target parasites, safety, dose and withdrawal requirements."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 306,
+      "question": "What is an endoparasite?",
+      "options": [
+        {
+          "text": "A. A parasite that lives inside the host, such as in the digestive tract",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A parasite that lives inside the host, such as in the digestive tract."
+        },
+        {
+          "text": "B. A feed contaminant only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives inside the host, such as in the digestive tract."
+        },
+        {
+          "text": "C. A fly around the ears",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives inside the host, such as in the digestive tract."
+        },
+        {
+          "text": "D. A tick on the skin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A parasite that lives inside the host, such as in the digestive tract."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 307,
+      "question": "Why can gastrointestinal worms reduce goat productivity?",
+      "options": [
+        {
+          "text": "A. They improve feed digestion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can impair nutrient use, cause blood or protein loss and reduce growth."
+        },
+        {
+          "text": "B. They can impair nutrient use, cause blood or protein loss and reduce growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can impair nutrient use, cause blood or protein loss and reduce growth."
+        },
+        {
+          "text": "C. They have no effect on body condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can impair nutrient use, cause blood or protein loss and reduce growth."
+        },
+        {
+          "text": "D. They increase milk production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can impair nutrient use, cause blood or protein loss and reduce growth."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 308,
+      "question": "What is the purpose of faecal egg-count testing?",
+      "options": [
+        {
+          "text": "A. It estimates parasite egg shedding and can help guide targeted worm control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It estimates parasite egg shedding and can help guide targeted worm control."
+        },
+        {
+          "text": "B. It measures milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates parasite egg shedding and can help guide targeted worm control."
+        },
+        {
+          "text": "C. It identifies every parasite species with certainty",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates parasite egg shedding and can help guide targeted worm control."
+        },
+        {
+          "text": "D. It replaces clinical examination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates parasite egg shedding and can help guide targeted worm control."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 309,
+      "question": "Why should faecal egg-count results be interpreted with other information?",
+      "options": [
+        {
+          "text": "A. They are unaffected by sampling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg counts can vary and do not alone show the full clinical impact or all parasite stages."
+        },
+        {
+          "text": "B. They determine breed purity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg counts can vary and do not alone show the full clinical impact or all parasite stages."
+        },
+        {
+          "text": "C. They always reveal exact worm burden",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg counts can vary and do not alone show the full clinical impact or all parasite stages."
+        },
+        {
+          "text": "D. Egg counts can vary and do not alone show the full clinical impact or all parasite stages",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Egg counts can vary and do not alone show the full clinical impact or all parasite stages."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 310,
+      "question": "What is an anthelmintic?",
+      "options": [
+        {
+          "text": "A. A hoof disinfectant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A medicine used to treat certain internal parasitic worms."
+        },
+        {
+          "text": "B. A mineral lick",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A medicine used to treat certain internal parasitic worms."
+        },
+        {
+          "text": "C. A medicine used to treat certain internal parasitic worms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A medicine used to treat certain internal parasitic worms."
+        },
+        {
+          "text": "D. A vaccine for every virus",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A medicine used to treat certain internal parasitic worms."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 311,
+      "question": "What is an important risk of repeatedly using the same wormer class without checking effectiveness?",
+      "options": [
+        {
+          "text": "A. Goats become immune to all worms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Worm populations may develop resistance, making treatment less effective."
+        },
+        {
+          "text": "B. Worm populations may develop resistance, making treatment less effective",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Worm populations may develop resistance, making treatment less effective."
+        },
+        {
+          "text": "C. It improves drug potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Worm populations may develop resistance, making treatment less effective."
+        },
+        {
+          "text": "D. It eliminates parasite eggs permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Worm populations may develop resistance, making treatment less effective."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 312,
+      "question": "What is targeted selective treatment in parasite control?",
+      "options": [
+        {
+          "text": "A. Treating animals that need it based on indicators rather than automatically dosing the entire herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Treating animals that need it based on indicators rather than automatically dosing the entire herd."
+        },
+        {
+          "text": "B. Treating every goat daily",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treating animals that need it based on indicators rather than automatically dosing the entire herd."
+        },
+        {
+          "text": "C. Using the largest possible dose",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treating animals that need it based on indicators rather than automatically dosing the entire herd."
+        },
+        {
+          "text": "D. Avoiding all monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Treating animals that need it based on indicators rather than automatically dosing the entire herd."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 313,
+      "question": "Why can leaving some healthy animals untreated be part of a veterinarian-guided refugia strategy?",
+      "options": [
+        {
+          "text": "A. It increases drug resistance in every worm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can preserve susceptible parasites and slow selection for drug resistance."
+        },
+        {
+          "text": "B. It replaces pasture management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can preserve susceptible parasites and slow selection for drug resistance."
+        },
+        {
+          "text": "C. It guarantees no parasites remain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can preserve susceptible parasites and slow selection for drug resistance."
+        },
+        {
+          "text": "D. It can preserve susceptible parasites and slow selection for drug resistance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can preserve susceptible parasites and slow selection for drug resistance."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 314,
+      "question": "Why should a goat's weight be estimated or measured before dosing medicine?",
+      "options": [
+        {
+          "text": "A. All goats need the same amount",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct dosing depends on body weight and underdosing can contribute to treatment failure."
+        },
+        {
+          "text": "B. It makes product labels unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct dosing depends on body weight and underdosing can contribute to treatment failure."
+        },
+        {
+          "text": "C. Correct dosing depends on body weight and underdosing can contribute to treatment failure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct dosing depends on body weight and underdosing can contribute to treatment failure."
+        },
+        {
+          "text": "D. Dose depends only on coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct dosing depends on body weight and underdosing can contribute to treatment failure."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 315,
+      "question": "Why is a calibrated dosing gun important?",
+      "options": [
+        {
+          "text": "A. It increases drug concentration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps deliver a more accurate and consistent medicine volume."
+        },
+        {
+          "text": "B. It replaces correct medicine selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps deliver a more accurate and consistent medicine volume."
+        },
+        {
+          "text": "C. It helps deliver a more accurate and consistent medicine volume",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps deliver a more accurate and consistent medicine volume."
+        },
+        {
+          "text": "D. It determines the parasite species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps deliver a more accurate and consistent medicine volume."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 316,
+      "question": "What is coccidiosis in young goats?",
+      "options": [
+        {
+          "text": "A. A disease caused by protozoan parasites that damage the intestinal lining",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A disease caused by protozoan parasites that damage the intestinal lining."
+        },
+        {
+          "text": "B. A bacterial hoof infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease caused by protozoan parasites that damage the intestinal lining."
+        },
+        {
+          "text": "C. A mineral excess in adult bucks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease caused by protozoan parasites that damage the intestinal lining."
+        },
+        {
+          "text": "D. A viral horn disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease caused by protozoan parasites that damage the intestinal lining."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 317,
+      "question": "What signs may be associated with clinical coccidiosis in kids?",
+      "options": [
+        {
+          "text": "A. Normal appetite and rapid growth only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diarrhoea, poor growth, straining or dehydration."
+        },
+        {
+          "text": "B. A change in coat pattern",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diarrhoea, poor growth, straining or dehydration."
+        },
+        {
+          "text": "C. Increased horn length only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Diarrhoea, poor growth, straining or dehydration."
+        },
+        {
+          "text": "D. Diarrhoea, poor growth, straining or dehydration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Diarrhoea, poor growth, straining or dehydration."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 318,
+      "question": "Why is hygiene important in kidding pens for coccidiosis control?",
+      "options": [
+        {
+          "text": "A. It reduces exposure to infective parasite stages in contaminated faeces",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces exposure to infective parasite stages in contaminated faeces."
+        },
+        {
+          "text": "B. It replaces all veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to infective parasite stages in contaminated faeces."
+        },
+        {
+          "text": "C. It makes bedding unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to infective parasite stages in contaminated faeces."
+        },
+        {
+          "text": "D. It eliminates all protozoa from the environment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to infective parasite stages in contaminated faeces."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 319,
+      "question": "What is foot rot in goats?",
+      "options": [
+        {
+          "text": "A. A normal stage of hoof growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious hoof infection that can cause lameness and tissue damage."
+        },
+        {
+          "text": "B. A nutritional benefit of wet ground",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious hoof infection that can cause lameness and tissue damage."
+        },
+        {
+          "text": "C. A contagious hoof infection that can cause lameness and tissue damage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A contagious hoof infection that can cause lameness and tissue damage."
+        },
+        {
+          "text": "D. A respiratory virus",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious hoof infection that can cause lameness and tissue damage."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 320,
+      "question": "What conditions can increase the risk of foot problems in goats?",
+      "options": [
+        {
+          "text": "A. Adequate hoof care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet, muddy or dirty environments and poor hoof management."
+        },
+        {
+          "text": "B. Dry clean flooring only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet, muddy or dirty environments and poor hoof management."
+        },
+        {
+          "text": "C. Persistently wet, muddy or dirty environments and poor hoof management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Persistently wet, muddy or dirty environments and poor hoof management."
+        },
+        {
+          "text": "D. Clean bedding and drainage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet, muddy or dirty environments and poor hoof management."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 321,
+      "question": "Why should lame goats be examined promptly?",
+      "options": [
+        {
+          "text": "A. Lameness always resolves without care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness causes pain and may indicate infection, injury or hoof disease."
+        },
+        {
+          "text": "B. It determines pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness causes pain and may indicate infection, injury or hoof disease."
+        },
+        {
+          "text": "C. It improves grazing efficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Lameness causes pain and may indicate infection, injury or hoof disease."
+        },
+        {
+          "text": "D. Lameness causes pain and may indicate infection, injury or hoof disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Lameness causes pain and may indicate infection, injury or hoof disease."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 322,
+      "question": "Why isolate a goat with suspected contagious hoof disease?",
+      "options": [
+        {
+          "text": "A. It can reduce spread through shared ground and equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce spread through shared ground and equipment."
+        },
+        {
+          "text": "B. It guarantees cure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce spread through shared ground and equipment."
+        },
+        {
+          "text": "C. It replaces treatment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce spread through shared ground and equipment."
+        },
+        {
+          "text": "D. It improves horn growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce spread through shared ground and equipment."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 323,
+      "question": "What is caseous lymphadenitis (CLA)?",
+      "options": [
+        {
+          "text": "A. A type of hoof trimming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious bacterial disease that can cause abscesses in lymph nodes."
+        },
+        {
+          "text": "B. A contagious bacterial disease that can cause abscesses in lymph nodes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A contagious bacterial disease that can cause abscesses in lymph nodes."
+        },
+        {
+          "text": "C. A normal milk let-down response",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious bacterial disease that can cause abscesses in lymph nodes."
+        },
+        {
+          "text": "D. A form of copper deficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A contagious bacterial disease that can cause abscesses in lymph nodes."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 324,
+      "question": "Why should abscesses in goats not be opened casually in the herd area?",
+      "options": [
+        {
+          "text": "A. Abscess contents are harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pus can contaminate the environment and spread the infection."
+        },
+        {
+          "text": "B. Opening every abscess cures the whole herd",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pus can contaminate the environment and spread the infection."
+        },
+        {
+          "text": "C. Pus can contaminate the environment and spread the infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Pus can contaminate the environment and spread the infection."
+        },
+        {
+          "text": "D. It improves milk quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Pus can contaminate the environment and spread the infection."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 325,
+      "question": "What is mastitis in a doe?",
+      "options": [
+        {
+          "text": "A. A normal stage of pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inflammation of the mammary gland, often associated with infection."
+        },
+        {
+          "text": "B. A type of rumen fermentation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inflammation of the mammary gland, often associated with infection."
+        },
+        {
+          "text": "C. A parasite of the hoof",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inflammation of the mammary gland, often associated with infection."
+        },
+        {
+          "text": "D. Inflammation of the mammary gland, often associated with infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Inflammation of the mammary gland, often associated with infection."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 326,
+      "question": "What changes may suggest mastitis?",
+      "options": [
+        {
+          "text": "A. A hot, swollen or painful udder, abnormal milk or reduced milk yield",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A hot, swollen or painful udder, abnormal milk or reduced milk yield."
+        },
+        {
+          "text": "B. A change in tail length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A hot, swollen or painful udder, abnormal milk or reduced milk yield."
+        },
+        {
+          "text": "C. Increased horn growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A hot, swollen or painful udder, abnormal milk or reduced milk yield."
+        },
+        {
+          "text": "D. A clean udder and normal milk only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A hot, swollen or painful udder, abnormal milk or reduced milk yield."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 327,
+      "question": "Why should milk from a doe with suspected mastitis be assessed before use?",
+      "options": [
+        {
+          "text": "A. It requires no hygiene checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may be abnormal or unsafe, and treatment may impose a withdrawal period."
+        },
+        {
+          "text": "B. It may be abnormal or unsafe, and treatment may impose a withdrawal period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may be abnormal or unsafe, and treatment may impose a withdrawal period."
+        },
+        {
+          "text": "C. It always has higher nutritional value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may be abnormal or unsafe, and treatment may impose a withdrawal period."
+        },
+        {
+          "text": "D. It sterilises containers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may be abnormal or unsafe, and treatment may impose a withdrawal period."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 328,
+      "question": "What is contagious agalactia in small ruminants?",
+      "options": [
+        {
+          "text": "A. A type of mineral lick",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease syndrome that can involve mastitis, eye inflammation and arthritis."
+        },
+        {
+          "text": "B. A normal increase in milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease syndrome that can involve mastitis, eye inflammation and arthritis."
+        },
+        {
+          "text": "C. A disease syndrome that can involve mastitis, eye inflammation and arthritis",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A disease syndrome that can involve mastitis, eye inflammation and arthritis."
+        },
+        {
+          "text": "D. A parasite that lives in hay",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease syndrome that can involve mastitis, eye inflammation and arthritis."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 329,
+      "question": "Why is respiratory disease a concern in crowded goat housing?",
+      "options": [
+        {
+          "text": "A. Crowding improves lung function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and poor ventilation can facilitate spread and worsen air quality."
+        },
+        {
+          "text": "B. Ventilation has no effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and poor ventilation can facilitate spread and worsen air quality."
+        },
+        {
+          "text": "C. It affects only adult bucks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and poor ventilation can facilitate spread and worsen air quality."
+        },
+        {
+          "text": "D. Close contact and poor ventilation can facilitate spread and worsen air quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Close contact and poor ventilation can facilitate spread and worsen air quality."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 330,
+      "question": "What housing condition helps reduce respiratory problems?",
+      "options": [
+        {
+          "text": "A. Good ventilation without harmful drafts, dry bedding and suitable stocking density",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Good ventilation without harmful drafts, dry bedding and suitable stocking density."
+        },
+        {
+          "text": "B. Overcrowding during hot weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good ventilation without harmful drafts, dry bedding and suitable stocking density."
+        },
+        {
+          "text": "C. High ammonia concentration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good ventilation without harmful drafts, dry bedding and suitable stocking density."
+        },
+        {
+          "text": "D. Sealed damp housing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good ventilation without harmful drafts, dry bedding and suitable stocking density."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 331,
+      "question": "What may coughing and nasal discharge in a goat indicate?",
+      "options": [
+        {
+          "text": "A. Guaranteed heat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A respiratory condition requiring assessment, especially if persistent or accompanied by fever."
+        },
+        {
+          "text": "B. A respiratory condition requiring assessment, especially if persistent or accompanied by fever",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A respiratory condition requiring assessment, especially if persistent or accompanied by fever."
+        },
+        {
+          "text": "C. A need to increase grain immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A respiratory condition requiring assessment, especially if persistent or accompanied by fever."
+        },
+        {
+          "text": "D. Normal rumination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A respiratory condition requiring assessment, especially if persistent or accompanied by fever."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 332,
+      "question": "Why should a goat with severe breathing difficulty receive urgent veterinary attention?",
+      "options": [
+        {
+          "text": "A. Respiratory distress can become life-threatening",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Respiratory distress can become life-threatening."
+        },
+        {
+          "text": "B. It is a normal sign of pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiratory distress can become life-threatening."
+        },
+        {
+          "text": "C. It always resolves after exercise",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiratory distress can become life-threatening."
+        },
+        {
+          "text": "D. It can be treated by withholding water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiratory distress can become life-threatening."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 333,
+      "question": "What is contagious caprine pleuropneumonia (CCPP)?",
+      "options": [
+        {
+          "text": "A. A nutritional bone disorder",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A serious contagious respiratory disease of goats caused by Mycoplasma capricolum subsp. capripneumoniae."
+        },
+        {
+          "text": "B. A tick infestation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A serious contagious respiratory disease of goats caused by Mycoplasma capricolum subsp. capripneumoniae."
+        },
+        {
+          "text": "C. A normal reaction to weaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A serious contagious respiratory disease of goats caused by Mycoplasma capricolum subsp. capripneumoniae."
+        },
+        {
+          "text": "D. A serious contagious respiratory disease of goats caused by Mycoplasma capricolum subsp. capripneumoniae",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A serious contagious respiratory disease of goats caused by Mycoplasma capricolum subsp. capripneumoniae."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 334,
+      "question": "Why is movement control important during a suspected CCPP outbreak?",
+      "options": [
+        {
+          "text": "A. The disease is not contagious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Infected animals can spread the disease to other herds."
+        },
+        {
+          "text": "B. It improves vaccination response",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Infected animals can spread the disease to other herds."
+        },
+        {
+          "text": "C. Infected animals can spread the disease to other herds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Infected animals can spread the disease to other herds."
+        },
+        {
+          "text": "D. Movement cures infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Infected animals can spread the disease to other herds."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 335,
+      "question": "What is peste des petits ruminants (PPR)?",
+      "options": [
+        {
+          "text": "A. A common mineral deficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A highly contagious viral disease affecting goats and sheep."
+        },
+        {
+          "text": "B. A highly contagious viral disease affecting goats and sheep",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A highly contagious viral disease affecting goats and sheep."
+        },
+        {
+          "text": "C. A hoof parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A highly contagious viral disease affecting goats and sheep."
+        },
+        {
+          "text": "D. A harmless skin colour variation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A highly contagious viral disease affecting goats and sheep."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 336,
+      "question": "Which signs can occur with PPR?",
+      "options": [
+        {
+          "text": "A. Fever, mouth lesions, nasal or eye discharge, diarrhoea and respiratory signs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fever, mouth lesions, nasal or eye discharge, diarrhoea and respiratory signs."
+        },
+        {
+          "text": "B. Only horn shedding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fever, mouth lesions, nasal or eye discharge, diarrhoea and respiratory signs."
+        },
+        {
+          "text": "C. Only increased appetite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fever, mouth lesions, nasal or eye discharge, diarrhoea and respiratory signs."
+        },
+        {
+          "text": "D. A painless change in hoof colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fever, mouth lesions, nasal or eye discharge, diarrhoea and respiratory signs."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 337,
+      "question": "Why should suspected PPR be reported promptly to animal-health authorities?",
+      "options": [
+        {
+          "text": "A. Reporting replaces isolation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is a serious transboundary disease requiring coordinated control."
+        },
+        {
+          "text": "B. It only affects milk quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is a serious transboundary disease requiring coordinated control."
+        },
+        {
+          "text": "C. It is not contagious",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is a serious transboundary disease requiring coordinated control."
+        },
+        {
+          "text": "D. It is a serious transboundary disease requiring coordinated control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It is a serious transboundary disease requiring coordinated control."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 338,
+      "question": "Why should sick goats have access to clean water and suitable shelter while being assessed?",
+      "options": [
+        {
+          "text": "A. It replaces veterinary diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supportive care helps welfare while the cause is investigated and treatment is arranged."
+        },
+        {
+          "text": "B. It prevents every outbreak",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supportive care helps welfare while the cause is investigated and treatment is arranged."
+        },
+        {
+          "text": "C. Supportive care helps welfare while the cause is investigated and treatment is arranged",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Supportive care helps welfare while the cause is investigated and treatment is arranged."
+        },
+        {
+          "text": "D. It cures all infectious diseases",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supportive care helps welfare while the cause is investigated and treatment is arranged."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 339,
+      "question": "What is the purpose of a herd health calendar?",
+      "options": [
+        {
+          "text": "A. It predicts exact market prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It schedules preventive tasks such as vaccination, parasite monitoring and breeding checks."
+        },
+        {
+          "text": "B. It schedules preventive tasks such as vaccination, parasite monitoring and breeding checks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It schedules preventive tasks such as vaccination, parasite monitoring and breeding checks."
+        },
+        {
+          "text": "C. It determines breed standards",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It schedules preventive tasks such as vaccination, parasite monitoring and breeding checks."
+        },
+        {
+          "text": "D. It replaces daily observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It schedules preventive tasks such as vaccination, parasite monitoring and breeding checks."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 340,
+      "question": "Why should dead goats be handled with gloves and disposed of safely?",
+      "options": [
+        {
+          "text": "A. Carcasses may carry infectious agents and can contaminate people, animals or water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Carcasses may carry infectious agents and can contaminate people, animals or water."
+        },
+        {
+          "text": "B. Carcasses are always harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcasses may carry infectious agents and can contaminate people, animals or water."
+        },
+        {
+          "text": "C. It improves soil without risk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcasses may carry infectious agents and can contaminate people, animals or water."
+        },
+        {
+          "text": "D. It replaces reporting requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcasses may carry infectious agents and can contaminate people, animals or water."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 341,
+      "question": "What is zoonosis?",
+      "options": [
+        {
+          "text": "A. A mineral disorder in goats",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An infection that can be transmitted between animals and people."
+        },
+        {
+          "text": "B. A type of animal identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An infection that can be transmitted between animals and people."
+        },
+        {
+          "text": "C. A disease affecting only plants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An infection that can be transmitted between animals and people."
+        },
+        {
+          "text": "D. An infection that can be transmitted between animals and people",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An infection that can be transmitted between animals and people."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 342,
+      "question": "Why should people wash hands after handling goats or their manure?",
+      "options": [
+        {
+          "text": "A. It reduces transfer of germs from animals and contaminated material",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces transfer of germs from animals and contaminated material."
+        },
+        {
+          "text": "B. It replaces clean water for animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of germs from animals and contaminated material."
+        },
+        {
+          "text": "C. It prevents every allergy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of germs from animals and contaminated material."
+        },
+        {
+          "text": "D. It increases goat immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of germs from animals and contaminated material."
+        }
+      ],
+      "part": 7
+    },
+    {
+      "number": 343,
+      "question": "Why should pregnant people take extra care around goat kidding materials?",
+      "options": [
+        {
+          "text": "A. All goat births are sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some birth fluids and tissues can carry organisms that pose particular risks during pregnancy."
+        },
+        {
+          "text": "B. It improves maternal immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some birth fluids and tissues can carry organisms that pose particular risks during pregnancy."
+        },
+        {
+          "text": "C. Some birth fluids and tissues can carry organisms that pose particular risks during pregnancy",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some birth fluids and tissues can carry organisms that pose particular risks during pregnancy."
+        },
+        {
+          "text": "D. Only feed dust is hazardous",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some birth fluids and tissues can carry organisms that pose particular risks during pregnancy."
+        }
+      ],
+      "part": 7
     }
   ]
 }
