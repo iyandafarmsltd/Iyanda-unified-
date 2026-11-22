@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 499,
+  "total": 500,
   "questions": [
     {
       "number": 1,
@@ -13472,6 +13472,33 @@
           "text": "D. Replace daily records with memory",
           "correct": false,
           "feedback": "Not quite. The correct answer is Assess production, survival, health, costs and markets to plan improvements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 500,
+      "question": "Why should a fish farm keep a written map of water lines, drains and production units?",
+      "options": [
+        {
+          "text": "A. It determines fish genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff trace water movement, isolate units and respond efficiently to leaks or contamination."
+        },
+        {
+          "text": "B. It guarantees a constant harvest price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff trace water movement, isolate units and respond efficiently to leaks or contamination."
+        },
+        {
+          "text": "C. It helps staff trace water movement, isolate units and respond efficiently to leaks or contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff trace water movement, isolate units and respond efficiently to leaks or contamination."
+        },
+        {
+          "text": "D. It replaces water-quality measurements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff trace water movement, isolate units and respond efficiently to leaks or contamination."
         }
       ],
       "part": 10
