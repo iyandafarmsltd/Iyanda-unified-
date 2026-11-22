@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 393,
+  "total": 443,
   "questions": [
     {
       "number": 1,
@@ -10613,6 +10613,1356 @@
         }
       ],
       "part": 8
+    },
+    {
+      "number": 394,
+      "question": "What is a common sign of heat stress in goats?",
+      "options": [
+        {
+          "text": "A. Permanent loss of horn colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Panting, seeking shade, increased respiration or reduced feed intake."
+        },
+        {
+          "text": "B. A guaranteed rise in milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Panting, seeking shade, increased respiration or reduced feed intake."
+        },
+        {
+          "text": "C. Panting, seeking shade, increased respiration or reduced feed intake",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Panting, seeking shade, increased respiration or reduced feed intake."
+        },
+        {
+          "text": "D. A sudden increase in wool growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Panting, seeking shade, increased respiration or reduced feed intake."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 395,
+      "question": "Why is shade important for goats during hot weather?",
+      "options": [
+        {
+          "text": "A. It replaces drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals regulate body temperature."
+        },
+        {
+          "text": "B. It makes ventilation unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals regulate body temperature."
+        },
+        {
+          "text": "C. It reduces direct solar heat load and helps animals regulate body temperature",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces direct solar heat load and helps animals regulate body temperature."
+        },
+        {
+          "text": "D. It increases parasite resistance automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces direct solar heat load and helps animals regulate body temperature."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 396,
+      "question": "Why should goat housing be ventilated in hot and humid weather?",
+      "options": [
+        {
+          "text": "A. Air movement helps remove heat and moisture and reduces harmful gas accumulation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Air movement helps remove heat and moisture and reduces harmful gas accumulation."
+        },
+        {
+          "text": "B. Sealed housing is always cooler",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Air movement helps remove heat and moisture and reduces harmful gas accumulation."
+        },
+        {
+          "text": "C. Ventilation increases humidity in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Air movement helps remove heat and moisture and reduces harmful gas accumulation."
+        },
+        {
+          "text": "D. It prevents the need for shade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Air movement helps remove heat and moisture and reduces harmful gas accumulation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 397,
+      "question": "What should be done if a goat shows severe heat stress?",
+      "options": [
+        {
+          "text": "A. Force it to exercise",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move it to a cooler shaded area, provide water and seek veterinary help if severe."
+        },
+        {
+          "text": "B. Place it in direct sunlight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move it to a cooler shaded area, provide water and seek veterinary help if severe."
+        },
+        {
+          "text": "C. Withhold water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Move it to a cooler shaded area, provide water and seek veterinary help if severe."
+        },
+        {
+          "text": "D. Move it to a cooler shaded area, provide water and seek veterinary help if severe",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Move it to a cooler shaded area, provide water and seek veterinary help if severe."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 398,
+      "question": "Why can prolonged wet weather increase hoof problems?",
+      "options": [
+        {
+          "text": "A. Persistently wet ground softens hooves and favours some infectious causes of lameness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Persistently wet ground softens hooves and favours some infectious causes of lameness."
+        },
+        {
+          "text": "B. Wet conditions sterilise pens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet ground softens hooves and favours some infectious causes of lameness."
+        },
+        {
+          "text": "C. It prevents bacterial growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet ground softens hooves and favours some infectious causes of lameness."
+        },
+        {
+          "text": "D. Rain hardens every hoof",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Persistently wet ground softens hooves and favours some infectious causes of lameness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 399,
+      "question": "What is the purpose of regular hoof inspection?",
+      "options": [
+        {
+          "text": "A. To determine pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect overgrowth, injury, infection and lameness early."
+        },
+        {
+          "text": "B. To replace parasite monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect overgrowth, injury, infection and lameness early."
+        },
+        {
+          "text": "C. To detect overgrowth, injury, infection and lameness early",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To detect overgrowth, injury, infection and lameness early."
+        },
+        {
+          "text": "D. To estimate milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To detect overgrowth, injury, infection and lameness early."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 400,
+      "question": "Why should hoof trimming tools be cleaned between affected animals?",
+      "options": [
+        {
+          "text": "A. Hoof infections cannot spread on tools",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can transfer infectious material from one hoof to another."
+        },
+        {
+          "text": "B. Cleaning makes blades blunt",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can transfer infectious material from one hoof to another."
+        },
+        {
+          "text": "C. They can transfer infectious material from one hoof to another",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can transfer infectious material from one hoof to another."
+        },
+        {
+          "text": "D. It replaces isolation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can transfer infectious material from one hoof to another."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 401,
+      "question": "Why should hoof trimming avoid cutting into living tissue?",
+      "options": [
+        {
+          "text": "A. It improves hoof strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It causes pain, bleeding and can create an entry route for infection."
+        },
+        {
+          "text": "B. It makes hooves grow faster",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It causes pain, bleeding and can create an entry route for infection."
+        },
+        {
+          "text": "C. It prevents all lameness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It causes pain, bleeding and can create an entry route for infection."
+        },
+        {
+          "text": "D. It causes pain, bleeding and can create an entry route for infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It causes pain, bleeding and can create an entry route for infection."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 402,
+      "question": "What is the purpose of a footbath in a goat herd?",
+      "options": [
+        {
+          "text": "A. When correctly selected and managed, it can help control certain infectious hoof conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: When correctly selected and managed, it can help control certain infectious hoof conditions."
+        },
+        {
+          "text": "B. It treats all internal parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is When correctly selected and managed, it can help control certain infectious hoof conditions."
+        },
+        {
+          "text": "C. It increases milk production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is When correctly selected and managed, it can help control certain infectious hoof conditions."
+        },
+        {
+          "text": "D. It replaces diagnosis and trimming",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is When correctly selected and managed, it can help control certain infectious hoof conditions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 403,
+      "question": "Why should a footbath solution be maintained according to product instructions?",
+      "options": [
+        {
+          "text": "A. It determines goat breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect concentration or dirty solution may be ineffective or harmful."
+        },
+        {
+          "text": "B. Incorrect concentration or dirty solution may be ineffective or harmful",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect concentration or dirty solution may be ineffective or harmful."
+        },
+        {
+          "text": "C. Stronger solution is always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect concentration or dirty solution may be ineffective or harmful."
+        },
+        {
+          "text": "D. Footbath chemicals never require replacement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect concentration or dirty solution may be ineffective or harmful."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 404,
+      "question": "Why should goats have a dry resting area?",
+      "options": [
+        {
+          "text": "A. It prevents all respiratory disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry bedding supports comfort and helps reduce skin and hoof problems."
+        },
+        {
+          "text": "B. It removes the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry bedding supports comfort and helps reduce skin and hoof problems."
+        },
+        {
+          "text": "C. Dry bedding supports comfort and helps reduce skin and hoof problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dry bedding supports comfort and helps reduce skin and hoof problems."
+        },
+        {
+          "text": "D. It replaces clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dry bedding supports comfort and helps reduce skin and hoof problems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 405,
+      "question": "Why should bedding be replaced or managed regularly?",
+      "options": [
+        {
+          "text": "A. Old bedding always improves hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet and soiled bedding can harbour pathogens and produce ammonia."
+        },
+        {
+          "text": "B. It makes manure management unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet and soiled bedding can harbour pathogens and produce ammonia."
+        },
+        {
+          "text": "C. It increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wet and soiled bedding can harbour pathogens and produce ammonia."
+        },
+        {
+          "text": "D. Wet and soiled bedding can harbour pathogens and produce ammonia",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wet and soiled bedding can harbour pathogens and produce ammonia."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 406,
+      "question": "What is ammonia in poorly managed goat housing commonly produced from?",
+      "options": [
+        {
+          "text": "A. Microbial breakdown of nitrogen-containing waste in urine and manure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Microbial breakdown of nitrogen-containing waste in urine and manure."
+        },
+        {
+          "text": "B. Dry hay stored outside",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Microbial breakdown of nitrogen-containing waste in urine and manure."
+        },
+        {
+          "text": "C. Mineral blocks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Microbial breakdown of nitrogen-containing waste in urine and manure."
+        },
+        {
+          "text": "D. Fresh clean drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Microbial breakdown of nitrogen-containing waste in urine and manure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 407,
+      "question": "Why is high ammonia concentration harmful in goat housing?",
+      "options": [
+        {
+          "text": "A. It increases appetite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It irritates the respiratory tract and eyes."
+        },
+        {
+          "text": "B. It irritates the respiratory tract and eyes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It irritates the respiratory tract and eyes."
+        },
+        {
+          "text": "C. It improves lung function",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It irritates the respiratory tract and eyes."
+        },
+        {
+          "text": "D. It sterilises the air safely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It irritates the respiratory tract and eyes."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 408,
+      "question": "Why should stocking density be appropriate in goat pens?",
+      "options": [
+        {
+          "text": "A. Overcrowding increases competition, stress, contamination and disease transmission",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Overcrowding increases competition, stress, contamination and disease transmission."
+        },
+        {
+          "text": "B. Pen space does not affect behaviour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases competition, stress, contamination and disease transmission."
+        },
+        {
+          "text": "C. More animals always mean better welfare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases competition, stress, contamination and disease transmission."
+        },
+        {
+          "text": "D. It replaces cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases competition, stress, contamination and disease transmission."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 409,
+      "question": "What is a sign that goats may be competing excessively at feeders?",
+      "options": [
+        {
+          "text": "A. All goats eat calmly at once",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some animals are repeatedly displaced and fail to access enough feed."
+        },
+        {
+          "text": "B. Water remains clean",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some animals are repeatedly displaced and fail to access enough feed."
+        },
+        {
+          "text": "C. Kids gain weight evenly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some animals are repeatedly displaced and fail to access enough feed."
+        },
+        {
+          "text": "D. Some animals are repeatedly displaced and fail to access enough feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some animals are repeatedly displaced and fail to access enough feed."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 410,
+      "question": "Why provide enough feeder space for the herd?",
+      "options": [
+        {
+          "text": "A. It reduces competition and helps ensure subordinate animals can eat",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces competition and helps ensure subordinate animals can eat."
+        },
+        {
+          "text": "B. It determines kidding dates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces competition and helps ensure subordinate animals can eat."
+        },
+        {
+          "text": "C. It prevents all feed spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces competition and helps ensure subordinate animals can eat."
+        },
+        {
+          "text": "D. It increases parasite egg counts",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces competition and helps ensure subordinate animals can eat."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "Why should bucks sometimes be housed separately from does?",
+      "options": [
+        {
+          "text": "A. Bucks cannot live near other goats",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows controlled breeding, reduces unwanted mating and can simplify management."
+        },
+        {
+          "text": "B. It allows controlled breeding, reduces unwanted mating and can simplify management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It allows controlled breeding, reduces unwanted mating and can simplify management."
+        },
+        {
+          "text": "C. It prevents every infectious disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows controlled breeding, reduces unwanted mating and can simplify management."
+        },
+        {
+          "text": "D. It improves milk quality directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It allows controlled breeding, reduces unwanted mating and can simplify management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "Why should young kids be protected from larger aggressive animals?",
+      "options": [
+        {
+          "text": "A. They are vulnerable to trampling, competition and injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They are vulnerable to trampling, competition and injury."
+        },
+        {
+          "text": "B. It makes colostrum unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are vulnerable to trampling, competition and injury."
+        },
+        {
+          "text": "C. It increases horn growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are vulnerable to trampling, competition and injury."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are vulnerable to trampling, competition and injury."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "What is a quarantine pen ideally like?",
+      "options": [
+        {
+          "text": "A. A shared pen beside the kidding area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A separate, manageable area with dedicated equipment and limited contact with the main herd."
+        },
+        {
+          "text": "B. A place with common water troughs for all groups",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A separate, manageable area with dedicated equipment and limited contact with the main herd."
+        },
+        {
+          "text": "C. An unclean space used for feed storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A separate, manageable area with dedicated equipment and limited contact with the main herd."
+        },
+        {
+          "text": "D. A separate, manageable area with dedicated equipment and limited contact with the main herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A separate, manageable area with dedicated equipment and limited contact with the main herd."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "Why should goat transport be planned to avoid overcrowding?",
+      "options": [
+        {
+          "text": "A. It reduces the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and breathing difficulties."
+        },
+        {
+          "text": "B. It guarantees lower transport costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and breathing difficulties."
+        },
+        {
+          "text": "C. Overcrowding increases injury, heat stress and breathing difficulties",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Overcrowding increases injury, heat stress and breathing difficulties."
+        },
+        {
+          "text": "D. It improves animal balance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and breathing difficulties."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "Why should goats be offered water and rest during long journeys as appropriate?",
+      "options": [
+        {
+          "text": "A. It increases transport speed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Travel can cause dehydration, fatigue and stress."
+        },
+        {
+          "text": "B. Travel can cause dehydration, fatigue and stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Travel can cause dehydration, fatigue and stress."
+        },
+        {
+          "text": "C. It prevents all motion sickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Travel can cause dehydration, fatigue and stress."
+        },
+        {
+          "text": "D. It replaces vehicle ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Travel can cause dehydration, fatigue and stress."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "Why should transport vehicles be cleaned between loads?",
+      "options": [
+        {
+          "text": "A. They can carry manure and infectious material between farms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can carry manure and infectious material between farms."
+        },
+        {
+          "text": "B. Vehicles cannot carry pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry manure and infectious material between farms."
+        },
+        {
+          "text": "C. Cleaning increases disease transmission",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry manure and infectious material between farms."
+        },
+        {
+          "text": "D. It replaces animal inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry manure and infectious material between farms."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "Why should goats be inspected before loading for transport?",
+      "options": [
+        {
+          "text": "A. It guarantees no losses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit or sick animals may suffer and should be managed according to welfare rules."
+        },
+        {
+          "text": "B. It replaces identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit or sick animals may suffer and should be managed according to welfare rules."
+        },
+        {
+          "text": "C. It determines their final market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit or sick animals may suffer and should be managed according to welfare rules."
+        },
+        {
+          "text": "D. Unfit or sick animals may suffer and should be managed according to welfare rules",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unfit or sick animals may suffer and should be managed according to welfare rules."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "What is an animal welfare assessment intended to consider?",
+      "options": [
+        {
+          "text": "A. Only the number of animals sold",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, nutrition, comfort, behaviour and the animal's ability to avoid pain and distress."
+        },
+        {
+          "text": "B. Only the farm's feed bill",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, nutrition, comfort, behaviour and the animal's ability to avoid pain and distress."
+        },
+        {
+          "text": "C. Health, nutrition, comfort, behaviour and the animal's ability to avoid pain and distress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Health, nutrition, comfort, behaviour and the animal's ability to avoid pain and distress."
+        },
+        {
+          "text": "D. Only coat colour and horn length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, nutrition, comfort, behaviour and the animal's ability to avoid pain and distress."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "Why should goats have opportunities to express normal browsing and social behaviours?",
+      "options": [
+        {
+          "text": "A. It guarantees twins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate opportunities support welfare and reduce frustration."
+        },
+        {
+          "text": "B. It determines milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate opportunities support welfare and reduce frustration."
+        },
+        {
+          "text": "C. Appropriate opportunities support welfare and reduce frustration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate opportunities support welfare and reduce frustration."
+        },
+        {
+          "text": "D. It replaces veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate opportunities support welfare and reduce frustration."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "Why should painful procedures be performed only with appropriate methods and competent oversight?",
+      "options": [
+        {
+          "text": "A. Poor technique causes avoidable pain, injury and complications",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor technique causes avoidable pain, injury and complications."
+        },
+        {
+          "text": "B. Pain improves productivity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor technique causes avoidable pain, injury and complications."
+        },
+        {
+          "text": "C. All procedures are harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor technique causes avoidable pain, injury and complications."
+        },
+        {
+          "text": "D. It removes the need for aftercare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor technique causes avoidable pain, injury and complications."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "Why should castration age and method be discussed with a veterinarian?",
+      "options": [
+        {
+          "text": "A. Castration is never painful",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing and technique affect pain, complications and future health."
+        },
+        {
+          "text": "B. It determines breed purity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing and technique affect pain, complications and future health."
+        },
+        {
+          "text": "C. Every method is equally safe at any age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing and technique affect pain, complications and future health."
+        },
+        {
+          "text": "D. Timing and technique affect pain, complications and future health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Timing and technique affect pain, complications and future health."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "Why is disbudding or horn management a welfare-sensitive procedure?",
+      "options": [
+        {
+          "text": "A. It can cause pain and complications and requires suitable technique and pain management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can cause pain and complications and requires suitable technique and pain management."
+        },
+        {
+          "text": "B. It improves rumen fermentation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause pain and complications and requires suitable technique and pain management."
+        },
+        {
+          "text": "C. It replaces identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause pain and complications and requires suitable technique and pain management."
+        },
+        {
+          "text": "D. It is always painless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause pain and complications and requires suitable technique and pain management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "Why should goat handlers use calm, low-stress movement techniques?",
+      "options": [
+        {
+          "text": "A. Stress improves growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause fear, injury and poor handling outcomes."
+        },
+        {
+          "text": "B. It eliminates the need for good facilities",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause fear, injury and poor handling outcomes."
+        },
+        {
+          "text": "C. Rough handling can cause fear, injury and poor handling outcomes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rough handling can cause fear, injury and poor handling outcomes."
+        },
+        {
+          "text": "D. Goats cannot experience fear",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling can cause fear, injury and poor handling outcomes."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "What is the purpose of a race or handling chute?",
+      "options": [
+        {
+          "text": "A. It helps restrain and move goats safely for examination or routine procedures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps restrain and move goats safely for examination or routine procedures."
+        },
+        {
+          "text": "B. It is a feed storage unit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restrain and move goats safely for examination or routine procedures."
+        },
+        {
+          "text": "C. It measures milk volume",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restrain and move goats safely for examination or routine procedures."
+        },
+        {
+          "text": "D. It replaces a quarantine pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps restrain and move goats safely for examination or routine procedures."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "Why should restraint equipment fit the size of the goat?",
+      "options": [
+        {
+          "text": "A. All goats have identical dimensions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly fitted equipment can cause injury, escape or breathing restriction."
+        },
+        {
+          "text": "B. It replaces trained handlers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly fitted equipment can cause injury, escape or breathing restriction."
+        },
+        {
+          "text": "C. It changes body condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly fitted equipment can cause injury, escape or breathing restriction."
+        },
+        {
+          "text": "D. Poorly fitted equipment can cause injury, escape or breathing restriction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poorly fitted equipment can cause injury, escape or breathing restriction."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "Why should a goat be monitored after a medical procedure?",
+      "options": [
+        {
+          "text": "A. Early observation helps identify adverse reactions, bleeding or other complications",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early observation helps identify adverse reactions, bleeding or other complications."
+        },
+        {
+          "text": "B. Complications never occur",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early observation helps identify adverse reactions, bleeding or other complications."
+        },
+        {
+          "text": "C. It determines pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early observation helps identify adverse reactions, bleeding or other complications."
+        },
+        {
+          "text": "D. Monitoring changes medicine potency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early observation helps identify adverse reactions, bleeding or other complications."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "What is the purpose of a body condition score?",
+      "options": [
+        {
+          "text": "A. It measures exact body weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates fat and muscle reserves using a consistent assessment method."
+        },
+        {
+          "text": "B. It determines the animal's age exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates fat and muscle reserves using a consistent assessment method."
+        },
+        {
+          "text": "C. It estimates fat and muscle reserves using a consistent assessment method",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It estimates fat and muscle reserves using a consistent assessment method."
+        },
+        {
+          "text": "D. It diagnoses every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It estimates fat and muscle reserves using a consistent assessment method."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "Why should body condition scoring use the same trained approach over time?",
+      "options": [
+        {
+          "text": "A. It removes the need for weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistency improves comparisons and reduces observer variation."
+        },
+        {
+          "text": "B. It makes scores genetically fixed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistency improves comparisons and reduces observer variation."
+        },
+        {
+          "text": "C. Consistency improves comparisons and reduces observer variation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistency improves comparisons and reduces observer variation."
+        },
+        {
+          "text": "D. It determines market demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistency improves comparisons and reduces observer variation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "What does a very low body condition score suggest?",
+      "options": [
+        {
+          "text": "A. It guarantees high fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The goat may have inadequate energy reserves or an underlying health problem."
+        },
+        {
+          "text": "B. It indicates excess dietary copper",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The goat may have inadequate energy reserves or an underlying health problem."
+        },
+        {
+          "text": "C. It means the goat is always young",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The goat may have inadequate energy reserves or an underlying health problem."
+        },
+        {
+          "text": "D. The goat may have inadequate energy reserves or an underlying health problem",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The goat may have inadequate energy reserves or an underlying health problem."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "Why should thin goats be investigated rather than simply given unlimited grain?",
+      "options": [
+        {
+          "text": "A. Poor condition may result from disease, parasites, dental problems or inadequate diet, and sudden grain overload is risky",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor condition may result from disease, parasites, dental problems or inadequate diet, and sudden grain overload is risky."
+        },
+        {
+          "text": "B. It eliminates the need for forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor condition may result from disease, parasites, dental problems or inadequate diet, and sudden grain overload is risky."
+        },
+        {
+          "text": "C. Grain cures every parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor condition may result from disease, parasites, dental problems or inadequate diet, and sudden grain overload is risky."
+        },
+        {
+          "text": "D. All thin goats only need grain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor condition may result from disease, parasites, dental problems or inadequate diet, and sudden grain overload is risky."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "What can poor dentition cause in older goats?",
+      "options": [
+        {
+          "text": "A. Faster hoof growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficulty eating, reduced feed intake and loss of body condition."
+        },
+        {
+          "text": "B. Difficulty eating, reduced feed intake and loss of body condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Difficulty eating, reduced feed intake and loss of body condition."
+        },
+        {
+          "text": "C. Improved chewing efficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficulty eating, reduced feed intake and loss of body condition."
+        },
+        {
+          "text": "D. Higher water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Difficulty eating, reduced feed intake and loss of body condition."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "Why should older goats have their teeth and ability to eat monitored?",
+      "options": [
+        {
+          "text": "A. It determines sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dental wear or loss can reduce their ability to use available feed."
+        },
+        {
+          "text": "B. Age never affects teeth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dental wear or loss can reduce their ability to use available feed."
+        },
+        {
+          "text": "C. Dental wear or loss can reduce their ability to use available feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dental wear or loss can reduce their ability to use available feed."
+        },
+        {
+          "text": "D. It replaces body condition checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dental wear or loss can reduce their ability to use available feed."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "Why is animal identification important when treating a sick goat?",
+      "options": [
+        {
+          "text": "A. It increases medicine strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures the correct animal receives the prescribed treatment and records."
+        },
+        {
+          "text": "B. It replaces diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures the correct animal receives the prescribed treatment and records."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It ensures the correct animal receives the prescribed treatment and records."
+        },
+        {
+          "text": "D. It ensures the correct animal receives the prescribed treatment and records",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It ensures the correct animal receives the prescribed treatment and records."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "What is a withdrawal period?",
+      "options": [
+        {
+          "text": "A. The required time after a veterinary medicine treatment before milk or meat enters the food chain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The required time after a veterinary medicine treatment before milk or meat enters the food chain."
+        },
+        {
+          "text": "B. The interval between hoof trims",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time after a veterinary medicine treatment before milk or meat enters the food chain."
+        },
+        {
+          "text": "C. The period when a goat rests in shade",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time after a veterinary medicine treatment before milk or meat enters the food chain."
+        },
+        {
+          "text": "D. The time between feeding sessions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time after a veterinary medicine treatment before milk or meat enters the food chain."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "Why must withdrawal periods be followed exactly?",
+      "options": [
+        {
+          "text": "A. They are optional for small farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may otherwise exceed legal or safety limits in food products."
+        },
+        {
+          "text": "B. Residues may otherwise exceed legal or safety limits in food products",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Residues may otherwise exceed legal or safety limits in food products."
+        },
+        {
+          "text": "C. They only affect animal appearance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may otherwise exceed legal or safety limits in food products."
+        },
+        {
+          "text": "D. They increase drug resistance in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may otherwise exceed legal or safety limits in food products."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "Why should farmers check whether a medicine is approved for food-producing goats?",
+      "options": [
+        {
+          "text": "A. Some products or uses may be restricted and require veterinary direction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some products or uses may be restricted and require veterinary direction."
+        },
+        {
+          "text": "B. Approval depends only on bottle size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some products or uses may be restricted and require veterinary direction."
+        },
+        {
+          "text": "C. All medicines are automatically approved for every species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some products or uses may be restricted and require veterinary direction."
+        },
+        {
+          "text": "D. It replaces correct dosing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some products or uses may be restricted and require veterinary direction."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "Why keep a separate record of treated animals and their milk status?",
+      "options": [
+        {
+          "text": "A. It determines breeding value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent milk under withdrawal from being mixed into saleable milk."
+        },
+        {
+          "text": "B. It replaces milk cooling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent milk under withdrawal from being mixed into saleable milk."
+        },
+        {
+          "text": "C. It guarantees no mastitis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent milk under withdrawal from being mixed into saleable milk."
+        },
+        {
+          "text": "D. It helps prevent milk under withdrawal from being mixed into saleable milk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent milk under withdrawal from being mixed into saleable milk."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "Why should goat milk containers be food-grade and easy to clean?",
+      "options": [
+        {
+          "text": "A. Suitable containers reduce contamination and support hygienic handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suitable containers reduce contamination and support hygienic handling."
+        },
+        {
+          "text": "B. It replaces pasteurisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable containers reduce contamination and support hygienic handling."
+        },
+        {
+          "text": "C. Container material changes breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable containers reduce contamination and support hygienic handling."
+        },
+        {
+          "text": "D. Any rusty container is suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable containers reduce contamination and support hygienic handling."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "Why should goat milk be protected from strong odours and chemicals during storage?",
+      "options": [
+        {
+          "text": "A. Odours improve milk quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk can absorb odours and may be contaminated by nearby substances."
+        },
+        {
+          "text": "B. Milk can absorb odours and may be contaminated by nearby substances",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Milk can absorb odours and may be contaminated by nearby substances."
+        },
+        {
+          "text": "C. It increases protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk can absorb odours and may be contaminated by nearby substances."
+        },
+        {
+          "text": "D. Chemicals preserve raw milk safely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk can absorb odours and may be contaminated by nearby substances."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "Why should goat meat be chilled promptly after slaughter?",
+      "options": [
+        {
+          "text": "A. Rapid chilling helps slow microbial growth and preserve product quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rapid chilling helps slow microbial growth and preserve product quality."
+        },
+        {
+          "text": "B. Warm storage prevents spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling helps slow microbial growth and preserve product quality."
+        },
+        {
+          "text": "C. Chilling sterilises meat completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling helps slow microbial growth and preserve product quality."
+        },
+        {
+          "text": "D. It replaces hygienic slaughter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rapid chilling helps slow microbial growth and preserve product quality."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 441,
+      "question": "Why should slaughter and meat handling follow local food-safety rules?",
+      "options": [
+        {
+          "text": "A. It guarantees a higher price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They protect consumers, workers and product integrity."
+        },
+        {
+          "text": "B. It replaces cold-chain management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They protect consumers, workers and product integrity."
+        },
+        {
+          "text": "C. Rules only affect large abattoirs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They protect consumers, workers and product integrity."
+        },
+        {
+          "text": "D. They protect consumers, workers and product integrity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They protect consumers, workers and product integrity."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "Why should goat carcasses be protected from insects and dust?",
+      "options": [
+        {
+          "text": "A. Dust slows microbial growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and compromise meat hygiene."
+        },
+        {
+          "text": "B. It replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and compromise meat hygiene."
+        },
+        {
+          "text": "C. They can introduce contaminants and compromise meat hygiene",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can introduce contaminants and compromise meat hygiene."
+        },
+        {
+          "text": "D. Insects improve flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and compromise meat hygiene."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 443,
+      "question": "What is traceability in goat meat production?",
+      "options": [
+        {
+          "text": "A. The ability to estimate meat tenderness by sight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to link a product back through processing and supply records to its source."
+        },
+        {
+          "text": "B. The ability to link a product back through processing and supply records to its source",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The ability to link a product back through processing and supply records to its source."
+        },
+        {
+          "text": "C. A type of breeding system",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to link a product back through processing and supply records to its source."
+        },
+        {
+          "text": "D. A method of increasing carcass weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to link a product back through processing and supply records to its source."
+        }
+      ],
+      "part": 9
     }
   ]
 }
