@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 393,
+  "total": 442,
   "questions": [
     {
       "number": 1,
@@ -10613,6 +10613,1329 @@
         }
       ],
       "part": 8
+    },
+    {
+      "number": 394,
+      "question": "What is biosecurity in fish farming?",
+      "options": [
+        {
+          "text": "A. A feed formulation method",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practices that reduce the introduction and spread of disease agents."
+        },
+        {
+          "text": "B. A way to determine market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practices that reduce the introduction and spread of disease agents."
+        },
+        {
+          "text": "C. Practices that reduce the introduction and spread of disease agents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Practices that reduce the introduction and spread of disease agents."
+        },
+        {
+          "text": "D. A method of increasing pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Practices that reduce the introduction and spread of disease agents."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 395,
+      "question": "Why should visitors follow farm entry procedures?",
+      "options": [
+        {
+          "text": "A. Visitors improve fish immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is People, footwear and equipment can carry pathogens between sites."
+        },
+        {
+          "text": "B. Pathogens cannot survive on equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is People, footwear and equipment can carry pathogens between sites."
+        },
+        {
+          "text": "C. People, footwear and equipment can carry pathogens between sites",
+          "correct": true,
+          "feedback": "Well done! Correct answer: People, footwear and equipment can carry pathogens between sites."
+        },
+        {
+          "text": "D. Entry procedures change water pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is People, footwear and equipment can carry pathogens between sites."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 396,
+      "question": "Why disinfect nets between production units?",
+      "options": [
+        {
+          "text": "A. Nets can transfer pathogens and parasites between fish groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nets can transfer pathogens and parasites between fish groups."
+        },
+        {
+          "text": "B. Disinfection increases mesh size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nets can transfer pathogens and parasites between fish groups."
+        },
+        {
+          "text": "C. It improves fish growth directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nets can transfer pathogens and parasites between fish groups."
+        },
+        {
+          "text": "D. It replaces quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nets can transfer pathogens and parasites between fish groups."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 397,
+      "question": "Why should disinfectants be used at the correct concentration and contact time?",
+      "options": [
+        {
+          "text": "A. Stronger is always safer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect use may fail to inactivate pathogens or may damage equipment and fish."
+        },
+        {
+          "text": "B. All products work instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect use may fail to inactivate pathogens or may damage equipment and fish."
+        },
+        {
+          "text": "C. Contact time never matters",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect use may fail to inactivate pathogens or may damage equipment and fish."
+        },
+        {
+          "text": "D. Incorrect use may fail to inactivate pathogens or may damage equipment and fish",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect use may fail to inactivate pathogens or may damage equipment and fish."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 398,
+      "question": "Why remove organic matter before applying many disinfectants?",
+      "options": [
+        {
+          "text": "A. Organic material can reduce disinfectant effectiveness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Organic material can reduce disinfectant effectiveness."
+        },
+        {
+          "text": "B. It changes fish species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce disinfectant effectiveness."
+        },
+        {
+          "text": "C. It replaces rinsing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce disinfectant effectiveness."
+        },
+        {
+          "text": "D. Organic matter improves every disinfectant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic material can reduce disinfectant effectiveness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 399,
+      "question": "What is the purpose of fallowing a fish production unit?",
+      "options": [
+        {
+          "text": "A. Keeping it stocked at maximum density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaving it empty for a planned period can help interrupt some pathogen cycles."
+        },
+        {
+          "text": "B. Increasing the water level permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaving it empty for a planned period can help interrupt some pathogen cycles."
+        },
+        {
+          "text": "C. Leaving it empty for a planned period can help interrupt some pathogen cycles",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaving it empty for a planned period can help interrupt some pathogen cycles."
+        },
+        {
+          "text": "D. Adding feed while empty",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaving it empty for a planned period can help interrupt some pathogen cycles."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 400,
+      "question": "Why should dead fish be removed promptly?",
+      "options": [
+        {
+          "text": "A. They improve feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can contribute to pathogen spread and water-quality deterioration."
+        },
+        {
+          "text": "B. They increase oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can contribute to pathogen spread and water-quality deterioration."
+        },
+        {
+          "text": "C. They can contribute to pathogen spread and water-quality deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can contribute to pathogen spread and water-quality deterioration."
+        },
+        {
+          "text": "D. They sterilise the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can contribute to pathogen spread and water-quality deterioration."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 401,
+      "question": "How should mortalities be disposed of?",
+      "options": [
+        {
+          "text": "A. Throwing them into a nearby stream",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Using an approved method that prevents access by scavengers and contamination of water."
+        },
+        {
+          "text": "B. Feeding them to wild fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Using an approved method that prevents access by scavengers and contamination of water."
+        },
+        {
+          "text": "C. Leaving them beside the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Using an approved method that prevents access by scavengers and contamination of water."
+        },
+        {
+          "text": "D. Using an approved method that prevents access by scavengers and contamination of water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Using an approved method that prevents access by scavengers and contamination of water."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 402,
+      "question": "Why should a farmer record mortality patterns by date and pond?",
+      "options": [
+        {
+          "text": "A. Patterns help detect emerging problems and compare groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Patterns help detect emerging problems and compare groups."
+        },
+        {
+          "text": "B. It replaces laboratory testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns help detect emerging problems and compare groups."
+        },
+        {
+          "text": "C. It measures feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns help detect emerging problems and compare groups."
+        },
+        {
+          "text": "D. It changes the diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Patterns help detect emerging problems and compare groups."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 403,
+      "question": "What is a clinical sign in fish?",
+      "options": [
+        {
+          "text": "A. A pond construction material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An observable change that may indicate illness or stress."
+        },
+        {
+          "text": "B. An observable change that may indicate illness or stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An observable change that may indicate illness or stress."
+        },
+        {
+          "text": "C. A confirmed pathogen name",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An observable change that may indicate illness or stress."
+        },
+        {
+          "text": "D. A feed ingredient",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An observable change that may indicate illness or stress."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 404,
+      "question": "Why are clinical signs alone not always enough to identify a fish disease?",
+      "options": [
+        {
+          "text": "A. Water quality never affects symptoms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different diseases and environmental problems can produce similar signs."
+        },
+        {
+          "text": "B. Every disease has a unique visible sign",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different diseases and environmental problems can produce similar signs."
+        },
+        {
+          "text": "C. Different diseases and environmental problems can produce similar signs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Different diseases and environmental problems can produce similar signs."
+        },
+        {
+          "text": "D. Observation is never useful",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different diseases and environmental problems can produce similar signs."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 405,
+      "question": "What should be done when fish show ulcers, unusual swimming or sudden mortality?",
+      "options": [
+        {
+          "text": "A. Apply several medicines at random",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check water quality and seek qualified aquatic-animal health advice promptly."
+        },
+        {
+          "text": "B. Ignore the symptoms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check water quality and seek qualified aquatic-animal health advice promptly."
+        },
+        {
+          "text": "C. Increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check water quality and seek qualified aquatic-animal health advice promptly."
+        },
+        {
+          "text": "D. Check water quality and seek qualified aquatic-animal health advice promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check water quality and seek qualified aquatic-animal health advice promptly."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 406,
+      "question": "Why collect fish samples for diagnosis under expert guidance?",
+      "options": [
+        {
+          "text": "A. Correct species, tissue, quantity and handling improve diagnostic value",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct species, tissue, quantity and handling improve diagnostic value."
+        },
+        {
+          "text": "B. Testing is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct species, tissue, quantity and handling improve diagnostic value."
+        },
+        {
+          "text": "C. Samples need no labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct species, tissue, quantity and handling improve diagnostic value."
+        },
+        {
+          "text": "D. Any dead fish left in the sun is suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct species, tissue, quantity and handling improve diagnostic value."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 407,
+      "question": "Why avoid routine antibiotic use without diagnosis and veterinary oversight?",
+      "options": [
+        {
+          "text": "A. Withdrawal periods do not apply",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misuse can cause treatment failure, residues and antimicrobial resistance."
+        },
+        {
+          "text": "B. Misuse can cause treatment failure, residues and antimicrobial resistance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Misuse can cause treatment failure, residues and antimicrobial resistance."
+        },
+        {
+          "text": "C. Antibiotics treat every fish disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misuse can cause treatment failure, residues and antimicrobial resistance."
+        },
+        {
+          "text": "D. It improves water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Misuse can cause treatment failure, residues and antimicrobial resistance."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 408,
+      "question": "What is antimicrobial resistance?",
+      "options": [
+        {
+          "text": "A. The ability of microorganisms to survive medicines that previously controlled them",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The ability of microorganisms to survive medicines that previously controlled them."
+        },
+        {
+          "text": "B. A type of feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability of microorganisms to survive medicines that previously controlled them."
+        },
+        {
+          "text": "C. Fish becoming resistant to low oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability of microorganisms to survive medicines that previously controlled them."
+        },
+        {
+          "text": "D. A change in pond colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability of microorganisms to survive medicines that previously controlled them."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 409,
+      "question": "Why follow withdrawal periods for veterinary medicines in food fish?",
+      "options": [
+        {
+          "text": "A. It increases fish growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure residues fall within permitted limits before harvest."
+        },
+        {
+          "text": "B. It removes the need for treatment records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure residues fall within permitted limits before harvest."
+        },
+        {
+          "text": "C. It sterilises the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ensure residues fall within permitted limits before harvest."
+        },
+        {
+          "text": "D. It helps ensure residues fall within permitted limits before harvest",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps ensure residues fall within permitted limits before harvest."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 410,
+      "question": "Why keep medicine treatment records?",
+      "options": [
+        {
+          "text": "A. They support safe use, traceability and compliance with withdrawal instructions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support safe use, traceability and compliance with withdrawal instructions."
+        },
+        {
+          "text": "B. They make medicines more potent",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe use, traceability and compliance with withdrawal instructions."
+        },
+        {
+          "text": "C. They replace diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe use, traceability and compliance with withdrawal instructions."
+        },
+        {
+          "text": "D. They determine fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe use, traceability and compliance with withdrawal instructions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "What is a parasite in fish culture?",
+      "options": [
+        {
+          "text": "A. A type of beneficial feed pellet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An organism that lives on or in a host and obtains resources at the host's expense."
+        },
+        {
+          "text": "B. An organism that lives on or in a host and obtains resources at the host's expense",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An organism that lives on or in a host and obtains resources at the host's expense."
+        },
+        {
+          "text": "C. A pond fertiliser",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An organism that lives on or in a host and obtains resources at the host's expense."
+        },
+        {
+          "text": "D. A water-quality meter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An organism that lives on or in a host and obtains resources at the host's expense."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "Why can ectoparasites be difficult to manage in crowded systems?",
+      "options": [
+        {
+          "text": "A. Close contact and shared water can help parasites spread",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Close contact and shared water can help parasites spread."
+        },
+        {
+          "text": "B. They cannot transfer between fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and shared water can help parasites spread."
+        },
+        {
+          "text": "C. Crowding kills every parasite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and shared water can help parasites spread."
+        },
+        {
+          "text": "D. They are unrelated to water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Close contact and shared water can help parasites spread."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "What is the purpose of microscopic examination in some fish disease investigations?",
+      "options": [
+        {
+          "text": "A. It measures pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify parasites or tissue changes not visible to the naked eye."
+        },
+        {
+          "text": "B. It replaces all clinical observations",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify parasites or tissue changes not visible to the naked eye."
+        },
+        {
+          "text": "C. It determines feed price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help identify parasites or tissue changes not visible to the naked eye."
+        },
+        {
+          "text": "D. It can help identify parasites or tissue changes not visible to the naked eye",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can help identify parasites or tissue changes not visible to the naked eye."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "Why should fish farmers avoid moving stock from a pond with unexplained mortality?",
+      "options": [
+        {
+          "text": "A. Dead fish cannot indicate infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement may spread an infectious agent to other units or farms."
+        },
+        {
+          "text": "B. It improves survival automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement may spread an infectious agent to other units or farms."
+        },
+        {
+          "text": "C. Movement may spread an infectious agent to other units or farms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Movement may spread an infectious agent to other units or farms."
+        },
+        {
+          "text": "D. Movement cures disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Movement may spread an infectious agent to other units or farms."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "What is a disease outbreak threshold used for in farm monitoring?",
+      "options": [
+        {
+          "text": "A. A target market weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A defined trigger for escalating investigation and response."
+        },
+        {
+          "text": "B. A defined trigger for escalating investigation and response",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A defined trigger for escalating investigation and response."
+        },
+        {
+          "text": "C. A pond fertilisation rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A defined trigger for escalating investigation and response."
+        },
+        {
+          "text": "D. A feed conversion formula",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A defined trigger for escalating investigation and response."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "Why should farms maintain a disease-response contact list?",
+      "options": [
+        {
+          "text": "A. Quick access to aquatic veterinarians and authorities supports timely action",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Quick access to aquatic veterinarians and authorities supports timely action."
+        },
+        {
+          "text": "B. It guarantees no disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Quick access to aquatic veterinarians and authorities supports timely action."
+        },
+        {
+          "text": "C. It replaces all records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Quick access to aquatic veterinarians and authorities supports timely action."
+        },
+        {
+          "text": "D. It determines water hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Quick access to aquatic veterinarians and authorities supports timely action."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "Why may vaccination be available for some cultured fish diseases but not others?",
+      "options": [
+        {
+          "text": "A. Vaccines work identically in all species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Vaccine development and suitability depend on pathogen, species and production conditions."
+        },
+        {
+          "text": "B. It depends only on pond size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Vaccine development and suitability depend on pathogen, species and production conditions."
+        },
+        {
+          "text": "C. All fish diseases have licensed vaccines",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Vaccine development and suitability depend on pathogen, species and production conditions."
+        },
+        {
+          "text": "D. Vaccine development and suitability depend on pathogen, species and production conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Vaccine development and suitability depend on pathogen, species and production conditions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "Why is vaccination not a substitute for good water quality and biosecurity?",
+      "options": [
+        {
+          "text": "A. It removes all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects against specific targets and does not prevent every cause of disease."
+        },
+        {
+          "text": "B. It replaces feeding management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects against specific targets and does not prevent every cause of disease."
+        },
+        {
+          "text": "C. It protects against specific targets and does not prevent every cause of disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It protects against specific targets and does not prevent every cause of disease."
+        },
+        {
+          "text": "D. Vaccination sterilises the pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It protects against specific targets and does not prevent every cause of disease."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "What is a carrier fish?",
+      "options": [
+        {
+          "text": "A. A fish used to carry feed bags",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fish that harbours an infectious agent and may transmit it without obvious illness."
+        },
+        {
+          "text": "B. A fish that lives only near inlets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fish that harbours an infectious agent and may transmit it without obvious illness."
+        },
+        {
+          "text": "C. A fish that harbours an infectious agent and may transmit it without obvious illness",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A fish that harbours an infectious agent and may transmit it without obvious illness."
+        },
+        {
+          "text": "D. A fish with unusually high FCR",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A fish that harbours an infectious agent and may transmit it without obvious illness."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "Why can apparently healthy fish still pose a biosecurity risk?",
+      "options": [
+        {
+          "text": "A. Some may carry pathogens without showing obvious signs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some may carry pathogens without showing obvious signs."
+        },
+        {
+          "text": "B. Healthy appearance proves pathogen-free status",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some may carry pathogens without showing obvious signs."
+        },
+        {
+          "text": "C. Pathogens only infect visibly sick fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some may carry pathogens without showing obvious signs."
+        },
+        {
+          "text": "D. It means quarantine is unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some may carry pathogens without showing obvious signs."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "What is the purpose of testing source water for pathogens when risk warrants it?",
+      "options": [
+        {
+          "text": "A. It replaces filtration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether incoming water could introduce disease agents."
+        },
+        {
+          "text": "B. It measures fish growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether incoming water could introduce disease agents."
+        },
+        {
+          "text": "C. It determines fish flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps assess whether incoming water could introduce disease agents."
+        },
+        {
+          "text": "D. It helps assess whether incoming water could introduce disease agents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps assess whether incoming water could introduce disease agents."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "Why should shared water discharge be managed carefully between farms?",
+      "options": [
+        {
+          "text": "A. Effluent may carry pathogens or harmful substances to receiving waters or other farms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Effluent may carry pathogens or harmful substances to receiving waters or other farms."
+        },
+        {
+          "text": "B. It increases neighbouring farm yields",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Effluent may carry pathogens or harmful substances to receiving waters or other farms."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Effluent may carry pathogens or harmful substances to receiving waters or other farms."
+        },
+        {
+          "text": "D. Discharge water is always sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Effluent may carry pathogens or harmful substances to receiving waters or other farms."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "What is a quarantine period intended to achieve?",
+      "options": [
+        {
+          "text": "A. A period to starve all fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Time to observe new stock and detect possible health concerns before mixing."
+        },
+        {
+          "text": "B. A substitute for species identification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Time to observe new stock and detect possible health concerns before mixing."
+        },
+        {
+          "text": "C. Time to observe new stock and detect possible health concerns before mixing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Time to observe new stock and detect possible health concerns before mixing."
+        },
+        {
+          "text": "D. A way to increase salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Time to observe new stock and detect possible health concerns before mixing."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "Why should quarantine water and equipment be managed separately?",
+      "options": [
+        {
+          "text": "A. It reduces transfer of infectious agents to established production units",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces transfer of infectious agents to established production units."
+        },
+        {
+          "text": "B. It makes all fish immune",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of infectious agents to established production units."
+        },
+        {
+          "text": "C. It eliminates water-quality testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of infectious agents to established production units."
+        },
+        {
+          "text": "D. It improves pellet quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces transfer of infectious agents to established production units."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "What is the purpose of a farm health plan?",
+      "options": [
+        {
+          "text": "A. It guarantees no mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It sets routine monitoring, prevention, response and record-keeping practices."
+        },
+        {
+          "text": "B. It determines market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It sets routine monitoring, prevention, response and record-keeping practices."
+        },
+        {
+          "text": "C. It replaces skilled staff",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It sets routine monitoring, prevention, response and record-keeping practices."
+        },
+        {
+          "text": "D. It sets routine monitoring, prevention, response and record-keeping practices",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It sets routine monitoring, prevention, response and record-keeping practices."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "Why should farm staff be trained to recognise abnormal fish behaviour?",
+      "options": [
+        {
+          "text": "A. Early recognition supports faster investigation and response",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early recognition supports faster investigation and response."
+        },
+        {
+          "text": "B. It changes the species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition supports faster investigation and response."
+        },
+        {
+          "text": "C. It prevents all disease exposure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition supports faster investigation and response."
+        },
+        {
+          "text": "D. It makes laboratory tests unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early recognition supports faster investigation and response."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "What is a sentinel fish sometimes used for?",
+      "options": [
+        {
+          "text": "A. A fish used to clean pond bottoms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A monitored group that may help indicate health risks in a system under a defined protocol."
+        },
+        {
+          "text": "B. A fish fed only medicated feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A monitored group that may help indicate health risks in a system under a defined protocol."
+        },
+        {
+          "text": "C. A monitored group that may help indicate health risks in a system under a defined protocol",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A monitored group that may help indicate health risks in a system under a defined protocol."
+        },
+        {
+          "text": "D. A fish that determines pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A monitored group that may help indicate health risks in a system under a defined protocol."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "Why must sentinel-fish use be planned with expert guidance?",
+      "options": [
+        {
+          "text": "A. It replaces quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It raises animal-welfare and biosecurity considerations and requires sound interpretation."
+        },
+        {
+          "text": "B. It is suitable for every farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It raises animal-welfare and biosecurity considerations and requires sound interpretation."
+        },
+        {
+          "text": "C. It raises animal-welfare and biosecurity considerations and requires sound interpretation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It raises animal-welfare and biosecurity considerations and requires sound interpretation."
+        },
+        {
+          "text": "D. It guarantees pathogen detection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It raises animal-welfare and biosecurity considerations and requires sound interpretation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "What is the risk of using untreated surface water from a floodplain?",
+      "options": [
+        {
+          "text": "A. It is always safer than borehole water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain pollutants, pathogens or organisms washed in by floodwater."
+        },
+        {
+          "text": "B. It guarantees faster growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain pollutants, pathogens or organisms washed in by floodwater."
+        },
+        {
+          "text": "C. Floodwater has no contaminants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain pollutants, pathogens or organisms washed in by floodwater."
+        },
+        {
+          "text": "D. It may contain pollutants, pathogens or organisms washed in by floodwater",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may contain pollutants, pathogens or organisms washed in by floodwater."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "Why should fish farms protect feed and water from bird and rodent contamination?",
+      "options": [
+        {
+          "text": "A. Wild animals can introduce pathogens and contaminate inputs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wild animals can introduce pathogens and contaminate inputs."
+        },
+        {
+          "text": "B. It prevents the need for cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild animals can introduce pathogens and contaminate inputs."
+        },
+        {
+          "text": "C. They improve water chemistry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild animals can introduce pathogens and contaminate inputs."
+        },
+        {
+          "text": "D. Wild animals sterilise feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild animals can introduce pathogens and contaminate inputs."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "Why should a fish farm control access to broodstock and hatchery areas?",
+      "options": [
+        {
+          "text": "A. It replaces disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These sensitive units need protection from avoidable pathogen introduction."
+        },
+        {
+          "text": "B. These sensitive units need protection from avoidable pathogen introduction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These sensitive units need protection from avoidable pathogen introduction."
+        },
+        {
+          "text": "C. Access control improves fish genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These sensitive units need protection from avoidable pathogen introduction."
+        },
+        {
+          "text": "D. It changes hatch rates directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These sensitive units need protection from avoidable pathogen introduction."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "What is a key reason to keep different age groups separate where practical?",
+      "options": [
+        {
+          "text": "A. It guarantees equal growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce disease transmission and competition between size groups."
+        },
+        {
+          "text": "B. All ages require identical water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce disease transmission and competition between size groups."
+        },
+        {
+          "text": "C. It can reduce disease transmission and competition between size groups",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce disease transmission and competition between size groups."
+        },
+        {
+          "text": "D. It removes grading needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce disease transmission and competition between size groups."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "Why should farm equipment be dedicated to specific ponds when possible?",
+      "options": [
+        {
+          "text": "A. It increases equipment weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces movement of pathogens between production units."
+        },
+        {
+          "text": "B. It changes water hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces movement of pathogens between production units."
+        },
+        {
+          "text": "C. It removes all maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces movement of pathogens between production units."
+        },
+        {
+          "text": "D. It reduces movement of pathogens between production units",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces movement of pathogens between production units."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "Why should fish farm workers avoid moving directly from sick-stock units to healthy units without hygiene steps?",
+      "options": [
+        {
+          "text": "A. They may carry infectious material on hands, clothing or equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may carry infectious material on hands, clothing or equipment."
+        },
+        {
+          "text": "B. It replaces water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry infectious material on hands, clothing or equipment."
+        },
+        {
+          "text": "C. It improves fish appetite",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry infectious material on hands, clothing or equipment."
+        },
+        {
+          "text": "D. Disease agents cannot attach to clothing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may carry infectious material on hands, clothing or equipment."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "What is the purpose of a documented disinfection log?",
+      "options": [
+        {
+          "text": "A. It replaces chemical labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It records product, concentration, contact time and responsible staff."
+        },
+        {
+          "text": "B. It records product, concentration, contact time and responsible staff",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It records product, concentration, contact time and responsible staff."
+        },
+        {
+          "text": "C. It determines the fish harvest price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It records product, concentration, contact time and responsible staff."
+        },
+        {
+          "text": "D. It measures feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It records product, concentration, contact time and responsible staff."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "Why should disinfectant-treated equipment be rinsed when product instructions require it?",
+      "options": [
+        {
+          "text": "A. Residues may harm fish or interfere with subsequent use",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Residues may harm fish or interfere with subsequent use."
+        },
+        {
+          "text": "B. Residues improve fish health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may harm fish or interfere with subsequent use."
+        },
+        {
+          "text": "C. Rinsing always makes disinfection ineffective",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may harm fish or interfere with subsequent use."
+        },
+        {
+          "text": "D. It changes equipment size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Residues may harm fish or interfere with subsequent use."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "Why should water-quality problems be investigated alongside disease signs?",
+      "options": [
+        {
+          "text": "A. Disease and water quality are unrelated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can cause stress and make fish more vulnerable to infection."
+        },
+        {
+          "text": "B. Water tests identify every pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can cause stress and make fish more vulnerable to infection."
+        },
+        {
+          "text": "C. It replaces veterinary assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor water conditions can cause stress and make fish more vulnerable to infection."
+        },
+        {
+          "text": "D. Poor water conditions can cause stress and make fish more vulnerable to infection",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor water conditions can cause stress and make fish more vulnerable to infection."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "What is the purpose of a biofilter in a recirculating system?",
+      "options": [
+        {
+          "text": "A. Supporting microbial conversion of nitrogenous waste compounds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Supporting microbial conversion of nitrogenous waste compounds."
+        },
+        {
+          "text": "B. Replacing mechanical filtration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supporting microbial conversion of nitrogenous waste compounds."
+        },
+        {
+          "text": "C. Producing oxygen from feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supporting microbial conversion of nitrogenous waste compounds."
+        },
+        {
+          "text": "D. Removing all viruses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Supporting microbial conversion of nitrogenous waste compounds."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "Why should a new biofilter be matured before full stocking or heavy feeding?",
+      "options": [
+        {
+          "text": "A. Bacteria appear instantly at any load",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The microbial community needs time to develop adequate waste-processing capacity."
+        },
+        {
+          "text": "B. The microbial community needs time to develop adequate waste-processing capacity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The microbial community needs time to develop adequate waste-processing capacity."
+        },
+        {
+          "text": "C. It makes water testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The microbial community needs time to develop adequate waste-processing capacity."
+        },
+        {
+          "text": "D. It removes all fish parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The microbial community needs time to develop adequate waste-processing capacity."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "What may happen if a biofilter is overloaded suddenly?",
+      "options": [
+        {
+          "text": "A. Ammonia or nitrite can accumulate faster than microbes process them",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ammonia or nitrite can accumulate faster than microbes process them."
+        },
+        {
+          "text": "B. Oxygen always rises",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ammonia or nitrite can accumulate faster than microbes process them."
+        },
+        {
+          "text": "C. Nitrate disappears completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ammonia or nitrite can accumulate faster than microbes process them."
+        },
+        {
+          "text": "D. Fish stop producing waste",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ammonia or nitrite can accumulate faster than microbes process them."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 441,
+      "question": "Why can some medicines harm biofilter performance?",
+      "options": [
+        {
+          "text": "A. Biofilters do not contain microbes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may affect beneficial microorganisms responsible for waste conversion."
+        },
+        {
+          "text": "B. It increases alkalinity automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may affect beneficial microorganisms responsible for waste conversion."
+        },
+        {
+          "text": "C. All medicines improve nitrification",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may affect beneficial microorganisms responsible for waste conversion."
+        },
+        {
+          "text": "D. They may affect beneficial microorganisms responsible for waste conversion",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may affect beneficial microorganisms responsible for waste conversion."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "Why should biofilter pH and alkalinity be monitored?",
+      "options": [
+        {
+          "text": "A. They remove the need for oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nitrification consumes alkalinity and can be impaired by unsuitable pH."
+        },
+        {
+          "text": "B. They measure feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nitrification consumes alkalinity and can be impaired by unsuitable pH."
+        },
+        {
+          "text": "C. Nitrification consumes alkalinity and can be impaired by unsuitable pH",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nitrification consumes alkalinity and can be impaired by unsuitable pH."
+        },
+        {
+          "text": "D. They determine fish genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nitrification consumes alkalinity and can be impaired by unsuitable pH."
+        }
+      ],
+      "part": 9
     }
   ]
 }
