@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 348,
+  "total": 399,
   "questions": [
     {
       "number": 1,
@@ -9398,6 +9398,1383 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 349,
+      "question": "Why should duck meat be chilled promptly after slaughter under hygienic conditions?",
+      "options": [
+        {
+          "text": "A. Chilling sterilises meat completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows bacterial growth and helps protect food safety."
+        },
+        {
+          "text": "B. It removes the need for clean processing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows bacterial growth and helps protect food safety."
+        },
+        {
+          "text": "C. Warm storage improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt chilling slows bacterial growth and helps protect food safety."
+        },
+        {
+          "text": "D. Prompt chilling slows bacterial growth and helps protect food safety",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt chilling slows bacterial growth and helps protect food safety."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 350,
+      "question": "What is cross-contamination in a duck processing area?",
+      "options": [
+        {
+          "text": "A. Transfer of harmful microorganisms from raw products, hands, tools or surfaces to other food",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Transfer of harmful microorganisms from raw products, hands, tools or surfaces to other food."
+        },
+        {
+          "text": "B. The weighing of dressed carcasses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms from raw products, hands, tools or surfaces to other food."
+        },
+        {
+          "text": "C. The separation of feathers from down",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms from raw products, hands, tools or surfaces to other food."
+        },
+        {
+          "text": "D. The natural cooling of meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms from raw products, hands, tools or surfaces to other food."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 351,
+      "question": "Why should raw duck meat be kept separate from ready-to-eat foods?",
+      "options": [
+        {
+          "text": "A. To make raw meat sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent pathogens from raw meat contaminating foods that may not be cooked again."
+        },
+        {
+          "text": "B. To prevent pathogens from raw meat contaminating foods that may not be cooked again",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To prevent pathogens from raw meat contaminating foods that may not be cooked again."
+        },
+        {
+          "text": "C. To increase the raw meat's temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent pathogens from raw meat contaminating foods that may not be cooked again."
+        },
+        {
+          "text": "D. To improve feather quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To prevent pathogens from raw meat contaminating foods that may not be cooked again."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "Why must workers wash hands after handling live ducks or raw carcasses?",
+      "options": [
+        {
+          "text": "A. To replace cleaning of tools",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce transfer of dirt and microorganisms to people, equipment and food."
+        },
+        {
+          "text": "B. To increase meat moisture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce transfer of dirt and microorganisms to people, equipment and food."
+        },
+        {
+          "text": "C. To reduce transfer of dirt and microorganisms to people, equipment and food",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce transfer of dirt and microorganisms to people, equipment and food."
+        },
+        {
+          "text": "D. To prevent the need for protective clothing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce transfer of dirt and microorganisms to people, equipment and food."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "Why should knives and processing surfaces be cleaned and sanitised between appropriate tasks?",
+      "options": [
+        {
+          "text": "A. To sharpen knives automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce microbial contamination and cross-contamination."
+        },
+        {
+          "text": "B. To increase carcass weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce microbial contamination and cross-contamination."
+        },
+        {
+          "text": "C. To remove the need for handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce microbial contamination and cross-contamination."
+        },
+        {
+          "text": "D. To reduce microbial contamination and cross-contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce microbial contamination and cross-contamination."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "What is the purpose of using potable water during food processing?",
+      "options": [
+        {
+          "text": "A. Water that meets drinking-water standards reduces the risk of contaminating food and equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water that meets drinking-water standards reduces the risk of contaminating food and equipment."
+        },
+        {
+          "text": "B. Potable water replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water that meets drinking-water standards reduces the risk of contaminating food and equipment."
+        },
+        {
+          "text": "C. Water quality matters only for live ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water that meets drinking-water standards reduces the risk of contaminating food and equipment."
+        },
+        {
+          "text": "D. Any pond water is suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water that meets drinking-water standards reduces the risk of contaminating food and equipment."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "Why should duck carcasses be protected from insects during processing and storage?",
+      "options": [
+        {
+          "text": "A. They prevent bacterial growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insects can carry contaminants and compromise hygiene."
+        },
+        {
+          "text": "B. Insects can carry contaminants and compromise hygiene",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Insects can carry contaminants and compromise hygiene."
+        },
+        {
+          "text": "C. Insects improve meat quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insects can carry contaminants and compromise hygiene."
+        },
+        {
+          "text": "D. They reduce the need for packaging",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Insects can carry contaminants and compromise hygiene."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "Why should slaughter and processing comply with local veterinary and food-safety requirements?",
+      "options": [
+        {
+          "text": "A. These rules protect animal welfare, workers and consumers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These rules protect animal welfare, workers and consumers."
+        },
+        {
+          "text": "B. Rules guarantee a particular market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These rules protect animal welfare, workers and consumers."
+        },
+        {
+          "text": "C. Compliance is needed only for export",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These rules protect animal welfare, workers and consumers."
+        },
+        {
+          "text": "D. It removes the need for hygiene checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These rules protect animal welfare, workers and consumers."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "What is a useful indicator to monitor when evaluating duck meat production?",
+      "options": [
+        {
+          "text": "A. Pond colour alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Live weight, carcass yield and feed consumed over the same production period."
+        },
+        {
+          "text": "B. The number of gates on the farm",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Live weight, carcass yield and feed consumed over the same production period."
+        },
+        {
+          "text": "C. The length of the feathers only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Live weight, carcass yield and feed consumed over the same production period."
+        },
+        {
+          "text": "D. Live weight, carcass yield and feed consumed over the same production period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Live weight, carcass yield and feed consumed over the same production period."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "What does carcass yield express?",
+      "options": [
+        {
+          "text": "A. The dressed carcass weight as a proportion of live weight, using a defined dressing method",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The dressed carcass weight as a proportion of live weight, using a defined dressing method."
+        },
+        {
+          "text": "B. The percentage of fertile eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The dressed carcass weight as a proportion of live weight, using a defined dressing method."
+        },
+        {
+          "text": "C. The volume of drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The dressed carcass weight as a proportion of live weight, using a defined dressing method."
+        },
+        {
+          "text": "D. The number of eggs per nest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The dressed carcass weight as a proportion of live weight, using a defined dressing method."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "Why should the method used to calculate carcass yield be kept consistent?",
+      "options": [
+        {
+          "text": "A. Consistency changes the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different dressing and trimming methods change the measured result."
+        },
+        {
+          "text": "B. Different dressing and trimming methods change the measured result",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Different dressing and trimming methods change the measured result."
+        },
+        {
+          "text": "C. It removes the need to weigh birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different dressing and trimming methods change the measured result."
+        },
+        {
+          "text": "D. It guarantees identical carcass weights",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different dressing and trimming methods change the measured result."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "Why is weighing feed offered and feed remaining useful?",
+      "options": [
+        {
+          "text": "A. It gives a better estimate of actual feed consumption",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It gives a better estimate of actual feed consumption."
+        },
+        {
+          "text": "B. It measures water pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a better estimate of actual feed consumption."
+        },
+        {
+          "text": "C. It determines the sex ratio",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a better estimate of actual feed consumption."
+        },
+        {
+          "text": "D. It replaces growth records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives a better estimate of actual feed consumption."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "What does mortality rate measure in a duck flock?",
+      "options": [
+        {
+          "text": "A. Eggs laid per female",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Deaths relative to the number of birds at risk or initially present over a stated period."
+        },
+        {
+          "text": "B. Feed cost per kilogram",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Deaths relative to the number of birds at risk or initially present over a stated period."
+        },
+        {
+          "text": "C. The percentage of birds with clean feathers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Deaths relative to the number of birds at risk or initially present over a stated period."
+        },
+        {
+          "text": "D. Deaths relative to the number of birds at risk or initially present over a stated period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Deaths relative to the number of birds at risk or initially present over a stated period."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "Why should flock performance comparisons account for age and production stage?",
+      "options": [
+        {
+          "text": "A. Age affects only feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Growth and nutrient needs differ between ducklings, growers and breeders."
+        },
+        {
+          "text": "B. It makes record keeping unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Growth and nutrient needs differ between ducklings, growers and breeders."
+        },
+        {
+          "text": "C. Growth and nutrient needs differ between ducklings, growers and breeders",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Growth and nutrient needs differ between ducklings, growers and breeders."
+        },
+        {
+          "text": "D. All ages have identical growth patterns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Growth and nutrient needs differ between ducklings, growers and breeders."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "What is a useful purpose of a production calendar?",
+      "options": [
+        {
+          "text": "A. It predicts every disease outbreak",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps plan brooding, vaccination advice, feed stages, egg collection and marketing."
+        },
+        {
+          "text": "B. It helps plan brooding, vaccination advice, feed stages, egg collection and marketing",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps plan brooding, vaccination advice, feed stages, egg collection and marketing."
+        },
+        {
+          "text": "C. It determines the genetic sex of ducklings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps plan brooding, vaccination advice, feed stages, egg collection and marketing."
+        },
+        {
+          "text": "D. It replaces daily checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps plan brooding, vaccination advice, feed stages, egg collection and marketing."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "Why should a farmer budget for feed before starting a commercial duck batch?",
+      "options": [
+        {
+          "text": "A. Feed is a major recurring cost and affects working capital and production viability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed is a major recurring cost and affects working capital and production viability."
+        },
+        {
+          "text": "B. Feed costs do not affect profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is a major recurring cost and affects working capital and production viability."
+        },
+        {
+          "text": "C. It guarantees market demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is a major recurring cost and affects working capital and production viability."
+        },
+        {
+          "text": "D. It removes the need for veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is a major recurring cost and affects working capital and production viability."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "What is gross margin in a simple farm enterprise budget?",
+      "options": [
+        {
+          "text": "A. Bird numbers divided by house area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Revenue minus variable costs, before fixed costs are deducted."
+        },
+        {
+          "text": "B. Feed intake multiplied by egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Revenue minus variable costs, before fixed costs are deducted."
+        },
+        {
+          "text": "C. Revenue plus all expenses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Revenue minus variable costs, before fixed costs are deducted."
+        },
+        {
+          "text": "D. Revenue minus variable costs, before fixed costs are deducted",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Revenue minus variable costs, before fixed costs are deducted."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "Why should fixed and variable costs be recorded separately?",
+      "options": [
+        {
+          "text": "A. It guarantees a profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps the farmer understand costs that change with output versus costs incurred over time."
+        },
+        {
+          "text": "B. It replaces sales records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps the farmer understand costs that change with output versus costs incurred over time."
+        },
+        {
+          "text": "C. It helps the farmer understand costs that change with output versus costs incurred over time",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps the farmer understand costs that change with output versus costs incurred over time."
+        },
+        {
+          "text": "D. It makes all expenses disappear",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps the farmer understand costs that change with output versus costs incurred over time."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "Why should a farmer record the price and quantity of duck eggs or meat sold?",
+      "options": [
+        {
+          "text": "A. They determine incubation temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sales records help calculate revenue, margins and market performance."
+        },
+        {
+          "text": "B. They measure water consumption",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sales records help calculate revenue, margins and market performance."
+        },
+        {
+          "text": "C. Sales records help calculate revenue, margins and market performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Sales records help calculate revenue, margins and market performance."
+        },
+        {
+          "text": "D. They prevent spoilage automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sales records help calculate revenue, margins and market performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "Why is it useful to identify target buyers before expanding duck production?",
+      "options": [
+        {
+          "text": "A. Demand, preferred product type and delivery requirements influence a viable production plan",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Demand, preferred product type and delivery requirements influence a viable production plan."
+        },
+        {
+          "text": "B. Buyers determine the birds' genetic code",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Demand, preferred product type and delivery requirements influence a viable production plan."
+        },
+        {
+          "text": "C. It removes the need to calculate costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Demand, preferred product type and delivery requirements influence a viable production plan."
+        },
+        {
+          "text": "D. It guarantees a fixed selling price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Demand, preferred product type and delivery requirements influence a viable production plan."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "What is a responsible approach when demand is uncertain?",
+      "options": [
+        {
+          "text": "A. Ignore local market prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Start at a manageable scale, verify buyers and monitor costs before expanding."
+        },
+        {
+          "text": "B. Stop keeping production records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Start at a manageable scale, verify buyers and monitor costs before expanding."
+        },
+        {
+          "text": "C. Immediately build the largest possible flock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Start at a manageable scale, verify buyers and monitor costs before expanding."
+        },
+        {
+          "text": "D. Start at a manageable scale, verify buyers and monitor costs before expanding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Start at a manageable scale, verify buyers and monitor costs before expanding."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "Why should transport crates for live ducks provide adequate ventilation?",
+      "options": [
+        {
+          "text": "A. Poor ventilation can cause heat stress and suffocation during transport",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor ventilation can cause heat stress and suffocation during transport."
+        },
+        {
+          "text": "B. Closed crates improve welfare",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor ventilation can cause heat stress and suffocation during transport."
+        },
+        {
+          "text": "C. Air movement is needed only after arrival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor ventilation can cause heat stress and suffocation during transport."
+        },
+        {
+          "text": "D. Ventilation increases overcrowding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor ventilation can cause heat stress and suffocation during transport."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "Why should ducks not be overcrowded in transport crates?",
+      "options": [
+        {
+          "text": "A. It reduces stress in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and difficulty maintaining normal posture."
+        },
+        {
+          "text": "B. It prevents all movement-related injuries",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and difficulty maintaining normal posture."
+        },
+        {
+          "text": "C. Overcrowding increases injury, heat stress and difficulty maintaining normal posture",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Overcrowding increases injury, heat stress and difficulty maintaining normal posture."
+        },
+        {
+          "text": "D. It improves air quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Overcrowding increases injury, heat stress and difficulty maintaining normal posture."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "Why should transport time and weather conditions be considered when moving ducks?",
+      "options": [
+        {
+          "text": "A. Long journeys and heat or cold can increase stress and welfare risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Long journeys and heat or cold can increase stress and welfare risks."
+        },
+        {
+          "text": "B. Weather has no effect on live birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Long journeys and heat or cold can increase stress and welfare risks."
+        },
+        {
+          "text": "C. Long journeys improve hydration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Long journeys and heat or cold can increase stress and welfare risks."
+        },
+        {
+          "text": "D. It determines the sex of the flock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Long journeys and heat or cold can increase stress and welfare risks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "What should be checked before loading ducks for transport?",
+      "options": [
+        {
+          "text": "A. Only the vehicle's paint colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crate condition, ventilation, vehicle security and suitability of the birds for travel."
+        },
+        {
+          "text": "B. The number of eggs in storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crate condition, ventilation, vehicle security and suitability of the birds for travel."
+        },
+        {
+          "text": "C. Whether feed bags are full",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Crate condition, ventilation, vehicle security and suitability of the birds for travel."
+        },
+        {
+          "text": "D. Crate condition, ventilation, vehicle security and suitability of the birds for travel",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Crate condition, ventilation, vehicle security and suitability of the birds for travel."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "Why should injured or severely ill ducks be assessed before transport?",
+      "options": [
+        {
+          "text": "A. Moving unfit birds can worsen suffering and may breach animal-welfare requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moving unfit birds can worsen suffering and may breach animal-welfare requirements."
+        },
+        {
+          "text": "B. Ill birds cannot transmit disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moving unfit birds can worsen suffering and may breach animal-welfare requirements."
+        },
+        {
+          "text": "C. It improves meat tenderness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moving unfit birds can worsen suffering and may breach animal-welfare requirements."
+        },
+        {
+          "text": "D. Transport cures injuries",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moving unfit birds can worsen suffering and may breach animal-welfare requirements."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "What is the purpose of allowing newly arrived ducks time to settle in a prepared pen?",
+      "options": [
+        {
+          "text": "A. It makes quarantine unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives them access to water, feed and a suitable environment while reducing handling stress."
+        },
+        {
+          "text": "B. It gives them access to water, feed and a suitable environment while reducing handling stress",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It gives them access to water, feed and a suitable environment while reducing handling stress."
+        },
+        {
+          "text": "C. It prevents them from resting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives them access to water, feed and a suitable environment while reducing handling stress."
+        },
+        {
+          "text": "D. It replaces health checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It gives them access to water, feed and a suitable environment while reducing handling stress."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "Why should the source and movement history of purchased ducks be documented?",
+      "options": [
+        {
+          "text": "A. It replaces quarantine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate disease events and manage biosecurity."
+        },
+        {
+          "text": "B. It guarantees the birds are all related",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate disease events and manage biosecurity."
+        },
+        {
+          "text": "C. Traceability helps investigate disease events and manage biosecurity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Traceability helps investigate disease events and manage biosecurity."
+        },
+        {
+          "text": "D. It predicts their egg colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Traceability helps investigate disease events and manage biosecurity."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "Why is it important to check local regulations before moving ducks between regions?",
+      "options": [
+        {
+          "text": "A. All regions have identical rules",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animal movement may be subject to disease-control, permit or veterinary requirements."
+        },
+        {
+          "text": "B. Regulations apply only to wild birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animal movement may be subject to disease-control, permit or veterinary requirements."
+        },
+        {
+          "text": "C. Movement documents are needed only for eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Animal movement may be subject to disease-control, permit or veterinary requirements."
+        },
+        {
+          "text": "D. Animal movement may be subject to disease-control, permit or veterinary requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Animal movement may be subject to disease-control, permit or veterinary requirements."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "What is a zoonotic disease?",
+      "options": [
+        {
+          "text": "A. A disease that can be transmitted between animals and people",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A disease that can be transmitted between animals and people."
+        },
+        {
+          "text": "B. A condition caused only by cold weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease that can be transmitted between animals and people."
+        },
+        {
+          "text": "C. A nutritional deficiency in duck feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease that can be transmitted between animals and people."
+        },
+        {
+          "text": "D. A disease affecting only plant roots",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A disease that can be transmitted between animals and people."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "Why should people avoid handling sick or dead ducks with bare hands?",
+      "options": [
+        {
+          "text": "A. It improves worker grip",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some infectious agents can expose people through direct contact or contaminated materials."
+        },
+        {
+          "text": "B. Some infectious agents can expose people through direct contact or contaminated materials",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some infectious agents can expose people through direct contact or contaminated materials."
+        },
+        {
+          "text": "C. Bare hands disinfect feathers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some infectious agents can expose people through direct contact or contaminated materials."
+        },
+        {
+          "text": "D. Dead birds cannot carry pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some infectious agents can expose people through direct contact or contaminated materials."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "What should workers use when handling carcasses or cleaning contaminated areas?",
+      "options": [
+        {
+          "text": "A. The same gloves for every clean and dirty task",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate protective equipment and hygiene procedures for the task."
+        },
+        {
+          "text": "B. Only jewellery and sandals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate protective equipment and hygiene procedures for the task."
+        },
+        {
+          "text": "C. Appropriate protective equipment and hygiene procedures for the task",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate protective equipment and hygiene procedures for the task."
+        },
+        {
+          "text": "D. No protective equipment if the area is outdoors",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate protective equipment and hygiene procedures for the task."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "Why should children be supervised around duck flocks and their droppings?",
+      "options": [
+        {
+          "text": "A. Duck droppings are always sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct contact with birds and contaminated environments can expose children to germs."
+        },
+        {
+          "text": "B. Children cannot catch animal-associated infections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct contact with birds and contaminated environments can expose children to germs."
+        },
+        {
+          "text": "C. Supervision changes the flock's immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Direct contact with birds and contaminated environments can expose children to germs."
+        },
+        {
+          "text": "D. Direct contact with birds and contaminated environments can expose children to germs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Direct contact with birds and contaminated environments can expose children to germs."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "Why should hands be washed with soap and safe water after visiting a duck enclosure?",
+      "options": [
+        {
+          "text": "A. It removes contamination that may have been picked up from birds, litter or equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It removes contamination that may have been picked up from birds, litter or equipment."
+        },
+        {
+          "text": "B. It prevents every possible infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes contamination that may have been picked up from birds, litter or equipment."
+        },
+        {
+          "text": "C. It sterilises clothing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes contamination that may have been picked up from birds, litter or equipment."
+        },
+        {
+          "text": "D. It makes gloves unnecessary for all work",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes contamination that may have been picked up from birds, litter or equipment."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why should farm workers avoid eating or drinking inside duck houses?",
+      "options": [
+        {
+          "text": "A. It prevents rodents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Food and drink can become contaminated by dust, droppings or dirty hands."
+        },
+        {
+          "text": "B. Food and drink can become contaminated by dust, droppings or dirty hands",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Food and drink can become contaminated by dust, droppings or dirty hands."
+        },
+        {
+          "text": "C. Eating inside improves bird growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Food and drink can become contaminated by dust, droppings or dirty hands."
+        },
+        {
+          "text": "D. It reduces the need for clean storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Food and drink can become contaminated by dust, droppings or dirty hands."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "Why should farm clothing and boots be kept separate from household items where possible?",
+      "options": [
+        {
+          "text": "A. This helps prevent carrying farm contamination into living areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This helps prevent carrying farm contamination into living areas."
+        },
+        {
+          "text": "B. It prevents all diseases without cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps prevent carrying farm contamination into living areas."
+        },
+        {
+          "text": "C. It changes the worker's immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps prevent carrying farm contamination into living areas."
+        },
+        {
+          "text": "D. It replaces hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This helps prevent carrying farm contamination into living areas."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "What is a farm biosecurity entry point?",
+      "options": [
+        {
+          "text": "A. A place where ducks are sold",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A controlled area where people and equipment follow hygiene and access procedures before entering production zones."
+        },
+        {
+          "text": "B. A pond used for bathing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A controlled area where people and equipment follow hygiene and access procedures before entering production zones."
+        },
+        {
+          "text": "C. A feed storage silo",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A controlled area where people and equipment follow hygiene and access procedures before entering production zones."
+        },
+        {
+          "text": "D. A controlled area where people and equipment follow hygiene and access procedures before entering production zones",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A controlled area where people and equipment follow hygiene and access procedures before entering production zones."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 386,
+      "question": "Why should farm records identify the house or pen where a health problem occurred?",
+      "options": [
+        {
+          "text": "A. It removes the need to isolate sick birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace the affected group and assess possible spread or shared exposures."
+        },
+        {
+          "text": "B. It determines egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace the affected group and assess possible spread or shared exposures."
+        },
+        {
+          "text": "C. It helps trace the affected group and assess possible spread or shared exposures",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps trace the affected group and assess possible spread or shared exposures."
+        },
+        {
+          "text": "D. It changes the diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps trace the affected group and assess possible spread or shared exposures."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "What should be done if several pens show a sudden increase in deaths?",
+      "options": [
+        {
+          "text": "A. Move all birds to a market",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Promptly contact a veterinarian or animal-health authority and follow movement and biosecurity advice."
+        },
+        {
+          "text": "B. Promptly contact a veterinarian or animal-health authority and follow movement and biosecurity advice",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Promptly contact a veterinarian or animal-health authority and follow movement and biosecurity advice."
+        },
+        {
+          "text": "C. Mix the pens together",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Promptly contact a veterinarian or animal-health authority and follow movement and biosecurity advice."
+        },
+        {
+          "text": "D. Wait several weeks before recording it",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Promptly contact a veterinarian or animal-health authority and follow movement and biosecurity advice."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "Why should diagnostic samples be collected and submitted under veterinary guidance?",
+      "options": [
+        {
+          "text": "A. Correct sampling and handling improve the chance of obtaining useful test results",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct sampling and handling improve the chance of obtaining useful test results."
+        },
+        {
+          "text": "B. Samples do not need labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct sampling and handling improve the chance of obtaining useful test results."
+        },
+        {
+          "text": "C. Any sample container is always suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct sampling and handling improve the chance of obtaining useful test results."
+        },
+        {
+          "text": "D. Testing replaces observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct sampling and handling improve the chance of obtaining useful test results."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "What is the purpose of vaccination in a duck flock when a vaccine is recommended for the local disease risk?",
+      "options": [
+        {
+          "text": "A. It replaces sanitation and biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps build specific immunity against the targeted disease."
+        },
+        {
+          "text": "B. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps build specific immunity against the targeted disease."
+        },
+        {
+          "text": "C. It treats every existing infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps build specific immunity against the targeted disease."
+        },
+        {
+          "text": "D. It helps build specific immunity against the targeted disease",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps build specific immunity against the targeted disease."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "Why should vaccine storage and administration follow the manufacturer's label and veterinary guidance?",
+      "options": [
+        {
+          "text": "A. More vaccine always gives stronger protection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or use can reduce vaccine effectiveness and safety."
+        },
+        {
+          "text": "B. Labels are only for record keeping",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or use can reduce vaccine effectiveness and safety."
+        },
+        {
+          "text": "C. Incorrect storage or use can reduce vaccine effectiveness and safety",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect storage or use can reduce vaccine effectiveness and safety."
+        },
+        {
+          "text": "D. Vaccines remain effective at any temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect storage or use can reduce vaccine effectiveness and safety."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 391,
+      "question": "Why should vaccination records include product, batch, date and birds treated?",
+      "options": [
+        {
+          "text": "A. They determine carcass yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability and assessment of flock protection programmes."
+        },
+        {
+          "text": "B. They support traceability and assessment of flock protection programmes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support traceability and assessment of flock protection programmes."
+        },
+        {
+          "text": "C. They prevent all disease exposure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability and assessment of flock protection programmes."
+        },
+        {
+          "text": "D. They replace the vaccine label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support traceability and assessment of flock protection programmes."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 392,
+      "question": "Why should vaccination schedules not be copied blindly from another farm?",
+      "options": [
+        {
+          "text": "A. Disease risks, products, local rules and veterinary recommendations can differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Disease risks, products, local rules and veterinary recommendations can differ."
+        },
+        {
+          "text": "B. Every farm has identical disease pressure",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, products, local rules and veterinary recommendations can differ."
+        },
+        {
+          "text": "C. Vaccines work only on one breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, products, local rules and veterinary recommendations can differ."
+        },
+        {
+          "text": "D. Schedules are based only on feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Disease risks, products, local rules and veterinary recommendations can differ."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 393,
+      "question": "What is an appropriate response to suspected botulism or another serious toxin-related illness in ducks?",
+      "options": [
+        {
+          "text": "A. Feed more of the suspected material",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary help and investigate possible contaminated feed or water sources."
+        },
+        {
+          "text": "B. Move affected birds into a clean flock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary help and investigate possible contaminated feed or water sources."
+        },
+        {
+          "text": "C. Wait for the flock to recover without action",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Seek urgent veterinary help and investigate possible contaminated feed or water sources."
+        },
+        {
+          "text": "D. Seek urgent veterinary help and investigate possible contaminated feed or water sources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Seek urgent veterinary help and investigate possible contaminated feed or water sources."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 394,
+      "question": "Why should stagnant water and decaying organic matter be managed carefully around duck areas?",
+      "options": [
+        {
+          "text": "A. They improve every water source",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can support organisms or toxins associated with disease risks."
+        },
+        {
+          "text": "B. They eliminate insects",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can support organisms or toxins associated with disease risks."
+        },
+        {
+          "text": "C. They can support organisms or toxins associated with disease risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can support organisms or toxins associated with disease risks."
+        },
+        {
+          "text": "D. They sterilise the environment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can support organisms or toxins associated with disease risks."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 395,
+      "question": "Why is it important to identify the actual cause before treating a flock for parasites?",
+      "options": [
+        {
+          "text": "A. All parasites respond to the same medicine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different parasites require different control methods and unnecessary treatment can be harmful."
+        },
+        {
+          "text": "B. Diagnosis is unnecessary in poultry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different parasites require different control methods and unnecessary treatment can be harmful."
+        },
+        {
+          "text": "C. Different parasites require different control methods and unnecessary treatment can be harmful",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Different parasites require different control methods and unnecessary treatment can be harmful."
+        },
+        {
+          "text": "D. Treatment never has withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Different parasites require different control methods and unnecessary treatment can be harmful."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 396,
+      "question": "What is the purpose of monitoring for external parasites such as mites or lice?",
+      "options": [
+        {
+          "text": "A. Heavy infestations can irritate birds, damage condition and reduce performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Heavy infestations can irritate birds, damage condition and reduce performance."
+        },
+        {
+          "text": "B. They increase egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy infestations can irritate birds, damage condition and reduce performance."
+        },
+        {
+          "text": "C. They improve feather insulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy infestations can irritate birds, damage condition and reduce performance."
+        },
+        {
+          "text": "D. They replace the need for cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heavy infestations can irritate birds, damage condition and reduce performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 397,
+      "question": "Why should wild birds and rodents be kept away from feed stores?",
+      "options": [
+        {
+          "text": "A. They improve feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume feed, contaminate it and carry disease agents."
+        },
+        {
+          "text": "B. They provide reliable pest control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume feed, contaminate it and carry disease agents."
+        },
+        {
+          "text": "C. They prevent mould",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can consume feed, contaminate it and carry disease agents."
+        },
+        {
+          "text": "D. They can consume feed, contaminate it and carry disease agents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can consume feed, contaminate it and carry disease agents."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 398,
+      "question": "What is an integrated pest-management approach on a duck farm?",
+      "options": [
+        {
+          "text": "A. Combining sanitation, exclusion, monitoring and targeted control rather than relying on one method alone",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Combining sanitation, exclusion, monitoring and targeted control rather than relying on one method alone."
+        },
+        {
+          "text": "B. Leaving spilled feed to attract pests",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combining sanitation, exclusion, monitoring and targeted control rather than relying on one method alone."
+        },
+        {
+          "text": "C. Keeping doors open at all times",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combining sanitation, exclusion, monitoring and targeted control rather than relying on one method alone."
+        },
+        {
+          "text": "D. Using poison without monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Combining sanitation, exclusion, monitoring and targeted control rather than relying on one method alone."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 399,
+      "question": "Why should rodenticide use around livestock areas be carefully controlled?",
+      "options": [
+        {
+          "text": "A. Rodenticides are harmless to all animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly placed bait can poison ducks, pets, wildlife or contaminate feed."
+        },
+        {
+          "text": "B. It removes the need for secure storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly placed bait can poison ducks, pets, wildlife or contaminate feed."
+        },
+        {
+          "text": "C. Poorly placed bait can poison ducks, pets, wildlife or contaminate feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poorly placed bait can poison ducks, pets, wildlife or contaminate feed."
+        },
+        {
+          "text": "D. Bait should be mixed into duck feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poorly placed bait can poison ducks, pets, wildlife or contaminate feed."
+        }
+      ],
+      "part": 8
     }
   ]
 }
