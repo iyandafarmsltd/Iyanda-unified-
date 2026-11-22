@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 443,
+  "total": 500,
   "questions": [
     {
       "number": 1,
@@ -11963,6 +11963,1545 @@
         }
       ],
       "part": 9
+    },
+    {
+      "number": 444,
+      "question": "What is a production budget?",
+      "options": [
+        {
+          "text": "A. A forecast of farm income and expenses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A forecast of farm income and expenses."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A forecast of farm income and expenses."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A forecast of farm income and expenses."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A forecast of farm income and expenses."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 445,
+      "question": "Why separate fixed and variable costs?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They respond differently to production volume."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They respond differently to production volume."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They respond differently to production volume."
+        },
+        {
+          "text": "D. They respond differently to production volume",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They respond differently to production volume."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 446,
+      "question": "Which is a variable goat-farm cost?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchased feed that varies with herd size."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchased feed that varies with herd size."
+        },
+        {
+          "text": "C. Purchased feed that varies with herd size",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Purchased feed that varies with herd size."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Purchased feed that varies with herd size."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 447,
+      "question": "Which is usually a fixed short-term cost?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A lease unchanged by herd output."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A lease unchanged by herd output."
+        },
+        {
+          "text": "C. A lease unchanged by herd output",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A lease unchanged by herd output."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A lease unchanged by herd output."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 448,
+      "question": "What does gross margin compare?",
+      "options": [
+        {
+          "text": "A. Enterprise revenue with variable costs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Enterprise revenue with variable costs."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Enterprise revenue with variable costs."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Enterprise revenue with variable costs."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Enterprise revenue with variable costs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 449,
+      "question": "What is cash flow?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing of money entering and leaving a business."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing of money entering and leaving a business."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Timing of money entering and leaving a business."
+        },
+        {
+          "text": "D. Timing of money entering and leaving a business",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Timing of money entering and leaving a business."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 450,
+      "question": "Why can a profitable farm face a cash shortage?",
+      "options": [
+        {
+          "text": "A. Income and expenses occur at different times",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Income and expenses occur at different times."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Income and expenses occur at different times."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Income and expenses occur at different times."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Income and expenses occur at different times."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 451,
+      "question": "Why count feed inventory?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify usage, losses and spoilage."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify usage, losses and spoilage."
+        },
+        {
+          "text": "C. To identify usage, losses and spoilage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify usage, losses and spoilage."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify usage, losses and spoilage."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 452,
+      "question": "Why compare feed delivered with feed consumed?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reveal spillage, spoilage or record errors."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reveal spillage, spoilage or record errors."
+        },
+        {
+          "text": "C. To reveal spillage, spoilage or record errors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reveal spillage, spoilage or record errors."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reveal spillage, spoilage or record errors."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 453,
+      "question": "Why record animal purchases?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For cost tracking, identity, health history and traceability."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For cost tracking, identity, health history and traceability."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For cost tracking, identity, health history and traceability."
+        },
+        {
+          "text": "D. For cost tracking, identity, health history and traceability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: For cost tracking, identity, health history and traceability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 454,
+      "question": "Why include identity and weight in sale records?",
+      "options": [
+        {
+          "text": "A. For traceability and accurate accounts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: For traceability and accurate accounts."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For traceability and accurate accounts."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For traceability and accurate accounts."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is For traceability and accurate accounts."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 455,
+      "question": "What is a market specification?",
+      "options": [
+        {
+          "text": "A. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyer requirements for weight, age, condition or type."
+        },
+        {
+          "text": "B. Buyer requirements for weight, age, condition or type",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Buyer requirements for weight, age, condition or type."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyer requirements for weight, age, condition or type."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyer requirements for weight, age, condition or type."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 456,
+      "question": "Why confirm buyer requirements before finishing goats?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To target the desired type and avoid unwanted specifications."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To target the desired type and avoid unwanted specifications."
+        },
+        {
+          "text": "C. To target the desired type and avoid unwanted specifications",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To target the desired type and avoid unwanted specifications."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To target the desired type and avoid unwanted specifications."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 457,
+      "question": "Why weigh goats before sale?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support transparent pricing and accurate transactions."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support transparent pricing and accurate transactions."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To support transparent pricing and accurate transactions."
+        },
+        {
+          "text": "D. To support transparent pricing and accurate transactions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To support transparent pricing and accurate transactions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 458,
+      "question": "What is liveweight pricing?",
+      "options": [
+        {
+          "text": "A. A price based on measured live body weight",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A price based on measured live body weight."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A price based on measured live body weight."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A price based on measured live body weight."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A price based on measured live body weight."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 459,
+      "question": "What is dressing percentage?",
+      "options": [
+        {
+          "text": "A. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass weight as a proportion of liveweight."
+        },
+        {
+          "text": "B. Carcass weight as a proportion of liveweight",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Carcass weight as a proportion of liveweight."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass weight as a proportion of liveweight."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass weight as a proportion of liveweight."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 460,
+      "question": "Why use consistent dressing definitions?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass preparation affects the result."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass preparation affects the result."
+        },
+        {
+          "text": "C. Carcass preparation affects the result",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Carcass preparation affects the result."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Carcass preparation affects the result."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 461,
+      "question": "Why avoid unjustified water restriction before transport?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause dehydration and compromise welfare."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause dehydration and compromise welfare."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can cause dehydration and compromise welfare."
+        },
+        {
+          "text": "D. It can cause dehydration and compromise welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can cause dehydration and compromise welfare."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 462,
+      "question": "Why must goats be fit for transport?",
+      "options": [
+        {
+          "text": "A. Unfit animals may suffer or deteriorate during travel",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unfit animals may suffer or deteriorate during travel."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer or deteriorate during travel."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer or deteriorate during travel."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unfit animals may suffer or deteriorate during travel."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 463,
+      "question": "What is a value chain?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activities from inputs and rearing through processing and sale."
+        },
+        {
+          "text": "B. Activities from inputs and rearing through processing and sale",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Activities from inputs and rearing through processing and sale."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activities from inputs and rearing through processing and sale."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Activities from inputs and rearing through processing and sale."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 464,
+      "question": "How can hygienic processing add value?",
+      "options": [
+        {
+          "text": "A. It can create products suited to customer needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can create products suited to customer needs."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can create products suited to customer needs."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can create products suited to customer needs."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can create products suited to customer needs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 465,
+      "question": "Why identify a target customer segment?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers value different products, quantities and services."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers value different products, quantities and services."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers value different products, quantities and services."
+        },
+        {
+          "text": "D. Buyers value different products, quantities and services",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Buyers value different products, quantities and services."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 466,
+      "question": "What is product differentiation?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Features that distinguish a product for a market."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Features that distinguish a product for a market."
+        },
+        {
+          "text": "C. Features that distinguish a product for a market",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Features that distinguish a product for a market."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Features that distinguish a product for a market."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 467,
+      "question": "Why calculate transport cost per animal?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To compare delivery options and estimate net returns."
+        },
+        {
+          "text": "B. To compare delivery options and estimate net returns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To compare delivery options and estimate net returns."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To compare delivery options and estimate net returns."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To compare delivery options and estimate net returns."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 468,
+      "question": "Why agree delivery arrangements before dispatch?",
+      "options": [
+        {
+          "text": "A. To clarify timing, quantity, handling and responsibility",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To clarify timing, quantity, handling and responsibility."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To clarify timing, quantity, handling and responsibility."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To clarify timing, quantity, handling and responsibility."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To clarify timing, quantity, handling and responsibility."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 469,
+      "question": "Why record customer complaints?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify recurring problems and guide improvements."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify recurring problems and guide improvements."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify recurring problems and guide improvements."
+        },
+        {
+          "text": "D. To identify recurring problems and guide improvements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify recurring problems and guide improvements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 470,
+      "question": "What is a farm KPI?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A measurable result such as kid survival or growth."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A measurable result such as kid survival or growth."
+        },
+        {
+          "text": "C. A measurable result such as kid survival or growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A measurable result such as kid survival or growth."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A measurable result such as kid survival or growth."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 471,
+      "question": "How can kid survival be measured?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kids alive at a defined age relative to a defined starting group."
+        },
+        {
+          "text": "B. Kids alive at a defined age relative to a defined starting group",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Kids alive at a defined age relative to a defined starting group."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kids alive at a defined age relative to a defined starting group."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kids alive at a defined age relative to a defined starting group."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 472,
+      "question": "Why define reproductive measures clearly?",
+      "options": [
+        {
+          "text": "A. Their meaning depends on consistent numerators and denominators",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their meaning depends on consistent numerators and denominators."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their meaning depends on consistent numerators and denominators."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their meaning depends on consistent numerators and denominators."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their meaning depends on consistent numerators and denominators."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 473,
+      "question": "What does kidding percentage describe?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does kidding relative to a defined group exposed or bred."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does kidding relative to a defined group exposed or bred."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Does kidding relative to a defined group exposed or bred."
+        },
+        {
+          "text": "D. Does kidding relative to a defined group exposed or bred",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Does kidding relative to a defined group exposed or bred."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 474,
+      "question": "Why record abortions separately from live births?",
+      "options": [
+        {
+          "text": "A. They have different causes and herd-health implications",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They have different causes and herd-health implications."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They have different causes and herd-health implications."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They have different causes and herd-health implications."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They have different causes and herd-health implications."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 475,
+      "question": "What is a replacement doe?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A young female selected to enter the breeding herd."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A young female selected to enter the breeding herd."
+        },
+        {
+          "text": "C. A young female selected to enter the breeding herd",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A young female selected to enter the breeding herd."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A young female selected to enter the breeding herd."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 476,
+      "question": "Why select replacements for health and sound structure?",
+      "options": [
+        {
+          "text": "A. They must remain productive through multiple breeding seasons",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They must remain productive through multiple breeding seasons."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They must remain productive through multiple breeding seasons."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They must remain productive through multiple breeding seasons."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They must remain productive through multiple breeding seasons."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 477,
+      "question": "Why not keep every female kid?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, space and breeding goals limit herd capacity."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, space and breeding goals limit herd capacity."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, space and breeding goals limit herd capacity."
+        },
+        {
+          "text": "D. Feed, space and breeding goals limit herd capacity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed, space and breeding goals limit herd capacity."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 478,
+      "question": "What is culling?",
+      "options": [
+        {
+          "text": "A. Removing animals from the herd for defined reasons",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Removing animals from the herd for defined reasons."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing animals from the herd for defined reasons."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing animals from the herd for defined reasons."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing animals from the herd for defined reasons."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 479,
+      "question": "Why base culling on records and welfare?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify persistently unsuitable animals fairly."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify persistently unsuitable animals fairly."
+        },
+        {
+          "text": "C. To identify persistently unsuitable animals fairly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify persistently unsuitable animals fairly."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify persistently unsuitable animals fairly."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 480,
+      "question": "What is genetic diversity?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Variety of inherited genetic differences among animals."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Variety of inherited genetic differences among animals."
+        },
+        {
+          "text": "C. Variety of inherited genetic differences among animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Variety of inherited genetic differences among animals."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Variety of inherited genetic differences among animals."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 481,
+      "question": "Why maintain genetic diversity?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports selection and reduces excessive-relatedness risks."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports selection and reduces excessive-relatedness risks."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports selection and reduces excessive-relatedness risks."
+        },
+        {
+          "text": "D. It supports selection and reduces excessive-relatedness risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports selection and reduces excessive-relatedness risks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 482,
+      "question": "What is genotype-by-environment interaction?",
+      "options": [
+        {
+          "text": "A. Genotype performance changes relative to others across environments",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Genotype performance changes relative to others across environments."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Genotype performance changes relative to others across environments."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Genotype performance changes relative to others across environments."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Genotype performance changes relative to others across environments."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 483,
+      "question": "Why evaluate breed performance locally?",
+      "options": [
+        {
+          "text": "A. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Results elsewhere may not transfer directly."
+        },
+        {
+          "text": "B. Results elsewhere may not transfer directly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Results elsewhere may not transfer directly."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Results elsewhere may not transfer directly."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Results elsewhere may not transfer directly."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 484,
+      "question": "Why compare research growth figures cautiously?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, climate, age, sex and methods may differ."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, climate, age, sex and methods may differ."
+        },
+        {
+          "text": "C. Feed, climate, age, sex and methods may differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed, climate, age, sex and methods may differ."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed, climate, age, sex and methods may differ."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 485,
+      "question": "What is selection pressure?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intensity with which animals are chosen to contribute genes."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intensity with which animals are chosen to contribute genes."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intensity with which animals are chosen to contribute genes."
+        },
+        {
+          "text": "D. Intensity with which animals are chosen to contribute genes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Intensity with which animals are chosen to contribute genes."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 486,
+      "question": "Why balance selection across traits?",
+      "options": [
+        {
+          "text": "A. Narrow selection can worsen other important traits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Narrow selection can worsen other important traits."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Narrow selection can worsen other important traits."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Narrow selection can worsen other important traits."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Narrow selection can worsen other important traits."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 487,
+      "question": "What is a selection index?",
+      "options": [
+        {
+          "text": "A. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A combined measure weighting traits for breeding goals."
+        },
+        {
+          "text": "B. A combined measure weighting traits for breeding goals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A combined measure weighting traits for breeding goals."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A combined measure weighting traits for breeding goals."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A combined measure weighting traits for breeding goals."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 488,
+      "question": "How can disease-resilience records help breeding?",
+      "options": [
+        {
+          "text": "A. They may identify animals coping better under defined challenges",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may identify animals coping better under defined challenges."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may identify animals coping better under defined challenges."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may identify animals coping better under defined challenges."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may identify animals coping better under defined challenges."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 489,
+      "question": "Why investigate recurring health problems before breeding?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inherited, infectious or management causes may affect offspring."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inherited, infectious or management causes may affect offspring."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Inherited, infectious or management causes may affect offspring."
+        },
+        {
+          "text": "D. Inherited, infectious or management causes may affect offspring",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Inherited, infectious or management causes may affect offspring."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 490,
+      "question": "What is a biosecurity boundary?",
+      "options": [
+        {
+          "text": "A. A way to control entry of people, animals and equipment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A way to control entry of people, animals and equipment."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A way to control entry of people, animals and equipment."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A way to control entry of people, animals and equipment."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A way to control entry of people, animals and equipment."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 491,
+      "question": "Why require visitor sign-in and hygiene?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track movements and reduce disease introduction."
+        },
+        {
+          "text": "B. To track movements and reduce disease introduction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To track movements and reduce disease introduction."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track movements and reduce disease introduction."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track movements and reduce disease introduction."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 492,
+      "question": "Why assess feed suppliers?",
+      "options": [
+        {
+          "text": "A. Reliable suppliers reduce poor-quality or contaminated feed risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reliable suppliers reduce poor-quality or contaminated feed risks."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable suppliers reduce poor-quality or contaminated feed risks."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable suppliers reduce poor-quality or contaminated feed risks."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable suppliers reduce poor-quality or contaminated feed risks."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 493,
+      "question": "What should a feed label show?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species class, analysis, ingredients, directions, batch and date."
+        },
+        {
+          "text": "B. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species class, analysis, ingredients, directions, batch and date."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Species class, analysis, ingredients, directions, batch and date."
+        },
+        {
+          "text": "D. Species class, analysis, ingredients, directions, batch and date",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Species class, analysis, ingredients, directions, batch and date."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 494,
+      "question": "Why retain feed batch details?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To trace a suspect batch and inform suppliers or authorities."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To trace a suspect batch and inform suppliers or authorities."
+        },
+        {
+          "text": "C. To trace a suspect batch and inform suppliers or authorities",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To trace a suspect batch and inform suppliers or authorities."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To trace a suspect batch and inform suppliers or authorities."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 495,
+      "question": "What is a farm risk assessment?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identifying hazards, estimating likelihood and impact, and selecting controls."
+        },
+        {
+          "text": "B. Identifying hazards, estimating likelihood and impact, and selecting controls",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Identifying hazards, estimating likelihood and impact, and selecting controls."
+        },
+        {
+          "text": "C. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identifying hazards, estimating likelihood and impact, and selecting controls."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identifying hazards, estimating likelihood and impact, and selecting controls."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 496,
+      "question": "Why review risk controls after an incident?",
+      "options": [
+        {
+          "text": "A. It may reveal existing controls are inadequate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may reveal existing controls are inadequate."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reveal existing controls are inadequate."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reveal existing controls are inadequate."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may reveal existing controls are inadequate."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 497,
+      "question": "Why plan for dry-season feed shortages?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Forage may decline, requiring reserves and safe alternatives."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Forage may decline, requiring reserves and safe alternatives."
+        },
+        {
+          "text": "C. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Forage may decline, requiring reserves and safe alternatives."
+        },
+        {
+          "text": "D. Forage may decline, requiring reserves and safe alternatives",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Forage may decline, requiring reserves and safe alternatives."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 498,
+      "question": "Why assess alternative feeds before use?",
+      "options": [
+        {
+          "text": "A. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient content, toxins and safe inclusion levels differ."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient content, toxins and safe inclusion levels differ."
+        },
+        {
+          "text": "C. Nutrient content, toxins and safe inclusion levels differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient content, toxins and safe inclusion levels differ."
+        },
+        {
+          "text": "D. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient content, toxins and safe inclusion levels differ."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 499,
+      "question": "Why keep emergency forage reserves?",
+      "options": [
+        {
+          "text": "A. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce drought and supply-disruption impacts."
+        },
+        {
+          "text": "B. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce drought and supply-disruption impacts."
+        },
+        {
+          "text": "C. They reduce drought and supply-disruption impacts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They reduce drought and supply-disruption impacts."
+        },
+        {
+          "text": "D. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce drought and supply-disruption impacts."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 500,
+      "question": "What is a farm contingency plan?",
+      "options": [
+        {
+          "text": "A. Prepared actions for disease, drought or equipment failure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prepared actions for disease, drought or equipment failure."
+        },
+        {
+          "text": "B. A different unrelated farm record",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prepared actions for disease, drought or equipment failure."
+        },
+        {
+          "text": "C. An automatic treatment for every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prepared actions for disease, drought or equipment failure."
+        },
+        {
+          "text": "D. A measurement that does not use animal or business records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prepared actions for disease, drought or equipment failure."
+        }
+      ],
+      "part": 10
     }
   ]
 }
