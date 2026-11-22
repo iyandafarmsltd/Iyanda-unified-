@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 245,
+  "total": 295,
   "questions": [
     {
       "number": 1,
@@ -6617,6 +6617,1356 @@
         }
       ],
       "part": 5
+    },
+    {
+      "number": 246,
+      "question": "Why measure pond temperature at consistent times?",
+      "options": [
+        {
+          "text": "A. Temperature affects fish metabolism, feeding and dissolved oxygen",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Temperature affects fish metabolism, feeding and dissolved oxygen."
+        },
+        {
+          "text": "B. It measures fish age exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature affects fish metabolism, feeding and dissolved oxygen."
+        },
+        {
+          "text": "C. It replaces water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature affects fish metabolism, feeding and dissolved oxygen."
+        },
+        {
+          "text": "D. It determines pond ownership",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Temperature affects fish metabolism, feeding and dissolved oxygen."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 247,
+      "question": "What does alkalinity help stabilise?",
+      "options": [
+        {
+          "text": "A. Feed pellet size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water resistance to sudden pH changes."
+        },
+        {
+          "text": "B. Water resistance to sudden pH changes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water resistance to sudden pH changes."
+        },
+        {
+          "text": "C. Fish egg numbers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water resistance to sudden pH changes."
+        },
+        {
+          "text": "D. Pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water resistance to sudden pH changes."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 248,
+      "question": "Water hardness is mainly related to which ions?",
+      "options": [
+        {
+          "text": "A. Floating feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dissolved calcium and magnesium."
+        },
+        {
+          "text": "B. Fish numbers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dissolved calcium and magnesium."
+        },
+        {
+          "text": "C. Dissolved calcium and magnesium",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dissolved calcium and magnesium."
+        },
+        {
+          "text": "D. Pond colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dissolved calcium and magnesium."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 249,
+      "question": "Why can sudden pH changes stress fish?",
+      "options": [
+        {
+          "text": "A. They remove every pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can disrupt normal physiological and gill functions."
+        },
+        {
+          "text": "B. They increase oxygen automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can disrupt normal physiological and gill functions."
+        },
+        {
+          "text": "C. They always improve feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can disrupt normal physiological and gill functions."
+        },
+        {
+          "text": "D. They can disrupt normal physiological and gill functions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can disrupt normal physiological and gill functions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 250,
+      "question": "Why measure pH at different times of day?",
+      "options": [
+        {
+          "text": "A. Photosynthesis and respiration can cause daily pH variation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Photosynthesis and respiration can cause daily pH variation."
+        },
+        {
+          "text": "B. Evening readings show pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Photosynthesis and respiration can cause daily pH variation."
+        },
+        {
+          "text": "C. Morning readings measure fish weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Photosynthesis and respiration can cause daily pH variation."
+        },
+        {
+          "text": "D. pH never changes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Photosynthesis and respiration can cause daily pH variation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 251,
+      "question": "What can very high afternoon pH in an algal pond indicate?",
+      "options": [
+        {
+          "text": "A. Fish have stopped respiring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intense photosynthesis removing carbon dioxide."
+        },
+        {
+          "text": "B. Intense photosynthesis removing carbon dioxide",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Intense photosynthesis removing carbon dioxide."
+        },
+        {
+          "text": "C. No algae are present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intense photosynthesis removing carbon dioxide."
+        },
+        {
+          "text": "D. The pond has no sunlight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Intense photosynthesis removing carbon dioxide."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 252,
+      "question": "Why calibrate a dissolved-oxygen meter?",
+      "options": [
+        {
+          "text": "A. To obtain reliable readings for aeration and stocking decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To obtain reliable readings for aeration and stocking decisions."
+        },
+        {
+          "text": "B. To replace disease checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To obtain reliable readings for aeration and stocking decisions."
+        },
+        {
+          "text": "C. To identify species from water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To obtain reliable readings for aeration and stocking decisions."
+        },
+        {
+          "text": "D. To measure feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To obtain reliable readings for aeration and stocking decisions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 253,
+      "question": "Where should dissolved oxygen be measured?",
+      "options": [
+        {
+          "text": "A. Only above the surface",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is At representative fish depths and locations, including poorly mixed areas."
+        },
+        {
+          "text": "B. Inside the feed store",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is At representative fish depths and locations, including poorly mixed areas."
+        },
+        {
+          "text": "C. In a dry bucket",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is At representative fish depths and locations, including poorly mixed areas."
+        },
+        {
+          "text": "D. At representative fish depths and locations, including poorly mixed areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: At representative fish depths and locations, including poorly mixed areas."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 254,
+      "question": "Why are dawn oxygen readings useful?",
+      "options": [
+        {
+          "text": "A. Fish do not respire at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen may be lowest after night-time respiration without photosynthesis."
+        },
+        {
+          "text": "B. Water is always coldest then",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen may be lowest after night-time respiration without photosynthesis."
+        },
+        {
+          "text": "C. Oxygen may be lowest after night-time respiration without photosynthesis",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Oxygen may be lowest after night-time respiration without photosynthesis."
+        },
+        {
+          "text": "D. Sunlight has maximised oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen may be lowest after night-time respiration without photosynthesis."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 255,
+      "question": "What can a sudden turbidity increase indicate?",
+      "options": [
+        {
+          "text": "A. Guaranteed better water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suspended soil, plankton changes or disturbance needing investigation."
+        },
+        {
+          "text": "B. Suspended soil, plankton changes or disturbance needing investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suspended soil, plankton changes or disturbance needing investigation."
+        },
+        {
+          "text": "C. Higher market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suspended soil, plankton changes or disturbance needing investigation."
+        },
+        {
+          "text": "D. Sterile water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suspended soil, plankton changes or disturbance needing investigation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 256,
+      "question": "Why distinguish algal turbidity from clay turbidity?",
+      "options": [
+        {
+          "text": "A. Their causes and management responses differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their causes and management responses differ."
+        },
+        {
+          "text": "B. Clay produces oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their causes and management responses differ."
+        },
+        {
+          "text": "C. Both always need the same chemical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their causes and management responses differ."
+        },
+        {
+          "text": "D. Algae cannot affect oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their causes and management responses differ."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 257,
+      "question": "What does a Secchi disk estimate?",
+      "options": [
+        {
+          "text": "A. Feed durability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water transparency or visibility depth."
+        },
+        {
+          "text": "B. Alkalinity directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water transparency or visibility depth."
+        },
+        {
+          "text": "C. Fish temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water transparency or visibility depth."
+        },
+        {
+          "text": "D. Water transparency or visibility depth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water transparency or visibility depth."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 258,
+      "question": "Why can excessive phytoplankton biomass be risky?",
+      "options": [
+        {
+          "text": "A. It eliminates ammonia",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiration and decomposition can contribute to low oxygen, especially at night."
+        },
+        {
+          "text": "B. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiration and decomposition can contribute to low oxygen, especially at night."
+        },
+        {
+          "text": "C. Respiration and decomposition can contribute to low oxygen, especially at night",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Respiration and decomposition can contribute to low oxygen, especially at night."
+        },
+        {
+          "text": "D. It guarantees stable oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respiration and decomposition can contribute to low oxygen, especially at night."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 259,
+      "question": "What do nitrifying bacteria do in a biofilter?",
+      "options": [
+        {
+          "text": "A. Convert oxygen into feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convert ammonia to nitrite and then nitrate."
+        },
+        {
+          "text": "B. Convert ammonia to nitrite and then nitrate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Convert ammonia to nitrite and then nitrate."
+        },
+        {
+          "text": "C. Produce fish eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convert ammonia to nitrite and then nitrate."
+        },
+        {
+          "text": "D. Remove all suspended solids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convert ammonia to nitrite and then nitrate."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 260,
+      "question": "Why can nitrite harm fish?",
+      "options": [
+        {
+          "text": "A. It interferes with oxygen transport in blood",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It interferes with oxygen transport in blood."
+        },
+        {
+          "text": "B. It increases blood oxygen capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It interferes with oxygen transport in blood."
+        },
+        {
+          "text": "C. It is harmless at any level",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It interferes with oxygen transport in blood."
+        },
+        {
+          "text": "D. It strengthens scales",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It interferes with oxygen transport in blood."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "What is the main concern with unionised ammonia?",
+      "options": [
+        {
+          "text": "A. It is harmless at every pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is toxic, and its proportion rises as pH and temperature increase."
+        },
+        {
+          "text": "B. It measures hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is toxic, and its proportion rises as pH and temperature increase."
+        },
+        {
+          "text": "C. It is an essential vitamin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It is toxic, and its proportion rises as pH and temperature increase."
+        },
+        {
+          "text": "D. It is toxic, and its proportion rises as pH and temperature increase",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It is toxic, and its proportion rises as pH and temperature increase."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "Why interpret total ammonia with pH and temperature?",
+      "options": [
+        {
+          "text": "A. They remove ammonia from the test",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These conditions affect the proportion present as toxic unionised ammonia."
+        },
+        {
+          "text": "B. They measure pond volume",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These conditions affect the proportion present as toxic unionised ammonia."
+        },
+        {
+          "text": "C. These conditions affect the proportion present as toxic unionised ammonia",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These conditions affect the proportion present as toxic unionised ammonia."
+        },
+        {
+          "text": "D. They determine fish genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These conditions affect the proportion present as toxic unionised ammonia."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "What can organic sludge accumulation cause?",
+      "options": [
+        {
+          "text": "A. Natural sterilisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen demand, harmful gases and poor bottom conditions."
+        },
+        {
+          "text": "B. No chemical change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen demand, harmful gases and poor bottom conditions."
+        },
+        {
+          "text": "C. Oxygen demand, harmful gases and poor bottom conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Oxygen demand, harmful gases and poor bottom conditions."
+        },
+        {
+          "text": "D. Higher clarity in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxygen demand, harmful gases and poor bottom conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "Why avoid unnecessary disturbance of anoxic pond sludge?",
+      "options": [
+        {
+          "text": "A. It can release reduced compounds and consume oxygen",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can release reduced compounds and consume oxygen."
+        },
+        {
+          "text": "B. It always increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can release reduced compounds and consume oxygen."
+        },
+        {
+          "text": "C. It eliminates parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can release reduced compounds and consume oxygen."
+        },
+        {
+          "text": "D. It makes water sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can release reduced compounds and consume oxygen."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "What is the purpose of a water-exchange plan?",
+      "options": [
+        {
+          "text": "A. Empty every pond daily",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage water quality while avoiding unsuitable or contaminated incoming water."
+        },
+        {
+          "text": "B. Remove all testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage water quality while avoiding unsuitable or contaminated incoming water."
+        },
+        {
+          "text": "C. Guarantee fixed growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Manage water quality while avoiding unsuitable or contaminated incoming water."
+        },
+        {
+          "text": "D. Manage water quality while avoiding unsuitable or contaminated incoming water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Manage water quality while avoiding unsuitable or contaminated incoming water."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "Why assess incoming water before use?",
+      "options": [
+        {
+          "text": "A. It may carry pollutants, pathogens, predators or unsuitable chemistry",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may carry pollutants, pathogens, predators or unsuitable chemistry."
+        },
+        {
+          "text": "B. Water source does not affect health",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may carry pollutants, pathogens, predators or unsuitable chemistry."
+        },
+        {
+          "text": "C. It determines feed price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may carry pollutants, pathogens, predators or unsuitable chemistry."
+        },
+        {
+          "text": "D. All natural water is safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may carry pollutants, pathogens, predators or unsuitable chemistry."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "What is a settling basin used for?",
+      "options": [
+        {
+          "text": "A. Increase fish density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow suspended solids to settle before water is used or discharged."
+        },
+        {
+          "text": "B. Measure feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow suspended solids to settle before water is used or discharged."
+        },
+        {
+          "text": "C. Allow suspended solids to settle before water is used or discharged",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Allow suspended solids to settle before water is used or discharged."
+        },
+        {
+          "text": "D. Store harvested fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Allow suspended solids to settle before water is used or discharged."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "Why fit screens to pond inlets or outlets where appropriate?",
+      "options": [
+        {
+          "text": "A. Sterilise water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Help prevent stocked fish escaping and unwanted fish entering."
+        },
+        {
+          "text": "B. Increase temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Help prevent stocked fish escaping and unwanted fish entering."
+        },
+        {
+          "text": "C. Help prevent stocked fish escaping and unwanted fish entering",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Help prevent stocked fish escaping and unwanted fish entering."
+        },
+        {
+          "text": "D. Replace embankments",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Help prevent stocked fish escaping and unwanted fish entering."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "What does an adjustable pond outlet structure help control?",
+      "options": [
+        {
+          "text": "A. Fish protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water level and drainage."
+        },
+        {
+          "text": "B. Egg incubation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water level and drainage."
+        },
+        {
+          "text": "C. Automatic feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water level and drainage."
+        },
+        {
+          "text": "D. Water level and drainage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water level and drainage."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "Why inspect embankments for burrows and erosion?",
+      "options": [
+        {
+          "text": "A. Leaks and weakness can cause water loss or embankment failure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaks and weakness can cause water loss or embankment failure."
+        },
+        {
+          "text": "B. Erosion safely increases capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks and weakness can cause water loss or embankment failure."
+        },
+        {
+          "text": "C. It changes fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks and weakness can cause water loss or embankment failure."
+        },
+        {
+          "text": "D. Burrows improve circulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks and weakness can cause water loss or embankment failure."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "Why maintain freeboard below the embankment crest?",
+      "options": [
+        {
+          "text": "A. It prevents evaporation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a margin against waves, rainfall and overtopping."
+        },
+        {
+          "text": "B. It provides a margin against waves, rainfall and overtopping",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It provides a margin against waves, rainfall and overtopping."
+        },
+        {
+          "text": "C. It increases stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a margin against waves, rainfall and overtopping."
+        },
+        {
+          "text": "D. It replaces a spillway",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It provides a margin against waves, rainfall and overtopping."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "What is an emergency spillway for?",
+      "options": [
+        {
+          "text": "A. Increasing salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Passing excess water safely to reduce overtopping risk."
+        },
+        {
+          "text": "B. Keeping feed dry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Passing excess water safely to reduce overtopping risk."
+        },
+        {
+          "text": "C. Passing excess water safely to reduce overtopping risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Passing excess water safely to reduce overtopping risk."
+        },
+        {
+          "text": "D. Measuring pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Passing excess water safely to reduce overtopping risk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "Why keep pond inlets and outlets clear?",
+      "options": [
+        {
+          "text": "A. Blockages improve drainage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blockages disrupt water control and can increase flooding or fish-loss risks."
+        },
+        {
+          "text": "B. They prevent algae",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blockages disrupt water control and can increase flooding or fish-loss risks."
+        },
+        {
+          "text": "C. They always increase oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Blockages disrupt water control and can increase flooding or fish-loss risks."
+        },
+        {
+          "text": "D. Blockages disrupt water control and can increase flooding or fish-loss risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Blockages disrupt water control and can increase flooding or fish-loss risks."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "What can drying an earthen pond between cycles help achieve?",
+      "options": [
+        {
+          "text": "A. Break some pathogen and parasite cycles and oxidise bottom organics",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Break some pathogen and parasite cycles and oxidise bottom organics."
+        },
+        {
+          "text": "B. Make liming unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Break some pathogen and parasite cycles and oxidise bottom organics."
+        },
+        {
+          "text": "C. Replace pond repair",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Break some pathogen and parasite cycles and oxidise bottom organics."
+        },
+        {
+          "text": "D. Guarantee no future disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Break some pathogen and parasite cycles and oxidise bottom organics."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "Why plan pond drying around soil and weather?",
+      "options": [
+        {
+          "text": "A. It determines market size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive drying or poor timing can crack pond bottoms or delay refilling."
+        },
+        {
+          "text": "B. Excessive drying or poor timing can crack pond bottoms or delay refilling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excessive drying or poor timing can crack pond bottoms or delay refilling."
+        },
+        {
+          "text": "C. All soils behave identically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive drying or poor timing can crack pond bottoms or delay refilling."
+        },
+        {
+          "text": "D. Weather has no effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excessive drying or poor timing can crack pond bottoms or delay refilling."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "Why apply lime to an acidic pond bottom when tests indicate need?",
+      "options": [
+        {
+          "text": "A. It can neutralise acidity and improve pond productivity conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can neutralise acidity and improve pond productivity conditions."
+        },
+        {
+          "text": "B. It replaces feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can neutralise acidity and improve pond productivity conditions."
+        },
+        {
+          "text": "C. It instantly disinfects every pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can neutralise acidity and improve pond productivity conditions."
+        },
+        {
+          "text": "D. It increases depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can neutralise acidity and improve pond productivity conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "Why are agricultural lime and quicklime not interchangeable?",
+      "options": [
+        {
+          "text": "A. They have identical strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their chemical properties and handling risks differ."
+        },
+        {
+          "text": "B. Both are harmless to handle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their chemical properties and handling risks differ."
+        },
+        {
+          "text": "C. Neither affects pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their chemical properties and handling risks differ."
+        },
+        {
+          "text": "D. Their chemical properties and handling risks differ",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their chemical properties and handling risks differ."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "Why base pond liming rates on tests?",
+      "options": [
+        {
+          "text": "A. The required amount depends on acidity and buffering conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The required amount depends on acidity and buffering conditions."
+        },
+        {
+          "text": "B. Testing makes liming ineffective",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required amount depends on acidity and buffering conditions."
+        },
+        {
+          "text": "C. It depends only on fish colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required amount depends on acidity and buffering conditions."
+        },
+        {
+          "text": "D. One rate suits every pond",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required amount depends on acidity and buffering conditions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "What is primary productivity in a pond?",
+      "options": [
+        {
+          "text": "A. Fish sold per worker",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter production by photosynthetic organisms."
+        },
+        {
+          "text": "B. Organic matter production by photosynthetic organisms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Organic matter production by photosynthetic organisms."
+        },
+        {
+          "text": "C. Pond soil weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter production by photosynthetic organisms."
+        },
+        {
+          "text": "D. Number of pumps",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Organic matter production by photosynthetic organisms."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "Why adjust pond fertilisation instead of applying it blindly?",
+      "options": [
+        {
+          "text": "A. Excess nutrients can cause blooms, oxygen depletion and poor water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess nutrients can cause blooms, oxygen depletion and poor water quality."
+        },
+        {
+          "text": "B. It removes ammonia",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrients can cause blooms, oxygen depletion and poor water quality."
+        },
+        {
+          "text": "C. More fertiliser always means more harvest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrients can cause blooms, oxygen depletion and poor water quality."
+        },
+        {
+          "text": "D. It prevents pellet feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrients can cause blooms, oxygen depletion and poor water quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "What risk comes from applying manure near a water source?",
+      "options": [
+        {
+          "text": "A. It guarantees clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient and pathogen runoff can contaminate water."
+        },
+        {
+          "text": "B. It prevents eutrophication",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient and pathogen runoff can contaminate water."
+        },
+        {
+          "text": "C. It always increases oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient and pathogen runoff can contaminate water."
+        },
+        {
+          "text": "D. Nutrient and pathogen runoff can contaminate water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient and pathogen runoff can contaminate water."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "Why avoid fertilising when a dense algal bloom is already present?",
+      "options": [
+        {
+          "text": "A. Bloom density is unrelated to nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Extra nutrients may intensify the bloom and oxygen-crash risk."
+        },
+        {
+          "text": "B. It sterilises water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Extra nutrients may intensify the bloom and oxygen-crash risk."
+        },
+        {
+          "text": "C. Extra nutrients may intensify the bloom and oxygen-crash risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Extra nutrients may intensify the bloom and oxygen-crash risk."
+        },
+        {
+          "text": "D. Fertiliser removes algae instantly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Extra nutrients may intensify the bloom and oxygen-crash risk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "What is eutrophication?",
+      "options": [
+        {
+          "text": "A. Removal of all nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrient enrichment that can drive excessive algal or plant growth."
+        },
+        {
+          "text": "B. Excess nutrient enrichment that can drive excessive algal or plant growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess nutrient enrichment that can drive excessive algal or plant growth."
+        },
+        {
+          "text": "C. A pond-lining method",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrient enrichment that can drive excessive algal or plant growth."
+        },
+        {
+          "text": "D. A fish vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess nutrient enrichment that can drive excessive algal or plant growth."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "Why can an algal bloom collapse suddenly?",
+      "options": [
+        {
+          "text": "A. Dying algae decompose and consume oxygen",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dying algae decompose and consume oxygen."
+        },
+        {
+          "text": "B. Fish photosynthesise oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dying algae decompose and consume oxygen."
+        },
+        {
+          "text": "C. Algae cannot die in ponds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dying algae decompose and consume oxygen."
+        },
+        {
+          "text": "D. Collapse always raises oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dying algae decompose and consume oxygen."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "What should be done when fish gasp at the surface at dawn?",
+      "options": [
+        {
+          "text": "A. Stop water movement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respond urgently with aeration and water-quality checks."
+        },
+        {
+          "text": "B. Wait several days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respond urgently with aeration and water-quality checks."
+        },
+        {
+          "text": "C. Add more feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Respond urgently with aeration and water-quality checks."
+        },
+        {
+          "text": "D. Respond urgently with aeration and water-quality checks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Respond urgently with aeration and water-quality checks."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 286,
+      "question": "Why maintain aerators before high-risk seasons?",
+      "options": [
+        {
+          "text": "A. Maintenance reduces oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable equipment matters when warm water and high biomass raise oxygen demand."
+        },
+        {
+          "text": "B. It replaces testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable equipment matters when warm water and high biomass raise oxygen demand."
+        },
+        {
+          "text": "C. Reliable equipment matters when warm water and high biomass raise oxygen demand",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Reliable equipment matters when warm water and high biomass raise oxygen demand."
+        },
+        {
+          "text": "D. Aerators work only in cold seasons",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Reliable equipment matters when warm water and high biomass raise oxygen demand."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Why have backup power for critical aeration?",
+      "options": [
+        {
+          "text": "A. It improves feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can maintain oxygen supply during grid outages."
+        },
+        {
+          "text": "B. It measures hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can maintain oxygen supply during grid outages."
+        },
+        {
+          "text": "C. It can maintain oxygen supply during grid outages",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can maintain oxygen supply during grid outages."
+        },
+        {
+          "text": "D. It prevents every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can maintain oxygen supply during grid outages."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "Why consider pond shape when placing aerators?",
+      "options": [
+        {
+          "text": "A. Placement affects oxygen distribution and poorly mixed zones",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Placement affects oxygen distribution and poorly mixed zones."
+        },
+        {
+          "text": "B. Every location circulates water identically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Placement affects oxygen distribution and poorly mixed zones."
+        },
+        {
+          "text": "C. Face them toward the feed store",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Placement affects oxygen distribution and poorly mixed zones."
+        },
+        {
+          "text": "D. Placement determines species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Placement affects oxygen distribution and poorly mixed zones."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "How do aeration and oxygenation differ?",
+      "options": [
+        {
+          "text": "A. Aeration removes all nitrogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Aeration promotes gas exchange with air; oxygenation adds oxygen more directly."
+        },
+        {
+          "text": "B. Oxygenation measures depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Aeration promotes gas exchange with air; oxygenation adds oxygen more directly."
+        },
+        {
+          "text": "C. They are always identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Aeration promotes gas exchange with air; oxygenation adds oxygen more directly."
+        },
+        {
+          "text": "D. Aeration promotes gas exchange with air; oxygenation adds oxygen more directly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Aeration promotes gas exchange with air; oxygenation adds oxygen more directly."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "Why use pure oxygen in some intensive systems?",
+      "options": [
+        {
+          "text": "A. High biomass and limited exchange can require oxygen beyond ordinary air aeration capacity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: High biomass and limited exchange can require oxygen beyond ordinary air aeration capacity."
+        },
+        {
+          "text": "B. It removes all carbon dioxide",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is High biomass and limited exchange can require oxygen beyond ordinary air aeration capacity."
+        },
+        {
+          "text": "C. It removes monitoring needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is High biomass and limited exchange can require oxygen beyond ordinary air aeration capacity."
+        },
+        {
+          "text": "D. It substitutes for filtration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is High biomass and limited exchange can require oxygen beyond ordinary air aeration capacity."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 291,
+      "question": "What is degassing in a recirculating system?",
+      "options": [
+        {
+          "text": "A. Adding feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing excess dissolved gases such as carbon dioxide and nitrogen."
+        },
+        {
+          "text": "B. Raising stocking numbers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing excess dissolved gases such as carbon dioxide and nitrogen."
+        },
+        {
+          "text": "C. Removing excess dissolved gases such as carbon dioxide and nitrogen",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Removing excess dissolved gases such as carbon dioxide and nitrogen."
+        },
+        {
+          "text": "D. Increasing suspended solids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Removing excess dissolved gases such as carbon dioxide and nitrogen."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "Why can high carbon dioxide harm fish?",
+      "options": [
+        {
+          "text": "A. It can interfere with respiration and acid-base balance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can interfere with respiration and acid-base balance."
+        },
+        {
+          "text": "B. It increases oxygen availability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can interfere with respiration and acid-base balance."
+        },
+        {
+          "text": "C. It sterilises gills",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can interfere with respiration and acid-base balance."
+        },
+        {
+          "text": "D. It improves appetite at any level",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can interfere with respiration and acid-base balance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "What can total gas supersaturation cause?",
+      "options": [
+        {
+          "text": "A. Unlimited improved oxygen transfer",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas bubble disease when dissolved gases come out of solution in tissues."
+        },
+        {
+          "text": "B. Higher feed digestibility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas bubble disease when dissolved gases come out of solution in tissues."
+        },
+        {
+          "text": "C. Harmless scale colour change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Gas bubble disease when dissolved gases come out of solution in tissues."
+        },
+        {
+          "text": "D. Gas bubble disease when dissolved gases come out of solution in tissues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Gas bubble disease when dissolved gases come out of solution in tissues."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "Why use clean suitable containers for laboratory water samples?",
+      "options": [
+        {
+          "text": "A. Contamination or unsuitable containers can distort results",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contamination or unsuitable containers can distort results."
+        },
+        {
+          "text": "B. Containers determine fish age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contamination or unsuitable containers can distort results."
+        },
+        {
+          "text": "C. Samples need no labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contamination or unsuitable containers can distort results."
+        },
+        {
+          "text": "D. Any container gives identical results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contamination or unsuitable containers can distort results."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 295,
+      "question": "Why record pond, time and depth for each water sample?",
+      "options": [
+        {
+          "text": "A. They change water chemistry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These details help interpret and compare results."
+        },
+        {
+          "text": "B. They measure fish growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These details help interpret and compare results."
+        },
+        {
+          "text": "C. These details help interpret and compare results",
+          "correct": true,
+          "feedback": "Well done! Correct answer: These details help interpret and compare results."
+        },
+        {
+          "text": "D. They replace laboratory methods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is These details help interpret and compare results."
+        }
+      ],
+      "part": 6
     }
   ]
 }
