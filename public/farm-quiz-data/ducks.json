@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 245,
+  "total": 296,
   "questions": [
     {
       "number": 1,
@@ -6617,6 +6617,1383 @@
         }
       ],
       "part": 5
+    },
+    {
+      "number": 246,
+      "question": "Why should ducklings be checked soon after placement in a brooder?",
+      "options": [
+        {
+          "text": "A. To determine adult body weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm they can find feed and water and are behaving normally."
+        },
+        {
+          "text": "B. To stop them resting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm they can find feed and water and are behaving normally."
+        },
+        {
+          "text": "C. To make them swim immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm they can find feed and water and are behaving normally."
+        },
+        {
+          "text": "D. To confirm they can find feed and water and are behaving normally",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To confirm they can find feed and water and are behaving normally."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 247,
+      "question": "What is the main risk of wet, compacted litter in a duck house?",
+      "options": [
+        {
+          "text": "A. It prevents ammonia formation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It increases microbial growth and can contribute to foot and health problems."
+        },
+        {
+          "text": "B. It guarantees clean feathers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It increases microbial growth and can contribute to foot and health problems."
+        },
+        {
+          "text": "C. It increases microbial growth and can contribute to foot and health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It increases microbial growth and can contribute to foot and health problems."
+        },
+        {
+          "text": "D. It improves air quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It increases microbial growth and can contribute to foot and health problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 248,
+      "question": "Why are drinkers best positioned to limit splashing onto bedding?",
+      "options": [
+        {
+          "text": "A. To prevent ducks from drinking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep the resting area drier and reduce litter deterioration."
+        },
+        {
+          "text": "B. To reduce the need for ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep the resting area drier and reduce litter deterioration."
+        },
+        {
+          "text": "C. To keep the resting area drier and reduce litter deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To keep the resting area drier and reduce litter deterioration."
+        },
+        {
+          "text": "D. To increase feed dust",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep the resting area drier and reduce litter deterioration."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 249,
+      "question": "What should a keeper do when several ducklings appear weak and fail to eat?",
+      "options": [
+        {
+          "text": "A. Check brooder conditions, water and feed access, and seek veterinary advice if illness is suspected",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check brooder conditions, water and feed access, and seek veterinary advice if illness is suspected."
+        },
+        {
+          "text": "B. Immediately mix them with older birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check brooder conditions, water and feed access, and seek veterinary advice if illness is suspected."
+        },
+        {
+          "text": "C. Withhold water overnight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check brooder conditions, water and feed access, and seek veterinary advice if illness is suspected."
+        },
+        {
+          "text": "D. Treat the entire flock with any available drug",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check brooder conditions, water and feed access, and seek veterinary advice if illness is suspected."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 250,
+      "question": "Why should duck feed be stored off the floor in a dry, pest-resistant area?",
+      "options": [
+        {
+          "text": "A. To encourage mould growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce moisture damage, contamination and rodent access."
+        },
+        {
+          "text": "B. To avoid checking stock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce moisture damage, contamination and rodent access."
+        },
+        {
+          "text": "C. To make feed absorb water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce moisture damage, contamination and rodent access."
+        },
+        {
+          "text": "D. To reduce moisture damage, contamination and rodent access",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce moisture damage, contamination and rodent access."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 251,
+      "question": "What does a feed conversion ratio compare?",
+      "options": [
+        {
+          "text": "A. Water use with house length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed with weight gained over a defined period."
+        },
+        {
+          "text": "B. Bird age with feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed with weight gained over a defined period."
+        },
+        {
+          "text": "C. Feed consumed with weight gained over a defined period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed consumed with weight gained over a defined period."
+        },
+        {
+          "text": "D. Eggshell colour with egg size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed with weight gained over a defined period."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 252,
+      "question": "If a flock eats less feed during unusually hot weather, what should the farmer assess first?",
+      "options": [
+        {
+          "text": "A. Whether the birds need less clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat stress, water availability and ventilation."
+        },
+        {
+          "text": "B. Heat stress, water availability and ventilation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Heat stress, water availability and ventilation."
+        },
+        {
+          "text": "C. Whether to increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat stress, water availability and ventilation."
+        },
+        {
+          "text": "D. Whether to close all air inlets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat stress, water availability and ventilation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 253,
+      "question": "Why should a duck ration be formulated for the birds' age and production stage?",
+      "options": [
+        {
+          "text": "A. Nutrient needs change during growth, maintenance and egg production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient needs change during growth, maintenance and egg production."
+        },
+        {
+          "text": "B. Older ducks cannot digest protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs change during growth, maintenance and egg production."
+        },
+        {
+          "text": "C. All ages require identical nutrient levels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs change during growth, maintenance and egg production."
+        },
+        {
+          "text": "D. Ration stage affects only feed colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs change during growth, maintenance and egg production."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 254,
+      "question": "Which feed ingredient group is commonly used as a major energy source in poultry diets?",
+      "options": [
+        {
+          "text": "A. Clean drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cereal grains such as maize."
+        },
+        {
+          "text": "B. Oyster shell alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cereal grains such as maize."
+        },
+        {
+          "text": "C. Salt blocks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cereal grains such as maize."
+        },
+        {
+          "text": "D. Cereal grains such as maize",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cereal grains such as maize."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 255,
+      "question": "Why must a ration contain adequate essential amino acids?",
+      "options": [
+        {
+          "text": "A. They are needed for tissue growth, maintenance and production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They are needed for tissue growth, maintenance and production."
+        },
+        {
+          "text": "B. They determine pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are needed for tissue growth, maintenance and production."
+        },
+        {
+          "text": "C. They sterilise drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are needed for tissue growth, maintenance and production."
+        },
+        {
+          "text": "D. They replace all dietary energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They are needed for tissue growth, maintenance and production."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 256,
+      "question": "What is a practical sign that feeders are providing insufficient access?",
+      "options": [
+        {
+          "text": "A. Birds have dry bedding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Smaller or timid birds are repeatedly pushed away and cannot eat adequately."
+        },
+        {
+          "text": "B. Smaller or timid birds are repeatedly pushed away and cannot eat adequately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Smaller or timid birds are repeatedly pushed away and cannot eat adequately."
+        },
+        {
+          "text": "C. Every bird eats calmly at the same time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Smaller or timid birds are repeatedly pushed away and cannot eat adequately."
+        },
+        {
+          "text": "D. Feed remains evenly available",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Smaller or timid birds are repeatedly pushed away and cannot eat adequately."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 257,
+      "question": "Why should mouldy or musty feed be rejected rather than diluted into a ration?",
+      "options": [
+        {
+          "text": "A. Dilution destroys every toxin",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds can produce mycotoxins that remain hazardous."
+        },
+        {
+          "text": "B. Mould reliably increases vitamin content",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds can produce mycotoxins that remain hazardous."
+        },
+        {
+          "text": "C. Some moulds can produce mycotoxins that remain hazardous",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some moulds can produce mycotoxins that remain hazardous."
+        },
+        {
+          "text": "D. Mould improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds can produce mycotoxins that remain hazardous."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 258,
+      "question": "What is the purpose of providing grit when ducks consume whole grains or forage?",
+      "options": [
+        {
+          "text": "A. Grit supplies all required protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small hard particles help mechanical grinding of feed in the gizzard."
+        },
+        {
+          "text": "B. Grit prevents egg laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small hard particles help mechanical grinding of feed in the gizzard."
+        },
+        {
+          "text": "C. Grit replaces drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small hard particles help mechanical grinding of feed in the gizzard."
+        },
+        {
+          "text": "D. Small hard particles help mechanical grinding of feed in the gizzard",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Small hard particles help mechanical grinding of feed in the gizzard."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 259,
+      "question": "Why should sudden feed changes be avoided where practical?",
+      "options": [
+        {
+          "text": "A. A gradual transition helps birds adapt and reduces digestive upset or feed refusal",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A gradual transition helps birds adapt and reduces digestive upset or feed refusal."
+        },
+        {
+          "text": "B. It makes birds immune to disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A gradual transition helps birds adapt and reduces digestive upset or feed refusal."
+        },
+        {
+          "text": "C. It prevents the need for balanced feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A gradual transition helps birds adapt and reduces digestive upset or feed refusal."
+        },
+        {
+          "text": "D. A sudden change always improves intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A gradual transition helps birds adapt and reduces digestive upset or feed refusal."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 260,
+      "question": "What does a balanced layer ration need to support in addition to maintenance?",
+      "options": [
+        {
+          "text": "A. Nest temperature only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg production and adequate eggshell formation."
+        },
+        {
+          "text": "B. Egg production and adequate eggshell formation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Egg production and adequate eggshell formation."
+        },
+        {
+          "text": "C. Swimming speed only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg production and adequate eggshell formation."
+        },
+        {
+          "text": "D. Bill colour only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Egg production and adequate eggshell formation."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 261,
+      "question": "Why is clean water especially important when ducks are eating dry pellets?",
+      "options": [
+        {
+          "text": "A. Water prevents all infections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports swallowing, digestion and normal body functions."
+        },
+        {
+          "text": "B. Water replaces dietary protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports swallowing, digestion and normal body functions."
+        },
+        {
+          "text": "C. Water supports swallowing, digestion and normal body functions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water supports swallowing, digestion and normal body functions."
+        },
+        {
+          "text": "D. Water makes feed nutritionally complete",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water supports swallowing, digestion and normal body functions."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 262,
+      "question": "Why should feed intake be recorded alongside egg numbers?",
+      "options": [
+        {
+          "text": "A. It proves every egg is fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can help identify health, feed-quality or management problems."
+        },
+        {
+          "text": "B. It removes the need to inspect birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can help identify health, feed-quality or management problems."
+        },
+        {
+          "text": "C. It measures pond salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes can help identify health, feed-quality or management problems."
+        },
+        {
+          "text": "D. Changes can help identify health, feed-quality or management problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes can help identify health, feed-quality or management problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 263,
+      "question": "What is the main purpose of candling an incubated duck egg?",
+      "options": [
+        {
+          "text": "A. To assess embryo development and identify clear or non-viable eggs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To assess embryo development and identify clear or non-viable eggs."
+        },
+        {
+          "text": "B. To disinfect the incubator",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess embryo development and identify clear or non-viable eggs."
+        },
+        {
+          "text": "C. To measure the adult duck's weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess embryo development and identify clear or non-viable eggs."
+        },
+        {
+          "text": "D. To increase shell thickness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess embryo development and identify clear or non-viable eggs."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 264,
+      "question": "Why should eggs selected for hatching be clean and intact?",
+      "options": [
+        {
+          "text": "A. Dirty cracked eggs hatch more reliably",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and heavy contamination increase the risk of embryo loss and bacterial entry."
+        },
+        {
+          "text": "B. Egg cleanliness has no effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and heavy contamination increase the risk of embryo loss and bacterial entry."
+        },
+        {
+          "text": "C. Cracks and heavy contamination increase the risk of embryo loss and bacterial entry",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cracks and heavy contamination increase the risk of embryo loss and bacterial entry."
+        },
+        {
+          "text": "D. Shell damage improves oxygen control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cracks and heavy contamination increase the risk of embryo loss and bacterial entry."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 265,
+      "question": "Why should hatching eggs be handled gently and kept in suitable storage conditions before setting?",
+      "options": [
+        {
+          "text": "A. Rough handling and poor storage can reduce hatchability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Rough handling and poor storage can reduce hatchability."
+        },
+        {
+          "text": "B. It makes the eggs heavier",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling and poor storage can reduce hatchability."
+        },
+        {
+          "text": "C. It guarantees all embryos are female",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling and poor storage can reduce hatchability."
+        },
+        {
+          "text": "D. It eliminates the need for incubation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Rough handling and poor storage can reduce hatchability."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 266,
+      "question": "What is the role of turning eggs during much of incubation?",
+      "options": [
+        {
+          "text": "A. It removes the shell",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent the developing embryo from adhering to the shell membranes."
+        },
+        {
+          "text": "B. It replaces correct temperature control",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent the developing embryo from adhering to the shell membranes."
+        },
+        {
+          "text": "C. It changes the breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prevent the developing embryo from adhering to the shell membranes."
+        },
+        {
+          "text": "D. It helps prevent the developing embryo from adhering to the shell membranes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prevent the developing embryo from adhering to the shell membranes."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 267,
+      "question": "Why is the final hatching phase managed differently from earlier incubation?",
+      "options": [
+        {
+          "text": "A. All ventilation must be permanently closed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The embryo is preparing to hatch, so turning and humidity management are adjusted to the incubator guidance."
+        },
+        {
+          "text": "B. Eggs should be chilled",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The embryo is preparing to hatch, so turning and humidity management are adjusted to the incubator guidance."
+        },
+        {
+          "text": "C. The embryo is preparing to hatch, so turning and humidity management are adjusted to the incubator guidance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The embryo is preparing to hatch, so turning and humidity management are adjusted to the incubator guidance."
+        },
+        {
+          "text": "D. Eggs need to be shaken",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The embryo is preparing to hatch, so turning and humidity management are adjusted to the incubator guidance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 268,
+      "question": "Why should an incubator thermometer be checked against a reliable reference?",
+      "options": [
+        {
+          "text": "A. It determines the sex of every embryo",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An inaccurate reading can cause incorrect incubation conditions and poor hatch results."
+        },
+        {
+          "text": "B. An inaccurate reading can cause incorrect incubation conditions and poor hatch results",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An inaccurate reading can cause incorrect incubation conditions and poor hatch results."
+        },
+        {
+          "text": "C. It replaces cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An inaccurate reading can cause incorrect incubation conditions and poor hatch results."
+        },
+        {
+          "text": "D. It measures egg fertility directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An inaccurate reading can cause incorrect incubation conditions and poor hatch results."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 269,
+      "question": "What is a common incubation period for Pekin duck eggs?",
+      "options": [
+        {
+          "text": "A. About 28 days",
+          "correct": true,
+          "feedback": "Well done! Correct answer: About 28 days."
+        },
+        {
+          "text": "B. About 45 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 28 days."
+        },
+        {
+          "text": "C. About 14 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 28 days."
+        },
+        {
+          "text": "D. About 60 days",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is About 28 days."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 270,
+      "question": "Which domestic duck group commonly has a longer incubation period of roughly 35 days?",
+      "options": [
+        {
+          "text": "A. Khaki Campbell ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Muscovy ducks."
+        },
+        {
+          "text": "B. Indian Runner ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Muscovy ducks."
+        },
+        {
+          "text": "C. Pekin ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Muscovy ducks."
+        },
+        {
+          "text": "D. Muscovy ducks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Muscovy ducks."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 271,
+      "question": "Why should eggs from different setting dates be labelled?",
+      "options": [
+        {
+          "text": "A. To identify feed ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track age, turning, candling and expected hatch timing accurately."
+        },
+        {
+          "text": "B. To prevent hens from laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track age, turning, candling and expected hatch timing accurately."
+        },
+        {
+          "text": "C. To track age, turning, candling and expected hatch timing accurately",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To track age, turning, candling and expected hatch timing accurately."
+        },
+        {
+          "text": "D. To make shells thicker",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To track age, turning, candling and expected hatch timing accurately."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 272,
+      "question": "What should be done with unhatched eggs after the hatch window has passed?",
+      "options": [
+        {
+          "text": "A. Return them to the laying nest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess them safely and hygienically according to hatchery procedure rather than leaving them indefinitely."
+        },
+        {
+          "text": "B. Assess them safely and hygienically according to hatchery procedure rather than leaving them indefinitely",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Assess them safely and hygienically according to hatchery procedure rather than leaving them indefinitely."
+        },
+        {
+          "text": "C. Mix them into duckling feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess them safely and hygienically according to hatchery procedure rather than leaving them indefinitely."
+        },
+        {
+          "text": "D. Crack them in the brooder",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess them safely and hygienically according to hatchery procedure rather than leaving them indefinitely."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 273,
+      "question": "Why should ducklings be allowed to dry and become active after hatching before routine handling?",
+      "options": [
+        {
+          "text": "A. This supports their transition after hatch and reduces unnecessary disturbance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This supports their transition after hatch and reduces unnecessary disturbance."
+        },
+        {
+          "text": "B. It determines their adult sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This supports their transition after hatch and reduces unnecessary disturbance."
+        },
+        {
+          "text": "C. It makes them waterproof permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This supports their transition after hatch and reduces unnecessary disturbance."
+        },
+        {
+          "text": "D. It removes the need for warmth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This supports their transition after hatch and reduces unnecessary disturbance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 274,
+      "question": "What is the main purpose of a brooder guard during early brooding?",
+      "options": [
+        {
+          "text": "A. To force ducklings into deep water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep ducklings near suitable warmth, feed and water while preventing corner piling."
+        },
+        {
+          "text": "B. To prevent all air movement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep ducklings near suitable warmth, feed and water while preventing corner piling."
+        },
+        {
+          "text": "C. To separate feed from drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To keep ducklings near suitable warmth, feed and water while preventing corner piling."
+        },
+        {
+          "text": "D. To keep ducklings near suitable warmth, feed and water while preventing corner piling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To keep ducklings near suitable warmth, feed and water while preventing corner piling."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 275,
+      "question": "How can a keeper judge whether brooder temperature is suitable?",
+      "options": [
+        {
+          "text": "A. Observe duckling distribution and behaviour alongside a correctly placed thermometer",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Observe duckling distribution and behaviour alongside a correctly placed thermometer."
+        },
+        {
+          "text": "B. Assume one setting suits every age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observe duckling distribution and behaviour alongside a correctly placed thermometer."
+        },
+        {
+          "text": "C. Check only the colour of the walls",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observe duckling distribution and behaviour alongside a correctly placed thermometer."
+        },
+        {
+          "text": "D. Use outdoor temperature alone",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Observe duckling distribution and behaviour alongside a correctly placed thermometer."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 276,
+      "question": "What does a tight cluster directly under the heat source often indicate?",
+      "options": [
+        {
+          "text": "A. The birds are ready for slaughter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ducklings may be too cold or the heated area may be inadequate."
+        },
+        {
+          "text": "B. Ducklings may be too cold or the heated area may be inadequate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ducklings may be too cold or the heated area may be inadequate."
+        },
+        {
+          "text": "C. The brooder is necessarily too hot",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ducklings may be too cold or the heated area may be inadequate."
+        },
+        {
+          "text": "D. The feed contains too much calcium",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ducklings may be too cold or the heated area may be inadequate."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 277,
+      "question": "What does ducklings spreading far from the heat source while panting suggest?",
+      "options": [
+        {
+          "text": "A. They are all asleep",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be overheated."
+        },
+        {
+          "text": "B. They need less ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be overheated."
+        },
+        {
+          "text": "C. They may be overheated",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may be overheated."
+        },
+        {
+          "text": "D. They have reached laying age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be overheated."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 278,
+      "question": "Why should brooder floors provide secure, non-slip footing?",
+      "options": [
+        {
+          "text": "A. It encourages them to slide",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ducklings move safely and reduces the risk of leg injuries."
+        },
+        {
+          "text": "B. It prevents them from drinking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ducklings move safely and reduces the risk of leg injuries."
+        },
+        {
+          "text": "C. It replaces balanced nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps ducklings move safely and reduces the risk of leg injuries."
+        },
+        {
+          "text": "D. It helps ducklings move safely and reduces the risk of leg injuries",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps ducklings move safely and reduces the risk of leg injuries."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 279,
+      "question": "Why should ducklings have easy access to water without being able to become chilled or trapped?",
+      "options": [
+        {
+          "text": "A. They need to drink and clean their bills, but wet, chilled young birds are at risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They need to drink and clean their bills, but wet, chilled young birds are at risk."
+        },
+        {
+          "text": "B. They must swim continuously from hatch",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They need to drink and clean their bills, but wet, chilled young birds are at risk."
+        },
+        {
+          "text": "C. Deep tanks are safest for newly hatched ducklings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They need to drink and clean their bills, but wet, chilled young birds are at risk."
+        },
+        {
+          "text": "D. Water access should be completely removed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They need to drink and clean their bills, but wet, chilled young birds are at risk."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 280,
+      "question": "Why is ventilation needed even in cool weather?",
+      "options": [
+        {
+          "text": "A. It eliminates the need for warmth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes excess moisture and stale air while avoiding harmful drafts."
+        },
+        {
+          "text": "B. It prevents birds from breathing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes excess moisture and stale air while avoiding harmful drafts."
+        },
+        {
+          "text": "C. It removes excess moisture and stale air while avoiding harmful drafts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It removes excess moisture and stale air while avoiding harmful drafts."
+        },
+        {
+          "text": "D. It keeps all litter wet",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It removes excess moisture and stale air while avoiding harmful drafts."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 281,
+      "question": "What is the purpose of separating age groups in a commercial duck unit?",
+      "options": [
+        {
+          "text": "A. To increase mixing between flocks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce disease transmission and allow management suited to each age."
+        },
+        {
+          "text": "B. To make all birds lay at the same time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce disease transmission and allow management suited to each age."
+        },
+        {
+          "text": "C. To reduce disease transmission and allow management suited to each age",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce disease transmission and allow management suited to each age."
+        },
+        {
+          "text": "D. To avoid cleaning between batches",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce disease transmission and allow management suited to each age."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 282,
+      "question": "Why should visitors and equipment movements be controlled on a duck farm?",
+      "options": [
+        {
+          "text": "A. They increase egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry disease agents between flocks or farms."
+        },
+        {
+          "text": "B. They prevent the need for records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry disease agents between flocks or farms."
+        },
+        {
+          "text": "C. They improve feed formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can carry disease agents between flocks or farms."
+        },
+        {
+          "text": "D. They can carry disease agents between flocks or farms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can carry disease agents between flocks or farms."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 283,
+      "question": "What is an all-in/all-out approach intended to achieve?",
+      "options": [
+        {
+          "text": "A. A group enters and leaves a house together, allowing cleaning and downtime between batches",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A group enters and leaves a house together, allowing cleaning and downtime between batches."
+        },
+        {
+          "text": "B. Feed is changed every hour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A group enters and leaves a house together, allowing cleaning and downtime between batches."
+        },
+        {
+          "text": "C. Eggs are collected only once",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A group enters and leaves a house together, allowing cleaning and downtime between batches."
+        },
+        {
+          "text": "D. Birds of every age are mixed continuously",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A group enters and leaves a house together, allowing cleaning and downtime between batches."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 284,
+      "question": "Why should dead birds be removed promptly and disposed of safely?",
+      "options": [
+        {
+          "text": "A. To attract wild birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce scavenging, contamination and possible disease spread."
+        },
+        {
+          "text": "B. To hide signs of illness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce scavenging, contamination and possible disease spread."
+        },
+        {
+          "text": "C. To reduce scavenging, contamination and possible disease spread",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To reduce scavenging, contamination and possible disease spread."
+        },
+        {
+          "text": "D. To use them as pond feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To reduce scavenging, contamination and possible disease spread."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 285,
+      "question": "What should a farmer do before using a disinfectant in duck housing?",
+      "options": [
+        {
+          "text": "A. Remove organic matter and follow the product label for dilution, contact time and safety",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Remove organic matter and follow the product label for dilution, contact time and safety."
+        },
+        {
+          "text": "B. Mix several chemicals together",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Remove organic matter and follow the product label for dilution, contact time and safety."
+        },
+        {
+          "text": "C. Apply it over feed and drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Remove organic matter and follow the product label for dilution, contact time and safety."
+        },
+        {
+          "text": "D. Ignore the required contact time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Remove organic matter and follow the product label for dilution, contact time and safety."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 286,
+      "question": "Why should a new batch of ducklings be sourced from a reputable, health-monitored hatchery?",
+      "options": [
+        {
+          "text": "A. It removes the need for biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers the risk of introducing disease and supports reliable chick quality."
+        },
+        {
+          "text": "B. It guarantees zero mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers the risk of introducing disease and supports reliable chick quality."
+        },
+        {
+          "text": "C. It guarantees every duckling is the same sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lowers the risk of introducing disease and supports reliable chick quality."
+        },
+        {
+          "text": "D. It lowers the risk of introducing disease and supports reliable chick quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It lowers the risk of introducing disease and supports reliable chick quality."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 287,
+      "question": "Why should wild waterfowl be discouraged from accessing domestic duck feed and water?",
+      "options": [
+        {
+          "text": "A. They make water sterile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce pathogens and contaminate resources."
+        },
+        {
+          "text": "B. They prevent rodents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce pathogens and contaminate resources."
+        },
+        {
+          "text": "C. Wild birds can introduce pathogens and contaminate resources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wild birds can introduce pathogens and contaminate resources."
+        },
+        {
+          "text": "D. Wild birds improve vaccination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wild birds can introduce pathogens and contaminate resources."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 288,
+      "question": "What is the safest response when a duck shows sudden neurological signs or unusual severe illness?",
+      "options": [
+        {
+          "text": "A. Sell the bird immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolate affected birds where practical and contact a veterinarian or animal-health authority promptly."
+        },
+        {
+          "text": "B. Isolate affected birds where practical and contact a veterinarian or animal-health authority promptly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Isolate affected birds where practical and contact a veterinarian or animal-health authority promptly."
+        },
+        {
+          "text": "C. Move the bird into another flock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolate affected birds where practical and contact a veterinarian or animal-health authority promptly."
+        },
+        {
+          "text": "D. Give human medicine without advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Isolate affected birds where practical and contact a veterinarian or animal-health authority promptly."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 289,
+      "question": "Why is routine observation useful even when no ducks appear sick?",
+      "options": [
+        {
+          "text": "A. Early changes in appetite, droppings, movement or behaviour may reveal problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Early changes in appetite, droppings, movement or behaviour may reveal problems."
+        },
+        {
+          "text": "B. It guarantees high hatchability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early changes in appetite, droppings, movement or behaviour may reveal problems."
+        },
+        {
+          "text": "C. It replaces veterinary care completely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early changes in appetite, droppings, movement or behaviour may reveal problems."
+        },
+        {
+          "text": "D. It determines feed prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Early changes in appetite, droppings, movement or behaviour may reveal problems."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 290,
+      "question": "What is the purpose of a quarantine period for newly purchased adult ducks?",
+      "options": [
+        {
+          "text": "A. To make them lay immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe them separately for signs of disease before mixing with the resident flock."
+        },
+        {
+          "text": "B. To prevent them from eating",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe them separately for signs of disease before mixing with the resident flock."
+        },
+        {
+          "text": "C. To change their breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe them separately for signs of disease before mixing with the resident flock."
+        },
+        {
+          "text": "D. To observe them separately for signs of disease before mixing with the resident flock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To observe them separately for signs of disease before mixing with the resident flock."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 291,
+      "question": "Why should footbaths be maintained and changed according to the product instructions?",
+      "options": [
+        {
+          "text": "A. The solution should be mixed with feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dirty or diluted disinfectant may not work reliably."
+        },
+        {
+          "text": "B. Footbaths replace hand hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dirty or diluted disinfectant may not work reliably."
+        },
+        {
+          "text": "C. Dirty or diluted disinfectant may not work reliably",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Dirty or diluted disinfectant may not work reliably."
+        },
+        {
+          "text": "D. The dirt improves disinfection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Dirty or diluted disinfectant may not work reliably."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 292,
+      "question": "What can persistent coughing, nasal discharge or laboured breathing indicate?",
+      "options": [
+        {
+          "text": "A. Normal egg formation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory health problem that needs assessment."
+        },
+        {
+          "text": "B. A possible respiratory health problem that needs assessment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A possible respiratory health problem that needs assessment."
+        },
+        {
+          "text": "C. A sign of adequate feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory health problem that needs assessment."
+        },
+        {
+          "text": "D. Successful moulting",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A possible respiratory health problem that needs assessment."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 293,
+      "question": "Why should medicines not be given routinely without a diagnosis or veterinary direction?",
+      "options": [
+        {
+          "text": "A. Incorrect treatment can harm birds, delay proper care and contribute to drug resistance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect treatment can harm birds, delay proper care and contribute to drug resistance."
+        },
+        {
+          "text": "B. Routine dosing removes withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect treatment can harm birds, delay proper care and contribute to drug resistance."
+        },
+        {
+          "text": "C. Every medicine works against every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect treatment can harm birds, delay proper care and contribute to drug resistance."
+        },
+        {
+          "text": "D. It guarantees disease-free eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect treatment can harm birds, delay proper care and contribute to drug resistance."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 294,
+      "question": "What is a withdrawal period for a veterinary medicine?",
+      "options": [
+        {
+          "text": "A. The time ducks must stay out of water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time between the last treatment and using meat or eggs for food, as specified for that product."
+        },
+        {
+          "text": "B. The interval between egg collections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time between the last treatment and using meat or eggs for food, as specified for that product."
+        },
+        {
+          "text": "C. The time needed to clean a feeder",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The required time between the last treatment and using meat or eggs for food, as specified for that product."
+        },
+        {
+          "text": "D. The required time between the last treatment and using meat or eggs for food, as specified for that product",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The required time between the last treatment and using meat or eggs for food, as specified for that product."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 295,
+      "question": "Why should records include the medicine name, dose, date and treated group?",
+      "options": [
+        {
+          "text": "A. They support treatment tracking and checking food-safety withdrawal periods",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support treatment tracking and checking food-safety withdrawal periods."
+        },
+        {
+          "text": "B. They determine the duck breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support treatment tracking and checking food-safety withdrawal periods."
+        },
+        {
+          "text": "C. They replace the medicine label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support treatment tracking and checking food-safety withdrawal periods."
+        },
+        {
+          "text": "D. They predict the weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support treatment tracking and checking food-safety withdrawal periods."
+        }
+      ],
+      "part": 6
+    },
+    {
+      "number": 296,
+      "question": "Why is a written mortality record useful?",
+      "options": [
+        {
+          "text": "A. It replaces daily inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sudden increase can alert the farmer to a developing health or management problem."
+        },
+        {
+          "text": "B. A sudden increase can alert the farmer to a developing health or management problem",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A sudden increase can alert the farmer to a developing health or management problem."
+        },
+        {
+          "text": "C. It proves all birds are healthy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sudden increase can alert the farmer to a developing health or management problem."
+        },
+        {
+          "text": "D. It measures feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A sudden increase can alert the farmer to a developing health or management problem."
+        }
+      ],
+      "part": 6
     }
   ]
 }
