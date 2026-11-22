@@ -1,7 +1,7 @@
 {
   "category": "goats",
   "title": "Goats",
-  "total": 343,
+  "total": 393,
   "questions": [
     {
       "number": 1,
@@ -9263,6 +9263,1356 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 344,
+      "question": "What is the primary role of a breeding buck in a goat herd?",
+      "options": [
+        {
+          "text": "A. To provide genetics for the next generation through successful mating",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To provide genetics for the next generation through successful mating."
+        },
+        {
+          "text": "B. To nurse newborn kids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide genetics for the next generation through successful mating."
+        },
+        {
+          "text": "C. To replace the need for doe selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide genetics for the next generation through successful mating."
+        },
+        {
+          "text": "D. To determine the farm's water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To provide genetics for the next generation through successful mating."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 345,
+      "question": "Why should a buck's feet and legs be assessed before breeding?",
+      "options": [
+        {
+          "text": "A. Leg shape determines milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound mobility helps him mount does and maintain body condition."
+        },
+        {
+          "text": "B. It replaces fertility assessment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound mobility helps him mount does and maintain body condition."
+        },
+        {
+          "text": "C. It prevents every genetic disorder",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sound mobility helps him mount does and maintain body condition."
+        },
+        {
+          "text": "D. Sound mobility helps him mount does and maintain body condition",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Sound mobility helps him mount does and maintain body condition."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 346,
+      "question": "Why should breeding bucks have a suitable body condition?",
+      "options": [
+        {
+          "text": "A. Poor or excessive condition can affect mobility, health and reproductive performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor or excessive condition can affect mobility, health and reproductive performance."
+        },
+        {
+          "text": "B. It determines the kids' sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect mobility, health and reproductive performance."
+        },
+        {
+          "text": "C. It eliminates the need for forage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect mobility, health and reproductive performance."
+        },
+        {
+          "text": "D. It guarantees a fixed litter size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor or excessive condition can affect mobility, health and reproductive performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 347,
+      "question": "What is the purpose of a breeding soundness examination?",
+      "options": [
+        {
+          "text": "A. To measure milk production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess physical and reproductive fitness before the breeding season."
+        },
+        {
+          "text": "B. To select the best market pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess physical and reproductive fitness before the breeding season."
+        },
+        {
+          "text": "C. To assess physical and reproductive fitness before the breeding season",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To assess physical and reproductive fitness before the breeding season."
+        },
+        {
+          "text": "D. To diagnose every disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To assess physical and reproductive fitness before the breeding season."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 348,
+      "question": "Why should bucks with obvious hereditary defects generally not be selected for breeding?",
+      "options": [
+        {
+          "text": "A. They cannot mate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may pass undesirable traits to offspring."
+        },
+        {
+          "text": "B. They always have low feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may pass undesirable traits to offspring."
+        },
+        {
+          "text": "C. They may pass undesirable traits to offspring",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may pass undesirable traits to offspring."
+        },
+        {
+          "text": "D. It changes the doe's gestation length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may pass undesirable traits to offspring."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 349,
+      "question": "What is inbreeding in goat breeding?",
+      "options": [
+        {
+          "text": "A. Mating goats from different farms only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals that are more closely related than the herd's general population."
+        },
+        {
+          "text": "B. Keeping bucks separate from does",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals that are more closely related than the herd's general population."
+        },
+        {
+          "text": "C. Breeding only during the rainy season",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals that are more closely related than the herd's general population."
+        },
+        {
+          "text": "D. Mating animals that are more closely related than the herd's general population",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mating animals that are more closely related than the herd's general population."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 350,
+      "question": "Why manage inbreeding carefully?",
+      "options": [
+        {
+          "text": "A. It can increase the chance that harmful recessive traits are expressed and reduce genetic diversity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can increase the chance that harmful recessive traits are expressed and reduce genetic diversity."
+        },
+        {
+          "text": "B. It always increases fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase the chance that harmful recessive traits are expressed and reduce genetic diversity."
+        },
+        {
+          "text": "C. It removes inherited disease risk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase the chance that harmful recessive traits are expressed and reduce genetic diversity."
+        },
+        {
+          "text": "D. It guarantees superior offspring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can increase the chance that harmful recessive traits are expressed and reduce genetic diversity."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 351,
+      "question": "What is crossbreeding?",
+      "options": [
+        {
+          "text": "A. Changing a goat's coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals from different breeds to combine or improve selected traits."
+        },
+        {
+          "text": "B. Mating animals from different breeds to combine or improve selected traits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Mating animals from different breeds to combine or improve selected traits."
+        },
+        {
+          "text": "C. Mating full siblings",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals from different breeds to combine or improve selected traits."
+        },
+        {
+          "text": "D. Feeding two different hay types",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Mating animals from different breeds to combine or improve selected traits."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "Why should a farmer define breeding goals before choosing a buck?",
+      "options": [
+        {
+          "text": "A. It eliminates record keeping",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Selection should match the herd's production system and desired traits."
+        },
+        {
+          "text": "B. All breeds perform identically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Selection should match the herd's production system and desired traits."
+        },
+        {
+          "text": "C. Selection should match the herd's production system and desired traits",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Selection should match the herd's production system and desired traits."
+        },
+        {
+          "text": "D. It determines water requirements",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Selection should match the herd's production system and desired traits."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "Which records help evaluate a doe's maternal performance?",
+      "options": [
+        {
+          "text": "A. Only the colour of her horns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kidding history, kid survival, growth and milk or mothering observations."
+        },
+        {
+          "text": "B. Only the date she was purchased",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kidding history, kid survival, growth and milk or mothering observations."
+        },
+        {
+          "text": "C. The number of trees in the paddock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Kidding history, kid survival, growth and milk or mothering observations."
+        },
+        {
+          "text": "D. Kidding history, kid survival, growth and milk or mothering observations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Kidding history, kid survival, growth and milk or mothering observations."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "Why should does with poor mothering ability be evaluated carefully for future breeding?",
+      "options": [
+        {
+          "text": "A. Maternal behaviour affects kid care and survival",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Maternal behaviour affects kid care and survival."
+        },
+        {
+          "text": "B. It makes colostrum unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maternal behaviour affects kid care and survival."
+        },
+        {
+          "text": "C. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maternal behaviour affects kid care and survival."
+        },
+        {
+          "text": "D. It determines the buck's coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Maternal behaviour affects kid care and survival."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "What is a kidding interval?",
+      "options": [
+        {
+          "text": "A. The length of a buck's breeding season",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The time between successive kiddings by the same doe."
+        },
+        {
+          "text": "B. The time between successive kiddings by the same doe",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The time between successive kiddings by the same doe."
+        },
+        {
+          "text": "C. The number of kids born in one litter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The time between successive kiddings by the same doe."
+        },
+        {
+          "text": "D. The time a kid takes to stand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The time between successive kiddings by the same doe."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "Why should breeding dates be recorded?",
+      "options": [
+        {
+          "text": "A. They help estimate kidding dates and interpret reproductive performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help estimate kidding dates and interpret reproductive performance."
+        },
+        {
+          "text": "B. They replace pregnancy diagnosis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help estimate kidding dates and interpret reproductive performance."
+        },
+        {
+          "text": "C. They determine milk protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help estimate kidding dates and interpret reproductive performance."
+        },
+        {
+          "text": "D. They prevent all reproductive disorders",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help estimate kidding dates and interpret reproductive performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "What is oestrus (heat) in a doe?",
+      "options": [
+        {
+          "text": "A. The time immediately after weaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she is sexually receptive and may accept mating."
+        },
+        {
+          "text": "B. A disease of the uterus",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she is sexually receptive and may accept mating."
+        },
+        {
+          "text": "C. A stage of milk drying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she is sexually receptive and may accept mating."
+        },
+        {
+          "text": "D. The period when she is sexually receptive and may accept mating",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The period when she is sexually receptive and may accept mating."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "Which behaviour may indicate a doe is in heat?",
+      "options": [
+        {
+          "text": "A. Tail wagging, restlessness, frequent bleating and seeking the buck",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Tail wagging, restlessness, frequent bleating and seeking the buck."
+        },
+        {
+          "text": "B. Sleeping continuously without interest in others",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Tail wagging, restlessness, frequent bleating and seeking the buck."
+        },
+        {
+          "text": "C. A sudden increase in horn length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Tail wagging, restlessness, frequent bleating and seeking the buck."
+        },
+        {
+          "text": "D. Complete isolation and loss of appetite in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Tail wagging, restlessness, frequent bleating and seeking the buck."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "Why is heat detection important in controlled breeding?",
+      "options": [
+        {
+          "text": "A. It determines the exact number of fetuses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify the appropriate time for mating or insemination."
+        },
+        {
+          "text": "B. It helps identify the appropriate time for mating or insemination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify the appropriate time for mating or insemination."
+        },
+        {
+          "text": "C. It prevents all abortions",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify the appropriate time for mating or insemination."
+        },
+        {
+          "text": "D. It replaces buck fertility checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify the appropriate time for mating or insemination."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "What is a teaser buck sometimes used for?",
+      "options": [
+        {
+          "text": "A. Helping stimulate or identify oestrus in does under a planned breeding programme",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Helping stimulate or identify oestrus in does under a planned breeding programme."
+        },
+        {
+          "text": "B. Treating infertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Helping stimulate or identify oestrus in does under a planned breeding programme."
+        },
+        {
+          "text": "C. Nursing kids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Helping stimulate or identify oestrus in does under a planned breeding programme."
+        },
+        {
+          "text": "D. Providing milk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Helping stimulate or identify oestrus in does under a planned breeding programme."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "Why should a teaser buck be managed to prevent unintended mating?",
+      "options": [
+        {
+          "text": "A. It improves feed conversion",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrecorded matings make parentage and kidding dates uncertain."
+        },
+        {
+          "text": "B. It prevents parasite resistance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrecorded matings make parentage and kidding dates uncertain."
+        },
+        {
+          "text": "C. It changes the breeding season",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Unrecorded matings make parentage and kidding dates uncertain."
+        },
+        {
+          "text": "D. Unrecorded matings make parentage and kidding dates uncertain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Unrecorded matings make parentage and kidding dates uncertain."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "What is artificial insemination in goats?",
+      "options": [
+        {
+          "text": "A. Transferring milk between animals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introducing semen into the female reproductive tract using a controlled technique."
+        },
+        {
+          "text": "B. A method of pregnancy feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introducing semen into the female reproductive tract using a controlled technique."
+        },
+        {
+          "text": "C. Introducing semen into the female reproductive tract using a controlled technique",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Introducing semen into the female reproductive tract using a controlled technique."
+        },
+        {
+          "text": "D. Allowing a buck to graze with does",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Introducing semen into the female reproductive tract using a controlled technique."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "Why does artificial insemination require skilled handling and suitable timing?",
+      "options": [
+        {
+          "text": "A. Any timing gives equal results",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Semen quality, storage and timing strongly influence conception success."
+        },
+        {
+          "text": "B. Semen quality, storage and timing strongly influence conception success",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Semen quality, storage and timing strongly influence conception success."
+        },
+        {
+          "text": "C. It guarantees pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Semen quality, storage and timing strongly influence conception success."
+        },
+        {
+          "text": "D. It needs no hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Semen quality, storage and timing strongly influence conception success."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "What is a buck-to-doe ratio?",
+      "options": [
+        {
+          "text": "A. The number of breeding does assigned to one buck during a defined mating period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The number of breeding does assigned to one buck during a defined mating period."
+        },
+        {
+          "text": "B. The ratio of milk to water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of breeding does assigned to one buck during a defined mating period."
+        },
+        {
+          "text": "C. The number of kids per kidding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of breeding does assigned to one buck during a defined mating period."
+        },
+        {
+          "text": "D. The amount of hay per pen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The number of breeding does assigned to one buck during a defined mating period."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "Why should buck-to-doe ratio be appropriate to the buck's age and condition?",
+      "options": [
+        {
+          "text": "A. All bucks have identical capacity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An overloaded or inexperienced buck may fail to mate all assigned does."
+        },
+        {
+          "text": "B. It replaces fertility checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An overloaded or inexperienced buck may fail to mate all assigned does."
+        },
+        {
+          "text": "C. It determines kid coat colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An overloaded or inexperienced buck may fail to mate all assigned does."
+        },
+        {
+          "text": "D. An overloaded or inexperienced buck may fail to mate all assigned does",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An overloaded or inexperienced buck may fail to mate all assigned does."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "Why should a buck not be left with does indefinitely without records?",
+      "options": [
+        {
+          "text": "A. It eliminates disease risk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled mating makes parentage, breeding dates and reproductive planning difficult."
+        },
+        {
+          "text": "B. It prevents all unwanted pregnancies",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled mating makes parentage, breeding dates and reproductive planning difficult."
+        },
+        {
+          "text": "C. Uncontrolled mating makes parentage, breeding dates and reproductive planning difficult",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uncontrolled mating makes parentage, breeding dates and reproductive planning difficult."
+        },
+        {
+          "text": "D. It guarantees better genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uncontrolled mating makes parentage, breeding dates and reproductive planning difficult."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "What is pregnancy diagnosis used for in goat management?",
+      "options": [
+        {
+          "text": "A. To determine the kids' exact birth weights",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open does for appropriate feeding and breeding decisions."
+        },
+        {
+          "text": "B. To measure milk quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open does for appropriate feeding and breeding decisions."
+        },
+        {
+          "text": "C. To identify pregnant and open does for appropriate feeding and breeding decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify pregnant and open does for appropriate feeding and breeding decisions."
+        },
+        {
+          "text": "D. To replace kidding supervision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify pregnant and open does for appropriate feeding and breeding decisions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "Why should pregnancy diagnosis be performed by a trained person using an appropriate method?",
+      "options": [
+        {
+          "text": "A. Incorrect handling or interpretation can harm animals or lead to poor decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Incorrect handling or interpretation can harm animals or lead to poor decisions."
+        },
+        {
+          "text": "B. Every method is risk-free in untrained hands",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect handling or interpretation can harm animals or lead to poor decisions."
+        },
+        {
+          "text": "C. It determines the sex of all fetuses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect handling or interpretation can harm animals or lead to poor decisions."
+        },
+        {
+          "text": "D. It replaces health records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Incorrect handling or interpretation can harm animals or lead to poor decisions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "What is the dry period in a dairy doe?",
+      "options": [
+        {
+          "text": "A. A time when the doe is not pregnant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A planned interval before kidding when milking stops to allow udder recovery."
+        },
+        {
+          "text": "B. A period of total feed withdrawal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A planned interval before kidding when milking stops to allow udder recovery."
+        },
+        {
+          "text": "C. A period without drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A planned interval before kidding when milking stops to allow udder recovery."
+        },
+        {
+          "text": "D. A planned interval before kidding when milking stops to allow udder recovery",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A planned interval before kidding when milking stops to allow udder recovery."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "Why should a dairy doe have an adequate dry period?",
+      "options": [
+        {
+          "text": "A. It supports udder tissue recovery and preparation for the next lactation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports udder tissue recovery and preparation for the next lactation."
+        },
+        {
+          "text": "B. It increases horn growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports udder tissue recovery and preparation for the next lactation."
+        },
+        {
+          "text": "C. It replaces balanced feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports udder tissue recovery and preparation for the next lactation."
+        },
+        {
+          "text": "D. It prevents all mastitis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports udder tissue recovery and preparation for the next lactation."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "Why should milking be hygienic and consistent?",
+      "options": [
+        {
+          "text": "A. It makes milk sterile without cooling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risk and helps maintain udder health and milk quality."
+        },
+        {
+          "text": "B. It guarantees a fixed yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risk and helps maintain udder health and milk quality."
+        },
+        {
+          "text": "C. It reduces contamination risk and helps maintain udder health and milk quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces contamination risk and helps maintain udder health and milk quality."
+        },
+        {
+          "text": "D. It eliminates the need to clean equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces contamination risk and helps maintain udder health and milk quality."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "What is the purpose of forestripping a few streams of milk before milking?",
+      "options": [
+        {
+          "text": "A. It can help detect abnormal milk and stimulate milk let-down",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can help detect abnormal milk and stimulate milk let-down."
+        },
+        {
+          "text": "B. It measures body temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help detect abnormal milk and stimulate milk let-down."
+        },
+        {
+          "text": "C. It treats mastitis",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help detect abnormal milk and stimulate milk let-down."
+        },
+        {
+          "text": "D. It determines pregnancy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help detect abnormal milk and stimulate milk let-down."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "Why should teats be dried with clean individual towels when washing is used?",
+      "options": [
+        {
+          "text": "A. Wet teats improve milk storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared or wet cloths can transfer contamination between animals."
+        },
+        {
+          "text": "B. It increases milk fat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared or wet cloths can transfer contamination between animals."
+        },
+        {
+          "text": "C. It replaces cleaning the milking area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Shared or wet cloths can transfer contamination between animals."
+        },
+        {
+          "text": "D. Shared or wet cloths can transfer contamination between animals",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Shared or wet cloths can transfer contamination between animals."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "Why should milking equipment be cleaned according to a routine?",
+      "options": [
+        {
+          "text": "A. Milk residues support bacterial growth and can contaminate later milk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Milk residues support bacterial growth and can contaminate later milk."
+        },
+        {
+          "text": "B. Cleaning reduces all milk yield",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk residues support bacterial growth and can contaminate later milk."
+        },
+        {
+          "text": "C. It replaces cooling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk residues support bacterial growth and can contaminate later milk."
+        },
+        {
+          "text": "D. Residues improve flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk residues support bacterial growth and can contaminate later milk."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "Why should raw goat milk be chilled promptly after milking?",
+      "options": [
+        {
+          "text": "A. It removes all chemical residues",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cooling slows bacterial multiplication and helps preserve quality."
+        },
+        {
+          "text": "B. Cooling slows bacterial multiplication and helps preserve quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Cooling slows bacterial multiplication and helps preserve quality."
+        },
+        {
+          "text": "C. Cooling sterilises milk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cooling slows bacterial multiplication and helps preserve quality."
+        },
+        {
+          "text": "D. Warm storage improves safety",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Cooling slows bacterial multiplication and helps preserve quality."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "Why is pasteurisation important for milk intended for human consumption?",
+      "options": [
+        {
+          "text": "A. It replaces hygienic milking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces harmful microorganisms when performed correctly."
+        },
+        {
+          "text": "B. It removes every possible contaminant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces harmful microorganisms when performed correctly."
+        },
+        {
+          "text": "C. It reduces harmful microorganisms when performed correctly",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces harmful microorganisms when performed correctly."
+        },
+        {
+          "text": "D. It guarantees unlimited shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces harmful microorganisms when performed correctly."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "Why should milk from treated goats be withheld for the product's stated withdrawal period?",
+      "options": [
+        {
+          "text": "A. Treatment always improves milk safety",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Medicine residues may otherwise remain in milk."
+        },
+        {
+          "text": "B. It increases milk protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Medicine residues may otherwise remain in milk."
+        },
+        {
+          "text": "C. Withdrawal applies only to meat",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Medicine residues may otherwise remain in milk."
+        },
+        {
+          "text": "D. Medicine residues may otherwise remain in milk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Medicine residues may otherwise remain in milk."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "What is lactation in a doe?",
+      "options": [
+        {
+          "text": "A. The period when she produces milk after kidding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The period when she produces milk after kidding."
+        },
+        {
+          "text": "B. The period before she is born",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she produces milk after kidding."
+        },
+        {
+          "text": "C. A stage of hoof growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she produces milk after kidding."
+        },
+        {
+          "text": "D. The time between mating and conception",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The period when she produces milk after kidding."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "Why does milk yield often vary through lactation?",
+      "options": [
+        {
+          "text": "A. It depends entirely on horn length",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stage of lactation, nutrition, health, genetics and litter demand affect production."
+        },
+        {
+          "text": "B. Stage of lactation, nutrition, health, genetics and litter demand affect production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stage of lactation, nutrition, health, genetics and litter demand affect production."
+        },
+        {
+          "text": "C. It is fixed for every doe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stage of lactation, nutrition, health, genetics and litter demand affect production."
+        },
+        {
+          "text": "D. Only coat colour matters",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stage of lactation, nutrition, health, genetics and litter demand affect production."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "Why should high-producing does receive adequate energy and protein?",
+      "options": [
+        {
+          "text": "A. It replaces clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk synthesis creates substantial nutrient demands."
+        },
+        {
+          "text": "B. It prevents every udder infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk synthesis creates substantial nutrient demands."
+        },
+        {
+          "text": "C. Milk synthesis creates substantial nutrient demands",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Milk synthesis creates substantial nutrient demands."
+        },
+        {
+          "text": "D. It determines the number of horns",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Milk synthesis creates substantial nutrient demands."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "Why is body condition scoring useful in dairy goats?",
+      "options": [
+        {
+          "text": "A. It measures milk bacteria directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor energy reserves and adjust feeding through production stages."
+        },
+        {
+          "text": "B. It replaces weighing kids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor energy reserves and adjust feeding through production stages."
+        },
+        {
+          "text": "C. It determines breed identity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor energy reserves and adjust feeding through production stages."
+        },
+        {
+          "text": "D. It helps monitor energy reserves and adjust feeding through production stages",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps monitor energy reserves and adjust feeding through production stages."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "What is the purpose of a buck apron in some breeding systems?",
+      "options": [
+        {
+          "text": "A. It prevents unintended mating while the buck remains with or near does",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prevents unintended mating while the buck remains with or near does."
+        },
+        {
+          "text": "B. It measures body condition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents unintended mating while the buck remains with or near does."
+        },
+        {
+          "text": "C. It treats hoof disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents unintended mating while the buck remains with or near does."
+        },
+        {
+          "text": "D. It improves semen quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents unintended mating while the buck remains with or near does."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why should goat identification be permanent and readable?",
+      "options": [
+        {
+          "text": "A. It determines market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports accurate health, breeding, movement and production records."
+        },
+        {
+          "text": "B. It supports accurate health, breeding, movement and production records",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supports accurate health, breeding, movement and production records."
+        },
+        {
+          "text": "C. It guarantees disease resistance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports accurate health, breeding, movement and production records."
+        },
+        {
+          "text": "D. It replaces all ear inspections",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supports accurate health, breeding, movement and production records."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "What is a herd register?",
+      "options": [
+        {
+          "text": "A. A record listing animals and key identity, pedigree or production details",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A record listing animals and key identity, pedigree or production details."
+        },
+        {
+          "text": "B. A list of nearby markets only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A record listing animals and key identity, pedigree or production details."
+        },
+        {
+          "text": "C. A feed formulation chart",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A record listing animals and key identity, pedigree or production details."
+        },
+        {
+          "text": "D. A schedule for cleaning troughs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A record listing animals and key identity, pedigree or production details."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "Why should kid birth weights be recorded with dam identity?",
+      "options": [
+        {
+          "text": "A. They determine the adult coat colour exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help evaluate maternal performance, growth and breeding outcomes."
+        },
+        {
+          "text": "B. They replace vaccination records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help evaluate maternal performance, growth and breeding outcomes."
+        },
+        {
+          "text": "C. They prevent difficult births",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help evaluate maternal performance, growth and breeding outcomes."
+        },
+        {
+          "text": "D. They help evaluate maternal performance, growth and breeding outcomes",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help evaluate maternal performance, growth and breeding outcomes."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 386,
+      "question": "What is pedigree information?",
+      "options": [
+        {
+          "text": "A. The goat's market destination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded ancestry showing an animal's parents and related lineage."
+        },
+        {
+          "text": "B. The number of hooves trimmed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded ancestry showing an animal's parents and related lineage."
+        },
+        {
+          "text": "C. Recorded ancestry showing an animal's parents and related lineage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Recorded ancestry showing an animal's parents and related lineage."
+        },
+        {
+          "text": "D. A record of daily feed quantity only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Recorded ancestry showing an animal's parents and related lineage."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "Why should selection decisions use performance records across more than one season where possible?",
+      "options": [
+        {
+          "text": "A. One observation always proves genetic merit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A single result may reflect temporary conditions rather than inherited ability."
+        },
+        {
+          "text": "B. A single result may reflect temporary conditions rather than inherited ability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A single result may reflect temporary conditions rather than inherited ability."
+        },
+        {
+          "text": "C. It guarantees identical offspring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A single result may reflect temporary conditions rather than inherited ability."
+        },
+        {
+          "text": "D. Records are unrelated to selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A single result may reflect temporary conditions rather than inherited ability."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "What is heritability in animal breeding?",
+      "options": [
+        {
+          "text": "A. The proportion of observed variation in a trait associated with genetic differences in a particular population and environment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The proportion of observed variation in a trait associated with genetic differences in a particular population and environment."
+        },
+        {
+          "text": "B. The number of kids inherited from a dam",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of observed variation in a trait associated with genetic differences in a particular population and environment."
+        },
+        {
+          "text": "C. The percentage of feed converted to milk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of observed variation in a trait associated with genetic differences in a particular population and environment."
+        },
+        {
+          "text": "D. A measure of disease spread",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of observed variation in a trait associated with genetic differences in a particular population and environment."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "Why is heritability not the same as how strongly a trait can be changed by management?",
+      "options": [
+        {
+          "text": "A. It means traits never change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environment and management also influence an animal's observed performance."
+        },
+        {
+          "text": "B. It is identical for every population",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environment and management also influence an animal's observed performance."
+        },
+        {
+          "text": "C. Heritability measures only feed cost",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Environment and management also influence an animal's observed performance."
+        },
+        {
+          "text": "D. Environment and management also influence an animal's observed performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Environment and management also influence an animal's observed performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "What is a breeding value intended to estimate?",
+      "options": [
+        {
+          "text": "A. Its daily feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An animal's genetic merit for passing a trait to its offspring."
+        },
+        {
+          "text": "B. Its parasite burden",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An animal's genetic merit for passing a trait to its offspring."
+        },
+        {
+          "text": "C. An animal's genetic merit for passing a trait to its offspring",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An animal's genetic merit for passing a trait to its offspring."
+        },
+        {
+          "text": "D. Its current market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An animal's genetic merit for passing a trait to its offspring."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 391,
+      "question": "Why should farmers avoid selecting only for rapid growth without considering other traits?",
+      "options": [
+        {
+          "text": "A. Growth is unrelated to production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, fertility, structure and adaptation also affect lifetime productivity."
+        },
+        {
+          "text": "B. Health, fertility, structure and adaptation also affect lifetime productivity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Health, fertility, structure and adaptation also affect lifetime productivity."
+        },
+        {
+          "text": "C. It removes environmental effects",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, fertility, structure and adaptation also affect lifetime productivity."
+        },
+        {
+          "text": "D. It guarantees disease resistance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Health, fertility, structure and adaptation also affect lifetime productivity."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 392,
+      "question": "What is adaptation in goat production?",
+      "options": [
+        {
+          "text": "A. The ability to remain productive and healthy under local climate, feed and management conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The ability to remain productive and healthy under local climate, feed and management conditions."
+        },
+        {
+          "text": "B. A change in market label",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to remain productive and healthy under local climate, feed and management conditions."
+        },
+        {
+          "text": "C. A method of milk pasteurisation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to remain productive and healthy under local climate, feed and management conditions."
+        },
+        {
+          "text": "D. A type of hoof infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The ability to remain productive and healthy under local climate, feed and management conditions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 393,
+      "question": "Why can locally adapted goats be valuable in low-input systems?",
+      "options": [
+        {
+          "text": "A. They always outgrow every exotic breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may cope better with local conditions and available resources."
+        },
+        {
+          "text": "B. They do not require water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may cope better with local conditions and available resources."
+        },
+        {
+          "text": "C. They never need veterinary care",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may cope better with local conditions and available resources."
+        },
+        {
+          "text": "D. They may cope better with local conditions and available resources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may cope better with local conditions and available resources."
+        }
+      ],
+      "part": 8
     }
   ]
 }
