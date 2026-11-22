@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 442,
+  "total": 499,
   "questions": [
     {
       "number": 1,
@@ -11936,6 +11936,1545 @@
         }
       ],
       "part": 9
+    },
+    {
+      "number": 443,
+      "question": "Why should a fish farm maintain an emergency harvest plan?",
+      "options": [
+        {
+          "text": "A. It guarantees a higher selling price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect stock and product value if water quality, disease or equipment failure creates an urgent risk."
+        },
+        {
+          "text": "B. It helps protect stock and product value if water quality, disease or equipment failure creates an urgent risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps protect stock and product value if water quality, disease or equipment failure creates an urgent risk."
+        },
+        {
+          "text": "C. It prevents every flood",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect stock and product value if water quality, disease or equipment failure creates an urgent risk."
+        },
+        {
+          "text": "D. It removes the need for aeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect stock and product value if water quality, disease or equipment failure creates an urgent risk."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 444,
+      "question": "What is a useful first step when a pump suddenly fails?",
+      "options": [
+        {
+          "text": "A. Check power and pump safely, activate backup arrangements and assess water movement and oxygen",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Check power and pump safely, activate backup arrangements and assess water movement and oxygen."
+        },
+        {
+          "text": "B. Increase feed immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check power and pump safely, activate backup arrangements and assess water movement and oxygen."
+        },
+        {
+          "text": "C. Close every outlet permanently",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check power and pump safely, activate backup arrangements and assess water movement and oxygen."
+        },
+        {
+          "text": "D. Wait until fish begin dying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Check power and pump safely, activate backup arrangements and assess water movement and oxygen."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 445,
+      "question": "Why test standby pumps before an emergency?",
+      "options": [
+        {
+          "text": "A. Standby pumps need no maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A tested unit is more likely to work when the main system fails."
+        },
+        {
+          "text": "B. It changes water chemistry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A tested unit is more likely to work when the main system fails."
+        },
+        {
+          "text": "C. Testing increases fish density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A tested unit is more likely to work when the main system fails."
+        },
+        {
+          "text": "D. A tested unit is more likely to work when the main system fails",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A tested unit is more likely to work when the main system fails."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 446,
+      "question": "Why store generator fuel safely?",
+      "options": [
+        {
+          "text": "A. It can be stored in feed bags",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fuel can create fire, spill and contamination hazards."
+        },
+        {
+          "text": "B. It prevents electrical faults",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fuel can create fire, spill and contamination hazards."
+        },
+        {
+          "text": "C. Fuel can create fire, spill and contamination hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fuel can create fire, spill and contamination hazards."
+        },
+        {
+          "text": "D. Fuel improves pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fuel can create fire, spill and contamination hazards."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 447,
+      "question": "What belongs on a farm emergency contact list?",
+      "options": [
+        {
+          "text": "A. Only customers' birthdays",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant staff, technicians, aquatic-health professionals and emergency services."
+        },
+        {
+          "text": "B. Fish species names only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant staff, technicians, aquatic-health professionals and emergency services."
+        },
+        {
+          "text": "C. Relevant staff, technicians, aquatic-health professionals and emergency services",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Relevant staff, technicians, aquatic-health professionals and emergency services."
+        },
+        {
+          "text": "D. Only feed prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relevant staff, technicians, aquatic-health professionals and emergency services."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 448,
+      "question": "Why train workers in electrical safety around wet areas?",
+      "options": [
+        {
+          "text": "A. Water and damaged wiring can create serious electric-shock hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water and damaged wiring can create serious electric-shock hazards."
+        },
+        {
+          "text": "B. Wet areas make electricity harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water and damaged wiring can create serious electric-shock hazards."
+        },
+        {
+          "text": "C. It improves fish growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water and damaged wiring can create serious electric-shock hazards."
+        },
+        {
+          "text": "D. It replaces protective devices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water and damaged wiring can create serious electric-shock hazards."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 449,
+      "question": "Why should tanks and walkways have non-slip surfaces?",
+      "options": [
+        {
+          "text": "A. They improve fish flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and injuries during routine work."
+        },
+        {
+          "text": "B. They replace handrails",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and injuries during routine work."
+        },
+        {
+          "text": "C. They increase stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and injuries during routine work."
+        },
+        {
+          "text": "D. They reduce falls and injuries during routine work",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They reduce falls and injuries during routine work."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 450,
+      "question": "Why use safe manual-handling methods for feed bags?",
+      "options": [
+        {
+          "text": "A. Poor lifting can cause back and muscle injuries",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Poor lifting can cause back and muscle injuries."
+        },
+        {
+          "text": "B. It changes feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor lifting can cause back and muscle injuries."
+        },
+        {
+          "text": "C. It prevents fish disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor lifting can cause back and muscle injuries."
+        },
+        {
+          "text": "D. Heavy bags are always safe",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Poor lifting can cause back and muscle injuries."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 451,
+      "question": "Why record workplace injuries and near misses?",
+      "options": [
+        {
+          "text": "A. They guarantee no future accidents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify hazards and prevent similar incidents."
+        },
+        {
+          "text": "B. They determine survival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify hazards and prevent similar incidents."
+        },
+        {
+          "text": "C. Records help identify hazards and prevent similar incidents",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Records help identify hazards and prevent similar incidents."
+        },
+        {
+          "text": "D. They replace training",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Records help identify hazards and prevent similar incidents."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 452,
+      "question": "Why wear suitable protective equipment when handling chemicals?",
+      "options": [
+        {
+          "text": "A. It replaces labels",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to substances that may harm skin, eyes or lungs."
+        },
+        {
+          "text": "B. It makes chemicals harmless",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to substances that may harm skin, eyes or lungs."
+        },
+        {
+          "text": "C. It reduces exposure to substances that may harm skin, eyes or lungs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces exposure to substances that may harm skin, eyes or lungs."
+        },
+        {
+          "text": "D. It increases disinfectant strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces exposure to substances that may harm skin, eyes or lungs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 453,
+      "question": "Why keep chemicals in their original labelled containers where possible?",
+      "options": [
+        {
+          "text": "A. Labels are decorative",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels provide identity, hazard and use information for safe handling."
+        },
+        {
+          "text": "B. It prevents secure storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels provide identity, hazard and use information for safe handling."
+        },
+        {
+          "text": "C. Containers determine fish growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Labels provide identity, hazard and use information for safe handling."
+        },
+        {
+          "text": "D. Labels provide identity, hazard and use information for safe handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Labels provide identity, hazard and use information for safe handling."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 454,
+      "question": "Why never mix chemicals unless labels specifically permit it?",
+      "options": [
+        {
+          "text": "A. Some combinations can release toxic gases or become dangerous",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some combinations can release toxic gases or become dangerous."
+        },
+        {
+          "text": "B. All products have identical ingredients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous."
+        },
+        {
+          "text": "C. It removes ventilation needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous."
+        },
+        {
+          "text": "D. Mixing always improves effectiveness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 455,
+      "question": "Why keep chemicals away from feed and harvested fish?",
+      "options": [
+        {
+          "text": "A. It prevents spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spills or vapours can contaminate products and create health hazards."
+        },
+        {
+          "text": "B. Spills or vapours can contaminate products and create health hazards",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Spills or vapours can contaminate products and create health hazards."
+        },
+        {
+          "text": "C. Chemicals improve feed preservation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spills or vapours can contaminate products and create health hazards."
+        },
+        {
+          "text": "D. It increases fish protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Spills or vapours can contaminate products and create health hazards."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 456,
+      "question": "What is the purpose of a written fish-feeding procedure?",
+      "options": [
+        {
+          "text": "A. It replaces observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply consistent, recorded feeding practices."
+        },
+        {
+          "text": "B. It guarantees identical growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply consistent, recorded feeding practices."
+        },
+        {
+          "text": "C. It helps staff apply consistent, recorded feeding practices",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff apply consistent, recorded feeding practices."
+        },
+        {
+          "text": "D. It determines pond ownership",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff apply consistent, recorded feeding practices."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 457,
+      "question": "Why make daily-check responsibilities clear to staff?",
+      "options": [
+        {
+          "text": "A. It removes supervision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Important tasks are less likely to be missed and problems can be escalated."
+        },
+        {
+          "text": "B. It changes fish genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Important tasks are less likely to be missed and problems can be escalated."
+        },
+        {
+          "text": "C. It guarantees no mortality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Important tasks are less likely to be missed and problems can be escalated."
+        },
+        {
+          "text": "D. Important tasks are less likely to be missed and problems can be escalated",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Important tasks are less likely to be missed and problems can be escalated."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 458,
+      "question": "Why should farm records use consistent units?",
+      "options": [
+        {
+          "text": "A. Consistent units reduce calculation and comparison errors",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent units reduce calculation and comparison errors."
+        },
+        {
+          "text": "B. It guarantees profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent units reduce calculation and comparison errors."
+        },
+        {
+          "text": "C. It replaces calibration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent units reduce calculation and comparison errors."
+        },
+        {
+          "text": "D. Units determine fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent units reduce calculation and comparison errors."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 459,
+      "question": "Why keep purchase and sales invoices?",
+      "options": [
+        {
+          "text": "A. They improve fish health directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, stock traceability and business accounts."
+        },
+        {
+          "text": "B. They support cost tracking, stock traceability and business accounts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support cost tracking, stock traceability and business accounts."
+        },
+        {
+          "text": "C. They determine pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, stock traceability and business accounts."
+        },
+        {
+          "text": "D. They replace harvest records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support cost tracking, stock traceability and business accounts."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 460,
+      "question": "What is the break-even point in fish farming?",
+      "options": [
+        {
+          "text": "A. The highest possible price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The sales level at which total revenue equals total costs."
+        },
+        {
+          "text": "B. The day fish stop feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The sales level at which total revenue equals total costs."
+        },
+        {
+          "text": "C. The sales level at which total revenue equals total costs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The sales level at which total revenue equals total costs."
+        },
+        {
+          "text": "D. The number of ponds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The sales level at which total revenue equals total costs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 461,
+      "question": "Why calculate production cost per kilogram of fish?",
+      "options": [
+        {
+          "text": "A. It determines dissolved oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare costs with selling prices and assess profitability."
+        },
+        {
+          "text": "B. It replaces FCR",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare costs with selling prices and assess profitability."
+        },
+        {
+          "text": "C. It predicts disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps compare costs with selling prices and assess profitability."
+        },
+        {
+          "text": "D. It helps compare costs with selling prices and assess profitability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps compare costs with selling prices and assess profitability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 462,
+      "question": "Why track feed as a major production cost?",
+      "options": [
+        {
+          "text": "A. Feed is often a substantial recurring expense in aquaculture",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed is often a substantial recurring expense in aquaculture."
+        },
+        {
+          "text": "B. It determines only labour cost",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is often a substantial recurring expense in aquaculture."
+        },
+        {
+          "text": "C. It is always free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is often a substantial recurring expense in aquaculture."
+        },
+        {
+          "text": "D. Feed has no effect on costs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed is often a substantial recurring expense in aquaculture."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 463,
+      "question": "Why compare actual spending with a farm budget?",
+      "options": [
+        {
+          "text": "A. It guarantees fixed prices",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It highlights cost overruns and supports timely decisions."
+        },
+        {
+          "text": "B. It highlights cost overruns and supports timely decisions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It highlights cost overruns and supports timely decisions."
+        },
+        {
+          "text": "C. It replaces sales records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It highlights cost overruns and supports timely decisions."
+        },
+        {
+          "text": "D. It removes unexpected expenses",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It highlights cost overruns and supports timely decisions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 464,
+      "question": "Why assess market size preferences before choosing a production cycle?",
+      "options": [
+        {
+          "text": "A. Buyers may pay differently for different fish sizes and product forms",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Buyers may pay differently for different fish sizes and product forms."
+        },
+        {
+          "text": "B. All buyers want identical sizes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers may pay differently for different fish sizes and product forms."
+        },
+        {
+          "text": "C. Preferences determine pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers may pay differently for different fish sizes and product forms."
+        },
+        {
+          "text": "D. It replaces sampling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Buyers may pay differently for different fish sizes and product forms."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 465,
+      "question": "Why use staggered stocking or harvest dates?",
+      "options": [
+        {
+          "text": "A. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide more regular supply and spread cash flow."
+        },
+        {
+          "text": "B. It makes fish grow without feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide more regular supply and spread cash flow."
+        },
+        {
+          "text": "C. It removes planning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can provide more regular supply and spread cash flow."
+        },
+        {
+          "text": "D. It can provide more regular supply and spread cash flow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can provide more regular supply and spread cash flow."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 466,
+      "question": "Why agree harvest quantities with buyers before dispatch?",
+      "options": [
+        {
+          "text": "A. It guarantees no spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps coordinate supply, transport, price and delivery expectations."
+        },
+        {
+          "text": "B. It replaces weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps coordinate supply, transport, price and delivery expectations."
+        },
+        {
+          "text": "C. It helps coordinate supply, transport, price and delivery expectations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps coordinate supply, transport, price and delivery expectations."
+        },
+        {
+          "text": "D. It changes species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps coordinate supply, transport, price and delivery expectations."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 467,
+      "question": "Why use an accurate scale when selling fish?",
+      "options": [
+        {
+          "text": "A. It improves growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct weights support fair transactions and reliable records."
+        },
+        {
+          "text": "B. Correct weights support fair transactions and reliable records",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct weights support fair transactions and reliable records."
+        },
+        {
+          "text": "C. It replaces ice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct weights support fair transactions and reliable records."
+        },
+        {
+          "text": "D. It determines freshness automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct weights support fair transactions and reliable records."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 468,
+      "question": "Why tell customers accurately whether fish is fresh, chilled or frozen?",
+      "options": [
+        {
+          "text": "A. Clear descriptions help buyers make informed choices and avoid misleading claims",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Clear descriptions help buyers make informed choices and avoid misleading claims."
+        },
+        {
+          "text": "B. It removes cold-chain needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear descriptions help buyers make informed choices and avoid misleading claims."
+        },
+        {
+          "text": "C. It changes shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear descriptions help buyers make informed choices and avoid misleading claims."
+        },
+        {
+          "text": "D. It guarantees a higher price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Clear descriptions help buyers make informed choices and avoid misleading claims."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 469,
+      "question": "Why protect chilled fish from dirty meltwater?",
+      "options": [
+        {
+          "text": "A. It improves texture",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated meltwater can spread microorganisms across the product."
+        },
+        {
+          "text": "B. It replaces cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated meltwater can spread microorganisms across the product."
+        },
+        {
+          "text": "C. Meltwater sterilises fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated meltwater can spread microorganisms across the product."
+        },
+        {
+          "text": "D. Contaminated meltwater can spread microorganisms across the product",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contaminated meltwater can spread microorganisms across the product."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 470,
+      "question": "Why use cleanable food-contact materials for processing tables?",
+      "options": [
+        {
+          "text": "A. Any porous material is ideal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable surfaces can be cleaned and sanitised effectively."
+        },
+        {
+          "text": "B. It removes hygiene needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable surfaces can be cleaned and sanitised effectively."
+        },
+        {
+          "text": "C. Suitable surfaces can be cleaned and sanitised effectively",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Suitable surfaces can be cleaned and sanitised effectively."
+        },
+        {
+          "text": "D. Rough surfaces sterilise fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Suitable surfaces can be cleaned and sanitised effectively."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 471,
+      "question": "Why clean knives and cutting boards between processing tasks?",
+      "options": [
+        {
+          "text": "A. It increases weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces cross-contamination between fish, waste and ready-to-eat products."
+        },
+        {
+          "text": "B. It reduces cross-contamination between fish, waste and ready-to-eat products",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces cross-contamination between fish, waste and ready-to-eat products."
+        },
+        {
+          "text": "C. It replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces cross-contamination between fish, waste and ready-to-eat products."
+        },
+        {
+          "text": "D. It changes flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces cross-contamination between fish, waste and ready-to-eat products."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 472,
+      "question": "What is cross-contamination in fish processing?",
+      "options": [
+        {
+          "text": "A. Transfer of harmful microorganisms or contaminants from one surface or food to another",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Transfer of harmful microorganisms or contaminants from one surface or food to another."
+        },
+        {
+          "text": "B. Natural cooling of fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms or contaminants from one surface or food to another."
+        },
+        {
+          "text": "C. Weighing fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms or contaminants from one surface or food to another."
+        },
+        {
+          "text": "D. Removing scales",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Transfer of harmful microorganisms or contaminants from one surface or food to another."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 473,
+      "question": "Why remove processing waste from work areas promptly?",
+      "options": [
+        {
+          "text": "A. It increases oxygen in fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated waste attracts pests and increases contamination risk."
+        },
+        {
+          "text": "B. It makes cleaning unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated waste attracts pests and increases contamination risk."
+        },
+        {
+          "text": "C. Waste improves hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Accumulated waste attracts pests and increases contamination risk."
+        },
+        {
+          "text": "D. Accumulated waste attracts pests and increases contamination risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Accumulated waste attracts pests and increases contamination risk."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 474,
+      "question": "Why provide potable water in a fish-processing area?",
+      "options": [
+        {
+          "text": "A. Safe water is needed for hygienic cleaning and food handling",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Safe water is needed for hygienic cleaning and food handling."
+        },
+        {
+          "text": "B. Water quality matters only for live fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe water is needed for hygienic cleaning and food handling."
+        },
+        {
+          "text": "C. It replaces refrigeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe water is needed for hygienic cleaning and food handling."
+        },
+        {
+          "text": "D. Any pond water is suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Safe water is needed for hygienic cleaning and food handling."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 475,
+      "question": "Why should workers with gastrointestinal illness report before handling food?",
+      "options": [
+        {
+          "text": "A. Illness improves hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may spread foodborne pathogens to products or coworkers."
+        },
+        {
+          "text": "B. It replaces handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may spread foodborne pathogens to products or coworkers."
+        },
+        {
+          "text": "C. They may spread foodborne pathogens to products or coworkers",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may spread foodborne pathogens to products or coworkers."
+        },
+        {
+          "text": "D. Symptoms cannot affect food",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may spread foodborne pathogens to products or coworkers."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 476,
+      "question": "Why keep handwashing stations accessible near processing areas?",
+      "options": [
+        {
+          "text": "A. Convenient access supports hand hygiene at the right times",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Convenient access supports hand hygiene at the right times."
+        },
+        {
+          "text": "B. They sterilise the whole room",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convenient access supports hand hygiene at the right times."
+        },
+        {
+          "text": "C. They replace cleaning tools",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convenient access supports hand hygiene at the right times."
+        },
+        {
+          "text": "D. They increase shelf life directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Convenient access supports hand hygiene at the right times."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 477,
+      "question": "Why protect fresh fish from dust and insects during display?",
+      "options": [
+        {
+          "text": "A. Insects improve fish quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and reduce product hygiene."
+        },
+        {
+          "text": "B. It replaces chilling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and reduce product hygiene."
+        },
+        {
+          "text": "C. Dust slows spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They can introduce contaminants and reduce product hygiene."
+        },
+        {
+          "text": "D. They can introduce contaminants and reduce product hygiene",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They can introduce contaminants and reduce product hygiene."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 478,
+      "question": "Why have a product recall procedure?",
+      "options": [
+        {
+          "text": "A. It enables affected batches to be identified and withdrawn if a safety issue occurs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It enables affected batches to be identified and withdrawn if a safety issue occurs."
+        },
+        {
+          "text": "B. It replaces traceability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables affected batches to be identified and withdrawn if a safety issue occurs."
+        },
+        {
+          "text": "C. It increases weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables affected batches to be identified and withdrawn if a safety issue occurs."
+        },
+        {
+          "text": "D. It guarantees no complaints",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It enables affected batches to be identified and withdrawn if a safety issue occurs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 479,
+      "question": "Why connect product batch codes to harvest and processing records?",
+      "options": [
+        {
+          "text": "A. They determine flavour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support targeted traceability and investigation."
+        },
+        {
+          "text": "B. They prevent all contamination",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support targeted traceability and investigation."
+        },
+        {
+          "text": "C. They support targeted traceability and investigation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support targeted traceability and investigation."
+        },
+        {
+          "text": "D. They replace temperature logs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support targeted traceability and investigation."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 480,
+      "question": "Why manage fish-farm effluent before discharge when required?",
+      "options": [
+        {
+          "text": "A. Discharge improves every ecosystem",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wastewater may contain solids, nutrients or treatment chemicals that harm receiving waters."
+        },
+        {
+          "text": "B. Effluent is always clean",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wastewater may contain solids, nutrients or treatment chemicals that harm receiving waters."
+        },
+        {
+          "text": "C. Wastewater may contain solids, nutrients or treatment chemicals that harm receiving waters",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wastewater may contain solids, nutrients or treatment chemicals that harm receiving waters."
+        },
+        {
+          "text": "D. It replaces aeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wastewater may contain solids, nutrients or treatment chemicals that harm receiving waters."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 481,
+      "question": "What is a benefit of settling or filtering aquaculture wastewater solids?",
+      "options": [
+        {
+          "text": "A. It increases pathogens by design",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce suspended waste released into the environment."
+        },
+        {
+          "text": "B. It increases FCR",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce suspended waste released into the environment."
+        },
+        {
+          "text": "C. It replaces all treatment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce suspended waste released into the environment."
+        },
+        {
+          "text": "D. It can reduce suspended waste released into the environment",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce suspended waste released into the environment."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 482,
+      "question": "Why handle fish-farm sludge responsibly?",
+      "options": [
+        {
+          "text": "A. It may contain concentrated nutrients, organic matter or treatment residues",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may contain concentrated nutrients, organic matter or treatment residues."
+        },
+        {
+          "text": "B. It has no environmental impact",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain concentrated nutrients, organic matter or treatment residues."
+        },
+        {
+          "text": "C. It replaces fertiliser testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain concentrated nutrients, organic matter or treatment residues."
+        },
+        {
+          "text": "D. It is always safe to dump in streams",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may contain concentrated nutrients, organic matter or treatment residues."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 483,
+      "question": "Why monitor and authorise water abstraction where required?",
+      "options": [
+        {
+          "text": "A. It prevents evaporation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect shared water resources and meet legal requirements."
+        },
+        {
+          "text": "B. It helps protect shared water resources and meet legal requirements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps protect shared water resources and meet legal requirements."
+        },
+        {
+          "text": "C. It guarantees unlimited supply",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect shared water resources and meet legal requirements."
+        },
+        {
+          "text": "D. It changes species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps protect shared water resources and meet legal requirements."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 484,
+      "question": "Why consider flood risk when selecting a fish-farm site?",
+      "options": [
+        {
+          "text": "A. Risk affects only roads",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage infrastructure, cause stock escape and introduce contaminants."
+        },
+        {
+          "text": "B. Floods always improve water quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage infrastructure, cause stock escape and introduce contaminants."
+        },
+        {
+          "text": "C. Flooding can damage infrastructure, cause stock escape and introduce contaminants",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Flooding can damage infrastructure, cause stock escape and introduce contaminants."
+        },
+        {
+          "text": "D. It determines feed protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Flooding can damage infrastructure, cause stock escape and introduce contaminants."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 485,
+      "question": "Why screen ponds and outlets against fish escape?",
+      "options": [
+        {
+          "text": "A. Screens increase growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escaped cultured fish can cause economic loss and ecological impacts."
+        },
+        {
+          "text": "B. Barriers sterilise water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escaped cultured fish can cause economic loss and ecological impacts."
+        },
+        {
+          "text": "C. It replaces records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escaped cultured fish can cause economic loss and ecological impacts."
+        },
+        {
+          "text": "D. Escaped cultured fish can cause economic loss and ecological impacts",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Escaped cultured fish can cause economic loss and ecological impacts."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 486,
+      "question": "Why culture non-native fish only where permitted and assessed?",
+      "options": [
+        {
+          "text": "A. Escapes can threaten native ecosystems and may breach regulations",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Escapes can threaten native ecosystems and may breach regulations."
+        },
+        {
+          "text": "B. It guarantees higher yields",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escapes can threaten native ecosystems and may breach regulations."
+        },
+        {
+          "text": "C. Permits affect only feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escapes can threaten native ecosystems and may breach regulations."
+        },
+        {
+          "text": "D. Non-native fish cannot survive outside farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Escapes can threaten native ecosystems and may breach regulations."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 487,
+      "question": "Why keep records of chemicals applied to ponds?",
+      "options": [
+        {
+          "text": "A. They increase alkalinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe-use review, environmental management and traceability."
+        },
+        {
+          "text": "B. They support safe-use review, environmental management and traceability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support safe-use review, environmental management and traceability."
+        },
+        {
+          "text": "C. They determine fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe-use review, environmental management and traceability."
+        },
+        {
+          "text": "D. They replace water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support safe-use review, environmental management and traceability."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 488,
+      "question": "Why follow local environmental and aquaculture regulations?",
+      "options": [
+        {
+          "text": "A. They help protect water resources, ecosystems, animal health and public interests",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help protect water resources, ecosystems, animal health and public interests."
+        },
+        {
+          "text": "B. Rules apply only to large farms",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect water resources, ecosystems, animal health and public interests."
+        },
+        {
+          "text": "C. Compliance guarantees profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect water resources, ecosystems, animal health and public interests."
+        },
+        {
+          "text": "D. It removes record needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect water resources, ecosystems, animal health and public interests."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 489,
+      "question": "What is the purpose of an environmental management plan?",
+      "options": [
+        {
+          "text": "A. Guarantee no impact",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify environmental risks and set practical controls and monitoring actions."
+        },
+        {
+          "text": "B. Replace all permits",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify environmental risks and set practical controls and monitoring actions."
+        },
+        {
+          "text": "C. Determine market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Identify environmental risks and set practical controls and monitoring actions."
+        },
+        {
+          "text": "D. Identify environmental risks and set practical controls and monitoring actions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Identify environmental risks and set practical controls and monitoring actions."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 490,
+      "question": "Why review production targets periodically?",
+      "options": [
+        {
+          "text": "A. Changes in costs, markets, survival and technology may require updated plans",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes in costs, markets, survival and technology may require updated plans."
+        },
+        {
+          "text": "B. It replaces daily monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in costs, markets, survival and technology may require updated plans."
+        },
+        {
+          "text": "C. It changes genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in costs, markets, survival and technology may require updated plans."
+        },
+        {
+          "text": "D. Targets never need revision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in costs, markets, survival and technology may require updated plans."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 491,
+      "question": "What is a corrective action after a farm audit?",
+      "options": [
+        {
+          "text": "A. A way to hide the finding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A documented step addressing a problem's cause and checking that it does not recur."
+        },
+        {
+          "text": "B. A documented step addressing a problem's cause and checking that it does not recur",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A documented step addressing a problem's cause and checking that it does not recur."
+        },
+        {
+          "text": "C. A replacement for records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A documented step addressing a problem's cause and checking that it does not recur."
+        },
+        {
+          "text": "D. An automatic feed increase",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A documented step addressing a problem's cause and checking that it does not recur."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 492,
+      "question": "Why document staff training?",
+      "options": [
+        {
+          "text": "A. It helps verify who has been trained and identify further training needs",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps verify who has been trained and identify further training needs."
+        },
+        {
+          "text": "B. It replaces supervision",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify who has been trained and identify further training needs."
+        },
+        {
+          "text": "C. It guarantees perfect performance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify who has been trained and identify further training needs."
+        },
+        {
+          "text": "D. It determines stocking density",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps verify who has been trained and identify further training needs."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 493,
+      "question": "Why investigate repeated equipment failures instead of only repairing each one?",
+      "options": [
+        {
+          "text": "A. Repeated failures improve efficiency",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Finding the underlying cause can prevent recurrence and reduce production risk."
+        },
+        {
+          "text": "B. It removes maintenance needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Finding the underlying cause can prevent recurrence and reduce production risk."
+        },
+        {
+          "text": "C. It changes water chemistry",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Finding the underlying cause can prevent recurrence and reduce production risk."
+        },
+        {
+          "text": "D. Finding the underlying cause can prevent recurrence and reduce production risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Finding the underlying cause can prevent recurrence and reduce production risk."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 494,
+      "question": "What is preventive maintenance?",
+      "options": [
+        {
+          "text": "A. Increasing electricity use",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Servicing equipment before failure to improve reliability and reduce downtime."
+        },
+        {
+          "text": "B. Replacing monitoring",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Servicing equipment before failure to improve reliability and reduce downtime."
+        },
+        {
+          "text": "C. Servicing equipment before failure to improve reliability and reduce downtime",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Servicing equipment before failure to improve reliability and reduce downtime."
+        },
+        {
+          "text": "D. Repairing only after fish die",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Servicing equipment before failure to improve reliability and reduce downtime."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 495,
+      "question": "Why schedule maintenance for pumps, aerators and meters?",
+      "options": [
+        {
+          "text": "A. Schedules change fish species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure or inaccurate readings can quickly affect fish welfare and production."
+        },
+        {
+          "text": "B. Failure or inaccurate readings can quickly affect fish welfare and production",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Failure or inaccurate readings can quickly affect fish welfare and production."
+        },
+        {
+          "text": "C. It removes backup plans",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure or inaccurate readings can quickly affect fish welfare and production."
+        },
+        {
+          "text": "D. Equipment never wears out",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Failure or inaccurate readings can quickly affect fish welfare and production."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 496,
+      "question": "Why keep an inventory of critical spare parts?",
+      "options": [
+        {
+          "text": "A. It can reduce repair delays when essential equipment fails",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can reduce repair delays when essential equipment fails."
+        },
+        {
+          "text": "B. It guarantees no breakdown",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce repair delays when essential equipment fails."
+        },
+        {
+          "text": "C. It replaces technicians",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce repair delays when essential equipment fails."
+        },
+        {
+          "text": "D. It improves feed nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can reduce repair delays when essential equipment fails."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 497,
+      "question": "Why review farm insurance and risk controls periodically?",
+      "options": [
+        {
+          "text": "A. Insurance replaces biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assets, activities and hazards change, so cover and prevention need review."
+        },
+        {
+          "text": "B. It guarantees profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assets, activities and hazards change, so cover and prevention need review."
+        },
+        {
+          "text": "C. All policies cover every loss",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assets, activities and hazards change, so cover and prevention need review."
+        },
+        {
+          "text": "D. Assets, activities and hazards change, so cover and prevention need review",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Assets, activities and hazards change, so cover and prevention need review."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 498,
+      "question": "What is a written business continuity plan for?",
+      "options": [
+        {
+          "text": "A. It replaces emergency equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prioritise actions and restore critical operations after disruption."
+        },
+        {
+          "text": "B. It determines market demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prioritise actions and restore critical operations after disruption."
+        },
+        {
+          "text": "C. It helps prioritise actions and restore critical operations after disruption",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps prioritise actions and restore critical operations after disruption."
+        },
+        {
+          "text": "D. It guarantees no disruption",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps prioritise actions and restore critical operations after disruption."
+        }
+      ],
+      "part": 10
+    },
+    {
+      "number": 499,
+      "question": "What is a useful purpose of an annual fish-farm performance review?",
+      "options": [
+        {
+          "text": "A. Count buildings only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess production, survival, health, costs and markets to plan improvements."
+        },
+        {
+          "text": "B. Guarantee next year's profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess production, survival, health, costs and markets to plan improvements."
+        },
+        {
+          "text": "C. Assess production, survival, health, costs and markets to plan improvements",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Assess production, survival, health, costs and markets to plan improvements."
+        },
+        {
+          "text": "D. Replace daily records with memory",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Assess production, survival, health, costs and markets to plan improvements."
+        }
+      ],
+      "part": 10
     }
   ]
 }
