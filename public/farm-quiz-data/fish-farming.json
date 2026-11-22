@@ -1,7 +1,7 @@
 {
   "category": "fish-farming",
   "title": "Fish farming",
-  "total": 344,
+  "total": 393,
   "questions": [
     {
       "number": 1,
@@ -9290,6 +9290,1329 @@
         }
       ],
       "part": 7
+    },
+    {
+      "number": 345,
+      "question": "What does feed conversion ratio compare?",
+      "options": [
+        {
+          "text": "A. Fish weight versus pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed used relative to weight gain produced."
+        },
+        {
+          "text": "B. Feed cost versus worker age",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed used relative to weight gain produced."
+        },
+        {
+          "text": "C. Egg number versus pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed used relative to weight gain produced."
+        },
+        {
+          "text": "D. Feed used relative to weight gain produced",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed used relative to weight gain produced."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 346,
+      "question": "How is FCR commonly calculated?",
+      "options": [
+        {
+          "text": "A. Feed consumed divided by biomass gain, using a defined method",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Feed consumed divided by biomass gain, using a defined method."
+        },
+        {
+          "text": "B. Feed delivered divided by fish number only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed divided by biomass gain, using a defined method."
+        },
+        {
+          "text": "C. Water exchanged divided by feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed divided by biomass gain, using a defined method."
+        },
+        {
+          "text": "D. Biomass gain divided by pond area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Feed consumed divided by biomass gain, using a defined method."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 347,
+      "question": "What does a lower FCR generally indicate when methods are comparable?",
+      "options": [
+        {
+          "text": "A. Fish consumed no feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Less feed was used per unit of biomass gain."
+        },
+        {
+          "text": "B. Every fish is disease-free",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Less feed was used per unit of biomass gain."
+        },
+        {
+          "text": "C. Less feed was used per unit of biomass gain",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Less feed was used per unit of biomass gain."
+        },
+        {
+          "text": "D. The pond has no waste",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Less feed was used per unit of biomass gain."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 348,
+      "question": "Why consider mortalities and removals when calculating FCR?",
+      "options": [
+        {
+          "text": "A. They increase protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They affect biomass accounting and can distort comparisons if ignored."
+        },
+        {
+          "text": "B. They determine hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They affect biomass accounting and can distort comparisons if ignored."
+        },
+        {
+          "text": "C. They affect biomass accounting and can distort comparisons if ignored",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They affect biomass accounting and can distort comparisons if ignored."
+        },
+        {
+          "text": "D. They make feed intake irrelevant",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They affect biomass accounting and can distort comparisons if ignored."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 349,
+      "question": "Why monitor uneaten feed at feeding points?",
+      "options": [
+        {
+          "text": "A. It improves clarity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It wastes money and adds organic load to the water."
+        },
+        {
+          "text": "B. It prevents ammonia formation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It wastes money and adds organic load to the water."
+        },
+        {
+          "text": "C. It increases oxygen at night",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It wastes money and adds organic load to the water."
+        },
+        {
+          "text": "D. It wastes money and adds organic load to the water",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It wastes money and adds organic load to the water."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 350,
+      "question": "What can persistent uneaten pellets indicate?",
+      "options": [
+        {
+          "text": "A. Possible overfeeding, poor feed quality, stress or fish-health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible overfeeding, poor feed quality, stress or fish-health problems."
+        },
+        {
+          "text": "B. A need to double the ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible overfeeding, poor feed quality, stress or fish-health problems."
+        },
+        {
+          "text": "C. Oxygen is always high",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible overfeeding, poor feed quality, stress or fish-health problems."
+        },
+        {
+          "text": "D. Guaranteed fast growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible overfeeding, poor feed quality, stress or fish-health problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 351,
+      "question": "Why observe feeding response before adding more feed?",
+      "options": [
+        {
+          "text": "A. It guarantees market price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid overfeeding when fish are not actively consuming."
+        },
+        {
+          "text": "B. It helps avoid overfeeding when fish are not actively consuming",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps avoid overfeeding when fish are not actively consuming."
+        },
+        {
+          "text": "C. It determines fish sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid overfeeding when fish are not actively consuming."
+        },
+        {
+          "text": "D. It replaces water tests",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps avoid overfeeding when fish are not actively consuming."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 352,
+      "question": "Why feed at consistent locations in some pond systems?",
+      "options": [
+        {
+          "text": "A. It sterilises feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor appetite and reduce unobserved feed losses."
+        },
+        {
+          "text": "B. It stops all competition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor appetite and reduce unobserved feed losses."
+        },
+        {
+          "text": "C. It helps monitor appetite and reduce unobserved feed losses",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps monitor appetite and reduce unobserved feed losses."
+        },
+        {
+          "text": "D. It determines alkalinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps monitor appetite and reduce unobserved feed losses."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 353,
+      "question": "What is an advantage of floating feed?",
+      "options": [
+        {
+          "text": "A. It always has more protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lets the farmer observe feeding activity and uneaten pellets."
+        },
+        {
+          "text": "B. It prevents all disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lets the farmer observe feeding activity and uneaten pellets."
+        },
+        {
+          "text": "C. It makes water testing unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It lets the farmer observe feeding activity and uneaten pellets."
+        },
+        {
+          "text": "D. It lets the farmer observe feeding activity and uneaten pellets",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It lets the farmer observe feeding activity and uneaten pellets."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 354,
+      "question": "What is one limitation of floating feed?",
+      "options": [
+        {
+          "text": "A. Wind or currents can move pellets away from feeding areas",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Wind or currents can move pellets away from feeding areas."
+        },
+        {
+          "text": "B. It always sinks first",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wind or currents can move pellets away from feeding areas."
+        },
+        {
+          "text": "C. It has no nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wind or currents can move pellets away from feeding areas."
+        },
+        {
+          "text": "D. Fish cannot eat it",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Wind or currents can move pellets away from feeding areas."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 355,
+      "question": "Why match pellet size to fish mouth size and life stage?",
+      "options": [
+        {
+          "text": "A. It replaces protein formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may struggle to eat unsuitable pellets, reducing intake and increasing waste."
+        },
+        {
+          "text": "B. Fish may struggle to eat unsuitable pellets, reducing intake and increasing waste",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fish may struggle to eat unsuitable pellets, reducing intake and increasing waste."
+        },
+        {
+          "text": "C. Pellet size determines species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may struggle to eat unsuitable pellets, reducing intake and increasing waste."
+        },
+        {
+          "text": "D. All sizes suit every fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may struggle to eat unsuitable pellets, reducing intake and increasing waste."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 356,
+      "question": "Why is dietary protein important for growing fish?",
+      "options": [
+        {
+          "text": "A. It supplies amino acids needed for tissue growth and maintenance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It supplies amino acids needed for tissue growth and maintenance."
+        },
+        {
+          "text": "B. It replaces dissolved oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies amino acids needed for tissue growth and maintenance."
+        },
+        {
+          "text": "C. It only colours scales",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies amino acids needed for tissue growth and maintenance."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It supplies amino acids needed for tissue growth and maintenance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 357,
+      "question": "Why does fish feed need a balanced amino-acid profile?",
+      "options": [
+        {
+          "text": "A. Only feed colour matters",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Essential amino acids are needed in suitable proportions for growth and health."
+        },
+        {
+          "text": "B. Amino acids are only for broodstock",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Essential amino acids are needed in suitable proportions for growth and health."
+        },
+        {
+          "text": "C. It determines hardness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Essential amino acids are needed in suitable proportions for growth and health."
+        },
+        {
+          "text": "D. Essential amino acids are needed in suitable proportions for growth and health",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Essential amino acids are needed in suitable proportions for growth and health."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 358,
+      "question": "What is the role of dietary lipids?",
+      "options": [
+        {
+          "text": "A. They provide concentrated energy and essential fatty acids",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They provide concentrated energy and essential fatty acids."
+        },
+        {
+          "text": "B. They measure FCR",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide concentrated energy and essential fatty acids."
+        },
+        {
+          "text": "C. They replace all minerals",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide concentrated energy and essential fatty acids."
+        },
+        {
+          "text": "D. They sterilise the intestine",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They provide concentrated energy and essential fatty acids."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 359,
+      "question": "Why balance energy and protein in a fish ration?",
+      "options": [
+        {
+          "text": "A. They are unrelated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess energy can reduce protein use for growth, while insufficient energy can waste protein."
+        },
+        {
+          "text": "B. Excess energy can reduce protein use for growth, while insufficient energy can waste protein",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess energy can reduce protein use for growth, while insufficient energy can waste protein."
+        },
+        {
+          "text": "C. Protein is never used for energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess energy can reduce protein use for growth, while insufficient energy can waste protein."
+        },
+        {
+          "text": "D. More energy always means more protein deposition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess energy can reduce protein use for growth, while insufficient energy can waste protein."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 360,
+      "question": "What is the purpose of vitamins in fish diets?",
+      "options": [
+        {
+          "text": "A. They support essential metabolic and physiological functions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support essential metabolic and physiological functions."
+        },
+        {
+          "text": "B. They increase pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support essential metabolic and physiological functions."
+        },
+        {
+          "text": "C. They replace all protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support essential metabolic and physiological functions."
+        },
+        {
+          "text": "D. They sterilise water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support essential metabolic and physiological functions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 361,
+      "question": "Why are minerals important in fish diets?",
+      "options": [
+        {
+          "text": "A. They are only for feed colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support skeletal structure, osmoregulation and other body functions."
+        },
+        {
+          "text": "B. They replace oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support skeletal structure, osmoregulation and other body functions."
+        },
+        {
+          "text": "C. They determine market demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They support skeletal structure, osmoregulation and other body functions."
+        },
+        {
+          "text": "D. They support skeletal structure, osmoregulation and other body functions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They support skeletal structure, osmoregulation and other body functions."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 362,
+      "question": "Why store fish feed in a cool, dry, ventilated area?",
+      "options": [
+        {
+          "text": "A. Ventilation increases toxins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and moisture can accelerate nutrient loss, mould and rancidity."
+        },
+        {
+          "text": "B. Storage conditions do not matter",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and moisture can accelerate nutrient loss, mould and rancidity."
+        },
+        {
+          "text": "C. Heat and moisture can accelerate nutrient loss, mould and rancidity",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Heat and moisture can accelerate nutrient loss, mould and rancidity."
+        },
+        {
+          "text": "D. Warm damp storage improves shelf life",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Heat and moisture can accelerate nutrient loss, mould and rancidity."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 363,
+      "question": "What is a risk of feeding mouldy fish feed?",
+      "options": [
+        {
+          "text": "A. Mould increases protein",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds produce mycotoxins that harm fish and reduce performance."
+        },
+        {
+          "text": "B. Some moulds produce mycotoxins that harm fish and reduce performance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some moulds produce mycotoxins that harm fish and reduce performance."
+        },
+        {
+          "text": "C. It improves pellet stability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds produce mycotoxins that harm fish and reduce performance."
+        },
+        {
+          "text": "D. It sterilises feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some moulds produce mycotoxins that harm fish and reduce performance."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 364,
+      "question": "Why store feed bags off the floor and away from walls?",
+      "options": [
+        {
+          "text": "A. It reduces moisture exposure and improves inspection and pest control",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It reduces moisture exposure and improves inspection and pest control."
+        },
+        {
+          "text": "B. It increases feed temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces moisture exposure and improves inspection and pest control."
+        },
+        {
+          "text": "C. It prevents all oxidation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces moisture exposure and improves inspection and pest control."
+        },
+        {
+          "text": "D. It makes labels unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It reduces moisture exposure and improves inspection and pest control."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 365,
+      "question": "Why compare feed batches when growth changes unexpectedly?",
+      "options": [
+        {
+          "text": "A. Feed never affects growth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient or nutrient variation may affect intake and growth."
+        },
+        {
+          "text": "B. It replaces fish sampling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient or nutrient variation may affect intake and growth."
+        },
+        {
+          "text": "C. All batches are identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient or nutrient variation may affect intake and growth."
+        },
+        {
+          "text": "D. Ingredient or nutrient variation may affect intake and growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ingredient or nutrient variation may affect intake and growth."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 366,
+      "question": "How can a farmer estimate fish biomass in a pond?",
+      "options": [
+        {
+          "text": "A. Count feed bags only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sample fish weights and combine average weight with a reliable stock estimate."
+        },
+        {
+          "text": "B. Estimate from temperature",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sample fish weights and combine average weight with a reliable stock estimate."
+        },
+        {
+          "text": "C. Sample fish weights and combine average weight with a reliable stock estimate",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Sample fish weights and combine average weight with a reliable stock estimate."
+        },
+        {
+          "text": "D. Measure pond colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Sample fish weights and combine average weight with a reliable stock estimate."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 367,
+      "question": "Why should fish samples be adequate and representative?",
+      "options": [
+        {
+          "text": "A. Sample size changes genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small or biased samples can misrepresent average stock weight."
+        },
+        {
+          "text": "B. It replaces weighing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small or biased samples can misrepresent average stock weight."
+        },
+        {
+          "text": "C. Small or biased samples can misrepresent average stock weight",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Small or biased samples can misrepresent average stock weight."
+        },
+        {
+          "text": "D. It guarantees identical fish",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Small or biased samples can misrepresent average stock weight."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 368,
+      "question": "Why return fish to water promptly after routine sampling?",
+      "options": [
+        {
+          "text": "A. It limits handling stress and air exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It limits handling stress and air exposure."
+        },
+        {
+          "text": "B. It increases scale loss",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits handling stress and air exposure."
+        },
+        {
+          "text": "C. It prevents feeding",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits handling stress and air exposure."
+        },
+        {
+          "text": "D. It changes species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It limits handling stress and air exposure."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 369,
+      "question": "What does specific growth rate describe?",
+      "options": [
+        {
+          "text": "A. Water exchanged per hour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relative rate of weight increase over time, commonly expressed as percent per day."
+        },
+        {
+          "text": "B. Feed price per bag",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relative rate of weight increase over time, commonly expressed as percent per day."
+        },
+        {
+          "text": "C. Total number harvested",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Relative rate of weight increase over time, commonly expressed as percent per day."
+        },
+        {
+          "text": "D. Relative rate of weight increase over time, commonly expressed as percent per day",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Relative rate of weight increase over time, commonly expressed as percent per day."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 370,
+      "question": "Why use consistent intervals when comparing growth rates?",
+      "options": [
+        {
+          "text": "A. Consistent intervals make performance comparisons more meaningful",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Consistent intervals make performance comparisons more meaningful."
+        },
+        {
+          "text": "B. It removes accurate weighing needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent intervals make performance comparisons more meaningful."
+        },
+        {
+          "text": "C. It determines pond size",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent intervals make performance comparisons more meaningful."
+        },
+        {
+          "text": "D. It makes all fish grow equally",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Consistent intervals make performance comparisons more meaningful."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 371,
+      "question": "What does survival rate measure?",
+      "options": [
+        {
+          "text": "A. The percentage of feed eaten",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of stocked fish still alive at the assessment point."
+        },
+        {
+          "text": "B. Water exchanged",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of stocked fish still alive at the assessment point."
+        },
+        {
+          "text": "C. The proportion of stocked fish still alive at the assessment point",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The proportion of stocked fish still alive at the assessment point."
+        },
+        {
+          "text": "D. Fish sold per worker",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The proportion of stocked fish still alive at the assessment point."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 372,
+      "question": "Why record the number and estimated weight of mortalities?",
+      "options": [
+        {
+          "text": "A. It improves survival and biomass calculations and helps detect health trends",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It improves survival and biomass calculations and helps detect health trends."
+        },
+        {
+          "text": "B. It changes species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves survival and biomass calculations and helps detect health trends."
+        },
+        {
+          "text": "C. It increases feed quality",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves survival and biomass calculations and helps detect health trends."
+        },
+        {
+          "text": "D. It replaces investigation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It improves survival and biomass calculations and helps detect health trends."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 373,
+      "question": "What is biomass gain?",
+      "options": [
+        {
+          "text": "A. Number of ponds built",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Increase in total live weight of the stock over a defined period."
+        },
+        {
+          "text": "B. Weight of leftover feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Increase in total live weight of the stock over a defined period."
+        },
+        {
+          "text": "C. Amount of water added",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Increase in total live weight of the stock over a defined period."
+        },
+        {
+          "text": "D. Increase in total live weight of the stock over a defined period",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Increase in total live weight of the stock over a defined period."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 374,
+      "question": "Why evaluate growth and survival together?",
+      "options": [
+        {
+          "text": "A. Fast growth among survivors may hide substantial losses from the original stock",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fast growth among survivors may hide substantial losses from the original stock."
+        },
+        {
+          "text": "B. Survival does not affect harvest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fast growth among survivors may hide substantial losses from the original stock."
+        },
+        {
+          "text": "C. Growth records replace mortality records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fast growth among survivors may hide substantial losses from the original stock."
+        },
+        {
+          "text": "D. They always move together",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fast growth among survivors may hide substantial losses from the original stock."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 375,
+      "question": "What is size variation within a fish batch?",
+      "options": [
+        {
+          "text": "A. Number of species",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The spread of individual fish weights or lengths around the group distribution."
+        },
+        {
+          "text": "B. The spread of individual fish weights or lengths around the group distribution",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The spread of individual fish weights or lengths around the group distribution."
+        },
+        {
+          "text": "C. Change in pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The spread of individual fish weights or lengths around the group distribution."
+        },
+        {
+          "text": "D. Difference in feed colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The spread of individual fish weights or lengths around the group distribution."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 376,
+      "question": "Why can large size variation be a problem?",
+      "options": [
+        {
+          "text": "A. It prevents competition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger fish may dominate feed or prey on smaller fish in susceptible species."
+        },
+        {
+          "text": "B. It always improves uniformity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger fish may dominate feed or prey on smaller fish in susceptible species."
+        },
+        {
+          "text": "C. Larger fish may dominate feed or prey on smaller fish in susceptible species",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Larger fish may dominate feed or prey on smaller fish in susceptible species."
+        },
+        {
+          "text": "D. It guarantees equal value",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larger fish may dominate feed or prey on smaller fish in susceptible species."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 377,
+      "question": "Why grade species prone to size hierarchy or cannibalism?",
+      "options": [
+        {
+          "text": "A. It stops fish growing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separating size groups can reduce predation and unequal feed access."
+        },
+        {
+          "text": "B. It sterilises ponds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separating size groups can reduce predation and unequal feed access."
+        },
+        {
+          "text": "C. It replaces water exchange",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separating size groups can reduce predation and unequal feed access."
+        },
+        {
+          "text": "D. Separating size groups can reduce predation and unequal feed access",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separating size groups can reduce predation and unequal feed access."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 378,
+      "question": "Why balance grading frequency against handling stress?",
+      "options": [
+        {
+          "text": "A. Frequent handling can injure fish even when size separation is beneficial",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Frequent handling can injure fish even when size separation is beneficial."
+        },
+        {
+          "text": "B. It determines pH",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent handling can injure fish even when size separation is beneficial."
+        },
+        {
+          "text": "C. More handling always improves survival",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent handling can injure fish even when size separation is beneficial."
+        },
+        {
+          "text": "D. Grading never causes stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Frequent handling can injure fish even when size separation is beneficial."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 379,
+      "question": "What can a sudden reduction in feed intake signal?",
+      "options": [
+        {
+          "text": "A. Certain higher oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water-quality stress, disease, handling disturbance or a feed problem."
+        },
+        {
+          "text": "B. Water-quality stress, disease, handling disturbance or a feed problem",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water-quality stress, disease, handling disturbance or a feed problem."
+        },
+        {
+          "text": "C. Guaranteed improved FCR",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water-quality stress, disease, handling disturbance or a feed problem."
+        },
+        {
+          "text": "D. Always harvest immediately",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water-quality stress, disease, handling disturbance or a feed problem."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 380,
+      "question": "Why observe fish behaviour at different pond locations?",
+      "options": [
+        {
+          "text": "A. Location reveals sex exactly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abnormal distribution or surfacing can reveal local water-quality or health problems."
+        },
+        {
+          "text": "B. Fish always distribute evenly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abnormal distribution or surfacing can reveal local water-quality or health problems."
+        },
+        {
+          "text": "C. Abnormal distribution or surfacing can reveal local water-quality or health problems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Abnormal distribution or surfacing can reveal local water-quality or health problems."
+        },
+        {
+          "text": "D. It replaces oxygen measurement",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abnormal distribution or surfacing can reveal local water-quality or health problems."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 381,
+      "question": "What might fish gathering near an inlet suggest?",
+      "options": [
+        {
+          "text": "A. They are always spawning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be responding to better oxygen or water conditions near the inflow."
+        },
+        {
+          "text": "B. Inlet water is necessarily toxic",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be responding to better oxygen or water conditions near the inflow."
+        },
+        {
+          "text": "C. Feed quality is poor",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They may be responding to better oxygen or water conditions near the inflow."
+        },
+        {
+          "text": "D. They may be responding to better oxygen or water conditions near the inflow",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They may be responding to better oxygen or water conditions near the inflow."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 382,
+      "question": "Why keep a daily feed log?",
+      "options": [
+        {
+          "text": "A. It tracks ration changes, appetite and feed use against growth",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It tracks ration changes, appetite and feed use against growth."
+        },
+        {
+          "text": "B. It guarantees profit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It tracks ration changes, appetite and feed use against growth."
+        },
+        {
+          "text": "C. It replaces water records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It tracks ration changes, appetite and feed use against growth."
+        },
+        {
+          "text": "D. It determines genetics",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It tracks ration changes, appetite and feed use against growth."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 383,
+      "question": "Why make ration adjustments gradually when practical?",
+      "options": [
+        {
+          "text": "A. It increases alkalinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feeding and make response harder to interpret."
+        },
+        {
+          "text": "B. Abrupt changes can disrupt feeding and make response harder to interpret",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Abrupt changes can disrupt feeding and make response harder to interpret."
+        },
+        {
+          "text": "C. Fish cannot detect changes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feeding and make response harder to interpret."
+        },
+        {
+          "text": "D. It eliminates disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Abrupt changes can disrupt feeding and make response harder to interpret."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 384,
+      "question": "What is the risk of feeding heavily during low-oxygen conditions?",
+      "options": [
+        {
+          "text": "A. Fish may not feed normally and uneaten feed adds oxygen-demanding waste",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Fish may not feed normally and uneaten feed adds oxygen-demanding waste."
+        },
+        {
+          "text": "B. It removes ammonia",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may not feed normally and uneaten feed adds oxygen-demanding waste."
+        },
+        {
+          "text": "C. It always raises oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may not feed normally and uneaten feed adds oxygen-demanding waste."
+        },
+        {
+          "text": "D. It prevents stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Fish may not feed normally and uneaten feed adds oxygen-demanding waste."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 385,
+      "question": "Why may feeding be reduced during a severe oxygen event?",
+      "options": [
+        {
+          "text": "A. It increases fish oxygen demand",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appetite and digestion can be impaired while extra feed worsens water quality."
+        },
+        {
+          "text": "B. It guarantees recovery",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appetite and digestion can be impaired while extra feed worsens water quality."
+        },
+        {
+          "text": "C. It replaces aeration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appetite and digestion can be impaired while extra feed worsens water quality."
+        },
+        {
+          "text": "D. Appetite and digestion can be impaired while extra feed worsens water quality",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appetite and digestion can be impaired while extra feed worsens water quality."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 386,
+      "question": "Why select feed for the cultured species?",
+      "options": [
+        {
+          "text": "A. Species affects only pellet colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs and feeding habits differ among fish species."
+        },
+        {
+          "text": "B. It removes feed-label needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs and feeding habits differ among fish species."
+        },
+        {
+          "text": "C. Nutrient needs and feeding habits differ among fish species",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nutrient needs and feeding habits differ among fish species."
+        },
+        {
+          "text": "D. All fish have identical diets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nutrient needs and feeding habits differ among fish species."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 387,
+      "question": "Why do larval fish often need very small live or formulated feeds?",
+      "options": [
+        {
+          "text": "A. They require adult pellets",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their mouths and digestive systems may not handle larger particles."
+        },
+        {
+          "text": "B. Their mouths and digestive systems may not handle larger particles",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their mouths and digestive systems may not handle larger particles."
+        },
+        {
+          "text": "C. It determines salinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their mouths and digestive systems may not handle larger particles."
+        },
+        {
+          "text": "D. They cannot digest nutrients",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their mouths and digestive systems may not handle larger particles."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 388,
+      "question": "What is the purpose of rotifers or Artemia in some hatcheries?",
+      "options": [
+        {
+          "text": "A. Their size and nutritional characteristics can suit early larval feeding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Their size and nutritional characteristics can suit early larval feeding."
+        },
+        {
+          "text": "B. They replace broodstock management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their size and nutritional characteristics can suit early larval feeding."
+        },
+        {
+          "text": "C. They disinfect tanks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their size and nutritional characteristics can suit early larval feeding."
+        },
+        {
+          "text": "D. They determine sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Their size and nutritional characteristics can suit early larval feeding."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 389,
+      "question": "Why maintain live-feed cultures hygienically?",
+      "options": [
+        {
+          "text": "A. Cultures cannot carry contaminants",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated cultures can introduce pathogens or poor-quality feed to larvae."
+        },
+        {
+          "text": "B. It removes water testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated cultures can introduce pathogens or poor-quality feed to larvae."
+        },
+        {
+          "text": "C. Hygiene reduces nutrition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated cultures can introduce pathogens or poor-quality feed to larvae."
+        },
+        {
+          "text": "D. Contaminated cultures can introduce pathogens or poor-quality feed to larvae",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contaminated cultures can introduce pathogens or poor-quality feed to larvae."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 390,
+      "question": "Why manage hatchery feed transitions carefully?",
+      "options": [
+        {
+          "text": "A. Transitions determine pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larvae or fry must adapt to feed particle size and nutrient availability."
+        },
+        {
+          "text": "B. It eliminates observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larvae or fry must adapt to feed particle size and nutrient availability."
+        },
+        {
+          "text": "C. Larvae or fry must adapt to feed particle size and nutrient availability",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Larvae or fry must adapt to feed particle size and nutrient availability."
+        },
+        {
+          "text": "D. All feeds are identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Larvae or fry must adapt to feed particle size and nutrient availability."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 391,
+      "question": "What is feed palatability?",
+      "options": [
+        {
+          "text": "A. Feed bag colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How readily fish accept and consume a feed."
+        },
+        {
+          "text": "B. How readily fish accept and consume a feed",
+          "correct": true,
+          "feedback": "Well done! Correct answer: How readily fish accept and consume a feed."
+        },
+        {
+          "text": "C. Water alkalinity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How readily fish accept and consume a feed."
+        },
+        {
+          "text": "D. Pellets per kilogram only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is How readily fish accept and consume a feed."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 392,
+      "question": "Why can rancid oil reduce feed quality?",
+      "options": [
+        {
+          "text": "A. Oxidation damages lipids and can create undesirable compounds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Oxidation damages lipids and can create undesirable compounds."
+        },
+        {
+          "text": "B. Rancidity increases essential fatty acids",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxidation damages lipids and can create undesirable compounds."
+        },
+        {
+          "text": "C. It sterilises feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxidation damages lipids and can create undesirable compounds."
+        },
+        {
+          "text": "D. It improves flavour indefinitely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Oxidation damages lipids and can create undesirable compounds."
+        }
+      ],
+      "part": 8
+    },
+    {
+      "number": 393,
+      "question": "What is the purpose of antioxidants in some fish feeds?",
+      "options": [
+        {
+          "text": "A. They replace vitamins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help slow fat oxidation during storage."
+        },
+        {
+          "text": "B. They remove mycotoxins",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help slow fat oxidation during storage."
+        },
+        {
+          "text": "C. They add dissolved oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help slow fat oxidation during storage."
+        },
+        {
+          "text": "D. They help slow fat oxidation during storage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help slow fat oxidation during storage."
+        }
+      ],
+      "part": 8
     }
   ]
 }
