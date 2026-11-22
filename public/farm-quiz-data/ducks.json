@@ -1,7 +1,7 @@
 {
   "category": "ducks",
   "title": "ducks",
-  "total": 399,
+  "total": 450,
   "questions": [
     {
       "number": 1,
@@ -10775,6 +10775,1383 @@
         }
       ],
       "part": 8
+    },
+    {
+      "number": 400,
+      "question": "Why should duck housing be inspected after heavy rain?",
+      "options": [
+        {
+          "text": "A. Flooding improves feed storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify leaks, flooding and wet bedding before they harm flock conditions."
+        },
+        {
+          "text": "B. Rainwater always sterilises the house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify leaks, flooding and wet bedding before they harm flock conditions."
+        },
+        {
+          "text": "C. To identify leaks, flooding and wet bedding before they harm flock conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To identify leaks, flooding and wet bedding before they harm flock conditions."
+        },
+        {
+          "text": "D. It determines egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To identify leaks, flooding and wet bedding before they harm flock conditions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 401,
+      "question": "What is the purpose of a daily flock walk-through?",
+      "options": [
+        {
+          "text": "A. To count only eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe behaviour, feed and water access, housing and signs of illness or injury."
+        },
+        {
+          "text": "B. To avoid checking drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe behaviour, feed and water access, housing and signs of illness or injury."
+        },
+        {
+          "text": "C. To change the breed each day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To observe behaviour, feed and water access, housing and signs of illness or injury."
+        },
+        {
+          "text": "D. To observe behaviour, feed and water access, housing and signs of illness or injury",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To observe behaviour, feed and water access, housing and signs of illness or injury."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 402,
+      "question": "Why should abnormal behaviour be recorded with the date and pen number?",
+      "options": [
+        {
+          "text": "A. It helps identify patterns and connect problems with a particular group or event",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps identify patterns and connect problems with a particular group or event."
+        },
+        {
+          "text": "B. It makes veterinary diagnosis unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns and connect problems with a particular group or event."
+        },
+        {
+          "text": "C. It measures farm land area",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns and connect problems with a particular group or event."
+        },
+        {
+          "text": "D. It improves appetite directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps identify patterns and connect problems with a particular group or event."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 403,
+      "question": "What can a sudden drop in egg production indicate?",
+      "options": [
+        {
+          "text": "A. A need to stop collecting eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible changes in health, feed, water, lighting, stress or management."
+        },
+        {
+          "text": "B. Possible changes in health, feed, water, lighting, stress or management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Possible changes in health, feed, water, lighting, stress or management."
+        },
+        {
+          "text": "C. Only a shell-colour change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible changes in health, feed, water, lighting, stress or management."
+        },
+        {
+          "text": "D. Guaranteed improvement in fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Possible changes in health, feed, water, lighting, stress or management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 404,
+      "question": "Why should laying ducks have suitable nest sites?",
+      "options": [
+        {
+          "text": "A. Nests replace balanced feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate nests encourage clean egg laying and reduce floor eggs and breakage."
+        },
+        {
+          "text": "B. Nests increase the number of drakes",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate nests encourage clean egg laying and reduce floor eggs and breakage."
+        },
+        {
+          "text": "C. Appropriate nests encourage clean egg laying and reduce floor eggs and breakage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Appropriate nests encourage clean egg laying and reduce floor eggs and breakage."
+        },
+        {
+          "text": "D. Nests prevent the need for water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Appropriate nests encourage clean egg laying and reduce floor eggs and breakage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 405,
+      "question": "What should be checked if many eggs are laid on the floor?",
+      "options": [
+        {
+          "text": "A. Only pond depth",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, location, bedding, lighting and laying behaviour."
+        },
+        {
+          "text": "B. Farm sign height",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, location, bedding, lighting and laying behaviour."
+        },
+        {
+          "text": "C. Feed sack colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Nest access, location, bedding, lighting and laying behaviour."
+        },
+        {
+          "text": "D. Nest access, location, bedding, lighting and laying behaviour",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Nest access, location, bedding, lighting and laying behaviour."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 406,
+      "question": "Why should nest bedding be kept clean and dry?",
+      "options": [
+        {
+          "text": "A. It helps reduce dirty eggs and provides a suitable laying area",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps reduce dirty eggs and provides a suitable laying area."
+        },
+        {
+          "text": "B. It increases shell weight after laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce dirty eggs and provides a suitable laying area."
+        },
+        {
+          "text": "C. It replaces egg collection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce dirty eggs and provides a suitable laying area."
+        },
+        {
+          "text": "D. It makes eggs fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps reduce dirty eggs and provides a suitable laying area."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 407,
+      "question": "What is a floor egg?",
+      "options": [
+        {
+          "text": "A. An egg with a double yolk",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An egg laid outside the intended nest area."
+        },
+        {
+          "text": "B. An egg laid outside the intended nest area",
+          "correct": true,
+          "feedback": "Well done! Correct answer: An egg laid outside the intended nest area."
+        },
+        {
+          "text": "C. An egg stored on a concrete floor",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An egg laid outside the intended nest area."
+        },
+        {
+          "text": "D. An egg that has been incubated",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is An egg laid outside the intended nest area."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 408,
+      "question": "Why should floor eggs be collected promptly?",
+      "options": [
+        {
+          "text": "A. Prompt collection limits contamination and helps reduce repeated floor laying",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt collection limits contamination and helps reduce repeated floor laying."
+        },
+        {
+          "text": "B. It prevents ducks drinking",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt collection limits contamination and helps reduce repeated floor laying."
+        },
+        {
+          "text": "C. Floor eggs are always more fertile",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt collection limits contamination and helps reduce repeated floor laying."
+        },
+        {
+          "text": "D. It makes nest management unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt collection limits contamination and helps reduce repeated floor laying."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 409,
+      "question": "Why should lighting changes for breeder ducks be planned?",
+      "options": [
+        {
+          "text": "A. Lighting has no effect on ducks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in day length can influence reproductive activity and laying patterns."
+        },
+        {
+          "text": "B. Sudden changes guarantee more eggs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in day length can influence reproductive activity and laying patterns."
+        },
+        {
+          "text": "C. It replaces feed management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Changes in day length can influence reproductive activity and laying patterns."
+        },
+        {
+          "text": "D. Changes in day length can influence reproductive activity and laying patterns",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Changes in day length can influence reproductive activity and laying patterns."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 410,
+      "question": "Why should a suitable dark period be considered in a lighting programme?",
+      "options": [
+        {
+          "text": "A. A rest period supports normal behaviour and welfare",
+          "correct": true,
+          "feedback": "Well done! Correct answer: A rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "B. Darkness prevents birds finding water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "C. Continuous bright light is always required",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rest period supports normal behaviour and welfare."
+        },
+        {
+          "text": "D. Ducks never need rest",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is A rest period supports normal behaviour and welfare."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 411,
+      "question": "What is moulting in ducks?",
+      "options": [
+        {
+          "text": "A. The process of digesting grit",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The natural replacement of old feathers with new ones."
+        },
+        {
+          "text": "B. The natural replacement of old feathers with new ones",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The natural replacement of old feathers with new ones."
+        },
+        {
+          "text": "C. A respiratory infection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The natural replacement of old feathers with new ones."
+        },
+        {
+          "text": "D. The development of an egg embryo",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The natural replacement of old feathers with new ones."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 412,
+      "question": "Why may egg production change during a natural moult?",
+      "options": [
+        {
+          "text": "A. Resources are redirected toward feather replacement and reproductive activity may decline",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Resources are redirected toward feather replacement and reproductive activity may decline."
+        },
+        {
+          "text": "B. Feathers determine egg fertility directly",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resources are redirected toward feather replacement and reproductive activity may decline."
+        },
+        {
+          "text": "C. Moulting always increases laying",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resources are redirected toward feather replacement and reproductive activity may decline."
+        },
+        {
+          "text": "D. The flock no longer needs feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Resources are redirected toward feather replacement and reproductive activity may decline."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 413,
+      "question": "Why should ducks not be handled unnecessarily?",
+      "options": [
+        {
+          "text": "A. Handling improves immunity in every case",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess handling can cause stress and increase injury risk."
+        },
+        {
+          "text": "B. It increases incubation time",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess handling can cause stress and increase injury risk."
+        },
+        {
+          "text": "C. It replaces good housing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Excess handling can cause stress and increase injury risk."
+        },
+        {
+          "text": "D. Excess handling can cause stress and increase injury risk",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Excess handling can cause stress and increase injury risk."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 414,
+      "question": "Why should catching teams use calm methods?",
+      "options": [
+        {
+          "text": "A. Ducks cannot be injured while catching",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces panic, bruising and wing or leg injuries."
+        },
+        {
+          "text": "B. It increases feed intake",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces panic, bruising and wing or leg injuries."
+        },
+        {
+          "text": "C. Careful handling reduces panic, bruising and wing or leg injuries",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Careful handling reduces panic, bruising and wing or leg injuries."
+        },
+        {
+          "text": "D. Fast chasing always reduces stress",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Careful handling reduces panic, bruising and wing or leg injuries."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 415,
+      "question": "Why should ramps and walkways be stable and non-slip?",
+      "options": [
+        {
+          "text": "A. They increase body weight",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and leg injuries during movement."
+        },
+        {
+          "text": "B. They reduce falls and leg injuries during movement",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They reduce falls and leg injuries during movement."
+        },
+        {
+          "text": "C. They make crates unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and leg injuries during movement."
+        },
+        {
+          "text": "D. They replace fencing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They reduce falls and leg injuries during movement."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 416,
+      "question": "What is the main risk of flooding in a duck pen?",
+      "options": [
+        {
+          "text": "A. Contaminated water, wet bedding and unsafe resting conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Contaminated water, wet bedding and unsafe resting conditions."
+        },
+        {
+          "text": "B. It improves feed storage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated water, wet bedding and unsafe resting conditions."
+        },
+        {
+          "text": "C. Flooding guarantees better sanitation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated water, wet bedding and unsafe resting conditions."
+        },
+        {
+          "text": "D. It prevents all parasites",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Contaminated water, wet bedding and unsafe resting conditions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 417,
+      "question": "Why should electrical equipment near water be maintained safely?",
+      "options": [
+        {
+          "text": "A. Safety matters only in dry seasons",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water increases the risk of electric shock, fire and equipment failure."
+        },
+        {
+          "text": "B. It prevents feed spoilage",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water increases the risk of electric shock, fire and equipment failure."
+        },
+        {
+          "text": "C. Wet wiring improves ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Water increases the risk of electric shock, fire and equipment failure."
+        },
+        {
+          "text": "D. Water increases the risk of electric shock, fire and equipment failure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Water increases the risk of electric shock, fire and equipment failure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 418,
+      "question": "Why is a backup plan needed for power failure in mechanically ventilated housing?",
+      "options": [
+        {
+          "text": "A. Power failure sterilises the house",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Loss of ventilation can create dangerous heat and air-quality conditions."
+        },
+        {
+          "text": "B. It lowers stocking density automatically",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Loss of ventilation can create dangerous heat and air-quality conditions."
+        },
+        {
+          "text": "C. Loss of ventilation can create dangerous heat and air-quality conditions",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Loss of ventilation can create dangerous heat and air-quality conditions."
+        },
+        {
+          "text": "D. Birds do not need ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Loss of ventilation can create dangerous heat and air-quality conditions."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 419,
+      "question": "What should be done if an automatic drinker system fails?",
+      "options": [
+        {
+          "text": "A. Wait until the next day",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide safe alternative drinking water promptly while repairing the system."
+        },
+        {
+          "text": "B. Use a contaminated drain",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide safe alternative drinking water promptly while repairing the system."
+        },
+        {
+          "text": "C. Provide safe alternative drinking water promptly while repairing the system",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Provide safe alternative drinking water promptly while repairing the system."
+        },
+        {
+          "text": "D. Remove all feed and water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Provide safe alternative drinking water promptly while repairing the system."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 420,
+      "question": "Why should temperature sensors be checked and positioned correctly?",
+      "options": [
+        {
+          "text": "A. Readings should represent the birds' environment to guide management",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Readings should represent the birds' environment to guide management."
+        },
+        {
+          "text": "B. Sensor position has no effect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Readings should represent the birds' environment to guide management."
+        },
+        {
+          "text": "C. Sensors determine breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Readings should represent the birds' environment to guide management."
+        },
+        {
+          "text": "D. They replace visual inspection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Readings should represent the birds' environment to guide management."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 421,
+      "question": "What is the purpose of calibrating weighing scales?",
+      "options": [
+        {
+          "text": "A. To calculate egg fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To improve the accuracy and consistency of recorded weights."
+        },
+        {
+          "text": "B. To sterilise equipment",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To improve the accuracy and consistency of recorded weights."
+        },
+        {
+          "text": "C. To make ducks heavier",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To improve the accuracy and consistency of recorded weights."
+        },
+        {
+          "text": "D. To improve the accuracy and consistency of recorded weights",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To improve the accuracy and consistency of recorded weights."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 422,
+      "question": "Why review production data over time rather than judging one day?",
+      "options": [
+        {
+          "text": "A. Trends help distinguish persistent problems from normal daily variation",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Trends help distinguish persistent problems from normal daily variation."
+        },
+        {
+          "text": "B. Trends are unrelated to management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Trends help distinguish persistent problems from normal daily variation."
+        },
+        {
+          "text": "C. It removes the need for records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Trends help distinguish persistent problems from normal daily variation."
+        },
+        {
+          "text": "D. One day's result predicts the whole cycle",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Trends help distinguish persistent problems from normal daily variation."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 423,
+      "question": "What is a batch number useful for?",
+      "options": [
+        {
+          "text": "A. Identifying feather colour",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Linking birds, feed, treatments, eggs or products to their source and history."
+        },
+        {
+          "text": "B. Replacing the farm name",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Linking birds, feed, treatments, eggs or products to their source and history."
+        },
+        {
+          "text": "C. Linking birds, feed, treatments, eggs or products to their source and history",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Linking birds, feed, treatments, eggs or products to their source and history."
+        },
+        {
+          "text": "D. Determining weather",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Linking birds, feed, treatments, eggs or products to their source and history."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 424,
+      "question": "Why should feed delivery records include supplier and batch details?",
+      "options": [
+        {
+          "text": "A. They help trace feed quality concerns and investigate contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help trace feed quality concerns and investigate contamination."
+        },
+        {
+          "text": "B. They guarantee a low price",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help trace feed quality concerns and investigate contamination."
+        },
+        {
+          "text": "C. They determine duck breed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help trace feed quality concerns and investigate contamination."
+        },
+        {
+          "text": "D. They make feed testing impossible",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help trace feed quality concerns and investigate contamination."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 425,
+      "question": "What should be done when feed smells rancid or appears unusually discoloured?",
+      "options": [
+        {
+          "text": "A. Mix it with fresh feed to hide the smell",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch and investigate its safety and storage."
+        },
+        {
+          "text": "B. Store it beside clean water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch and investigate its safety and storage."
+        },
+        {
+          "text": "C. Increase the feeding rate",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Stop using the suspect batch and investigate its safety and storage."
+        },
+        {
+          "text": "D. Stop using the suspect batch and investigate its safety and storage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Stop using the suspect batch and investigate its safety and storage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 426,
+      "question": "Why is first-in, first-out stock rotation useful?",
+      "options": [
+        {
+          "text": "A. It helps use older suitable stock before newer deliveries and limits prolonged storage",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps use older suitable stock before newer deliveries and limits prolonged storage."
+        },
+        {
+          "text": "B. It prevents checking dates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps use older suitable stock before newer deliveries and limits prolonged storage."
+        },
+        {
+          "text": "C. It changes nutrient needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps use older suitable stock before newer deliveries and limits prolonged storage."
+        },
+        {
+          "text": "D. It ensures old feed is mouldy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps use older suitable stock before newer deliveries and limits prolonged storage."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 427,
+      "question": "Why should feed bags be kept away from damp floors and walls?",
+      "options": [
+        {
+          "text": "A. Dampness improves stability",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can cause caking, mould and nutrient deterioration."
+        },
+        {
+          "text": "B. It makes feed more digestible",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can cause caking, mould and nutrient deterioration."
+        },
+        {
+          "text": "C. Moisture can cause caking, mould and nutrient deterioration",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Moisture can cause caking, mould and nutrient deterioration."
+        },
+        {
+          "text": "D. It prevents rodents",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Moisture can cause caking, mould and nutrient deterioration."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 428,
+      "question": "Why retain a labelled sample of each feed batch?",
+      "options": [
+        {
+          "text": "A. It replaces supplier records",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help investigate later feed-quality complaints."
+        },
+        {
+          "text": "B. It makes feed last forever",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help investigate later feed-quality complaints."
+        },
+        {
+          "text": "C. It can help investigate later feed-quality complaints",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can help investigate later feed-quality complaints."
+        },
+        {
+          "text": "D. It guarantees no toxin is present",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can help investigate later feed-quality complaints."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 429,
+      "question": "Why investigate a sudden change in feed particle size?",
+      "options": [
+        {
+          "text": "A. Particle size determines sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may affect intake, wastage and suitability for the birds' age."
+        },
+        {
+          "text": "B. It replaces nutrient formulation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may affect intake, wastage and suitability for the birds' age."
+        },
+        {
+          "text": "C. All sizes are equally suitable",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It may affect intake, wastage and suitability for the birds' age."
+        },
+        {
+          "text": "D. It may affect intake, wastage and suitability for the birds' age",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It may affect intake, wastage and suitability for the birds' age."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 430,
+      "question": "Why should a complete ration be mixed uniformly?",
+      "options": [
+        {
+          "text": "A. Uniform mixing helps each bird receive a consistent supply of nutrients",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Uniform mixing helps each bird receive a consistent supply of nutrients."
+        },
+        {
+          "text": "B. It guarantees identical weights",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uniform mixing helps each bird receive a consistent supply of nutrients."
+        },
+        {
+          "text": "C. It removes ingredient checks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uniform mixing helps each bird receive a consistent supply of nutrients."
+        },
+        {
+          "text": "D. It changes pellet colour only",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Uniform mixing helps each bird receive a consistent supply of nutrients."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 431,
+      "question": "What can poor mixing of a vitamin or mineral premix cause?",
+      "options": [
+        {
+          "text": "A. It prevents feed segregation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some portions may contain too little or too much of the nutrient."
+        },
+        {
+          "text": "B. Some portions may contain too little or too much of the nutrient",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some portions may contain too little or too much of the nutrient."
+        },
+        {
+          "text": "C. Every bird gets a perfect ration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some portions may contain too little or too much of the nutrient."
+        },
+        {
+          "text": "D. It improves uniformity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some portions may contain too little or too much of the nutrient."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 432,
+      "question": "Why use reliable nutrient values when formulating feed?",
+      "options": [
+        {
+          "text": "A. All maize has identical composition",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient composition varies and inaccurate values can create deficient or excessive diets."
+        },
+        {
+          "text": "B. Ingredient names give exact values",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient composition varies and inaccurate values can create deficient or excessive diets."
+        },
+        {
+          "text": "C. Ingredient composition varies and inaccurate values can create deficient or excessive diets",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Ingredient composition varies and inaccurate values can create deficient or excessive diets."
+        },
+        {
+          "text": "D. It removes ration review",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Ingredient composition varies and inaccurate values can create deficient or excessive diets."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 433,
+      "question": "Why check feed labels on delivery?",
+      "options": [
+        {
+          "text": "A. To determine duck sex",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm product identity, intended species or stage, batch and declared nutrient information."
+        },
+        {
+          "text": "B. To measure pond oxygen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm product identity, intended species or stage, batch and declared nutrient information."
+        },
+        {
+          "text": "C. To replace all sampling",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is To confirm product identity, intended species or stage, batch and declared nutrient information."
+        },
+        {
+          "text": "D. To confirm product identity, intended species or stage, batch and declared nutrient information",
+          "correct": true,
+          "feedback": "Well done! Correct answer: To confirm product identity, intended species or stage, batch and declared nutrient information."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 434,
+      "question": "Why should medicated feed be clearly identified and controlled?",
+      "options": [
+        {
+          "text": "A. It prevents accidental use by the wrong group and supports medicine compliance",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It prevents accidental use by the wrong group and supports medicine compliance."
+        },
+        {
+          "text": "B. It is ordinary feed",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents accidental use by the wrong group and supports medicine compliance."
+        },
+        {
+          "text": "C. It has no withdrawal periods",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents accidental use by the wrong group and supports medicine compliance."
+        },
+        {
+          "text": "D. It can be fed to every animal",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It prevents accidental use by the wrong group and supports medicine compliance."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 435,
+      "question": "Why should feed not be stored with pesticides or fuel?",
+      "options": [
+        {
+          "text": "A. Separate storage increases mould",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks or vapours could contaminate feed and harm birds or people."
+        },
+        {
+          "text": "B. Leaks or vapours could contaminate feed and harm birds or people",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Leaks or vapours could contaminate feed and harm birds or people."
+        },
+        {
+          "text": "C. Chemicals improve feed preservation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks or vapours could contaminate feed and harm birds or people."
+        },
+        {
+          "text": "D. Fuel provides dietary energy",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Leaks or vapours could contaminate feed and harm birds or people."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 436,
+      "question": "Why should chemical containers remain labelled and secured away from feed?",
+      "options": [
+        {
+          "text": "A. This reduces accidental poisoning, misuse and contamination",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This reduces accidental poisoning, misuse and contamination."
+        },
+        {
+          "text": "B. Chemicals belong in drinkers",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental poisoning, misuse and contamination."
+        },
+        {
+          "text": "C. Labels are unnecessary after opening",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental poisoning, misuse and contamination."
+        },
+        {
+          "text": "D. It improves eggshell strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This reduces accidental poisoning, misuse and contamination."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 437,
+      "question": "What is the purpose of an emergency contact list on a farm?",
+      "options": [
+        {
+          "text": "A. It replaces an emergency plan",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, utility and emergency support."
+        },
+        {
+          "text": "B. It predicts disease dates",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, utility and emergency support."
+        },
+        {
+          "text": "C. It makes training unnecessary",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It helps staff quickly reach veterinary, utility and emergency support."
+        },
+        {
+          "text": "D. It helps staff quickly reach veterinary, utility and emergency support",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It helps staff quickly reach veterinary, utility and emergency support."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 438,
+      "question": "Why should workers know how to report suspected disease?",
+      "options": [
+        {
+          "text": "A. Prompt reporting supports early response and may be required by animal-health authorities",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Prompt reporting supports early response and may be required by animal-health authorities."
+        },
+        {
+          "text": "B. It removes isolation needs",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports early response and may be required by animal-health authorities."
+        },
+        {
+          "text": "C. Only customers should report illness",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports early response and may be required by animal-health authorities."
+        },
+        {
+          "text": "D. Reporting spreads disease",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Prompt reporting supports early response and may be required by animal-health authorities."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 439,
+      "question": "Why restrict farm access during a suspected contagious disease event?",
+      "options": [
+        {
+          "text": "A. More visitors improve immunity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting movement can reduce infection spread to other flocks."
+        },
+        {
+          "text": "B. Limiting movement can reduce infection spread to other flocks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Limiting movement can reduce infection spread to other flocks."
+        },
+        {
+          "text": "C. It replaces veterinary investigation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting movement can reduce infection spread to other flocks."
+        },
+        {
+          "text": "D. Access control is only for egg sales",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Limiting movement can reduce infection spread to other flocks."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 440,
+      "question": "How should duck manure and litter be managed?",
+      "options": [
+        {
+          "text": "A. Store and handle it to prevent runoff, nuisance and contamination of water sources",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Store and handle it to prevent runoff, nuisance and contamination of water sources."
+        },
+        {
+          "text": "B. Spread fresh manure on feeders",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Store and handle it to prevent runoff, nuisance and contamination of water sources."
+        },
+        {
+          "text": "C. Dump it into streams",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Store and handle it to prevent runoff, nuisance and contamination of water sources."
+        },
+        {
+          "text": "D. Store it beside drinking tanks",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Store and handle it to prevent runoff, nuisance and contamination of water sources."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 441,
+      "question": "Why should manure application follow agronomic and public-health guidance?",
+      "options": [
+        {
+          "text": "A. Manure never contains pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling and timing reduce nutrient runoff and pathogen risks."
+        },
+        {
+          "text": "B. It replaces soil testing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling and timing reduce nutrient runoff and pathogen risks."
+        },
+        {
+          "text": "C. Any quantity is safe everywhere",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Correct handling and timing reduce nutrient runoff and pathogen risks."
+        },
+        {
+          "text": "D. Correct handling and timing reduce nutrient runoff and pathogen risks",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Correct handling and timing reduce nutrient runoff and pathogen risks."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 442,
+      "question": "What is a purpose of managed composting of suitable duck litter?",
+      "options": [
+        {
+          "text": "A. It turns manure into drinking water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can stabilise organic material and reduce some pathogens and weed seeds."
+        },
+        {
+          "text": "B. It removes runoff management",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can stabilise organic material and reduce some pathogens and weed seeds."
+        },
+        {
+          "text": "C. It can stabilise organic material and reduce some pathogens and weed seeds",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It can stabilise organic material and reduce some pathogens and weed seeds."
+        },
+        {
+          "text": "D. It makes all contaminants impossible",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It can stabilise organic material and reduce some pathogens and weed seeds."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 443,
+      "question": "Why keep farm drainage channels clear?",
+      "options": [
+        {
+          "text": "A. Blocked drains improve hygiene",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good drainage helps prevent standing water, erosion and flooding."
+        },
+        {
+          "text": "B. Good drainage helps prevent standing water, erosion and flooding",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Good drainage helps prevent standing water, erosion and flooding."
+        },
+        {
+          "text": "C. It prevents roof maintenance",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good drainage helps prevent standing water, erosion and flooding."
+        },
+        {
+          "text": "D. Drainage controls fertility",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Good drainage helps prevent standing water, erosion and flooding."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 444,
+      "question": "Why should dead birds never be discarded into rivers or open drains?",
+      "options": [
+        {
+          "text": "A. This can contaminate water and expose people and animals to pathogens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: This can contaminate water and expose people and animals to pathogens."
+        },
+        {
+          "text": "B. Water neutralises every pathogen",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This can contaminate water and expose people and animals to pathogens."
+        },
+        {
+          "text": "C. It improves fish production",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This can contaminate water and expose people and animals to pathogens."
+        },
+        {
+          "text": "D. It safely feeds wild birds",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is This can contaminate water and expose people and animals to pathogens."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 445,
+      "question": "Why assess a duck farm's effect on nearby water bodies?",
+      "options": [
+        {
+          "text": "A. Water bodies are unaffected",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff carrying manure, feed or chemicals can harm water quality and ecosystems."
+        },
+        {
+          "text": "B. It determines breed selection",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff carrying manure, feed or chemicals can harm water quality and ecosystems."
+        },
+        {
+          "text": "C. Runoff always improves water",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Runoff carrying manure, feed or chemicals can harm water quality and ecosystems."
+        },
+        {
+          "text": "D. Runoff carrying manure, feed or chemicals can harm water quality and ecosystems",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Runoff carrying manure, feed or chemicals can harm water quality and ecosystems."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 446,
+      "question": "Why should disinfectants never be mixed unless the label permits it?",
+      "options": [
+        {
+          "text": "A. All disinfectants are identical",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous and ineffective."
+        },
+        {
+          "text": "B. It prevents ventilation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous and ineffective."
+        },
+        {
+          "text": "C. Some combinations can release toxic gases or become dangerous and ineffective",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Some combinations can release toxic gases or become dangerous and ineffective."
+        },
+        {
+          "text": "D. Mixing always increases strength safely",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Some combinations can release toxic gases or become dangerous and ineffective."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 447,
+      "question": "Why follow chemical label re-entry precautions?",
+      "options": [
+        {
+          "text": "A. Labels apply only in transport",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect people and animals from exposure."
+        },
+        {
+          "text": "B. They determine incubation duration",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect people and animals from exposure."
+        },
+        {
+          "text": "C. They help protect people and animals from exposure",
+          "correct": true,
+          "feedback": "Well done! Correct answer: They help protect people and animals from exposure."
+        },
+        {
+          "text": "D. Re-entry times are optional",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is They help protect people and animals from exposure."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 448,
+      "question": "What is the purpose of a written cleaning schedule?",
+      "options": [
+        {
+          "text": "A. It assigns tasks and timing so cleaning is consistent and verifiable",
+          "correct": true,
+          "feedback": "Well done! Correct answer: It assigns tasks and timing so cleaning is consistent and verifiable."
+        },
+        {
+          "text": "B. It removes drinker cleaning",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns tasks and timing so cleaning is consistent and verifiable."
+        },
+        {
+          "text": "C. It guarantees zero pathogens",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns tasks and timing so cleaning is consistent and verifiable."
+        },
+        {
+          "text": "D. It replaces daily observation",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is It assigns tasks and timing so cleaning is consistent and verifiable."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 449,
+      "question": "Why keep tools used in sick-bird areas separate where possible?",
+      "options": [
+        {
+          "text": "A. Tool colour sets disinfectant strength",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce carrying contamination to healthy pens."
+        },
+        {
+          "text": "B. It prevents handwashing",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce carrying contamination to healthy pens."
+        },
+        {
+          "text": "C. Shared tools improve biosecurity",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is Separate tools reduce carrying contamination to healthy pens."
+        },
+        {
+          "text": "D. Separate tools reduce carrying contamination to healthy pens",
+          "correct": true,
+          "feedback": "Well done! Correct answer: Separate tools reduce carrying contamination to healthy pens."
+        }
+      ],
+      "part": 9
+    },
+    {
+      "number": 450,
+      "question": "Why review a biosecurity plan after a disease incident?",
+      "options": [
+        {
+          "text": "A. The event may reveal weaknesses that need correction",
+          "correct": true,
+          "feedback": "Well done! Correct answer: The event may reveal weaknesses that need correction."
+        },
+        {
+          "text": "B. One incident proves biosecurity perfect",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The event may reveal weaknesses that need correction."
+        },
+        {
+          "text": "C. It replaces veterinary advice",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The event may reveal weaknesses that need correction."
+        },
+        {
+          "text": "D. The plan should never change",
+          "correct": false,
+          "feedback": "Not quite. The correct answer is The event may reveal weaknesses that need correction."
+        }
+      ],
+      "part": 9
     }
   ]
 }
