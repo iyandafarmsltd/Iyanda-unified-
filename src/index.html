@@ -1323,6 +1323,32 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
   background-position:center;
  }
 }
+
+/* User-supplied farm field and local market photographs as full section themes */
+#farmCentre.section,#shop.section{
+ position:relative!important;isolation:isolate!important;overflow:hidden;
+ background-color:#183d2c!important;
+}
+#farmCentre.section::before,#shop.section::before{
+ content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;
+ background-size:cover;background-repeat:no-repeat;background-position:center;
+}
+#farmCentre.section::before{
+ background-image:linear-gradient(90deg,rgba(7,29,20,.48),rgba(7,29,20,.24)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg');
+}
+#shop.section::before{
+ background-image:linear-gradient(90deg,rgba(7,29,20,.50),rgba(7,29,20,.26)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market-theme.jpg');
+}
+#farmCentre>.wrap,#shop>.wrap{position:relative;z-index:1}
+#farmCentre .section-head,#shop .section-head{color:#fff!important}
+#farmCentre .section-head h2,#farmCentre .section-head p,#farmCentre .section-head .eyebrow,
+#shop .section-head h2,#shop .section-head p,#shop .section-head .eyebrow{color:#fff!important;text-shadow:0 1px 3px rgba(0,0,0,.28)}
+#farmCentre .pill{background:rgba(255,255,255,.90);color:#173d2b}
+@media(max-width:700px){
+ #farmCentre.section::before{background-image:linear-gradient(180deg,rgba(7,29,20,.42),rgba(7,29,20,.22)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg');background-position:center}
+ #shop.section::before{background-image:linear-gradient(180deg,rgba(7,29,20,.46),rgba(7,29,20,.24)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market-theme.jpg');background-position:center}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
