@@ -1271,28 +1271,45 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
  #farmCentre .iyanda-poultry-theme,#farmCentre .iyanda-crops-theme{min-height:250px;padding:20px;background-position:58% center}
 }
 
-/* Iyanda One: collaborative workspace and AI visual section themes */
-#ai.section{
- background-color:#092b27;
- background-image:linear-gradient(90deg,rgba(5,27,25,.91),rgba(5,27,25,.72)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.jpg');
- background-size:cover;background-position:center 50%;background-repeat:no-repeat;
- background-attachment:scroll;
+/* Iyanda One: high-visibility AI and Workspace background themes */
+#ai.section,#workspaceSection.section{
+ position:relative!important;isolation:isolate!important;overflow:hidden;
+ background-color:#102f28!important;background-image:none!important;
 }
-#ai .ai-intro h2,#ai .ai-intro p,#ai .ai-intro .eyebrow,#ai .ai-points,
-#ai .ai-intro .ai-points>div{color:#f5fff9}
-#ai .ai-intro p{ text-shadow:0 1px 3px rgba(0,0,0,.25)}
-#workspaceSection.section{
- background-color:#eaf1eb;
- background-image:linear-gradient(90deg,rgba(246,250,246,.90),rgba(246,250,246,.78)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration.jpg');
- background-size:cover;background-position:center 48%;background-repeat:no-repeat;
- background-attachment:scroll;
+#ai.section::before,#workspaceSection.section::before{
+ content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;
+ background-size:cover;background-repeat:no-repeat;background-position:center;
 }
-#ai .chat,#workspaceSection .workspace-shell{backdrop-filter:blur(3px)}
+#ai.section::before{
+ background-image:linear-gradient(90deg,rgba(4,25,23,.66),rgba(4,25,23,.30)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-wide.jpg');
+}
+#workspaceSection.section::before{
+ background-image:linear-gradient(90deg,rgba(247,250,246,.66),rgba(247,250,246,.42)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.jpg');
+}
+#ai .wrap,#workspaceSection .wrap{position:relative;z-index:1}
+#ai .ai-intro{
+ background:rgba(4,42,34,.60)!important;
+ border:1px solid rgba(215,173,72,.35);
+ backdrop-filter:blur(2px);
+}
+#ai .ai-intro h2,#ai .ai-intro p,#ai .ai-intro .eyebrow,
+#ai .ai-points,#ai .ai-intro .ai-points>div{color:#fff!important}
+#ai .chat{background:rgba(255,255,255,.94)}
+#workspaceSection .workspace-shell{
+ background:rgba(255,255,255,.78)!important;
+ border:1px solid rgba(255,255,255,.72);
+ backdrop-filter:blur(2px);
+}
 @media(max-width:700px){
- #ai.section{background-image:linear-gradient(180deg,rgba(5,27,25,.88),rgba(5,27,25,.78)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.jpg');background-position:center center}
- #workspaceSection.section{background-image:linear-gradient(180deg,rgba(246,250,246,.86),rgba(246,250,246,.84)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration.jpg');background-position:center center}
+ #ai.section::before{
+  background-image:linear-gradient(180deg,rgba(4,25,23,.66),rgba(4,25,23,.36)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-wide.jpg');
+  background-position:center;
+ }
+ #workspaceSection.section::before{
+  background-image:linear-gradient(180deg,rgba(247,250,246,.62),rgba(247,250,246,.46)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.jpg');
+  background-position:center;
+ }
 }
-
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
