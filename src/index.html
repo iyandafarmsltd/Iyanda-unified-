@@ -1247,14 +1247,29 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 }
 
 
-/* Iyanda One: uploaded livestock and aquaculture photo theme */
-#farmCentre{background-image:linear-gradient(180deg,rgba(248,251,245,.94),rgba(248,251,245,.96)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-farm.jpg');background-size:cover;background-position:center;background-attachment:scroll}
-#farmCentre .iyanda-farm-photo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:22px 0 26px}
-#farmCentre .iyanda-farm-photo-grid figure{margin:0;overflow:hidden;border-radius:20px;background:#fff;border:1px solid rgba(18,61,43,.12);box-shadow:0 12px 30px rgba(16,58,41,.12)}
-#farmCentre .iyanda-farm-photo-grid img{display:block;width:100%;height:clamp(210px,29vw,330px);object-fit:cover;object-position:center}
-#farmCentre .iyanda-farm-photo-grid figcaption{padding:12px 15px;color:#16452f;font-weight:700}
-@media(max-width:640px){#farmCentre .iyanda-farm-photo-grid{grid-template-columns:1fr;gap:14px}#farmCentre .iyanda-farm-photo-grid img{height:230px}}
-
+/* Iyanda One: visible photographic backgrounds for livestock and aquaculture */
+#farmCentre.section.alt{
+ background-color:#eaf0e6;
+ background-image:linear-gradient(90deg,rgba(248,251,245,.70),rgba(248,251,245,.52)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-farm.jpg');
+ background-size:cover;background-position:center;background-attachment:scroll;
+}
+#farmCentre .iyanda-aquaculture-theme{
+ min-height:300px;display:flex;align-items:flex-end;overflow:hidden;
+ margin:22px 0 28px;padding:clamp(22px,4vw,42px);border-radius:22px;
+ background-image:linear-gradient(90deg,rgba(7,35,27,.82),rgba(7,35,27,.18)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-fish-farming.jpg');
+ background-size:cover;background-position:center 48%;
+ box-shadow:0 14px 34px rgba(12,42,30,.18)
+}
+#farmCentre .iyanda-aquaculture-theme-copy{max-width:560px;color:#fff}
+#farmCentre .iyanda-aquaculture-theme-copy .eyebrow,
+#farmCentre .iyanda-aquaculture-theme-copy h3,
+#farmCentre .iyanda-aquaculture-theme-copy p{color:#fff}
+#farmCentre .iyanda-aquaculture-theme-copy h3{font-size:clamp(24px,3vw,34px);margin:8px 0}
+#farmCentre .iyanda-aquaculture-theme-copy p{max-width:480px;margin:0;line-height:1.6}
+@media(max-width:640px){
+ #farmCentre.section.alt{background-image:linear-gradient(180deg,rgba(248,251,245,.70),rgba(248,251,245,.58)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-farm.jpg');background-position:58% center}
+ #farmCentre .iyanda-aquaculture-theme{min-height:250px;background-position:58% center;padding:20px}
+}
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
@@ -1450,10 +1465,7 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 <section class="section alt" id="games" aria-hidden="true"><div class="wrap"><div class="eyebrow">Play and learn</div><h2>Iyanda mini challenge</h2><p class="muted">Answer a quick question and save your score when signed in.</p><div class="game-card" style="margin-top:20px"><span class="pill">Daily quiz</span><div class="game-question" id="gameQuestion">Which nutrient is most associated with healthy leafy green growth in plants?</div><div class="game-options" id="gameOptions"><button class="game-option" data-answer="0">Nitrogen</button><button class="game-option" data-answer="1">Sodium</button><button class="game-option" data-answer="2">Chlorine</button></div><p id="gameFeedback" class="muted" style="font-size:13px"></p><button id="nextGame" class="btn light small hidden">Try another question</button></div><p id="pointsSummary" class="muted" style="font-size:13px;margin-top:14px">Sign in to save your scores and view your reward balance.</p></div></section>
 <section class="section alt" id="farmCentre"><div class="wrap">
  <div class="section-head"><div><div class="eyebrow">Learn · grow · improve</div><h2>Iyanda Farming Knowledge Centre</h2><p class="muted" style="max-width:720px">Practical starting points for farmers, livestock keepers and agricultural businesses, adapted from the Iyanda Farm Foods &amp; Feed knowledge resources.</p></div><span class="pill">🌱 Farm learning</span></div>
- <div class="iyanda-farm-photo-grid" aria-label="Iyanda livestock and fish farming photographs">
-  <figure><img src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-farm.jpg" alt="Cattle and goats grazing in a fenced farm pasture with a farm attendant" loading="lazy" decoding="async"><figcaption>Livestock &amp; pasture farming</figcaption></figure>
-  <figure><img src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-fish-farming.jpg" alt="Farm worker harvesting catfish from a fish pond" loading="lazy" decoding="async"><figcaption>Fish farming &amp; aquaculture</figcaption></figure>
- </div>
+ <div class="iyanda-aquaculture-theme" role="img" aria-label="Fish farmer harvesting catfish from a fish pond"><div class="iyanda-aquaculture-theme-copy"><span class="eyebrow">Aquaculture · fish production</span><h3>Freshwater fish farming</h3><p>From pond management to careful harvesting, explore the fish-farming work behind quality farm produce.</p></div></div>
  <div class="contact-panel" style="margin:18px 0"><div class="eyebrow">Order notifications</div><h3>Your Iyanda alerts</h3><p class="muted">Payment confirmations, order updates and delivery notices for your account.</p><div id="customerAlerts" class="admin-list" aria-live="polite">Sign in to view your alerts.</div></div>
  <div class="feature-grid" style="margin-top:24px">
   <article class="feature"><div class="emoji">🐔</div><h3>Poultry management</h3><p>Keep housing clean, provide safe drinking water and suitable feed, maintain ventilation and observe birds daily. Follow a vaccination and health plan with a qualified poultry professional.</p></article>
