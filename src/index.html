@@ -1430,6 +1430,37 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
  }
 }
 
+
+/* Department heading photo strips — placed immediately above each department title. */
+#shop .section-head,#farmCentre .section-head,#customerHub .section-head,
+#deliveryInfo .section-head,#workspaceSection .section-head,#creativeStudioSection .section-head,
+#languageCentre .section-head,#dailyLifeSection .section-head{
+ position:relative;display:flex;flex-wrap:wrap;align-items:flex-end;
+}
+#shop .section-head::before,#farmCentre .section-head::before,#customerHub .section-head::before,
+#deliveryInfo .section-head::before,#workspaceSection .section-head::before,
+#creativeStudioSection .section-head::before,#languageCentre .section-head::before,
+#dailyLifeSection .section-head::before{
+ content:"";display:block;flex:0 0 100%;width:100%;height:clamp(118px,19vw,190px);
+ margin:0 0 18px;border-radius:18px;overflow:hidden;background-size:cover;
+ background-position:center 48%;background-repeat:no-repeat;
+ box-shadow:0 12px 28px rgba(0,0,0,.16);border:1px solid rgba(255,255,255,.34)
+}
+#shop .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")}
+#farmCentre .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg")}
+#customerHub .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-marketplace-theme.webp")}
+#deliveryInfo .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")}
+#workspaceSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+#creativeStudioSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.webp")}
+#languageCentre .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+#dailyLifeSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+@media(max-width:600px){
+ #shop .section-head::before,#farmCentre .section-head::before,#customerHub .section-head::before,
+ #deliveryInfo .section-head::before,#workspaceSection .section-head::before,
+ #creativeStudioSection .section-head::before,#languageCentre .section-head::before,
+ #dailyLifeSection .section-head::before{height:clamp(112px,36vw,155px);margin-bottom:14px;border-radius:14px;background-position:center}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
