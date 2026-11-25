@@ -1349,6 +1349,87 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
  #shop.section::before{background-image:linear-gradient(180deg,rgba(7,29,20,.46),rgba(7,29,20,.24)),url('https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market-theme.jpg');background-position:center}
 }
 
+
+/* Iyanda One photo-theme rollout — user supplied images; presentation-only styles. */
+#home .hero-photo{content:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-landscape.webp");}
+#home .hero-art{position:relative;isolation:isolate}
+#shop.section,#farmCentre.section,#customerHub.section,#deliveryInfo.section,#orderTracking.section,
+#workspaceSection.section,#creativeStudioSection.section,#languageCentre.section,#ai.section{
+ position:relative!important;isolation:isolate!important;overflow:hidden!important;
+ background-color:#123d2b!important;background-image:none!important;
+}
+#shop.section::before,#farmCentre.section::before,#customerHub.section::before,#deliveryInfo.section::before,
+#orderTracking.section::before,#workspaceSection.section::before,#creativeStudioSection.section::before,
+#languageCentre.section::before,#ai.section::before{
+ content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+ background-size:cover;background-position:center;background-repeat:no-repeat;
+}
+#shop.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.58),rgba(8,30,22,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")}
+#farmCentre.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.62),rgba(7,29,20,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-landscape.webp")}
+#customerHub.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.65),rgba(8,30,22,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-marketplace-theme.webp")}
+#deliveryInfo.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.62),rgba(8,30,22,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")}
+#orderTracking.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.68),rgba(8,30,22,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-trade-export.webp")}
+#workspaceSection.section::before{background-image:linear-gradient(100deg,rgba(7,31,43,.62),rgba(7,31,43,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+#creativeStudioSection.section::before{background-image:linear-gradient(100deg,rgba(29,18,42,.66),rgba(29,18,42,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.webp")}
+#languageCentre.section::before{background-image:linear-gradient(100deg,rgba(9,39,52,.64),rgba(9,39,52,.27)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+#ai.section::before{background-image:linear-gradient(100deg,rgba(4,25,23,.70),rgba(4,25,23,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.webp")}
+#shop>.wrap,#farmCentre>.wrap,#customerHub>.wrap,#deliveryInfo>.wrap,#orderTracking>.wrap,
+#workspaceSection>.wrap,#creativeStudioSection>.wrap,#languageCentre>.wrap,#ai>.wrap{
+ position:relative!important;z-index:1!important;
+}
+#shop .section-head,#farmCentre .section-head,#customerHub .section-head,#deliveryInfo .section-head,
+#orderTracking>.wrap>h2,#orderTracking>.wrap>.eyebrow,#orderTracking>.wrap>p,
+#workspaceSection .section-head,#creativeStudioSection .section-head,#languageCentre .section-head,
+#ai .ai-intro{color:#fff!important}
+#shop .section-head h2,#shop .section-head p,#shop .section-head .eyebrow,
+#farmCentre .section-head h2,#farmCentre .section-head p,#farmCentre .section-head .eyebrow,
+#customerHub .section-head h2,#customerHub .section-head p,#customerHub .section-head .eyebrow,
+#deliveryInfo h2,#deliveryInfo p,#deliveryInfo .eyebrow,
+#orderTracking h2,#orderTracking p,#orderTracking .eyebrow,
+#workspaceSection .section-head h2,#workspaceSection .section-head p,#workspaceSection .section-head .eyebrow,
+#creativeStudioSection .section-head h2,#creativeStudioSection .section-head p,#creativeStudioSection .section-head .eyebrow,
+#languageCentre .section-head h2,#languageCentre .section-head p,#languageCentre .section-head .eyebrow,
+#ai .ai-intro h2,#ai .ai-intro p,#ai .ai-intro .eyebrow,#ai .ai-points{
+ color:#fff!important;text-shadow:0 1px 3px rgba(0,0,0,.24);
+}
+#shop .product,#shop .contact-panel,#farmCentre .feature,#customerHub .feature,
+#deliveryInfo .feature,#orderTracking .contact-panel,#workspaceSection .workspace-shell,
+#creativeStudioSection .creative-panel,#languageCentre .language-panel{
+ background:rgba(255,255,255,.94)!important;
+ border:1px solid rgba(255,255,255,.72)!important;
+ box-shadow:0 12px 32px rgba(0,0,0,.14)!important;
+ backdrop-filter:blur(3px);
+}
+#workspaceSection .workspace-shell,#creativeStudioSection .creative-panel,#languageCentre .language-panel{color:#21372d}
+#ai .ai-intro{background:rgba(4,42,34,.68)!important;border:1px solid rgba(215,173,72,.4);border-radius:20px;padding:clamp(18px,3vw,30px)}
+#ai .chat{background:rgba(255,255,255,.96)!important}
+#farmCentre .iyanda-aquaculture-theme,#farmCentre .iyanda-poultry-theme,
+#farmCentre .iyanda-crops-theme,#farmCentre .iyanda-livestock-theme,#farmCentre .iyanda-ducks-theme{
+ min-height:280px;display:flex;align-items:flex-end;overflow:hidden;
+ margin:22px 0 26px;padding:clamp(22px,4vw,42px);border-radius:22px;
+ background-size:cover;background-position:center 48%;background-repeat:no-repeat;
+ box-shadow:0 14px 34px rgba(12,42,30,.22);
+}
+#farmCentre .iyanda-aquaculture-theme{background-image:linear-gradient(90deg,rgba(7,35,27,.78),rgba(7,35,27,.12)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-aquaculture-fish-farm.webp")!important}
+#farmCentre .iyanda-poultry-theme{background-image:linear-gradient(90deg,rgba(7,35,27,.78),rgba(7,35,27,.12)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-poultry-farm.webp")!important}
+#farmCentre .iyanda-crops-theme{background-image:linear-gradient(90deg,rgba(7,35,27,.78),rgba(7,35,27,.12)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-production.webp")!important}
+#farmCentre .iyanda-livestock-theme{background-image:linear-gradient(90deg,rgba(7,35,27,.78),rgba(7,35,27,.12)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-cattle.webp")!important}
+#farmCentre .iyanda-ducks-theme{background-image:linear-gradient(90deg,rgba(7,35,27,.78),rgba(7,35,27,.12)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-poultry-ducks.webp")!important}
+#farmCentre .iyanda-photo-theme-copy{max-width:560px;color:#fff}
+#farmCentre .iyanda-photo-theme-copy .eyebrow,#farmCentre .iyanda-photo-theme-copy h3,
+#farmCentre .iyanda-photo-theme-copy p{color:#fff!important;text-shadow:0 1px 3px rgba(0,0,0,.24)}
+@media(max-width:700px){
+ #shop.section::before{background-position:58% center}
+ #farmCentre.section::before{background-position:58% center}
+ #customerHub.section::before,#deliveryInfo.section::before,#orderTracking.section::before,
+ #workspaceSection.section::before,#creativeStudioSection.section::before,#languageCentre.section::before,
+ #ai.section::before{background-position:58% center}
+ #farmCentre .iyanda-aquaculture-theme,#farmCentre .iyanda-poultry-theme,
+ #farmCentre .iyanda-crops-theme,#farmCentre .iyanda-livestock-theme,#farmCentre .iyanda-ducks-theme{
+  min-height:245px;padding:20px;background-position:58% center;
+ }
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
@@ -1530,7 +1611,7 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 <button class="floating-iyanda-ai" id="floatingIyandaAI" type="button" aria-label="Open Iyanda AI"><span>✦</span> Ask Iyanda AI</button>
 
 <main class="iyanda-page-mode">
-<section class="hero iyanda-active-page" id="home" aria-hidden="false"><div class="wrap hero-inner"><div><div class="eyebrow">One platform · Many possibilities · Global ambition</div><h1>One connected world. Countless possibilities.</h1><p>Iyanda One brings commerce, intelligent assistance, everyday productivity, creativity, learning, services and opportunities into one connected digital ecosystem — built to serve people and businesses worldwide.</p><p>Founded by <a href="https://iyandafarmfoods.wordpress.com/iyanda-solomon-ayobami/" target="_blank" rel="noopener">Iyanda Solomon Ayobami</a>, Iyanda One is the digital platform of Iyanda Farm Foods &amp; Feed Ltd.</p><div class="hero-actions"><a class="btn gold" href="#/features">Explore all services ↗</a><a class="btn light" href="#/ai">Meet Iyanda AI</a><a class="btn outline" href="#/dailyLifeSection">Explore Daily Life</a><a class="btn light" href="#/shop">Visit the marketplace</a><a class="btn gold" href="https://iyandafarmfoods.wordpress.com/iyanda-solomon-ayobami/" target="_blank" rel="noopener">Meet the Founder: Iyanda Solomon Ayobami ↗</a></div></div><div class="hero-art"><span class="float-tag tag1">🌍 Connected globally</span><img class="hero-photo" src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-landscape.jpg" alt="Green cultivated farm rows at sunrise" fetchpriority="high" decoding="async"><span class="float-tag tag2">✦ Life · Business · Opportunity</span></div></div>
+<section class="hero iyanda-active-page" id="home" aria-hidden="false"><div class="wrap hero-inner"><div><div class="eyebrow">One platform · Many possibilities · Global ambition</div><h1>One connected world. Countless possibilities.</h1><p>Iyanda One brings commerce, intelligent assistance, everyday productivity, creativity, learning, services and opportunities into one connected digital ecosystem — built to serve people and businesses worldwide.</p><p>Founded by <a href="https://iyandafarmfoods.wordpress.com/iyanda-solomon-ayobami/" target="_blank" rel="noopener">Iyanda Solomon Ayobami</a>, Iyanda One is the digital platform of Iyanda Farm Foods &amp; Feed Ltd.</p><div class="hero-actions"><a class="btn gold" href="#/features">Explore all services ↗</a><a class="btn light" href="#/ai">Meet Iyanda AI</a><a class="btn outline" href="#/dailyLifeSection">Explore Daily Life</a><a class="btn light" href="#/shop">Visit the marketplace</a><a class="btn gold" href="https://iyandafarmfoods.wordpress.com/iyanda-solomon-ayobami/" target="_blank" rel="noopener">Meet the Founder: Iyanda Solomon Ayobami ↗</a></div></div><div class="hero-art"><span class="float-tag tag1">🌍 Connected globally</span><img class="hero-photo" src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-landscape.webp" alt="Green cultivated farm rows at sunrise" fetchpriority="high" decoding="async"><span class="float-tag tag2">✦ Life · Business · Opportunity</span></div></div>
 <div class="home-discovery"><div class="wrap"><div class="home-discovery-head"><div><h2>Explore the Iyanda world</h2><p>Useful services, everyday tools and opportunities—all in one place.</p></div></div><div class="home-discovery-grid">
 <a class="home-discovery-card" href="#/shop"><img src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/fresh-farm-produce-hero-photograph.png" alt="Fresh farm produce" loading="lazy" decoding="async"><span>Marketplace<small>Shop products and discover sellers</small></span></a>
 <a class="home-discovery-card" href="#/farm-centre"><img src="https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-livestock-and-poultry.png" alt="Iyanda livestock and poultry" loading="lazy" decoding="async"><span>Farm &amp; Trade<small>Explore farming and global trade</small></span></a>
@@ -1563,6 +1644,13 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
  </div>
  <div style="margin-top:22px;display:flex;gap:10px;flex-wrap:wrap"><a class="btn" href="#/farmCentre">Open Farm Centre</a><a class="btn light" href="#/farmGames">Explore Farm Games</a></div>
  <div class="contact-panel" style="margin-top:30px"><div class="eyebrow">Learn by playing</div><h3>Farm Games &amp; Challenges</h3><p class="muted">Explore interactive farm simulations, short knowledge tests and practical decision-making challenges in one dedicated games area.</p><a class="btn" href="#/farmGames">Explore all Farm Games ↗</a></div></div>
+
+ <div class="iyanda-livestock-theme" role="img" aria-label="Cattle and goats grazing on a livestock farm">
+  <div class="iyanda-photo-theme-copy"><span class="eyebrow">Livestock · animal husbandry</span><h3>Strong herds, sustainable farming</h3><p>Explore responsible cattle and small-ruminant care, good nutrition, clean water and healthy farm management.</p></div>
+ </div>
+ <div class="iyanda-ducks-theme" role="img" aria-label="Ducks and poultry roaming in a farm setting">
+  <div class="iyanda-photo-theme-copy"><span class="eyebrow">Free-range poultry · ducks</span><h3>More ways to grow</h3><p>Discover poultry diversity and practical approaches to raising healthy birds with attentive daily care.</p></div>
+ </div>
 </div></section><section class="section" id="customerHub"><div class="wrap">
  <div class="section-head"><div><div class="eyebrow">Orders · support · customer care</div><h2>Iyanda Customer Hub</h2><p class="muted" style="max-width:720px">Your customer services are available right here inside Iyanda One. Choose a service below without leaving the app.</p></div><span class="pill">🤝 Customer care</span></div>
  <div class="feature-grid" style="margin-top:24px">
