@@ -1612,6 +1612,58 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 .menu-department:nth-of-type(6) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")}
 .menu-ai-card{--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important}
 
+
+/* Visual correction: each department section receives its own relevant, non-repeated photo theme. */
+#shop.section,#farmCentre.section,#customerHub.section,#deliveryInfo.section,#orderTracking.section,
+#workspaceSection.section,#creativeStudioSection.section,#languageCentre.section,#ai.section,#dailyLifeSection.section{
+ position:relative!important;isolation:isolate!important;overflow:hidden!important;
+ background-color:#153d2d!important;background-image:none!important;
+}
+#shop.section::before,#farmCentre.section::before,#customerHub.section::before,#deliveryInfo.section::before,
+#orderTracking.section::before,#workspaceSection.section::before,#creativeStudioSection.section::before,
+#languageCentre.section::before,#ai.section::before,#dailyLifeSection.section::before{
+ content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+ background-size:cover;background-position:center;background-repeat:no-repeat;
+}
+#shop.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.58),rgba(7,29,20,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")}
+#farmCentre.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.60),rgba(7,29,20,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg")}
+#customerHub.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.62),rgba(7,29,20,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")}
+#deliveryInfo.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.62),rgba(7,29,20,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")}
+#orderTracking.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.62),rgba(7,29,20,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-agri-logistics.jpg")}
+#workspaceSection.section::before{background-image:linear-gradient(100deg,rgba(7,31,43,.62),rgba(7,31,43,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+#creativeStudioSection.section::before{background-image:linear-gradient(100deg,rgba(29,18,42,.62),rgba(29,18,42,.24)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-wide.webp")}
+#languageCentre.section::before{background-image:linear-gradient(100deg,rgba(9,39,52,.62),rgba(9,39,52,.24)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-trade-export.webp")}
+#ai.section::before{background-image:linear-gradient(100deg,rgba(4,25,23,.68),rgba(4,25,23,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")}
+#dailyLifeSection.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.58),rgba(7,29,20,.24)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-crop.jpg")}
+#shop>.wrap,#farmCentre>.wrap,#customerHub>.wrap,#deliveryInfo>.wrap,#orderTracking>.wrap,
+#workspaceSection>.wrap,#creativeStudioSection>.wrap,#languageCentre>.wrap,#ai>.wrap,#dailyLifeSection>.wrap{
+ position:relative!important;z-index:1!important;
+}
+#shop .section-head,#farmCentre .section-head,#customerHub .section-head,#deliveryInfo .section-head,
+#workspaceSection .section-head,#creativeStudioSection .section-head,#languageCentre .section-head,
+#dailyLifeSection .section-head,#ai .ai-intro{color:#fff!important}
+#shop .section-head h2,#shop .section-head p,#shop .section-head .eyebrow,
+#farmCentre .section-head h2,#farmCentre .section-head p,#farmCentre .section-head .eyebrow,
+#customerHub .section-head h2,#customerHub .section-head p,#customerHub .section-head .eyebrow,
+#deliveryInfo .section-head h2,#deliveryInfo .section-head p,#deliveryInfo .section-head .eyebrow,
+#workspaceSection .section-head h2,#workspaceSection .section-head p,#workspaceSection .section-head .eyebrow,
+#creativeStudioSection .section-head h2,#creativeStudioSection .section-head p,#creativeStudioSection .section-head .eyebrow,
+#languageCentre .section-head h2,#languageCentre .section-head p,#languageCentre .section-head .eyebrow,
+#dailyLifeSection .section-head h2,#dailyLifeSection .section-head p,#dailyLifeSection .section-head .eyebrow,
+#ai .ai-intro h2,#ai .ai-intro p,#ai .ai-intro .eyebrow{
+ color:#fff!important;text-shadow:0 1px 3px rgba(0,0,0,.32);
+}
+#customerHub .feature,#deliveryInfo .feature,#workspaceSection .workspace-shell,
+#creativeStudioSection .creative-panel,#languageCentre .language-panel,#dailyLifeSection .daily-shell{
+ background:rgba(255,255,255,.94)!important;border:1px solid rgba(255,255,255,.78)!important;
+ box-shadow:0 12px 32px rgba(0,0,0,.14)!important;backdrop-filter:blur(3px);
+}
+@media(max-width:700px){
+ #shop.section::before,#farmCentre.section::before,#customerHub.section::before,#deliveryInfo.section::before,
+ #orderTracking.section::before,#workspaceSection.section::before,#creativeStudioSection.section::before,
+ #languageCentre.section::before,#ai.section::before,#dailyLifeSection.section::before{background-position:58% center}
+}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
