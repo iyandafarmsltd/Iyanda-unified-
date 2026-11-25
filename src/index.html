@@ -1511,13 +1511,16 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 .menu-department:nth-of-type(6) .main-menu-card:nth-child(2),
 .menu-department:nth-of-type(6) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")}
 
-/* Explicit Iyanda AI menu image: keep it independent of nth-child ordering. */
+/* Iyanda AI: use the exact workstation image supplied by the founder. */
 .main-menu-card.menu-ai-card::before{
- background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.webp")!important;
- background-position:center 43%;
- background-size:cover;
- background-repeat:no-repeat;
+ background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important;
+ background-position:center 46%!important;background-size:cover!important;
 }
+.home-discovery-card.ai{
+ background-image:linear-gradient(0deg,rgba(4,35,22,.82),rgba(4,35,22,.04) 78%),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important;
+ background-size:cover!important;background-position:center 44%!important;background-repeat:no-repeat!important;
+}
+#features .feature-grid .feature:nth-child(2){--service-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")}
 /* The six public service directory cards become photo-led, while their existing links stay intact. */
 #features .feature-grid .feature{
  position:relative;isolation:isolate;overflow:hidden;padding-top:150px;
