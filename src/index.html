@@ -1558,6 +1558,60 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 }
 @media(prefers-reduced-motion:reduce){.main-menu-card,.main-menu-card:hover,#features .feature-grid .feature{transition:none;transform:none}}
 
+
+/* 2026-11-25 visual cleanup: unique image assignment per section and menu tile. */
+#shop.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.58),rgba(8,30,22,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")!important}
+#farmCentre.section::before{background-image:linear-gradient(100deg,rgba(7,29,20,.62),rgba(7,29,20,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg")!important}
+#customerHub.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.65),rgba(8,30,22,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-marketplace-theme.webp")!important}
+#deliveryInfo.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.62),rgba(8,30,22,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")!important}
+#orderTracking.section::before{background-image:linear-gradient(100deg,rgba(8,30,22,.68),rgba(8,30,22,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-trade-export.webp")!important}
+#workspaceSection.section::before{background-image:linear-gradient(100deg,rgba(7,31,43,.62),rgba(7,31,43,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")!important}
+#creativeStudioSection.section::before{background-image:linear-gradient(100deg,rgba(29,18,42,.66),rgba(29,18,42,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-wide.jpg")!important}
+#languageCentre.section::before{background-image:linear-gradient(100deg,rgba(9,39,52,.64),rgba(9,39,52,.27)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-production.webp")!important}
+#dailyLifeSection.section::before{background-image:linear-gradient(100deg,rgba(25,43,35,.66),rgba(25,43,35,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")!important}
+#ai.section::before{background-image:linear-gradient(100deg,rgba(4,25,23,.70),rgba(4,25,23,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important}
+@media(max-width:700px){
+ #shop.section::before{background-image:linear-gradient(180deg,rgba(8,30,22,.58),rgba(8,30,22,.25)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")!important}
+ #farmCentre.section::before{background-image:linear-gradient(180deg,rgba(7,29,20,.62),rgba(7,29,20,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-field-sunrise-theme.jpg")!important}
+ #customerHub.section::before{background-image:linear-gradient(180deg,rgba(8,30,22,.65),rgba(8,30,22,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-marketplace-theme.webp")!important}
+ #deliveryInfo.section::before{background-image:linear-gradient(180deg,rgba(8,30,22,.62),rgba(8,30,22,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")!important}
+ #orderTracking.section::before{background-image:linear-gradient(180deg,rgba(8,30,22,.68),rgba(8,30,22,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-trade-export.webp")!important}
+ #workspaceSection.section::before{background-image:linear-gradient(180deg,rgba(7,31,43,.62),rgba(7,31,43,.26)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")!important}
+ #creativeStudioSection.section::before{background-image:linear-gradient(180deg,rgba(29,18,42,.66),rgba(29,18,42,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-wide.jpg")!important}
+ #languageCentre.section::before{background-image:linear-gradient(180deg,rgba(9,39,52,.64),rgba(9,39,52,.27)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-production.webp")!important}
+ #dailyLifeSection.section::before{background-image:linear-gradient(180deg,rgba(25,43,35,.66),rgba(25,43,35,.28)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")!important}
+ #ai.section::before{background-image:linear-gradient(180deg,rgba(4,25,23,.70),rgba(4,25,23,.30)),url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important}
+}
+/* Department heading strips each get a distinct photograph. */
+#shop .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-fresh-market-display.jpg")!important}
+#farmCentre .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-farming.jpg")!important}
+#customerHub .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-crop.jpg")!important}
+#deliveryInfo .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-feed-distribution.jpg")!important}
+#workspaceSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")!important}
+#creativeStudioSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-crop.jpg")!important}
+#languageCentre .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-agri-logistics.jpg")!important}
+#dailyLifeSection .section-head::before{background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-poultry-duck-farm.jpg")!important}
+/* Menu tiles: one image per destination, never reuse a neighbouring tile's image. */
+.menu-department:nth-of-type(1) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-farm-landscape.webp")}
+.menu-department:nth-of-type(1) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market.webp")}
+.menu-department:nth-of-type(1) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-crop.jpg")}
+.menu-department:nth-of-type(2) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-production.webp")}
+.menu-department:nth-of-type(2) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-aquaculture-fish-farm.webp")}
+.menu-department:nth-of-type(2) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-global-trade-export.webp")}
+.menu-department:nth-of-type(3) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-marketplace-theme.webp")}
+.menu-department:nth-of-type(3) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-warehouse.webp")}
+.menu-department:nth-of-type(3) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-poultry-farm.jpg")}
+.menu-department:nth-of-type(4) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")}
+.menu-department:nth-of-type(4) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-poultry-duck-farm.jpg")}
+.menu-department:nth-of-type(4) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-workspace-collaboration.webp")}
+.menu-department:nth-of-type(5) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology-crop.jpg")}
+.menu-department:nth-of-type(5) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-crop-farming.jpg")}
+.menu-department:nth-of-type(5) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-local-produce-market-theme.jpg")}
+.menu-department:nth-of-type(6) .main-menu-card:nth-child(1){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-logistics-feed-distribution.jpg")}
+.menu-department:nth-of-type(6) .main-menu-card:nth-child(2){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-livestock-cattle.webp")}
+.menu-department:nth-of-type(6) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")}
+.menu-ai-card{--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-workstation.png")!important}
+
 </style>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#123d2b">
