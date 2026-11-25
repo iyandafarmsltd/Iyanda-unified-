@@ -1511,6 +1511,13 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
 .menu-department:nth-of-type(6) .main-menu-card:nth-child(2),
 .menu-department:nth-of-type(6) .main-menu-card:nth-child(3){--menu-photo:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-community-collaboration-wide.webp")}
 
+/* Explicit Iyanda AI menu image: keep it independent of nth-child ordering. */
+.main-menu-card.menu-ai-card::before{
+ background-image:url("https://iyandafarmfoods.wordpress.com/wp-content/uploads/2026/11/iyanda-ai-technology.webp")!important;
+ background-position:center 43%;
+ background-size:cover;
+ background-repeat:no-repeat;
+}
 /* The six public service directory cards become photo-led, while their existing links stay intact. */
 #features .feature-grid .feature{
  position:relative;isolation:isolate;overflow:hidden;padding-top:150px;
@@ -1699,7 +1706,7 @@ a[href]:not(.btn):not([aria-disabled="true"]):focus-visible {
    <details class="menu-department menu-department-accordion">
     <summary class="menu-department-summary"><div class="menu-department-heading"><span>✦</span><div><h3>AI &amp; Productivity</h3><p>Get help and organise your work</p></div></summary>
     <div class="menu-department-links">
-     <a class="main-menu-card" href="#/ai"><span class="menu-emoji">✦</span><span>Iyanda AI</span><small>Your intelligent assistant</small></a>
+     <a class="main-menu-card menu-ai-card" href="#/ai"><span class="menu-emoji">✦</span><span>Iyanda AI</span><small>Your intelligent assistant</small></a>
      <a class="main-menu-card" href="#/dailyLifeSection"><span class="menu-emoji">📅</span><span>Daily Life</span><small>Tasks, routines and planning</small></a>
      <a class="main-menu-card" href="#/workspaceSection"><span class="menu-emoji">📁</span><span>My Workspace</span><small>Files, documents and saved work</small></a>
     </div>
